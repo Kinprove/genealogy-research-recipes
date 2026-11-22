@@ -76,6 +76,14 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 
 - **S48:** Rutherford B. Hayes Presidential Library & Museums, [Green Creek Township Records (Sandusky Co. Ohio)](https://www.rbhayes.org/collection-items/local-government-records/green-creek-township-records-sandusky-co.-ohio/). Reviewed finding aid opened 2026-11-20. The administrative history describes township boards of education and the later county oversight. Inventory item 3 lists the 1840 enumeration for School District #2 under Loose papers. The inventory entry supplies the locator.
 
+- **S49:** Melanie, MyHeritage Blog, [How to Search for Your Family in West European Archives](https://blog.myheritage.com/2025/05/how-to-search-for-your-family-in-west-european-archives/), published 2025-05-24. Reviewed community article opened 2026-11-21. The author suggests looking for enrolment records at universities and secondary schools, especially when a student earned honours or awards. The article gives no evidence that enrolment records survive more often for prizewinners.
+
+- **S50:** Bénédicte Mouchard, Archives de Paris, [Finding aid for Collège Sainte-Barbe, Collège Rollin, Lycée Rollin and Lycée Jacques-Decour](https://archives.paris.fr/_depot_ad75/_depot_arko/ead/INV2031.pdf), June 2014. Reviewed PDF finding aid text read 2026-11-21. The title page gives the institution’s names by period. The scolarité inventory distinguishes entry and exit registers and attendance certificate stubs from the palmarès and prize distributions. D2T2 482–483 and D2T2 289 provide the 1909–1912 search route. The individual records were not inspected.
+
+- **S51:** University of Cambridge, edited by J. R. Tanner, [The Historical Register of the University of Cambridge to the year 1910](https://archive.org/stream/1910historicalreg00univuoft/1910historicalreg00univuoft_djvu.txt), Cambridge University Press, 1917. Reviewed digitized book text read 2026-11-21. The contents identify the University Prizes section, and the Harness Prize list gives winners by year and college.
+
+- **S52:** Cambridge University Library, [University Archives](https://www.libraries.cam.ac.uk/collections-and-archives/special-collections/university-archives). Reviewed university archive guide opened 2026-11-21. The Student records section identifies the matriculation series and distinguishes it from other records such as examination lists and student record cards.
+
 ## Credits
 
 - Tomsk State University, State Archives of Chernihiv Oblast, Electronic Library of Historical Documents and UkrFamily (S39–S42) — Histories, register and catalogue descriptions paraphrased with attribution (adapted)
@@ -108,3 +116,5 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - Melina Papadopoulos, Family Tree Magazine, cited as S37, and Plainfield-Guilford Township Public Library, cited as S38 — yearbook search advice paraphrased with attribution (adapted)
 - Naama Lanski and Daniella Levy and Aíne Lagan, MyHeritage Blog (S43, S47) — Search method and advice paraphrased with attribution (adapted)
 - Jewish Insider, Chicago History Museum, Scioto County Public Library and Rutherford B. Hayes Presidential Library & Museums (S44–S46, S48) — Reporting, guidance and catalogue descriptions paraphrased with attribution (adapted)
+- Melanie, MyHeritage Blog (S49) — Copyright of the rights holder, with the search advice paraphrased and attributed (adapted)
+- Archives de Paris, University of Cambridge and Cambridge University Library (S50–S52) — Rights retained by the respective holders where applicable, with catalogue locators and published section titles cited with attribution (adapted)

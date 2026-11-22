@@ -125,11 +125,29 @@ its read earlier that day. Videos were not re-read. No live Ancestry search was 
 
 - **S13:** [GeneaVlogger, Building FDR’s Family Tree](https://www.youtube.com/watch?v=3FJKJFw0Bjo). The speaker compares global and U.S. Find a Grave index entries. Captured presentation transcript read 2026-11-19.
 
-- **S14:** [Ancestry Support, Using the Card Catalog](https://redir.ancestry.help/hc/en-us/articles/53933305954579-Using-the-Card-Catalog). Documents title and keyword fields, associated terms, filters and searching a selected collection. Ancestry Support article read 2026-11-19.
+- **S14:** [Ancestry Support, Using the Card Catalog](https://redir.ancestry.help/hc/en-us/articles/53933305954579-Using-the-Card-Catalog). Documents title and keyword fields, associated terms, filters and searching a selected collection. Ancestry Support article read 2026-11-19. Ancestry Support article rechecked 2026-11-21 for title-fragment searches.
 
 - **S15:** Gena Philibert-Ortega, Family Tree Magazine, [Finding Female Ancestors: Common Brick Walls and How to Solve Them](https://familytreemagazine.com/female-ancestors/brick-walls-women-genealogy/). Community article read 2026-11-20. The author suggests filtering existing Ancestry results by place. The recipe adopts this advice for the historical-record results view documented in S16.
 
 - **S16:** [Ancestry Support, Refining Your Search to Improve Results](https://redir.ancestry.help/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results). Ancestry Support article read 2026-11-20. Documents filtering historical-record results by record location from the left side of the results page.
+
+- **S17:** Craig R. Scott, Just Genealogy, [Follow the Money - U.S. Treasury Records in the National Archives - JG0027](https://www.youtube.com/watch?v=AVHOwyG6F-o), published 2022-04-07. Supplied transcript excerpt read 2026-11-21. Scott describes a Kentucky pension ledger hit found by surname with the given name hidden under an ink blot. The opened YouTube page did not expose the demonstration or transcript. The entry and search results were not independently inspected.
+
+- **S18:** [Ancestry, U.S., Revolutionary War Pensioners, 1801–1815, 1818–1872](https://www.ancestry.com/search/collections/1116). Collection description and search form read 2026-11-21. Identifies the 1818–1872 T718 ledgers alongside the earlier M1786 roll, shows separate name fields and describes the paying agency as a possible entry field.
+
+- **S19:** Craig R. Scott, Just Genealogy, [The Appointment of Charles J. Knilans, Postmaster from the Genealogist point of view - JG0073](https://www.youtube.com/watch?v=D9UoUS5Zyi8), published 2022-05-20. Supplied transcript excerpts read 2026-11-21. Scott reports using `postmasters` in Title after `post office` missed. He describes recovering an entry for the Sharon, Walworth County, Wisconsin, office under a different indexed surname and attributes a letter in that reading to the adjacent entry. The opened YouTube page did not expose the demonstration or transcript. The image and account results were not independently inspected.
+
+- **S20:** [Ancestry, U.S., Appointments of U. S. Postmasters, 1832–1971](https://www.ancestry.com.au/search/collections/1932). Australian edition collection description and search form read 2026-11-21. Confirms the title, M841 citation, separate name and location controls, post office location in the index and state/county image browsing. No account search was run.
+
+- **S21:** [National Archives, Appointment of Postmasters, 1832–September 30, 1971](https://www.archives.gov/research/post-offices/postmasters-1832-1971.html). M841 descriptive guide read 2026-11-21. It describes finding an office by its state, historical county and office name and supplies the microfilm roll list.
+
+- **S22:** [FamilySearch Help Center, How do I get help reading handwriting while viewing records?](https://articles.familysearch.org/hc/en-us/articles/41601524428571-How-do-I-get-help-reading-handwriting-while-viewing-records). Handwriting guidance read 2026-11-21. It advises comparing hard-to-read letters with other writing in the same document. Scott's excerpt in S19 supplies the neighboring-row test.
+
+- **S23:** Craig R. Scott, Just Genealogy, [US Civil War Records: William A. Knilans and the Record and Pension Office Part I - JG0097](https://www.youtube.com/watch?v=ysc3ni3ovCc), published 2022-06-13. Supplied transcript excerpt read 2026-11-21. Scott describes browsing this collection because the general name search did not cover it in his demonstration. The opened YouTube page did not expose the demonstration or transcript. Current global search coverage and the signed-in browse controls were not tested.
+
+- **S24:** [National Archives, Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners). M686 row read 2026-11-21. Lists the 1889–1904 correspondence index and links to Ancestry collection 1268. The public Ancestry page opened without showing the collection controls.
+
+- **S25:** [FamilySearch, United States, Index to General Correspondence of the Pension Office, 1889–1904](https://www.familysearch.org/en/search/collection/1834308). Collection description and search form read 2026-11-21. Identifies the images as M686 and shows name search for the index. No account search was run.
 
 ## Credits
 
@@ -138,4 +156,5 @@ its read earlier that day. Videos were not re-read. No live Ancestry search was 
 - Andrew Koch, Family Tree Magazine, Searching the Newspaper.com Indexes at Ancestry, updated 2026-05-04, cited as S3 — All rights reserved; short attributed facts (adapted)
 - Community sources S7, S8, S9, S10 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Gena Philibert-Ortega, Family Tree Magazine, Finding Female Ancestors: Common Brick Walls and How to Solve Them, cited as S15 — Rights retained by their owners, with the advice paraphrased (adapted)
+- Craig R. Scott, Just Genealogy, episodes JG0027, JG0073 and JG0097, cited as S17, S19 and S23 — Rights retained by their owners, with the demonstrations paraphrased (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

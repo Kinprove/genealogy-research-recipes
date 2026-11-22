@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 107}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 113}
 ---
 
 # Recover a British Army service record from the First World War
@@ -28,7 +28,7 @@ For a woman reported to have served in the Women’s Army Auxiliary Corps, searc
 
 ## Recover service clues from parallel series
 
-For other ranks, check surviving service papers in WO 363 and pension-derived papers in WO 364. When the service packet is absent or thin, use the medal index card and its referenced medal roll for the service number, regiment and rank. Compare identifiers across these series before attaching a namesake to the service timeline [S2].
+For other ranks, search WO 363 for surviving service papers [S2]. Check WO 364 for pension-derived papers even if WO 363 returns no file, since the 1940 Blitz fire at the War Office record store destroyed many First World War soldiers’ service files [S2] [S5] [S6] [S7]. When the service packet is absent or thin, use the medal index card and its referenced medal roll for the service number, regiment and rank. Compare identifiers across these series before attaching a namesake to the service timeline [S2].
 
 ## Handoffs
 

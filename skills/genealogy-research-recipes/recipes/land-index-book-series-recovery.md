@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 180}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 197}
 ---
 
 # Recipe: Recover land instruments through indexes, book series and entry files
@@ -115,6 +115,8 @@ If the taxpayer is missing, check whether the roll uses the payer’s or estate 
 
 **Connecticut conveyances.** Search the town where the tract lay when the deed was recorded, following the town-level route from the available excerpt [S119 @2026-11-20]. Use that town's deed indexes and books. The town holds the original land records, and the FamilySearch Catalog lists filmed copies by town [S120 @2026-11-20]. A county-only search leaves the town's series unsearched.
 
+**Maryland parcel leads.** When a deed search misses a known historic site, use a modern tax map to locate a candidate parcel, following the advice from the available excerpt [S129 @2026-11-21]. Pan to the known locality in the Maryland Department of Planning's FINDER Online map and turn on Tax Maps or Parcel Boundaries [S132 @2026-11-21]. Use Parcel Boundaries in Baltimore City, which has parcel data but no state tax maps [S133 @2026-11-21]. Record the county, map and parcel numbers where shown. Verify the historic tract against deed descriptions or recorded plats before carrying a modern outline back in time [S133 @2026-11-21].
+
 **North Carolina grants.** Follow a hit in Ancestry’s North Carolina land-grant files [S112 @2026-11-18] to the matching grant in NC Land Grant Images and Data, which includes North Carolina grants for land now in Tennessee [S113 @2026-11-18]. Match the county and file number where available. Open the grant’s Virtual Shuck and look for the survey among the loose-document images even if you already have the envelope summary or patent-book page [S114 @2026-11-18].
 
 Record the county, file and image for the survey actually retrieved. The cross-site match reported in this livestream is known from the available excerpt and still needs confirmation against the grant and survey images [S111].
@@ -189,6 +191,8 @@ checks retrieval; it does not create independent evidence of the underlying tran
 
 Align the entry and page or sequence in parallel registers, translations and compiled indexes. In a Texas index, bracketed notes added by the compiler identify final grants [S24]. Attribute such a locator to the compiler, then retrieve the grant. The repeated entry supplies no independent confirmation of the original statement.
 
+**Maryland prior-deed references.** Start with the latest deed already in hand for the parcel and work backward, following the advice from the available excerpt [S129 @2026-11-21]. Read the “Being the same as” clause or its equivalent for the prior liber and page, then use that locator in the county's volumes in Maryland Land Records [S130 @2026-11-21]. Match the land description at each step. If the reference is missing or leads to a different tract, search the historical grantee index under the grantor's name to find the earlier acquisition [S130 @2026-11-21], [S131 @2026-11-21]. Preserve the locator as written and record any correction separately.
+
 ## 3. Resolve the book series instead of guessing from the number
 
 1. Read the index's instrument-type and series columns and the repository's book descriptions.
@@ -210,6 +214,12 @@ result, verified document extent and any conflict between the supplied and retri
 
 **Check:** A miss in deed volume 12 does not settle an index reference to an unspecified volume
 12. Record which series was tested and what makes an alternative series plausible.
+
+**Clay County, Minnesota.** In FamilySearch's *Minnesota, Clay County Land and Property Records, 1872-1947*, open **Browse All … Images** [S127 @2026-11-21]. Use the separate grantor and grantee index groups, deed books or tax deed book that fit the instrument and date [S128 @2026-11-21]. For a purchase, choose the grantee surname range and take the **Book/Page** reference to the matching deed-book volume [S126 @2026-11-21], [S128 @2026-11-21]. In your own viewer, use the printed page to confirm the location before citing the viewer image number [S126 @2026-11-21].
+
+**Frederick County, Maryland.** Use the *1792–1795* abstracts for libers WR 11 through WR 13, following the lead from the available excerpt [S134 @2026-11-21], [S135 @2026-11-21]. Keep `WR` in the book reference. It identifies the books kept under clerk William Ritchie, and 11, 12 and 13 are deed-book numbers [S135 @2026-11-21], [S136 @2026-11-21]. Take the full liber and page to the Frederick County Court Land Records, Maryland State Archives series C814, where WR 11, WR 12 and WR 13 are C814-41, C814-42 and C814-43 respectively [S136 @2026-11-21]. Search WR 13 itself for 1796 entries because the archive dates that book 1794–1796 [S136 @2026-11-21].
+
+**Belmont County, Ohio.** Follow the deed-abstract lead from the available excerpt to find the book and page [S137 @2026-11-21]. Choose by original volume and recording period. Heritage Books lists A–C (1800–1811), D–F (1811–1817), G (1817–1820) and H and J (1820–1824) [S138 @2026-11-21], with later books K and L (1824–1828) and M and N (1828–1830) [S139 @2026-11-21], [S140 @2026-11-21]. Use the Recorder's **Historic Indexes** when an abstract gives no lead, and take the volume and page to the Recorder's deed images [S141 @2026-11-21].
 
 **Highland County, Virginia.** Follow the presenter's advice from the available excerpt to find both the general deed indexes and the deed books [S121 @2026-11-20]. Look up FamilySearch Catalog entry 533216 for deed books dated 1847–1885 and general deed indexes dated 1847–1981 [S122 @2026-11-20]. In your own account, open the access notice for the index film and the deed film separately. Use a FamilySearch center or affiliate library if the notice allows that location [S123 @2026-11-20]. Affiliate libraries have access to only some restricted films [S124 @2026-11-20]. If the needed film is inaccessible or the index points beyond the listed deed-book years, match the index or book to a reel in the Library of Virginia's Highland County microfilm inventory [S125 @2026-11-20].
 

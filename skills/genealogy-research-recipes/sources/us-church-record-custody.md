@@ -90,6 +90,14 @@ The four-state negative ledger, the candidate register fields, the order of step
 
 - **S57:** Clark County Genealogical Society, [25 Years of “Trail Breakers”](https://www.ccgs-wa.org/wp-content/uploads/2021/12/v25n1.pdf), vol. 25, no. 2 (Winter 1998–99), p. 15. Library acquisitions entry read 2026-11-20. The entry identifies Peck and Andrus’s book, the Pratt transcription and the county-record section. The review concerns the 1997 edition.
 
+- **S58:** Family Tree Magazine / Sunny Jane Morton, [Exploring WorldCat.org – An Interview with Sunny Jane Morton | Best Websites](https://www.youtube.com/watch?v=r9QTO5CE0hg), published 2025-02-19. Supplied transcript passages read 2026-11-21. Morton discusses motherhouses of Catholic women’s religious congregations, meeting archivists and consulting collections. The watch page could not be opened. The archivists’ guide and the congregation’s archive page support the search route.
+
+- **S59:** Archivists for Congregations of Women Religious, [How Do I Find a Sister? Tips for Researchers](https://archivistsacwr.org/wp-content/uploads/2026/02/ACWR-Tips-for-Researchers.pdf). Congregation identification and contact steps read 2026-11-21. Steps 2 and 3 explain how to identify the specific congregation, find its archive and look for transfers to other repositories.
+
+- **S60:** Archivists for Congregations of Women Religious, [Women Religious History Sources: A Digital Guide to Repositories in North America](https://archivistsacwr.org/wp-content/uploads/2026/02/ACWR-Public-Archivist-Directory-2026.pdf), January 2026 edition. Foreword, indexes and selected entries read 2026-11-21. The directory lists communities with their initials and collection locations, including congregational records held by another institution. Confirm holdings and access with the repository.
+
+- **S61:** Sisters of Charity of Cincinnati Archives, [About](https://scarchives.omeka.net/about). Archive description and consultation instructions read 2026-11-21. The Sisters describe their own motherhouse archive and how to ask their archivist about consulting its collections.
+
 ## Credits
 
 - Family History Fanatics, Genealogy Research: How to Research When Records Have Scanty information (2020-12-05) — Short quotation for attribution and commentary; source rights retained by the presenter (quoted)
@@ -99,3 +107,4 @@ The four-state negative ledger, the candidate register fields, the order of step
 - Kinprove original procedural synthesis; presenter examples and custody routes are attributed inline and cited as S1-S18; archive, depository and canon-law facts from S19-S29, paraphrased — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
 - Donald Lines Jacobus as read by Craig R. Scott, and Craig R. Scott’s Just Genealogy episode (S48 and S55) — Research leads paraphrased with attribution, with source rights retained by the respective rights holders (adapted)
+- Sunny Jane Morton’s Family Tree Magazine interview (S58), the Archivists for Congregations of Women Religious guides (S59–S60) and the Sisters of Charity of Cincinnati Archives (S61) — Custody guidance paraphrased with attribution, with source rights retained by the respective rights holders (adapted)

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 182}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 199}
 ---
 
 # Read tax rolls as a liability-bounded annual series
@@ -45,6 +45,10 @@ Use MyHeritage's *England and Wales, Hearth Tax, 1662–1674* index for househol
 
 Use MyHeritage's Chester County septennial census index for name and residence leads from 1793 to 1863 [S50 @2026-11-18], [S52 @2026-11-18]. Consult the Chester County Archives' missing-township list for the target township and enumeration year before interpreting an index miss [S51 @2026-11-18], [S58 @2026-11-18].
 
+If MyHeritage's *Pennsylvania, Chester County Tax Registrations, 1715–1890* opens in the user's account, use it for the name, year, place and property size when indexed [S70 @2026-11-21]. Check the township and year against the county's tax series. Use the Chester County Archives' 18th-century tax indexes and 19th-century assessment guide as alternate routes [S71 @2026-11-21], [S72 @2026-11-21]. Keep this search separate from the septennial census and leave gaps open until the underlying rolls are inspected.
+
+For a deceased person in Finland, search the matching MyHeritage *Finland, Population Tax Lists* collection for 1890 [S78 @2026-11-21], 1900 [S79 @2026-11-21] or 1910 [S80 @2026-11-21]. Record the name, birth year, household relationships and residence when given [S77 @2026-11-21], [S78 @2026-11-21], [S79 @2026-11-21], [S80 @2026-11-21]. For intervening years or a missed index entry, look up the *henkikirjat* by province and year in the National Archives of Finland's Astia catalogue [S81 @2026-11-21]. Leave the interval open until the relevant annual rolls have been inspected.
+
 Search MyHeritage's *Hungary, Property Tax Census, 1828 From JewishGen* by given name, surname and place [S64 @2026-11-20]. Search with the 1828 Hungarian place names and record both town and county from the hit [S63 @2026-11-20], [S64 @2026-11-20].
 
 Leave residence unresolved after a miss in this index. JewishGen extracted entries identified as Jewish or judged likely to be Jewish from a census limited to people with taxable property [S65]. Use the town and county to locate the original return. For a JewishGen hit, use its microfilm and entry numbers to find the census line [S65].
@@ -54,6 +58,12 @@ For a place now in Highland County, Virginia, identify which county covered it b
 For Highland County's 1847–1850 personal-property tax lists, open FamilySearch Catalog entry 776302 (film 2024589, DGS 8707155) [S67 @2026-11-20]. Check **Film/Digital Notes** in the user's signed-in account and use the camera if it opens the images [S66 @2026-11-20], [S67 @2026-11-20]. If the images are unavailable, use Library of Virginia reel 177 for those years [S68 @2026-11-20].
 
 Treat 1850 as the end of that catalog entry and continue with the Library of Virginia's Highland County microfilm, starting with reel 574 for 1851–1854 [S67 @2026-11-20], [S68 @2026-11-20].
+
+### The 1787 Census of Virginia: index to tax lists
+
+Use volume 3 of *The 1787 Census of Virginia* as the index to the compiled personal-property tax lists [S82], [S83]. For a search in one county, look for its separately published edition, including under the county's historical Virginia name if it is now in West Virginia [S82], [S84]. Cite the underlying personal-property tax list and its actual year. Read the county edition's introduction and headings before assigning a year. The Monongalia County edition contains lists for 1786 and 1788 alongside a partial 1787 list [S84]. Keep each list in its own year in the series register.
+
+For Loudoun County, check the separately published editions for 1787, 1788 and 1789 [S82 @2026-11-21], [S85 @2026-11-21], [S98 @2026-11-21]. For the original rolls for all three years, use Library of Virginia reel 208 (1787–1797) [S86 @2026-11-21].
 
 ## 2. Record the liability scope for each year before interpreting
 
@@ -86,6 +96,20 @@ For a household missing from a hearth-tax payment list, test whether it was exem
 
 For a free Black woman on a colonial Virginia tithables list, check the law in force before assigning liability. The Just Genealogy presenter reports that free women of color could be liable in Virginia [S53]. The September 1668 act confirmed that Black women who had been freed remained liable [S56].
 
+### Virginia Specific Tax: identify the act before reading a payment
+
+Use the list heading, levy year and payment terms to identify the act. For a Virginia payment dated 1782, check whether it belongs with the November 1781 commodity levy, a land assessment or a personal-property assessment [S88], [S94], [S96], [S97]. The personal-property tax could also be paid with receipts for specified commodities, including tobacco, hemp or flour. The land tax had its own payment terms [S96]. Keep each payment with the assessment named in the record.
+
+Under the May 1779 act, check liability for men over 16 and enslaved women over 16. Look for a county court discharge from the levy or a tax commissioner's finding of incapacity for work due to age or infirmity [S88], [S89]. Read the payment alternatives per taxable person as 1 bushel of wheat, 2 bushels of Indian corn, rye or barley, 10 pecks of oats, 15 pounds of hemp, or transfer notes for 28 pounds of inspected tobacco. Check the deficiency account for shortfalls charged in money [S89].
+
+Separate the original schedule, March 1780 and the four succeeding years, from the date of a receipt [S89]. Keep the 1779 tax in scope after 31 December 1780. The October 1780 act expressly spared the specific taxes from the discontinuance [S88], [S90].
+
+For a late payment under the May 1779 act, check the extensions for delinquents to 1 October 1780 and then 1 March 1781 [S88], [S91], [S92]. In counties with grain still uncollected, check the further extension to 1 August 1781. The May 1781 act treated militia service as a cause of delayed collection [S87], [S93]. For a taxpayer away on military service, check the applicable act for an extension or exemption before treating the absence as a change in liability [S87], [S93].
+
+For the November 1781 levy, check the grain charge on free men over 21 and enslaved people over 16, with county court exemptions for age or infirmity. Check the bacon clause separately for free persons over 21 and enslaved people over 16 [S88], [S94]. The act calls for 2 pounds of bacon plus one of the listed grain options. Use ½ bushel of wheat, 1 bushel of Indian corn, rye or barley, or 5 pecks of oats. The optional coin rates were 3 shillings per bushel of wheat and 6 pence per pound of bacon [S94].
+
+Distinguish the November 1781 act's collection and reporting dates. Commissioners were to list deficiencies on 1 May 1782 and report to the executive by 1 June. May 1782 legislation then allowed payment in commodities before 1 September [S88], [S94], [S95]. Apply the separate extension to 1 April 1782 to sheriffs' and collectors' accounts for taxes already due for 1781 [S94]. Keep the levy and the payment or return date in separate fields.
+
 ## 3. Search each tax series separately
 
 Search the land series and the personal-property or poll series separately, and keep a separate register for each. A man without land can still appear on a personal-property list as a single taxable poll or because of a taxable item such as a horse or a watch [S5]. On Virginia lists, horses were taxed from 1782 and watches had their own columns in the 1850s.
@@ -97,6 +121,10 @@ On Virginia personal-property lists, enslaved people were taxed under the enslav
 In seventeenth- and eighteenth-century Virginia records, read "tithable" as a person who paid one of the taxes imposed by the General Assembly, or for whom someone else paid it, and do not assume each tithable paid personally; enslavers, for example, paid the taxes levied on their enslaved workers and servants [S26], [S34], [S35]. The tax was laid by law, so do not read a tithable as a voluntary church tithe-payer [S34].
 
 In Pennsylvania township lists, "inmates" are renters or lodgers on someone else's land who were taxed on personal property. They are not prisoners. Exact definitions vary by county and period [S4], so record which section of the list each entry is in. The same presenter says Pennsylvania taxed some personal property, such as cattle and horses, up to the 1840s. Livestock appears on county lists from the 1780s and 1790s. For later years, take livestock liability from the list's column headings or the assessment law for that year, not from the 1840s date [S4].
+
+For Chester County, compare the index's *Property holder type* with the original roll. Under the county archive's 18th-century categories, *Landholder* includes people holding land by lease or deed, *Inmate* denotes a landless contract laborer who was married or widowed, and *Nonresident Landowner* points to unoccupied land [S70], [S71]. Check for a lease before inferring deed ownership, and keep the parcel's location separate from the owner's residence. An early inmate can be listed among landholders, so check the roll's grouping before assigning a status [S71].
+
+For a Chester County entry labelled *Freeman*, check the year and heading before inferring age or marital status. The county guide defines the 18th-century category, from 1718, as single free men at least 21 who had been out of servitude or apprenticeship for at least six months [S70], [S71]. Check the roll for the category before interpreting a miss. Assessment of freemen was uneven, and later 19th-century rolls replaced *Freeman* and *Inmate* with broader divisions [S71], [S72].
 
 A land-tax entry in a person's own name shows that the person had a taxable interest in land there; it does not show that they lived there [S41]. An entry that names someone as agent, guardian or administrator records that capacity for another's land, not that person's own interest: record the capacity and keep the representative apart from the assessed owner, as in the McClure entries in section 5. Many rolls listed non-residents' land separately: Texas county rolls often carry a heading for property in the county owned by non-residents, and Mississippi kept non-resident land tax lists from 1844 to 1895 [S39], [S40]. Record which section an entry is in. For an owner who may not have lived there, test the alternatives Genealogy Tip of the Day names, land speculation, a former residence, inherited land and military bounty land, before you place them in the county [S41].
 
@@ -122,6 +150,12 @@ When a parish is known from church records but the tax archive uses unfamiliar a
 6. Apply the interval and competing-explanation checks below. The presenter describes annual farm tracking and warns that a child's appearance can reflect the applicable taxable age, while an adult's disappearance can reflect exemption from tax [S25]. Neither change dates a birth or death. A missing or uninspected roll remains a gap in the chain.
 
 **Return:** a parish/year-to-roll crosswalk with one row per candidate volume, the verified parish-section and farm locators, the heading reference, inspection status and linked annual observations. Keep an unresolved tax district or column meaning explicit. This route does not establish a universal Swedish tax age, exemption rule, complete household roster or survival of the requested years.
+
+### Stockholm mantalsregister: match the index to the annual roll
+
+Use MyHeritage's *Sweden, Stockholm Census Registers, 1800–1884* for a name and residence lead [S70 @2026-11-21], [S73 @2026-11-21]. For a man in 1909, use *Sweden, Stockholm Census Register of Males, 1909* and record the birth date when given along with the residence [S70 @2026-11-21], [S74 @2026-11-21]. For a female target in 1909, go directly to the annual roll. Find the property in the *mantalslängd*, series G 1 BA, through the Stockholm City Archives' guide to Riksarkivet's *Mantals- och kronotaxeringslängder Stockholm stad* search [S76 @2026-11-21].
+
+Keep the year on the household declaration (*mantalsuppgift*) separate from the year of the roll. Household heads submitted declarations to the tax authority, and Stockholm's Governor's Office used them to compile the following year's roll [S70], [S75]. Read the property entry for the household members actually listed, including people other than the declarant [S76]. Keep a person-index miss open until the roll and its inclusion rules have been checked.
 
 ## 5. Extract one row per entry
 
@@ -172,6 +206,8 @@ Test the candidates against other records:
 Bound a change by the last inspected roll on one side and the first inspected roll on the other [S18], [S20]. Two consecutive inspected annual rolls give an interval of about a year. Missing or uninspected years widen it. A Rhode Island-to-New York move was reportedly narrowed using monthly town lists [S20]. Use a month-level interval only if your series register identifies the two inspected monthly rolls and their actual dates.
 
 A son's first entry as a separate taxpayer is a bounded clue to his coming of age or to a separate household [S18]. It is not an exact birthday. If you estimate a birth year from a liability age, give a range and cite the specific rule you used [S8]. Without a documented age band, give no estimate. Same-surname men taxed next to an older householder are only candidate sons. Send them, and every identity question, to [evidence/proof judgment](evidence-proof-judgment.md).
+
+Before treating a county hit in *The 1787 Census of Virginia* as the only candidate, use volume 3 to collect same-name entries across the compilation [S83], [S87]. Compare their county, actual roll year and entry fields. Limit any uniqueness conclusion to the lists the compilation covers.
 
 Where a list names a head of household and counts the taxables under him, track the count as well as the names. On Virginia and North Carolina tithable lists, the person responsible for a family's tax was listed with the names or the number of the taxable persons for whom he paid, sons over 16 among them, while a free male of 21 or over was responsible for his own tax and should be listed separately [S45]. A rise in the head's count is therefore a second bounded clue that a son may have reached the lower taxable age, before his own entry appears [S43], [S45]. Record both changes as intervals against the age band documented for that place and year.
 

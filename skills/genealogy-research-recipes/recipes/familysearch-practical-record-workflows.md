@@ -22,6 +22,7 @@ router: {"section": "Record websites, libraries and maps", "group": "Record webs
 - The failure to prevent
 - Before starting
 - Nineteen workflows
+- Find user-contributed Memories
 - Find and maintain Family Tree profiles
 - Common working table
 - Hand off interpretation
@@ -117,6 +118,15 @@ When recording a Tree event, keep the church or cemetery in the place text and c
 4. Record indexed search, browsable images, digital books and physical holdings as separate access routes.
 5. Cross-check Images for relevant groups that have not reached the Catalog.
 
+In **Search > Records > Search by Place**, choose the standardized jurisdiction or select it
+through **Browse Places**. Use the place page’s Records form for a locality-wide index search,
+then check its image-only sets and Catalog entries separately when making the holdings inventory
+[S143 @2026-11-21], [S134 @2026-11-21].
+
+In a Catalog entry’s **Film/Digital Notes**, use the magnifying glass on the relevant film row to
+search its indexed entries. It can represent a partial index. If the search misses, browse the
+same film’s images when authorized and record the range examined [S143 @2026-11-21], [S144 @2026-11-21].
+
 For the first Catalog inventory, use **Place** and leave **Availability** set to **Any**.
 Switch to **Online** only for a digital-access pass, and check each result's access separately.
 The **Online** filter can include items whose images are restricted at home [S141 @2026-11-20].
@@ -196,9 +206,21 @@ When the period must stay fixed, keep the date range and rerun the search for th
 jurisdiction. Inspect each candidate group's actual creator and locality [S137 @2026-11-20],
 [S138 @2026-11-20].
 
+When a broad jurisdiction returns too many groups, choose a smaller place under
+**Refine Search > Places Within**. Under **Show Advanced Search**, try a keyword that describes
+the image group or use **Creator** or **Custodian** if the relevant organization is known.
+Add one filter at a time, click **Update** and compare with the broader results [S154 @2026-11-21].
+The same narrowing is recommended in the January 2024 interview, according to its transcript
+excerpt [S153† @2026-11-21].
+
 Use **Life Event** first when looking for an event across several kinds of records. A marriage may
 be in a volume described as parish records or vital records. Add **Record Type** after identifying
 the series you want [S139 @2026-11-20].
+
+For a known Historical Records collection, open **Browse All Images** when offered, or find
+**Browse Images** beside the title in **Browse all collections**. Follow the collection’s waypoints
+by the divisions it actually shows, such as place, volume or surname range. Save that path in the
+browsing log before opening the relevant group [S143 @2026-11-21], [S104 @2026-11-21].
 
 Scan thumbnails at the beginning and end of each volume for a title page, contents or index.
 Enlarge the opening pages and read the headings to tell entries from an index [S104 @2026-11-20].
@@ -316,6 +338,47 @@ index entry exists. Never construct a record ID for a line that has no index ent
 ### 8. Recover a person missed by indexed Records search
 
 **Trigger:** Records returns no useful match, although relevant material may exist.
+
+Before moving to Full Text, rerun indexed **Records** from the **Search** panel on the results
+page. Remove a field the index may omit and change one criterion per pass. Search separately under
+known maiden and married surnames. In **More Options**, try a documented spouse, parent or other
+person in the corresponding field. Run a separate pass without that relative so entries that omit
+the relationship remain in scope [S143 @2026-11-21], [S144 @2026-11-21], [S146 @2026-11-21],
+[S150 @2026-11-21].
+
+When the broad results contain too many unrelated matches, turn on **Show Exact Search** and
+check only the reliably indexed field you want to tighten. Run a companion search with that
+checkbox cleared where the spelling, place or year can vary [S143 @2026-11-21], [S147 @2026-11-21].
+For an event-specific pass, click the relevant filter above the results, such as **Birth** or
+**Residence**, and apply the documented place or year range [S148 @2026-11-21], [S149 @2026-11-21].
+
+If a citation supplies an indexing batch number or a film/DGS number, use the matching
+**Add Record Options** field in Records. Keep the **Batch Number** and
+**Film/Fiche/Image Group Number (DGS)** queries distinct. A batch identifies an index grouping.
+For a film-scoped search that misses, take the film number to the Catalog and check its image
+groups (workflow 5) [S143 @2026-11-21], [S150 @2026-11-21], [S151 @2026-11-21].
+
+**When the browser and connector disagree, use the same search surface.** Compare Records
+with Records or Full Text with Full Text. Wait for the browser results to finish updating and
+check the applied filters shown in the results [S149]. Confirm the collection, query spelling,
+dates, place and exact-match settings across the two routes. Use an accessible record known to be
+in the same collection and index as a control query. If the routes still disagree or one cannot
+apply a needed filter, log the coverage you verified on each route.
+
+For a plausible hit, use the paper icon to open the indexed details and citation. Use the camera
+icon when available to inspect the linked image for fields the index omits. Record which view
+supplied each fact [S143 @2026-11-21], [S144 @2026-11-21].
+
+If you still need to search a specific record set, use **Search > Records > Find a Collection**
+with its title or keywords. If the title is uncertain, use **Browse all collections** and filter
+by collection type, place and date. Open the collection page and use its own search fields, if
+offered, to keep the indexed query scoped to that collection [S143 @2026-11-21], [S144 @2026-11-21],
+[S135 @2026-11-21].
+
+Read the collection description and open **How to Use This Collection** for its Research Wiki
+guide. Check which series, places and years are included. Use any search tips and sample images
+provided to choose fields or browsing waypoints. Record the collection URL and its relevant
+coverage before interpreting a miss [S142 @2026-11-21], [S143 @2026-11-21], [S145 @2026-11-21].
 
 1. Open Full Text from the main Search menu, or from the full-text icon in a Catalog entry. It has been a standard search tool since 30 August 2025; it started in FamilySearch Labs in 2024, so older tutorials may show it there [S87], [S89].
 2. Start with a surname or distinctive documented name.
@@ -546,6 +609,13 @@ nothing. Sources: [history](https://www.youtube.com/watch?v=Q4YYIXVwfGE),
 [Tree history](https://www.youtube.com/watch?v=8Q4gESv4aJ0),
 [double extraction](https://www.youtube.com/watch?v=6K9ZF5aunMs). For exporting or importing a
 GEDCOM, see [Export research findings to a GEDCOM file without changing what they prove](gedcom-research-export.md).
+
+When an IGI clue is incomplete, search the indexed **International Genealogical Index (IGI)**
+collection in Records and follow its **Contributed International Genealogical Index** link to
+Genealogies for submissions. Log which route supplied the hit. For an indexed entry without an
+image, copy the microfilm number from the record details and search it in the Catalog. Record the
+underlying register and its locator if you can inspect it [S155 @2026-11-21], [S156 @2026-11-21],
+[S157 @2026-11-21].
 
 **Privacy gate:** <!-- privacy-gate: export, upload --> Exporting a GEDCOM from Ancestry or MyHeritage
 and uploading it to FamilySearch moves everyone in the tree, including anyone who may be living;
@@ -788,6 +858,24 @@ Recheck the pedigree afterwards. Sources: [Q&A #3](https://www.youtube.com/watch
 [editing](https://www.youtube.com/watch?v=iUYT0_CvbBU). Their controls date from 2017–2019, and the
 2018 dialog removed both parents at once, so check what the current control removes. They do not
 address loops created by merges.
+
+## Find user-contributed Memories
+
+For copies of family Bible registers, obituaries or other historical material shared by users, open
+**Memories > Find > Search Text**. Use terms likely to appear in a title or description, such as a
+deceased person’s surname or the documented name of a historic farm. For a photo, look for words
+in its metadata. For a text story, try the title or a term in its first 250 characters. A word
+visible only inside a photo or later in a story can escape Text search. Also open **Memories** on
+the relevant deceased person’s Tree profile to check linked items [S143 @2026-11-21],
+[S152 @2026-11-21].
+
+For a Bible register, compare the template `+surname +bible` with the plain terms `surname bible`
+in the user’s account before relying on the plus signs to require both words [S143].
+
+Use **Search Topic Tags** for a category such as **Bible record** or **funeral program**. Check the
+results before enabling **Search Only My Close Relatives**. If the aim is to search beyond the
+user’s own Tree lines, keep that filter off. Record the search mode, terms, filter state and
+Memory URL or linked PID for each lead [S143 @2026-11-21], [S152 @2026-11-21].
 
 ## Find and maintain Family Tree profiles
 

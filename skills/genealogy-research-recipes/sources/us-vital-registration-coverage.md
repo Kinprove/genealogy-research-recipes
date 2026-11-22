@@ -130,6 +130,24 @@ Not verified:
 
 - **S70:** Connecticut Department of Public Health, [1998 Connecticut Registration Report](https://portal.ct.gov/dph/-/media/departments-and-agencies/dph/vital-statistics/registration-reports/reports/rr1998pdf.pdf?hash=ED8D31164C596C6265911867A4DEFC4C&rev=fa4c08a3b7134def8b5427d443523e32). Introduction on the history of vital statistics read 2026-11-20. The statewide statistical series begins with the 1848 report. This dates aggregate reporting and leaves town entry coverage to the town series.
 
+- **S71:** Esther Shuman, MyHeritage Blog, [MyHeritage Adds 26 Million Historical Records in December 2023](https://blog.myheritage.com/2024/01/myheritage-adds-26-million-historical-records-in-december-2023/), 2024-01-01. Four collection announcements read 2026-11-21. The release describes Rock Island County births from 1872 through 1948, Idaho births from 1861 through 1940 with images, and Harris County births and deaths beginning in 1900 and 1902 respectively. The linked Rock Island and Harris County collection pages did not return readable descriptions, so their figures describe the release. S74 supplies the current Idaho catalogue description. Individual images and account access were not tested.
+
+- **S72:** Rock Island County Clerk, [Genealogy](https://www.rockislandcountyil.gov/294/Genealogy). Birth holdings and online index description read 2026-11-21. The clerk lists some births starting in 1872 and gives the online birth search its own date range.
+
+- **S73:** Illinois State Archives, [Local Governmental Records Holdings Database: Rock Island County](https://apps.ilsos.gov/isa/localGovRecordsSearch.do?county=ROCK+ISLAND). County birth holdings read 2026-11-21. The general and delayed birth indexes have different date ranges and accession numbers at the Western Illinois University regional depository.
+
+- **S74:** MyHeritage, [Idaho Births, 1861-1940](https://www.myheritage.com/research/collection-20735/idaho-births-1861-1940). Collection description and search fields read 2026-11-21. The catalogue gives the collection date span and describes the birth and parent information. Individual images were not checked.
+
+- **S75:** National Center for Health Statistics, [Where to Write for Vital Records: Idaho](https://www.cdc.gov/nchs/w2w/idaho.htm). Birth custody guidance read 2026-11-21. The county route covers 1907–1911, and the state office also holds some records filed before July 1911.
+
+- **S76:** Idaho Department of Health and Welfare, [About Birth Records](https://healthandwelfare.idaho.gov/services-programs/birth-marriage-death-records/about-birth-records). State birth certificate filing dates read 2026-11-21. The Bureau of Vital Records and Health Statistics gives July 1911 as the start of the state filing series it maintains.
+
+- **S77:** Houston Health Department, [About Us](https://www.houstonhealth.org/services/vital-statistics/about-us). Houston vital-record jurisdiction and coverage read 2026-11-21. The Bureau of Vital Statistics lists births from 1882 and deaths from 1874 within the incorporated city limits.
+
+- **S78:** MyHeritage Blog, [Tracing Your Roots: Using Immigration Records to Find Ancestral Origin](https://blog.myheritage.com/2025/01/tracing-your-roots-using-immigration-records-to-find-ancestral-origin-2/), 2025-01-20. Advice on pre-1800 immigrant research read 2026-11-21. The article suggests searching town and congregational records and published genealogies where municipal records may never have been kept.
+
+- **S79:** Library of Congress, [Church and Synagogue Records for Genealogy](https://guides.loc.gov/church-records-for-genealogy). Introduction read 2026-11-21. The guide describes using baptism and burial entries and other congregational records where civil registration is thin or absent.
+
 ## Credits
 
 - Kinprove original procedural synthesis; presenter examples are cited as S1 to S10 and S14 and dates were checked against named archival and vital-records authorities, including the Pennsylvania State Archives municipal records inventory — FSL-1.1-MIT (kinprove-original)
@@ -142,3 +160,5 @@ Not verified:
 - Esther Shuman, MyHeritage Blog collection roundup cited as S57 — Third-party article, paraphrased with attribution (adapted)
 - Donald Lines Jacobus as read by Craig R. Scott, and Craig R. Scott's presentation, cited as S62 and S67 — Third-party works, paraphrased with attribution (adapted)
 - Kinprove procedural synthesis from the catalogues, custodians and record-access authorities cited as S40 to S46, S48 to S56, S58 to S61, S63 to S66 and S68 to S70 — FSL-1.1-MIT (kinprove-original)
+- Esther Shuman and MyHeritage Blog, collection announcement and research advice cited as S71 and S78 — Third-party articles, paraphrased with attribution (adapted)
+- Kinprove procedural synthesis from the catalogues, custodians and research guide cited as S72 to S77 and S79 — FSL-1.1-MIT (kinprove-original)

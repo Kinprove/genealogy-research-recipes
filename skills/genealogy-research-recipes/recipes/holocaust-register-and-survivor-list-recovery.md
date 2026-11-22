@@ -11,7 +11,7 @@ handoff: ["holocaust-testimony-source-interpretation", "jewish-archival-list-tri
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 83}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 89}
 ---
 
 # Follow a Holocaust-era index hit to its register or list
@@ -21,6 +21,10 @@ Keep later fate open when the entry stops at residence, admission, transfer or d
 ## Resolve a wartime residence or imprisonment entry
 
 For an apparent Łódź ghetto resident, search the Łódź Ghetto List and record the apartment and any former address, occupation, birth, deportation or death detail. Carry the apartment into the original address-arranged register. The register stopped before it could record the fate of people deported to Auschwitz in the ghetto's last days [S1] [S2].
+
+For a possible death at Auschwitz in 1941–1943, search MyHeritage's *Auschwitz Death Certificates, 1941–1943*, listed as a free index [S10 @2026-11-21] [S11 @2026-11-21].
+
+Open the matching result and cite it as an index entry [S11] [S12]. Use the indexed name and death date to locate the underlying *Sterbebücher* certificate and record its number when found [S11] [S13]. Keep fate open after a miss because the surviving Death Books cover only recorded deaths of registered prisoners from 29 July 1941 through 31 December 1943 [S13].
 
 For Flossenbürg, record the prisoner number, nationality and admission date in the named list. Cite it as a postwar evidentiary compilation prepared for a war-crimes trial. Carry the result to USHMM RG 30.005M. Read any death date in the scope of deaths at the camp. If it is blank, investigate later records for transfer or fate [S1] [S3].
 

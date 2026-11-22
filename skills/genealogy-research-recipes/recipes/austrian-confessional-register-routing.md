@@ -10,8 +10,8 @@ guardrails: [{"id": "AUSTRIAN-CONFESSIONAL-REGISTER-ROUTING-01", "text": "**Do n
 handoff: ["archival-image-coverage-verification", "burial-evidence-packet", "catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historic-hungary-record-routing", "historical-place-name-resolution", "jewish-genealogy-conditional-hypotheses"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 54}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage Opava indexes"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 60}
 ---
 
 # Route an Austrian or Czech-lands vital event to the confessional register that recorded it
@@ -105,6 +105,16 @@ This step does not cover Burgenland, which was Hungarian until 1921. Burgenland 
 - **Ask the registry office for an open entry in a book it still holds.** Access periods run from the entry itself: 100 years for a birth, 75 for a marriage, 30 for a death. If the entry is past its period but later entries keep its book at the registry office, ask that matriční úřad to let you inspect it. Under § 25b of Act No. 301/2000 Coll., anyone may then inspect the entry and take extracts in the registrar's presence, with no proof of relationship; the fee is 50 Kč per entry [S17], [S18]. After those periods, anyone may also request a certificate under § 25b without proving relationship [S18]. Do not record the register as lost.
 - **Use the archive's own viewer.** The Moravian Provincial Archive in Brno (Moravský zemský archiv, MZA) publishes the registers it holds in Acta Publica, filterable by church originator (Roman Catholic, Evangelical and others) and by civil registry office [S12]. Search the regional archive's online registers before you write to a parish.
 - **Read the volume type.** Czech register catalogues sort volumes by event: N (narození, births or baptisms), O (oddaní, marriages), Z (zemřelí, deaths) [S20]. Acta Publica writes the types out in full (Narození, Oddaní, Zemřelí), gives each index its own field (index narození, index oddaní, index zemřelí) and uses the letters in its notes, as in N+O [S19]. Open the index before paging through a year book. Search a woman's surname with the feminine -ová ending as well as the masculine form [S15].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before you send MyHeritage names, dates or places of any subject or relative who may be living, answer the privacy gate in `SKILL.md`.
+
+**Search the MyHeritage Opava indexes by event type** [S38 @2026-11-21]. Search under the event locality. All three collections include some places now in Poland [S39 @2026-11-21], [S40 @2026-11-21], [S41 @2026-11-21].
+
+- **Births and baptisms, 1800–1920.** Search civil births and church baptisms. Compare the child's name, birth date and place, and parents' names where indexed [S39 @2026-11-21].
+- **Deaths, 1800–1950.** Search here for civil deaths and church burials [S40 @2026-11-21].
+- **Marriages, 1800–1945.** Search civil and church marriages. Compare both spouses' names and birth dates, the marriage date and place, and parents' names where indexed [S41 @2026-11-21].
+
+Use the event locality and date to locate the register even when the index search comes up empty. For volumes held by the Provincial Archive in Opava, search *Matriky* in Digitální badatelna and check whether the volume has scans [S42 @2026-11-21]. Verify any index hit in the register entry.
 
 These steps cover a portal's limits on automated reading, an entry that is still closed, how a volume is arranged, later notes on an entry, and sources outside or older than the registers.
 

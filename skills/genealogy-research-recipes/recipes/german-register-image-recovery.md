@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Germany", "order": 86}
+router: {"section": "Records by country and region", "group": "Germany", "order": 92}
 ---
 
 # Recover a German register entry through its locality, record offices and register version
@@ -159,6 +159,12 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
   **Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased person's search name and any birth or death dates and places entered go to MyHeritage. Clear the gate in `SKILL.md` before submitting the query and leave out living relatives' details.
 
   **Search MyHeritage's separate collection** *Germany, North Rhine-Westphalia, Deaths 1874-1938* (10864) for civil deaths in that span [S87 @2026-11-20], [S88 @2026-11-20]. Use a hit to identify the Standesamt, registration year and certificate number, then verify the date of death on the register image [S88 @2026-11-20], [S89 @2026-11-20]. Coverage is incomplete, so on a miss check the Landesarchiv's holdings for the office and year and browse the volume if available [S88 @2026-11-20].
+
+  **Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased spouses' names and any birth or marriage dates and places entered go to MyHeritage. Clear the gate in `SKILL.md` before submitting the query and leave out living relatives' details.
+
+  **Search MyHeritage's NRW marriage index** (*Germany, North Rhine-Westphalia Marriages, 1874-1899*, collection 20726) for civil marriages, including those in the Münster, Detmold and Arnsberg districts [S93 @2026-11-21], [S94 @2026-11-21], [S95 @2026-11-21]. Use a hit to find the register image and read the spouses' birth dates and places, the marriage date and place, and the names of parents and witnesses where recorded [S93 @2026-11-21], [S94 @2026-11-21]. If the name search misses or you cannot open the image, browse the Landesarchiv NRW's digitised marriage registers by Standesamt and year [S97 @2026-11-21].
+
+  **Set the search window by the locality's jurisdiction.** For a marriage before 1876 in a Prussian locality, include 1 October 1874 through 31 December 1875 in the Standesamt search. For a locality then in Lippe, use 1 January 1876 as the series start [S96].
 
 - **Baden 1810–1870: open the Standesbücher.** From 1 January 1810 the clergy, and the rabbis for Jewish communities, kept their registers as civil-status books and sent a second copy (Standesbuch) to the district office after each year's end. Mayors became civil registrars only from 1 February 1870. [S48]
 

@@ -91,6 +91,32 @@ No identification in the presenters' examples was independently checked.
 
 - **S58:** Stanford University Libraries, [California Historical Society Collection at Stanford: Introduction](https://guides.library.stanford.edu/CHSCollectionatStanford_guide), updated 2026-11-09. Institutional guide read 2026-11-20. Used: historical photograph holdings, catalogue and finding-aid entries released in stages, and the recommendation to check SearchWorks and Archival Collections at Stanford. Individual images and catalogue coverage were not verified.
 
+- **S59:** Family Tree Magazine / Sunny Jane Morton, [Historypin.org – An Interview with Sunny Jane Morton | Best Websites](https://www.youtube.com/watch?v=Ce7ndgYuQFo), published 2023-07-25. Reader-supplied transcript excerpts read 2026-11-21. Morton suggests taking a place from a census or directory into the map and using images for context. She reports finding Euclid Beach Park after widening her Euclid, Ohio, map view and says that entering San Francisco before Connecticut Street seemed to favor the local street. The excerpts also describe gaps in contributor coverage, pin descriptions and membership, and a separate collections search. Direct video retrieval failed. The account of street suggestions is specific to the 2023 interface and does not establish current ranking.
+
+- **S60:** Historypin, [Home](https://www.historypin.org/). Public landing page read 2026-11-21. Used: contributor-supplied place stories with photographs, sound and video, and links to public discovery pages. Counts and geographic coverage were not used.
+
+- **S61:** Historypin, [Pins map](https://www.historypin.org/pins/map). Public map page read 2026-11-21. Used: Search Location, Keywords, media type and date range, and the List and Map controls visible while signed out. Live map interaction and autocomplete ranking were not tested.
+
+- **S62:** Historypin, [Poco & Mom’s — view from parking](https://www.historypin.org/pins/118704/). Public pin page read 2026-11-21. Used: the signed-out contributor description and Collections links on an individual pin. The subject description is a contributor’s statement.
+
+- **S63:** Historypin, [Collections Discover](https://www.historypin.org/collections/). Public discovery page read 2026-11-21. Used: collection results and the separate Search Location and Keywords fields.
+
+- **S64:** Historypin, [Latino Food Establishments](https://www.historypin.org/collections/18379/). Public collection page read 2026-11-21. Used: linked pin results and the Explore Map section on an opened collection. The collection description’s other assertions were outside the check.
+
+- **S65:** Cleveland Metroparks, [Euclid Beach Park](https://www.clevelandmetroparks.com/parks/visit/parks/euclid-creek-reservation/euclid-beach-park). Park operator’s page read 2026-11-21. Used: the former Euclid Beach Amusement Park site is in Cleveland, Ohio. The page establishes the location independently of the interview and does not verify the historical Historypin result.
+
+- **S66:** Family Tree Magazine / Joe Bott, Dead Fred segment of [Find Your Ancestor’s Old World Town of Origin – An Interview with Rich Venezia](https://www.youtube.com/watch?v=OXWTvCrqkt0), published 2022-10-26. Reader-supplied transcript excerpt read 2026-11-21. Bott describes sending a print to a family only when he has it physically. Direct video retrieval failed. The archive’s current ownership and relationship conditions come from S67–S68.
+
+- **S67:** Dead Fred’s Genealogy Photo Archive, [Home](https://deadfred.com/). Public archive home page read 2026-11-21. Used: the free-original offer applies to photographs of direct ancestors owned by the archive.
+
+- **S68:** Dead Fred’s Genealogy Photo Archive, [Frequently Asked Questions](https://deadfred.com/faq_05.html). Public FAQ read 2026-11-21. Used: the archive describes its photo subjects as deceased, and FAQ 7 gives the archive-owned original request route, relationship explanation, mailing address, free original and retention of the digital copy and contact details. The FAQ leaves release of an outside contributor’s print to that contributor.
+
+- **S69:** Family Tree Magazine / Anna Rose Johnson, [Researching Your Family History at Your Local Library – An Interview with Anna Rose Johnson](https://www.youtube.com/watch?v=Us20XQMebGo), published 2023-02-06. Reader-supplied transcript excerpts read 2026-11-21. Johnson recommends asking staff about photograph collections kept off the public shelves and describes a library’s file drawer of unidentified houses. Direct video retrieval failed. The drawer is one reported case.
+
+- **S70:** Anna Rose Johnson, Family Tree Magazine, [Using Local Libraries for Genealogy Research](https://familytreemagazine.com/libraries-archives/using-local-libraries-for-genealogy-research/). Community article read 2026-11-21. Used: the author’s recommendation to ask a librarian in person where relevant photographs can be found.
+
+- **S71:** Shenandoah County Library Digital Archives, [Unidentified Home](https://archives.countylib.org/items/show/12305). Institutional item record read 2026-11-21. Used: an unidentified house photograph catalogued without an address in the Morrison Photographs series, George William Smith Collection, item 18-0507-0248. The entry demonstrates the filing clue and does not establish what other libraries hold off their shelves.
+
 ## Credits
 
 - University of Arizona Libraries, Utah Historical Society and J. Willard Marriott Library (S43–S45) — collection descriptions and attributed account paraphrased (adapted)
@@ -113,3 +139,5 @@ No identification in the presenters' examples was independently checked.
 - Presbyterian Historical Society and J. Paul Getty Museum, cited as S53 and S54 — institutional guidance paraphrased (adapted)
 - Nancy Hendrickson, Family Tree Magazine, and Stanford University Libraries, cited as S55, S56 and S58 — search recommendation and institutional guidance paraphrased (adapted)
 - Library of Congress, cited as S57 — institutional guide paraphrased (adapted)
+- Family Tree Magazine, Sunny Jane Morton, Joe Bott and Anna Rose Johnson, cited as S59, S66 and S69–S70 — source rights remain with the respective rights holders, with short attributed paraphrases (adapted)
+- Historypin, Cleveland Metroparks, Dead Fred’s Genealogy Photo Archive and Shenandoah County Library, cited as S60–S65, S67–S68 and S71 — source rights remain with the respective rights holders, with controls and catalogue descriptions paraphrased (adapted)

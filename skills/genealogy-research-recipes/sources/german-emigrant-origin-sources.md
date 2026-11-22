@@ -28,7 +28,7 @@ Forum participants (S7–S11) supply worked examples of home-side local records,
 
 Corrections to the lectures rest on outside authorities.
 
-## Sources S17–S23
+## Sources S17–S26
 
 - **S17:** German Influences in the United States Part 2, [German Influences in the United States Part 2](https://www.pricegen.com/german-influences-in-the-united-states/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
 - **S18:** U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals, [U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1870/1870-instructions.html), opened 2026-11-16. Read column 10 instructions: name the German state instead of Germany. The instruction does not prove enumerator compliance or a precise town.
@@ -41,8 +41,15 @@ Corrections to the lectures rest on outside authorities.
 
 - **S23:** [LEO-BW, Grupp, Max; Glatzle file card 11516](https://www.leo-bw.de/en/web/guest/detail/-/Detail/details/PERSON/labw_auswandererdatenbank/23748/Grupp+Max). Archive entry or guide read 2026-11-19. Ebnat residence, Amt Neresheim, North America, 1852. The index records one adult and four children and points to HStAS E 143 Bü 488 Qu 38. The original file was not inspected.
 
+- **S24:** Esther Shuman, MyHeritage Blog, [MyHeritage Adds 17.4 Million Historical Records in November 2023](https://blog.myheritage.com/2023/12/myheritage-adds-17-4-million-historical-records-in-november-2023/), published 2023-12-04. Rhineland collection announcement read 2026-09-19. Describes the index's 1814–1939 scope, typical entry fields and partnership with the State Archives of North Rhine-Westphalia.
+
+- **S25:** MyHeritage, [Germany, Rhineland Emigrants, 1814-1939](https://www.myheritage.com/research/collection/germany-rhineland-emigrants-1814-1939/colid-20679). Public collection description and search form read 2026-09-19. Confirms the stated scope and the name, birth year, origin, departure year and destination search fields on the signed-out page.
+
+- **S26:** Landesarchiv Nordrhein-Westfalen, Abteilung Rheinland, [Sachthematische Inventare Abteilung Rheinland](https://www.archive.nrw.de/sachthematische-inventare-abteilung-rheinland). Rhineland emigration inventory guide read 2026-09-19. Lists the offices covered by Findbuch 200.01.01, its 1816–1934 span and its surname-arranged PDFs. Explains the archival reference and where to look for the application.
+
 ## Credits
 
 - BYU Family History Library / Larry Jensen, Understanding German Records and Jurisdictions, lecture 2022-10-20 — All rights reserved; short attributed quotation (quoted)
 - Kinprove original procedural synthesis drawing on lectures S1-S6 and forum threads S7-S11 as cited, and on the archive and society pages S12-S15, paraphrased — FSL-1.1-MIT (kinprove-original)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Kinprove original Rhineland search guidance from the MyHeritage announcement and catalogue and the Landesarchiv NRW inventory guide — FSL-1.1-MIT (kinprove-original)

@@ -66,6 +66,12 @@ No individual identity or kinship conclusion from the examples is adopted.
 
 - **S40:** Institutet för språk och folkminnen (Sweden's Institute for Language and Folklore), [Efternamn](https://www.isof.se/namn/personnamn/lar-dig-mer-om-personnamn-i-sverige/efternamn), published 2020-08-26. Read the historical surname and patronymic sections on 2026-11-20. The institute describes how father-derived forms changed by generation and how *-son* forms also passed down as fixed surnames.
 
+- **S41:** Editors of Family Tree Magazine, [Q&A: How Do I Find My Swedish Ancestor’s Parish?](https://familytreemagazine.com/heritage/swedish/find-swedish-genealogy-parish/). Read the Q&A on 2026-11-21. Community source. The editors suggest searching church-record indexes by name and birth date when the parish is unknown and using a strong hit as a parish lead. The page header shows an update of 2026-02-11.
+
+- **S42:** ArkivDigital Help, [How do I search in the indexes?](https://arkivdigital.zendesk.com/hc/en-us/articles/23026916097053-How-do-I-search-in-the-indexes), dated 2024-12-08. Read the Index Search instructions on 2026-11-21. The guide describes entering search terms and trying combinations such as given name and birth date. No signed-in search was tested.
+
+- **S43:** Arkiv Digital AD AB, [Nya sökbara uppgifter i ArkivDigitals största register](https://www.mynewsdesk.com/se/arkiv_digital_ad_ab/pressreleases/nya-soekbara-uppgifter-i-arkivdigitals-stoersta-register-3310693), published 2024-03-14. Read the BiS fields and search instructions on 2026-11-21. The provider identifies BiS as an Index Search source and lists name, birth date, birthplace and residence as distinct fields. The release documents the fields without establishing coverage for a particular parish or year.
+
 ## Credits
 
 - Maureen Brady, Swedish Family History Research, BYU Family History Library — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
@@ -78,3 +84,6 @@ No individual identity or kinship conclusion from the examples is adopted.
 - MyHeritage Blog, Exploring the Diverse Origins of Middle Names — Third-party source with brief adapted paraphrase and attribution (adapted)
 - Aíne Lagan, Being Swedish: Traditions and Genealogy, MyHeritage Blog — Third-party source with brief adapted paraphrase and attribution (adapted)
 - Institutet för språk och folkminnen, Efternamn — Third-party source with brief adapted paraphrase and attribution (adapted)
+- Editors of Family Tree Magazine, Q&A: How Do I Find My Swedish Ancestor’s Parish? — Third-party source with brief adapted paraphrase and attribution (adapted)
+- ArkivDigital Help, How do I search in the indexes? — Third-party source with brief adapted paraphrase and attribution (adapted)
+- Arkiv Digital AD AB, Nya sökbara uppgifter i ArkivDigitals största register — Third-party source with brief adapted paraphrase and attribution (adapted)

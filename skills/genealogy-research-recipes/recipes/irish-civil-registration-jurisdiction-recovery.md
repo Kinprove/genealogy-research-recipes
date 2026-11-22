@@ -10,8 +10,8 @@ guardrails: [{"id": "IRISH-CIVIL-REGISTRATION-JURISDICTION-RECOVERY-01", "text":
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 99}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 105}
 ---
 
 # Recover an Irish civil-registration certificate and its jurisdiction chain
@@ -25,6 +25,14 @@ Use this recipe when you have an Irish civil-registration index entry, or a town
 - requesting registers that were lost in 1922
 
 To select a Catholic parish and open its register images, use [Irish Catholic parish image recovery](irish-catholic-parish-image-recovery.md). For the general warning that a district or union is not the town of the same name, see [FamilySearch practical workflows § 1](familysearch-practical-record-workflows.md). For identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
+
+## Contents
+
+- 1\. Build the jurisdiction table before searching
+- 2\. Identify the registration district
+- 3\. Carry the index locator to the certificate
+- 4\. Check where non-Catholic registers survive before choosing a route
+- 5\. Close with a jurisdiction-and-locator packet
 
 ## 1. Build the jurisdiction table before searching
 
@@ -42,6 +50,10 @@ The registration district is the key field for a civil search. The district name
 
 - **From a civil-registration index entry.** Search IrishGenealogy.ie first. It is free and needs no registration. It covers the whole island to the end of 1921 and the Republic only from 1922: births 1864–1925, marriages 1845–1950 (Catholic marriages from 1864) and deaths 1864–1975, with one more year added each spring. Most index entries open the register image free; deaths before 1871 are index only. [S8] Findmypast, Ancestry and FamilySearch also carry the indexes. If one site returns no hit, search the others before treating the index as silent.
 - **From the event's townland or parish.** Use a townland database or a genealogical atlas. Brian Mitchell's *A New Genealogical Atlas of Ireland* (2nd edition) maps poor law unions alongside civil parishes, Catholic parishes and baronies. Either route requires a supported townland or parish first. [S1]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Answer the privacy gate in `SKILL.md` before sending the record subject’s name, event year or place to MyHeritage.
+
+**MyHeritage birth and death indexes.** Check the event year and jurisdiction first. MyHeritage’s *Ireland Births, 1864–1958* and *Ireland Deaths, 1864–1958* cover all 32 counties from 1864 through 1921 and only the Republic of Ireland from 1922 through 1958. [S27 @2026-11-21] [S28 @2026-11-21] [S29 @2026-11-21] Within those bounds, search the matching MyHeritage index by name, event year and place if IrishGenealogy.ie yields no hit or if a Republic birth falls beyond its public birth range.
 
 Carry the registration district from an index hit to the register search, along with name, year and event type. In Johnson’s 1871 example, Kilrush was the district that led from the Findmypast index to the IrishGenealogy register image [S1]. Transcribe the residence from the entry under its own field.
 

@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "irish-civil-registration-jurisdiction-reco
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 104}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 110}
 ---
 
 # Search, retrieve and read the Irish 1901, 1911 and 1926 census returns
@@ -121,6 +121,8 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 - **Narrow a common surname with independent identifiers.** A search of the 1911 returns produced over 4,500 McGoverns, about 2,000 of them in Cavan [S11 @2026-11-19]. Compare townland, relatives, religion, occupation and birthplace before attaching a household to a same-named person.
 - **Link 1901 and 1911 as a pair.** Accept a match only when several of these agree: townland or street, children's forenames with ages rising by about ten, religion, county of birth, occupation, and B1 house details. A mismatch in religion or birthplace county is grounds to keep searching, not to reconcile [S7 @2026-11-19]. Record a different occupation in 1911 as a dated change, not a mismatch: a head can change work or retire in ten years.
 - **Cite the place chain.** Record year, county, DED, poor law union, townland or street, and house number. One published citation gives the townland, DED, poor law union, county and household number [S15 @2026-11-19]. On the new NAI site each person has a stable record URL, but households have no URL of their own, and image links no longer expire [S27 @2026-11-19]. Cite a person's record URL and the image links.
+
+**Follow a MyHeritage household into 1911.** From a 1901 MyHeritage hit, search its [1911 Ireland Census](https://www.myheritage.com/research/collection-10198/1911-ireland-census) for the same household and apply the matching criteria above [S53 @2026-11-21], [S54 @2026-11-21]. MyHeritage credits NAI for the 1911 index and images [S54 @2026-11-21]. Count a MyHeritage result and the matching NAI return as a single 1911 return.
 
 ## 9. Use the 1926 return under its own questions
 

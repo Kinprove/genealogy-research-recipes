@@ -68,8 +68,14 @@ The Covenanter and Cromwellian-era gaps and "clandestine" marriage entries are n
 
 - **S45:** Scottish Government Citizen Space, [Registration services: Fees review](https://consult.gov.scot/national-records-of-scotland/registration-services-fees-review/). Consultation dates and proposed charges read 2026-11-19.
 
+- **S46:** Melina Papadopoulos, Family Tree Magazine, [MyHeritage for Free: 10 Tips for Using It Without a Subscription](https://familytreemagazine.com/websites/myheritage-for-free/), updated 2026-08-17. Community article. Free-collection recommendations read 2026-11-21. Papadopoulos suggests searching and opening entries in the selected Scottish births and baptisms collection without a paid subscription.
+
+- **S47:** MyHeritage, [Scotland, Selected Births & Baptisms, c. 1640 - c. 1860](https://www.myheritage.com/research/collection-10321/scotland-selected-births-baptisms-c-1640-c-1860). Public collection catalogue page. Collection title, Free label and scope description read 2026-11-21 from the signed-out collection page. The description identifies selected Church of Scotland kirk-session, other Presbyterian and Quaker records, with parish and event details among the possible fields.
+
 ## Credits
 
+- Melina Papadopoulos, Family Tree Magazine (S46) — Third-party content, rights retained by the owner, with an attributed paraphrase (adapted)
+- MyHeritage (S47) — Third-party collection description, rights retained by the owner, with an attributed paraphrase (adapted)
 - Scottish Government Citizen Space (S45) — Registration services: Fees review, paraphrased with attribution (adapted)
 - Scotland’s People (S44) — Statutory register of births, paraphrased with attribution (adapted)
 - Scotland’s People (S43) — Records for Cairnie, paraphrased with attribution (adapted)

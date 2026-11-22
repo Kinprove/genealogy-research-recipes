@@ -229,6 +229,10 @@ The rules drawn from these sources are authored synthesis: looking for a convert
 
 - **S191:** Исторический архив Омской области, [Метрические книги православных церквей Омской епархии](https://iaoo.ru/files/books/pdf/metr_knigi_1.pdf), opened 2026-11-19. The guide lists marriage inquiries for 1834–1845 in f. 16 op. 9 d. 1, leaves 1–157.
 
+- **S192:** David Ridd, MyHeritage Blog, [House of Romanov: Russian Royal Lineage Uncovered](https://blog.myheritage.com/2025/10/house-of-romanov-russian-royal-lineage-uncovered/), 9 October 2025, opened 2026-11-21. In step 2, Ridd suggests looking for godparents and witnesses when investigating possible connections to noble families. The post gives no data on how often those participants were nobles or officials.
+- **S193:** А. В. Спичак, [Эволюция оформления метрических книг в Тобольской епархии в XVIII — начале XX веков](https://vestnik.susu.ru/humanities/article/download/5766/4994), *Вестник ЮУрГУ. Серия «Социально-гуманитарные науки»*, 16(2), 2016, opened 2026-11-21, pp. 58–59. The study describes the columns for the names and rank of baptismal sponsors, marriage guarantors and optional witness signatures in the Tobolsk registers.
+- **S194:** Государственный архив Воронежской области, [Генеалогические запросы](https://arsvo.ru/arhivnye_uchrezhdeniya/kuvo_gavo/uslugi_gavo/genealogicheskie-zaprosy/), opened 2026-11-21. The archive describes noble genealogical books in the records of the provincial nobility and service lists in the records of the institutions where officials served. Used for choosing the next record series from a stated title or office.
+
 ## Credits
 
 - Ural genealogy forum thread on spiritual kinship and marriage questions — Forum post, copyright of its authors; short quotation of record formulae (adapted)
@@ -246,3 +250,4 @@ The rules drawn from these sources are authored synthesis: looking for a convert
 - The Kuban forum post, the Археограф and Азбука веры pages, the FamilySearch collection description, the Teletype glossary and the legalacts.ru copy of the Rosarkhiv letter cited as S166, S170, S171, S178, S180, S184, S185 and S189 — Copyright of their authors and publishers, or official text; paraphrase and short quotation (adapted)
 - И. Бердников's 1895 study as reproduced on Азбука веры, cited as S182 — Public domain; paraphrase (adapted)
 - Kinprove/genealogy-research-recipes issue #328, posted by `lazyants`, cited as S164 — Reported reading examples; rights to underlying records not independently established; short quotations of names and record formulae (adapted)
+- David Ridd’s MyHeritage Blog post, A. V. Spichak’s study and the Voronezh archive’s genealogy guide, cited as S192–S194 — Copyright retained by the respective rights holders. Procedural paraphrase (adapted)

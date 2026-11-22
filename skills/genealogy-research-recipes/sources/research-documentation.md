@@ -168,6 +168,66 @@ are used.
   <https://www.ancestry.com/c/discover/education/fold3/>.
   Publisher's event description read 2026-11-20. The description identifies conflict-based
   organization for military records.
+- S40. (B40) Sunny Jane Morton, "Scraps of History: Scrapbooking Family History", Family Tree
+  Magazine, last updated 2026-10-27,
+  <https://familytreemagazine.com/projects/scraps-of-history-scrapbooking-family-history/>.
+  Community article read 2026-11-21. Morton describes Irene Miller building an illustrated
+  timeline with record images, gravestone photos and copies of printed sources. Morton suggests
+  filling gaps found while drafting and gives Cindy L. Hearrell's example of asking living
+  relatives about missing details. The recipe applies the project's citation and contact rules.
+- S41. (B41) MyHeritage Blog, "Top 8 Traditional Middle Names to Help Narrow Your Search",
+  2024-10-14, <https://blog.myheritage.com/2024/10/top-traditional-middle-names-to-help-narrow-your-search/>.
+  Community article read 2026-11-21. The blog suggests comparing full names, sources and dates
+  across records, and searching middle names and nicknames in place of first names. The recipe
+  uses dated forms to guide searches and checks identity against the records.
+- S42. (B42) MyHeritage Blog, "Tracing Your Roots: Using Immigration Records to Find Ancestral
+  Origin", 2025-01-20,
+  <https://blog.myheritage.com/2025/01/tracing-your-roots-using-immigration-records-to-find-ancestral-origin-2/>.
+  Community article read 2026-11-21. The blog suggests retaining partial notes and asking a
+  genealogy forum or social media group for help with hard-to-read immigration entries. The
+  recipe applies the project's disclosure and evidence rules to that advice.
+- S43. (B43) Elizabeth Shown Mills, "Framing a Research Objective", Evidence Explained,
+  <https://www.evidenceexplained.com/quicktips/framing-research-objective>.
+  Author's article read 2026-11-22. Used for testing a compound family tradition as separate,
+  conditional questions. The article gives a framing example, with no finding about the family.
+- S44. (B44) Cari A. Taplin, "Research Plogs: Final Thoughts", Genealogy Pants, 2023-10-25,
+  <https://genealogypants.com/2023/10/25/research-plogs-final-thoughts/>.
+  Author's article read 2026-11-22. Used for rechecking the starting evidence and selecting a
+  small first batch of searches before revising the plan as findings come in. This is the
+  author's practice, with no required number of searches per round.
+- S45. (B45) Nicole Elder Dyer, "Prioritizing Genealogy Research Plans", Family Locket video,
+  2024-06-12, <https://www.youtube.com/watch?v=m-6uDd0p5iI>.
+  Saved transcript read 2026-11-22. The author's John West example starts with originals
+  known through derivatives and documents in hand that still need transcription. It also
+  shows deferring some tasks to a later phase. Used as a planning example.
+- S46. (B46) Craig Scott, "Genealogy Standards Standards for Data Collection - Standard 26 -
+  Content and Comments - JG0314", Just Genealogy video, 2023-06-17,
+  <https://www.youtube.com/watch?v=UPt89GWgMyQ>.
+  Saved transcript read 2026-11-22. Used for written labels and a legend when notes use
+  colour. The recipe applies that distinction when a researcher copies or prints a row.
+- S47. (B47) Family Locket, "Research Log to Timeline Automation in Airtable", video,
+  <https://www.youtube.com/watch?v=08w71-ECgCQ>.
+  Saved transcript read 2026-11-22. One newspaper item supplies a notice date, publication date
+  and scheduled hearing date. The presenter also describes a repeat action creating another row.
+  Used for distinguishing separate dated statements from duplicate rows, without relying on
+  current automation behaviour or assuming the hearing took place.
+- S48. (B48) Nicole Elder Dyer, "From Spreadsheet to Research Report: Using Claude's Custom Skills
+  for Genealogy", Family Locket, 2026-02-21, author correction added 2026-02-25,
+  <https://familylocket.com/from-spreadsheet-to-research-report-using-claudes-custom-skills-for-genealogy/>.
+  Author's article and correction read 2026-11-22. The draft kept 20 November 1814 as Baldy Dyer's
+  death date in the objective. Its findings give that as the enlistment date and report his death
+  in February 1815. Used as an example of a stale identifier left in a draft. The recorded dates
+  are reported by the author and the underlying military record was not examined.
+- S49. (B49) Family Locket, "What to Include in Your Research Report: Every Search or Just Key
+  Findings?", video, 2025-10-30, <https://www.youtube.com/watch?v=KWk3yiFrEL8>.
+  Saved transcript read 2026-11-22. Used for retaining the searches behind a conclusion or change
+  in approach, placing relevant search details in footnotes, and reporting both the use of a
+  derivative and the search for its original.
+- S50. (B50) Nicole Elder Dyer, "How To Track Emails And Messages In A Research Log",
+  Family Locket video, 2023-10-21, <https://www.youtube.com/watch?v=7mEghMnqkNc>.
+  Saved transcript read 2026-11-22. Used for retaining each request, its message locator and
+  the linked reply, and for distinguishing a sent request from information received. The
+  recommended entry structure does not require the demonstrated software.
 - **H1.** Günter Junkers, "Backup für das kulturelle Erbe der Ukraine", Compgen-Blog,
   2022-03-15, <https://www.compgen.de/2022/03/backup-fuer-das-kulturelle-erbe-der-ukraine/>,
   read 2026-11-12. Used for: Wayback captures of Ukrainian museum and library sites mostly saving
@@ -201,3 +261,4 @@ are used.
 - Günter Junkers, Compgen-Blog, Backup für das kulturelle Erbe der Ukraine, 2022-03-15, cited as H1 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
 - Just Genealogy, FamilySearch and Ancestry (S36–S39) — Third-party guidance paraphrased with attribution (adapted)
+- Sunny Jane Morton, Family Tree Magazine, and MyHeritage Blog (S40–S42) — Third-party rights retained by their holders, guidance paraphrased with attribution (adapted)

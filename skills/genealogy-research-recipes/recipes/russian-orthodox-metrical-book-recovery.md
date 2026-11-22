@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 57}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 63}
 ---
 
 # Recover a Russian Orthodox metrical-book entry through the period parish, the consistory copy and its margin notes
@@ -275,6 +275,8 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
 
 - **Surnames in other series.** Look in revision tales for surnames omitted from parish books [S97], and in metrical books when revisions omit them [S163]. One family reportedly used three recurring surnames before the Soviet period, so a later record under one of those forms need not imply concealment [S98], [S163].
 - **One full name in several roles.** If the same name repeats for different participants, check for a clerical slip and a later correction. Verify each role in other entries [S99], [S139].
+
+- **Follow godparents and marriage guarantors.** Copy the names of baptismal sponsors (восприемники), marriage guarantors (поручители) and any separately listed witnesses. Preserve each role and any rank, title or office the entry gives [S192], [S193]. Use a recorded noble title to check the relevant guberniya’s nobility registers, or a named civil office to check that institution’s service lists (формулярные списки) [S194]. Require separate evidence before claiming kinship or descent.
 
 ## 10. Use machine-read full-text search for leads, never for a negative
 

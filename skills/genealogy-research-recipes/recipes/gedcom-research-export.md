@@ -75,6 +75,12 @@ Treat structural validity and sharing readiness as separate findings. For an onl
 
 For an Ancestry tree the user owns, open **Tree Settings** and choose **Export tree** under **Manage your tree** [S24 @2026-11-18], [S25 @2026-11-18]. Select **Export** if the download button is missing. When **Download Your GEDCOM File** is available, select it and extract the `.ged` from the ZIP on the user's device [S25 @2026-11-18].
 
+**Privacy gate:** <!-- privacy-gate: export --> These exports copy the selected tree from FamilyTreeDNA or MyHeritage to the user's own device. The file may contain information about living or possibly living people. Answer the privacy gate in `SKILL.md` before exporting and keep the `.ged` local.
+
+For a local copy of an archived FamilyTreeDNA tree, check **Account Settings → Genealogy** in the user's kit. A read-only archive still supports GEDCOM export [S27 @2026-11-21], [S28 @2026-11-21]. If the archived tree is present, use **Tree Management → Export Tree** and save the `.ged` on the user's device [S28 @2026-11-21].
+
+For a copy of a tree already transferred to MyHeritage, use the family site that received it [S27 @2026-11-21]. Open **Family tree → Manage Trees**, choose **Export to GEDCOM** beside that tree, then select **Begin the export** and save the file locally [S29 @2026-11-21].
+
 ## 2. Put only evaluated findings in the file
 
 - **Export only people, events and links that have been evaluated against the evidence.** Keep hypotheses, candidates and unresolved alternatives in the research notes, not as facts or links in the file.
@@ -164,6 +170,16 @@ On MyHeritage, importing a GEDCOM creates a new family tree on the family site a
 **Privacy gate:** <!-- privacy-gate: upload --> A GEDCOM import sends tree data that may include living or possibly living people to the user's chosen MyHeritage family site. During registration the account holder's signup details also go to MyHeritage. Answer the privacy gate in `SKILL.md` and apply section 8's living-person rules before selecting the file for upload.
 
 Import the prepared `.ged` into MyHeritage. On the existing family site the user chose, select **Family Tree → Import GEDCOM**, then use **Upload** to select the file or drag it onto the page [S24 @2026-11-18], [S26 @2026-11-18]. To import while registering for a first family site, choose **Import tree (GEDCOM)** on the registration page and select the file. Have the account holder enter their name, gender and email address, then select **Get started** [S26 @2026-11-18].
+
+**Verify Old Style dates in the destination.** After an authorized import, open the affected
+events and compare their date fields with the original GEDCOM, including the calendar, precision
+and any bounds. GEDCOM 5.5.1 interprets an unmarked date as Gregorian [S16]. If the importer
+loses a Julian date and a Gregorian equivalent can preserve its meaning and uncertainty, use
+that verified equivalent in a separate copy for the destination. Keep the source citation and
+put the original reading, its calendar and the basis for the conversion in the event’s `NOTE`.
+If a reliable conversion is unavailable, keep the original reading in the note and leave the
+destination copy’s date field empty. Keep the original calendar-marked file and check the
+resulting field and note in the destination.
 
 **Cross-reference IDs in 5.5.1:** the first character may be a letter, an underscore or a digit, and lowercase letters are allowed, unlike in 7.0 [S15]; the standard's own example ID is `@1234@` [S16]. A leading digit is valid in both versions and is no reason to rewrite IDs. If an importer still rejects the file's IDs, rename them in a derivative copy: a pointer must match a cross-reference ID in the same file [S16], so change each ID and every pointer to it in one pass, and add each old and new ID to the packet's ID map.
 

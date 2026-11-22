@@ -11,7 +11,7 @@ handoff: ["agent-research-project", "ai-for-documentary-records", "archival-imag
 checked: "2026-11-13"
 checked_basis: "opened 2026-11-13"
 capabilities: {"browse": ["record catalogues and original images", "online record databases"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 62}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 68}
 ---
 
 # Reconstitute a Russian village's families when a generation's records are missing

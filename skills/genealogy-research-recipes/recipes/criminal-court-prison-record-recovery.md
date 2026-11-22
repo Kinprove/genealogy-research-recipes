@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "court-case-file-recovery", "en
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 150}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 160}
 ---
 
 # Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes
@@ -100,6 +100,8 @@ Use the series descriptions to record what survives for Sing Sing and how it can
 - Record access by series, repository and date. Ask the holding office what is available and keep its written response [S3], [S4]. A restriction on one kind of record does not establish that the entire prison collection is closed.
 - Classify each series as **inspected**, **restricted**, **destroyed**, **not held by custodian**, **referred elsewhere** or **not yet asked**. A restricted, unheld or destroyed series does not mean "no record".
 - Check gaps in an index against the original cards. In a reported NYPD Bertillon-card search the index jumped from 14885 to 14889; the researcher sought an on-site check of the missing numbers [S5]. Compare the card’s arrest date and charge with contemporaneous newspaper coverage before linking it to a relative.
+
+**Ohio county jails, 1852–1855.** Browse the county returns in the Ohio Secretary of State’s jail-report compilation (ISBN 9781556131035) [S62], [S63]. For Belmont County, use Appendix C, p. 18, of the report for 1855 (printed 1856) for the return covering November 1, 1853, to November 1, 1854 [S64]. Check the county and the dates printed on the return before interpreting a miss. If the county or period is missing from the printed returns, check county jail registers and court records [S64].
 
 ## England and Wales: follow a no-fixed-abode incident beyond a census miss
 

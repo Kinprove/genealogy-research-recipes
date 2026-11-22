@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 126}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 135}
 ---
 
 # Search candidate jurisdictions for a missing marriage
@@ -81,6 +81,10 @@ For the home state and each neighbouring state, record the rules at the marriage
 Do not suggest modern resort venues by default. Las Vegas, Hawaii or Mexico belong on the list only when the period, the couple's location and the travel options make them plausible [S1]. A high-rate county or an easier law is a reason to search a place. It is not evidence that the couple married there [S10].
 
 ## Add counties from the family timeline
+
+After a miss in the later home county, use dated personal property tax lists to trace each partner’s earlier residence. Keep same-name entries provisional until you can link them to the partner. When a tax-list lead like the one from the available excerpt places either partner in an earlier county during the marriage window, add that county to the ranked list [S44]. Search that county’s marriage register, bonds and returns for the overlapping years.
+
+For a 1787 lead in Shenandoah County, Virginia, check the personal property tax list on reel 315 [S45 @2026-11-21]. Search the 1781–1850 marriage register on reel 65 and the marriage bonds on reels 68 (1772–1788) and 69 (1789–1791) for the years in the marriage window [S46 @2026-11-21].
 
 Map where siblings and close relatives lived at the likely marriage date, including the counties where other family members had married [S6]. Lisson reports locating an ancestor’s wedding in her sister’s home in another county after checking the home county and known elopement destinations [S14]. Add a relative’s county even when the couple never lived there.
 

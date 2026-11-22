@@ -11,7 +11,7 @@ handoff: ["quaker-meeting-record-recovery", "uk-census-and-1939-register-interpr
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 97}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 103}
 ---
 
 # Recover a Scottish birth, marriage or death across parish and statutory registers
@@ -88,6 +88,8 @@ For a person born before 1855 whose parents are unknown, search for a Scottish d
 - **Other recorded breaks.** Presenters note other breaks in the records before 1855 and parishes left without a minister, when baptisms may have gone unrecorded. Check the coverage of the specific parish register. [S5], [S6], [S8]
 - **Search each denomination separately.** ScotlandsPeople splits church registers into Church of Scotland OPRs, Catholic Parish Registers and Other Church registers. Run and log each as its own search; a no-hit in one does not cover the others. [S5]
 - **Treat payment entries as indirect evidence.** Fee and payment records (caution fees, stamp-duty payments, mortcloth records) show a charge or payment, not the event itself. [S4], [S8], [S11]
+
+**Search the selected Scottish births and baptisms index.** For a missing Scottish birth or baptism, search MyHeritage’s *Scotland, Selected Births & Baptisms, c. 1640 - c. 1860* (collection 10321), listed as free, and open plausible matches [S46 @2026-11-21], [S47 @2026-11-21]. Use any parish and event details to locate the underlying church record. Continue searching the relevant parish and denominational registers after a miss.
 
 ## Follow corrections and church-court records as later sources
 

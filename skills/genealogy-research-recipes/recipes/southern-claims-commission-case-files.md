@@ -11,7 +11,7 @@ handoff: ["us-freedpeople-record-recovery", "us-federal-court-case-file-recovery
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 154}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 164}
 ---
 
 # Recover and read a Southern Claims Commission case file
@@ -30,7 +30,11 @@ Read **barred** as submission after the 3 March 1873 deadline, so the claim did 
 
 Read **disallowed** or **dismissed** as a denial. Read the commissioners’ recommendation for the reason. Look in M1407 by report number, then office number, for the disallowed case file in Record Group 233. [S2 @2026-11-18]
 
-Read **allowed** as approval and payment in whole or in part. Use the state, county and claimant’s name to locate the file in Record Group 217. Capture the amounts claimed, allowed and receipted separately when the file gives them. [S2 @2026-11-18]
+Read **allowed** as approval and payment in whole or in part. Use the state, county and claimant’s name to find the *Settled Case Files for Claims Approved by the Southern Claims Commission, 1871–1880* in Record Group 217 (Entry A1-732, Archives identifier 566157). Capture the amounts claimed, allowed and receipted separately when the file gives them. [S2 @2026-11-21]
+
+If a disallowed House file contains only an envelope, check it for a Court of Claims referral. [S4 @2026-11-21] If the House file documents a referral or M87 marks a barred or disallowed claim “C. of C.”, get the court case number from the M2007 docket cards. Use that number in the congressional jurisdiction case files in Record Groups 123 (Archives identifier 2734730) and 205 (3432865). [S2 @2026-11-21]
+
+According to the presenter’s advice, check Fold3 for both paid and unpaid claims. [S3† @2026-11-21] Open *Southern Claims Commission Approved Claims, 1871–1880* for allowed claims and *Southern Claims – Barred and Disallowed* for M1407. If the online search comes up empty, use the archival series for the claim’s disposition. [S2 @2026-11-21] [S5 @2026-11-21]
 
 ## Separate the testimony from the ruling
 

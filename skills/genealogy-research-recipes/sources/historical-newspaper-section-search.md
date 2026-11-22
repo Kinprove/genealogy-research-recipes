@@ -32,6 +32,26 @@
 
 - **S16:** [The Reporter, Lexington, October 23, 1813, war reports](https://cdm17538.contentdm.oclc.org/digital/api/collection/p17538coll17/id/1734/download), published 1813-10-23. Reviewed 2026-11-20, pdf, access read. Read 2026-11-20. Read the issue’s reports of casualties in the Battle of the Thames and aboard the brig *Argus*, including extracts credited to other newspapers.
 
+- **S17:** [Writing Compelling Characters in Your Family History](https://familytreemagazine.com/storytelling/writing-compelling-characters-in-your-family-history/), published 2024-05-30. Reviewed 2026-11-21, web-page, access snippet-only. Read 2026-11-21. Read the indexed excerpt and the supplied quotation. The article page returned HTTP 403. Rhonda Lauritzen suggests checking society pages for travel, parties the person hosted and civic memberships. S18 supplies supporting guidance and newspaper examples.
+
+- **S18:** [Social Sleuthing: How to Find Your Ancestors in Society Columns](https://newspaperarchive.com/blog/social-sleuthing-how-to-find-your-ancestors-in-society-columns/). Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. Read the sections on social events, organizations, and travel and visits. The guide reproduces clippings that name a dinner host and out-of-town guests and identify the places involved in a family visit.
+
+- **S19:** [Researching Your Family History at Your Local Library – An Interview with Anna Rose Johnson](https://www.youtube.com/watch?v=Us20XQMebGo), published 2023-02-06. Reviewed 2026-11-21, video, access snippet-only. Read 2026-11-21. Read the indexed episode description and the supplied transcript excerpts. The video page did not open. The episode suggests checking letters to the editor, sports reports, sick lists and social visits. The guest reports that a letter found on the deceased had no named writer and bore a New Alexandria, Pennsylvania, postmark matching the suspected hometown. S25 identifies the speaker for the newspaper segment. S26 documents a separate example of a postmark used as an identity lead in a death report.
+
+- **S20:** [Niles Historical Society, Niles Newspapers](https://www.nileshistoricalsociety.org/NilesNewspapers.htm). Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. The society describes a sick list and local sports in the October 22, 1934 *Niles Daily Times* and a letters-to-the-editor feature in the November 15, 1990 issue.
+
+- **S21:** [100 Years Since the 1926 Slavery Convention: Why It Still Matters to Family History](https://blog.myheritage.com/2026/09/100-years-since-the-1926-slavery-convention-why-it-still-matters-to-family-history/), published 2026-09-24. Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. Yan Sandler suggests using sale and escape advertisements, court reports, abolitionist newspapers and petitions for names and personal details. The article also advises searching by place or associated household when a name is absent.
+
+- **S22:** [Colonial Williamsburg, Slavery and the Virginia Gazette](https://www.colonialwilliamsburg.org/discover/sources/the-virginia-gazettes/slavery-and-the-virginia-gazette/). Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. Read the sections reproducing sale and escape advertisements. The examples show the descriptions and places printed in notices and cases where sale advertisements omit an enslaved person’s name.
+
+- **S23:** [University of Nebraska–Lincoln, The Bell Affair: Historical Background](https://animatinghistory.unl.edu/history/bellaffair/). Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. The project traces named people and court cases through press coverage, including the October 13, 1848 issue of *The North Star*, and gives locators for freedom-suit records involving the Bell family.
+
+- **S24:** [Digital Library on American Slavery, Race and Slavery Petitions, Petition 21184810](https://dlas.uncg.edu/petitions/petition/21184810/). Reviewed 2026-11-21, catalogue, access read. Read 2026-11-21. Read the catalogue entry and its abstract of a filing that names Arry Hicks and gives the jurisdiction and details of her freedom suit.
+
+- **S25:** [Family Tree Magazine, Researching Your Family History at Your Local Library – An Interview with Anna Rose Johnson, show notes](https://familytreemagazine.com/podcasts/researching-your-family-history-at-your-local-library/). Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. The publisher’s notes identify Jenny Ashcraft as the guest sharing a newspaper discovery in the sponsor segment at 14:59.
+
+- **S26:** [Cisco Daily News, July 1, 1932, page 1](https://newspapers.swco.ttu.edu/server/api/core/bitstreams/9e3e998e-9cbb-4184-8893-4f909c32f6a6/content), published 1932-07-01. Reviewed 2026-11-21, pdf, access read. Read 2026-11-21. The front-page death report describes a torn envelope found on the deceased. It gives a June 23, 1932 postmark at Good Pine, Louisiana, and a different mailing destination, Winnfield, Louisiana. The report describes the envelope as an initial clue and also records confirmation by the sheriff at Winnfield.
+
 ## Credits
 
 - Community advice and independent sources in S1 onward — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

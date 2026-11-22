@@ -68,7 +68,7 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S41:** General Land Office, [Letter of October 1, 1858, reproduced in *Thomas Hicks, Executor of Isaac Hicks*, H. Rept. 37-283, p. 7](https://www.govinfo.gov/content/pkg/SERIALSET-01146_00_00-008-0283-0000/pdf/SERIALSET-01146_00_00-008-0283-0000.pdf), PDF, letter read 2026-11-18. Used for a Revolutionary War warrant issued to Isaac Hicks that was used in a patent issued to two other men.
 
-- **S42:** U.S. Congress, [Act of March 3, 1855, ch. 207, 10 Stat. 701–702](https://www.govinfo.gov/content/pkg/STATUTE-10/pdf/STATUTE-10-Pg701-2.pdf), statute, sections 2 and 8 read 2026-11-18. Used for Revolutionary War eligibility and the widow or, in her absence, the children who were minors when the act took effect.
+- **S42:** U.S. Congress, [Act of March 3, 1855, ch. 207, 10 Stat. 701–702](https://www.govinfo.gov/content/pkg/STATUTE-10/pdf/STATUTE-10-Pg701-2.pdf), statute, sections 2 and 8 read 2026-11-18. Sections 1–4 and 8 read 2026-11-21. Used for Revolutionary War eligibility and the widow or, in her absence, the children who were minors when the act took effect. Also used for the minimum service or battle provision, wartime teamster service, the 160-acre total allowance and assignments.
 
 - **S43:** U.S. Congress, [Act of September 28, 1850, ch. 85, 9 Stat. 520](https://www.govinfo.gov/link/statute/9/520), statute, section 1 read 2026-11-18. Used for the service covered by the 1850 act.
 
@@ -84,6 +84,44 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S49:** California Secretary of State, California State Archives, [Spanish and Mexican Land Grants](https://www.sos.ca.gov/archives/collections/ussg), collection description read 2026-11-20. Used for the official copies of title papers and sketch maps and the Surveyor General map series.
 
+- **S50:** Katie Merkley, Family Tree Magazine, [Finding Bounty Land Records to Research Your Ancestors](https://familytreemagazine.com/records/land/bounty-land-records/), community article, published July 2025 and updated July 29, 2025. Article read 2026-11-21. Used for the warrant-number formats, application evidence, searching after a pension or Fold3 miss, act-specific warrant indexes, fire losses, and the Ohio location and scrip leads. The two warrant examples place the act and warrant numbers in different positions. The cited images and Fold3 surname cutoff were not verified. S55 and S57 narrow the Ohio rule to the relevant Revolutionary War warrants.
+
+- **S51:** Just Genealogy, [Revolutionary War Bounty Land and the Genealogist - JG0079](https://www.youtube.com/watch?v=JGg0gAGq8bo), community video, published 2022-05-26. Supplied transcript excerpts reviewed 2026-11-21. The video page could not be opened. Used for the presenter's suggestions to consult Reference Information Paper 114, interpret Revolutionary War jacket notations, check rank and eligibility, and follow later locations or scrip exchanges. The cited statutes and finding aids establish the scope. The transcript's `script` is rendered as `scrip`, and its `an insulin` as `ensign`.
+
+- **S52:** Kenneth Hawkins, National Archives, [Research in the Land Entry Files of the General Land Office, Reference Information Paper 114](https://www.archives.gov/files/publications/ref-info-papers/rip114.pdf). Warrant sections and searchpath tables read 2026-11-21. Used for act-specific filing fields, indexes, survival and filming of Revolutionary War warrants, M848 coverage and cash and credit entry searchpaths. Use the current NARA access page for ordering logistics.
+
+- **S53:** National Archives, [Pre-World War I U.S. Army Pension and Bounty Land Applications](https://www.archives.gov/research/military/army/pensions). Revolutionary War and War of 1812 entries read 2026-11-21. Used for warrant applications filed separately from pensions, series 567388 with selected applications in the National Archives Catalog and partial digitization on Fold3, and M829 listed online through Ancestry. Access inside Fold3 and Ancestry was not tested.
+
+- **S54:** National Archives, [Records of the Bureau of Land Management, Record Group 49](https://www.archives.gov/research/guide-fed-records/groups/049.html). Section 49.3.2 read 2026-11-21. Used for military scrip indexes, exchanged warrants, scrip applications and certificate stubs among the records of the GLO's Division B.
+
+- **S55:** U.S. Congress, [Act of June 1, 1796, ch. 46, 1 Stat. 490–491](https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg490.pdf). Sections 1 and 3–4 read 2026-11-21. Used for the military reservation and the original January 1, 1800 deadline.
+
+- **S56:** U.S. Congress, [Act of April 15, 1806, ch. 27, 2 Stat. 378](https://www.govinfo.gov/content/pkg/STATUTE-2/pdf/STATUTE-2-Pg378.pdf). Section 1 read 2026-11-21. Used for location of outstanding warrants on designated unlocated tracts before October 1, 1808.
+
+- **S57:** U.S. Congress, [Act of May 30, 1830, ch. 215, 4 Stat. 422–424](https://www.govinfo.gov/content/pkg/STATUTE-4/pdf/STATUTE-4-Pg422-2.pdf). Sections 1, 4 and 6–7 read 2026-11-21. Used for exchange of specified unsatisfied Revolutionary War warrants, including U.S.-issued warrants under section 6, and use of scrip at private sales of eligible land in Ohio, Indiana and Illinois.
+
+- **S58:** U.S. Congress, [Act of March 2, 1833, ch. 94, 4 Stat. 665](https://www.govinfo.gov/content/pkg/STATUTE-4/pdf/STATUTE-4-Pg665.pdf). Statutes at Large scan read 2026-11-21. Used for use of scrip under the act at private entry on eligible public land.
+
+- **S59:** U.S. Congress, [Act of July 27, 1842, ch. 69, 5 Stat. 497](https://www.govinfo.gov/content/pkg/STATUTE-5/pdf/STATUTE-5-Pg497.pdf). Sections 1–2 read 2026-11-21. Used for locations on public land open to private entry, nonassignable location certificates and eligible patentees.
+
+- **S60:** U.S. Congress, [Act of July 2, 1864, ch. 237, 13 Stat. 378–379](https://www.govinfo.gov/content/pkg/STATUTE-13/pdf/STATUTE-13-Pg378.pdf). Sections 1–2 read 2026-11-21. Used for later location of existing warrants issued under the named acts, subject to the general laws in force when located.
+
+- **S61:** U.S. House of Representatives, [*Thomas Hicks, Executor of Isaac Hicks*, H. Rept. 37-283, p. 2](https://tile.loc.gov/storage-services/service/ll/llserialsetpdf/01/14/6_/00/_0/0/01146_00_00-008-0283-0000/SERIALSET-01146_00_00-008-0283-0000.pdf). Reproduced September 1776 resolutions read 2026-11-21. Used for Continental service, the provision for representatives of those killed by the enemy and the rank schedule from colonel to private.
+
+- **S62:** Continental Congress, [*Journals of the Continental Congress*, vol. 17, August 12, 1780, p. 727](https://tile.loc.gov/storage-services/service/ll/llscd/lljc017/lljc017.pdf). August 12 resolution read 2026-11-21. Used for the major general and brigadier general acreage schedule.
+
+- **S63:** Jean Nudd, National Archives, [Using Revolutionary War Pension Files to Find Family Information](https://www.archives.gov/publications/prologue/2015/summer/rev-war-pensions.html), Summer 2015. Pension-law overview read 2026-11-21. Used for six months of service as the minimum for pension payments under the 1832 law.
+
+- **S64:** Just Genealogy, [David D Devol, Mexican War Teamster Genealogical Speaking - JG0230](https://www.youtube.com/watch?v=WjvUfz72yZA), community video, published 2022-10-26. Supplied transcript excerpts reviewed 2026-11-21. The video page could not be opened. The presenter follows an outgoing assignment for the teamster's own award and sets aside an incoming assignment. The presenter leaves his precise qualifying service open. S42 supplies the legal test. The specific search results, interface and patent were not independently inspected.
+
+- **S65:** Stuart L. Butler, National Archives, [Genealogical Records of the War of 1812](https://www.archives.gov/publications/prologue/1991/winter/war-of-1812.html), Winter 1991. Bounty-land discussion read 2026-11-21. Used for application details, including the veteran's age, residence, unit and length of service, and discharge certificates.
+
+- **S66:** National Archives, [Genealogical and Biographical Research: A Select Catalog of National Archives Microfilm Publications, Part 1](https://www.archives.gov/publications/microfilm-catalogs/biographical/part-01.html). M829 and M848 entries read 2026-11-21. Used for the M829 roll 1 indexes and registers, the division of warrant records by act and number, and the M848 warrant volumes and indexes.
+
+- **S67:** U.S. Congress, [Act of May 14, 1856, ch. 26, 11 Stat. 8–9](https://www.govinfo.gov/content/pkg/STATUTE-11/pdf/STATUTE-11-Pg8.pdf). Section 4 read 2026-11-21. Used for the 1855 act's coverage of Revolutionary War naval personnel, marines and eligible survivors.
+
+- **S68:** Bureau of Land Management, [Meridian Codes](https://reports.blm.gov/docs/lr2000/CodeMeridian.pdf). Ohio meridian table read 2026-11-21. Used for the Bureau's U.S. Military Survey designation. The live GLO portal's meridian filter was not inspected.
+
 ## Credits
 
 - United States Statutes at Large, S46 — Public-domain 1852 assignment provision paraphrased (adapted)
@@ -96,3 +134,5 @@ This recipe's own contribution is the routing row, the party-role table, the two
 - Federal statutes and archival material cited as S38, S39 and S41 to S45 — Paraphrased with attribution (adapted)
 - Nancy Hendrickson, Family Tree Magazine, California Genealogy Research Guide, S47 — Third-party guidance paraphrased with attribution (adapted)
 - United States Statutes at Large and California State Archives, S48 and S49 — Statutory and collection facts paraphrased with attribution (adapted)
+- Family Tree Magazine and Just Genealogy, S50, S51 and S64 — Third-party guidance paraphrased with attribution (adapted)
+- Federal statutes, congressional journals, finding aids and historical records, S52–S63 and S65–S68 — Public records paraphrased with attribution (adapted)

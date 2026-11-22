@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 2.1.0, released 2026-11-21.
+This copy is version 2.2.0, released 2026-11-22.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -315,6 +315,10 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
 - `recipes/find-a-grave-memorial-corrections.md` — Send evidence-backed Find a Grave corrections and route management requests to the right recipient.
 - `recipes/newspaper-finder-title-coverage.md` — Use Newspaper Finder to discover alternate hosts for a historical newspaper and verify whether a host carries the target issue.
+- `recipes/us-national-archives-finding-aids-and-microfilm.md` — Resolve a U.S. National Archives series or film reference into an exact entry, roll and access route.
+- `recipes/familysearch-research-wiki-locality-routing.md` — Use FamilySearch Research Wiki jurisdiction and record-type pages to locate online and offline holdings before running a name search.
+- `recipes/rootstech-on-demand-session-recovery.md` — Find a relevant RootsTech session across location, language and speaker filters and check for a recording or downloadable handout.
+- `recipes/rootsweb-broken-link-recovery.md` — Recover a vanished RootsWeb publication, society page or tree lead through archived URLs and successor hosts.
 
 ### Books, periodicals and manuscripts
 
@@ -324,6 +328,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/local-repository-uncatalogued-holdings.md` — Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing.
 - `recipes/historical-newspaper-section-search.md` — Choose historical newspaper sections for social ties, business activity, missing immigrants, and out-of-town deaths.
 - `recipes/olympic-participation-records.md` — Check Olympic results and trials, then route Olympic publications and archival files to the right finding aid.
+- `recipes/slavevoyages-person-and-voyage-linkage.md` — Choose the named-person dataset that fits the route, then trace the candidate through the underlying record and voyage.
+- `recipes/slavery-convention-territorial-record-recovery.md` — Find the records a jurisdiction created while accepting, excluding or implementing obligations under the 1926 Slavery Convention.
 
 ### Places and maps
 
@@ -407,6 +413,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/british-colonial-slave-registers.md` — Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records.
 - `recipes/british-army-first-world-war-service-records.md` — Route a First World War British Army soldier, nurse or Household Cavalry member to the surviving series for their service.
 - `recipes/piracy-and-privateering-records.md` — Use a commission, vessel history and surviving court papers to distinguish a commissioned capture from piracy and follow a sailor’s disposition.
+- `recipes/british-raf-air-force-list-recovery.md` — Reconstruct British RAF officer rank and seniority from dated Air Force Lists, then choose the personnel series that fits the person.
+- `recipes/jersey-occupation-registration-card-recovery.md` — Trace a Jersey resident or child through German Occupation registration cards and household entries.
 
 ### Western and Northern Europe
 
@@ -422,6 +430,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/scandinavian-patronymic-farm-name-record-recovery.md` — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names.
 - `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
 - `recipes/french-succession-and-absence-tables.md` — Use a French registration-office index to distinguish a recorded death from declared absence and retrieve the referenced succession declaration.
+- `recipes/swiss-place-of-origin-record-recovery.md` — Distinguish Swiss communal citizenship from birthplace and residence, then choose the municipal, cantonal or parish record for the question.
 
 ### United States: people, vital and church records
 
@@ -442,6 +451,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/pennsylvania-marriage-licenses-and-returns.md` — Recover Pennsylvania county marriage packets from 1885 and compare them with early state copies and older marriage bonds.
 - `recipes/american-voter-register-eligibility.md` — Check voting and registration eligibility in the relevant year before using a U.S. voter-register entry or omission as residence evidence.
 - `recipes/us-social-security-application-recovery.md` — Choose between a Social Security death index, Numident extract and original SS-5 when researching a deceased person’s birth or parents.
+- `recipes/us-historical-passport-application-recovery.md` — Find U.S. passport applications through March 1925 and separate recorded identity, companions and planned travel from the journey itself.
 
 ### United States: military, land, courts and law
 
@@ -469,6 +479,10 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/colonial-virginia-patent-and-northern-neck-recovery.md` — Find the issuer of a colonial Virginia land grant and use its patent, warrant, survey or headright evidence to identify the tract and parties.
 - `recipes/us-army-quartermaster-record-recovery.md` — Use the Quartermaster General’s claims, contracts, correspondence and personnel series to trace Army suppliers, employees or officers.
 - `recipes/us-military-headstone-application-recovery.md` — Route a U.S. military headstone application by death and application dates, then compare its service and burial identifiers.
+- `recipes/us-treasury-accounting-military-claims.md` — Find Treasury audit, paymaster or pension-account records for a U.S. military payment or claim, using the office and transaction date.
+- `recipes/us-marine-corps-muster-and-wwi-unit-records.md` — Recover a U.S. Marine’s dated unit from muster rolls, then trace First World War assignments and death records.
+- `recipes/us-postmaster-appointments-and-office-sites.md` — Find a U.S. postmaster by office and date, distinguish appointment from confirmation, and locate the office in site reports.
+- `recipes/wyoming-valley-susquehanna-company-claims.md` — Distinguish Wyoming Valley company share ownership, settlement and Pennsylvania title by following the relevant lists and tract papers.
 
 ### Canada, Latin America, Asia and Oceania
 
@@ -484,6 +498,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/samoan-matai-and-gafa-research.md` — Follow Samoan chiefly titles and village clues from diaspora records into customary land, church and family sources.
 - `recipes/acadian-records-across-the-expulsion.md` — Locate an Acadian household before deportation, then link it to records at a destination or later resettlement.
 - `recipes/canadian-arrival-record-routing.md` — Choose a Canadian ocean or land arrival series by port and date, and seek substitutes before interpreting a missing entry.
+- `recipes/canadian-great-war-project-cross-border-enlistment.md` — Search for a possibly U.S.-born Canadian Expeditionary Force volunteer and confirm the candidate in the original service file.
+- `recipes/india-great-famine-household-record-recovery.md` — Follow a household across famine-era district, relief, land and migration records without assigning a cause from disappearance alone.
 
 ## Recipes: Record types in any country
 
@@ -492,6 +508,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/catholic-parish-diocesan-record-recovery.md` — Search for a Catholic sacrament across the parish, nearby parishes, the diocesan copy, the successor custodian and dispensation files.
 - `recipes/catholic-sacramental-cross-notations.md` — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish.
 - `recipes/immigrant-congregation-origin-records.md` — Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address.
+- `recipes/intercountry-adoption-record-discrepancies.md` — Compare birth and placement records, adoption papers and attributed family accounts when an intercountry adoption may have been irregular.
 
 ### Burials, directories, land and probate
 
@@ -518,6 +535,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/family-interviews-and-oral-tradition.md` — Record a relative's interview, a supplied recording or an inherited story with its speaker, prompter and chain of transmission.
 - `recipes/repository-photograph-collection-search.md` — Search repository photograph collections for an ancestor, home, shop or community by place and subject.
 - `recipes/family-archives-material-storage.md` — Choose protective enclosures for fragile family originals while preserving the evidence that links loose items to their original homes.
+- `recipes/mylio-historical-photo-date-and-worklist.md` — Use Mylio Photos to keep uncertain original photo dates, review queues, event groups and a local backup for a scan project.
+- `recipes/vaud-foundling-baptism-and-naming-records.md` — Follow a Vaud foundling’s baptismal note into a dated naming or placement inquiry and identify which relationship each record establishes.
 
 <!-- recipe-catalog:end -->
 

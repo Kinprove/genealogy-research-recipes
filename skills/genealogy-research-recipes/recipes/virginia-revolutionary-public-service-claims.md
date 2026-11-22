@@ -11,7 +11,7 @@ handoff: ["us-military-pension-file-recovery", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 143}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 153}
 ---
 
 # Recover a Revolutionary Virginia public service claim across all its series
@@ -48,9 +48,21 @@ Search LVA's Revolutionary War Public Service Claims Index, not only the printed
 
 A 2022 Just Genealogy live stream pointed out that the printed claims cover only one series of the public claims records (cited from transcript quotations; the recording was not inspected). [S1†] Treat a hit in the printed abstracts as one series, then pull the same claimant from the certificates and the Commissioner's Books. Those two series are not part of the printed work. [S4]
 
+According to the supplied Just Genealogy transcript excerpts, start a print search with the individual county booklet if the county is known. [S14†], [S16†] Use that booklet's own index to find the abstract. [S17] To search across counties, use the combined index at the end of volume 3, or the separately published *Index to the Virginia Revolutionary "Publick" Claims County Booklets*. Browse the three volumes in alphabetical county order when you need the entries for a particular county. [S18], [S19] Take the abstract's county, session and page to the corresponding court record (§4). [S2]
+
+For a county in present-day Kentucky, treat a miss in the printed set as a coverage gap. Check the surviving records for the wartime county and leave the person's contribution unresolved on the strength of the print search alone. [S22]
+
 ## 2. Record a locator for each series
 
 Keep one row per series for each claim: series and APA number, county, reel, and the item's position. For the Commissioner's Books the index gives the book number and page. [S4] Record the supplier, any assignee and the person who presented the claim as separate roles. Record the certificate date, the court's allowance and the date payment was authorized as separate events.
+
+According to the supplied Just Genealogy transcript excerpt, distinguish a Specific Tax entry from a public claim. [S15†] Classify a Specific Tax entry as a levy record, and a procurement receipt as evidence of goods or services furnished that might support reimbursement. Goods can appear in both. The March 1781 act allowed qualifying impressed-grain certificates to pay the tax and required tax returns to distinguish those certificates from receipts for goods paid in kind. Check which the entry records. [S2], [S20]
+
+Read “impressed or taken for public service” as a requisition of property. Copy any payment terms the certificate states and check them against the applicable act. The May 1780 provision act offered treasury payment or use of the certificate against tax, and the November 1781 act generally required county court presentation and allowance for impressed-property claims. For actual settlement, require a record of payment or tax credit. A certificate documents what was supplied, and the commissioners' warrant authorizes settlement. [S7], [S9], [S2]
+
+Search for services as well as goods. Distinguish furnishing a wagon or team from doing the driving, and record any stated duty, such as guarding prisoners, in the record's own terms. [S17], [S21] Record the receiving force separately from the supplier's role. Expand labels such as `Cont.` in context and keep the recipient's unit as written. [S9], [S25] A published transcription of the Cumberland County booklet (p. 40) shows `Cont.` on a forage entry that names a militia company. [S25]
+
+Use a provisioning claim to place troops only when it identifies the unit and gives the date and place of supply. Keep the intended destination and the county that heard the claim separate from the delivery location. [S17], [S25]
 
 ## 3. Open the images, then reach what is not online
 
@@ -73,6 +85,10 @@ The county court was where a claim was first heard. A November 1781 act empowere
 
 Read the county's own order or minute books for the sessions in which claims were heard. Do this when the booklet is missing or hard to read, when the county is not in the printed set, or when the claim may have been presented after 1783. LVA's guide lists a Louisa County volume of public service claims transcribed from the court order books for 1774–1783 and the minute book for 1784–1787. [S2]
 
+When local court books are missing in a burned county, search the claims booklets sent to Richmond for the same county. [S2 @2026-11-21] James City County appears in the printed compilation despite the fire that destroyed local records. [S23 @2026-11-21], [S24 @2026-11-21]
+
+If the first claims session gives no hit, check the other claims sessions for that county. Record the heading date as the court session and copy the supply or service date from the individual entry if it gives one. Keep the amount requested separate from the amount the court allowed and require a court decision before reporting an allowance. [S2], [S9], [S25], [S26]
+
 ## 5. Date a commissioner's office from its act and the executive records
 
 When your person is called a commissioner, or signed certificates, do not assume that he held one office from appointment to the end of the war. A 2022 Just Genealogy live stream made this point and suggested bounding the term by the appointment and the successor's appointment. It looked for the appointment in the county order books, or in the executive papers if the state made it (cited from transcript quotations; the recording was not inspected). [S1†] Under the acts below, the appointment came from the governor and council or from the state commissioner, not from the county court. [S7], [S8] First identify which office the papers mean:
@@ -87,9 +103,11 @@ Bound the tenure with dated evidence: the act's term, any limit in the commissio
 
 ## Return packet
 
+For Daughters of the American Revolution (DAR) research, use a claim documenting supplies as possible evidence of patriotic service after establishing the supplier's identity, including when the record shows reimbursement. Evaluate service and lineal descent separately. DAR determines whether the service and the proof are acceptable. [S27 @2026-11-21]
+
 - A series table for each claim: APA series, county, reel, booklet page, certificate, Commissioner's Book number and page, and whether each image was seen.
 - Separate roles: supplier, assignee, presenter, commissioner or deputy.
-- Separate dates: certificate, court allowance, payment authorized.
+- Separate dates: supply or service, certificate, court session, court allowance, payment authorized, settlement documented.
 - Offline items: catalogue citation, request status, and the route used (Virtual Reading Room, research room, or not yet requested).
 - For a commissioner: the act, the appointing authority, the commission's limits, the dated range of signed certificates, and the appointment marked found or not found.
 - Explicit gaps: a county not in the printed set, restricted images not yet viewed, rejected claims not yet checked, county order books not yet read.

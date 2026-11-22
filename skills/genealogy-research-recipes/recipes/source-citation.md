@@ -53,6 +53,14 @@ keeps its collection, box and folder context. A label photo records the arrangem
 of your visit. It supports the citation but is not the citation. The
 [archivist's advice](https://www.youtube.com/watch?v=zNVSOhlUmgI) motivates this step.
 
+When a working scan or printout may be copied one page at a time, put the full citation with
+the locator for that page on the same side as the image. Keep the unaltered capture separately.
+Craig R. Scott describes placing the citation below the scan so it stays with a photocopy [N12].
+
+For a courthouse book inspected in person, cite the specific court and the courthouse where
+you consulted the book, with the book title, number and entry page [B34, from the available excerpt].
+Record the office, room or vault where you found the volume [B35].
+
 Keep the record's creation date separate from the date you viewed it. Preserve a documented
 mapping between archive and film identifiers when available. An index entry and an inspected
 original image have different retrieval paths; record which one you used.
@@ -136,6 +144,12 @@ When the editor provides a style sheet, use it to format the publication draft
 and retain the full locator in your working notes. The advice to use a model as a guide comes
 from Craig R. Scott's video (partial access via supplied transcript excerpts)
 [N7](https://www.youtube.com/watch?v=pvr1z7Mchxw).
+
+For a Chicago-style citation to a 1950 U.S. census image, copy the locality, enumeration district,
+sheet number and head of household's name from the schedule [B32]. For an image viewed on
+FamilySearch, include the provider and the specific item URL in the access layer [B31] [B33].
+If you start with an AI-generated template, fill the placeholders locally and leave unverified
+locators unresolved [B31].
 
 To use the *Evidence Explained* model for a Facebook group post, start with the individual
 poster and give the group page title in quotation marks and *Facebook* in italics. Put the URL

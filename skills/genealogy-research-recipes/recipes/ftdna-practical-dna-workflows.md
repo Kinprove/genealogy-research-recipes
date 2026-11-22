@@ -10,7 +10,7 @@ guardrails: [{"id": "FTDNA-PRACTICAL-DNA-WORKFLOWS-01", "text": "A match name is
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-match-investigation", "xdna-phasing-judgment", "ydna-mtdna-interpretation"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": []}
+capabilities: {"browse": ["familytreedna", "myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "upload"], "contact": []}
 router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 27}
 ---
 
@@ -133,6 +133,12 @@ paternal-line candidate, even within one major haplogroup; he can still be an au
 Different upstream and downstream labels alone do not establish incompatibility.
 [S24 @2026-11-12], [S26 @2026-11-12], [S27 @2026-11-12], [S28 @2026-11-12]
 
+On the match row, open the pedigree icon and select MyHeritage if a menu lists several trees
+[S52 @2026-11-21], [S54 @2026-11-21]. Use the tree view the match has shared. A public MyHeritage
+tree can open without a MyHeritage sign-in. A members-only tree requires sign-in as a site member
+[S55 @2026-11-21]. If the tree is missing or access is blocked, log it as `tree unavailable to this
+kit` and use the supplied profile clues below.
+
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
 
 Record the date displayed on the match row separately from test and chip dates. A Family Finder discussion reports a July 2021 recalculation that gave older matches 2021 dates. One kit’s order history and administrator lab-results view also showed a later chip procedure for an earlier order [S13]. Where authorized, record both dates from those views. Otherwise leave the test date unknown.
@@ -234,6 +240,31 @@ side. [H3] After a tree transfer, formerly linked people arrive flagged in the G
 Link your matches: **Search**, then confirm each suggested person. These are suggestions, not
 preserved links. [H3]
 
+**Privacy gate:** <!-- privacy-gate: link, upload --> Account linkage sends the kit holder's account details to MyHeritage.
+Transferring the tree sends profiles, relationships and any included photos of the
+tester and relatives, including living people, to MyHeritage. Before approving, apply the privacy
+gate in `SKILL.md` for each kit and tree. Check which account fields the permissions screen lists
+and who can see the linked tree under both services' settings. Check the option to send later
+updates from a transferred tree back to FamilyTreeDNA. Keep it off unless the permissions cover
+that return transfer [S52 @2026-11-21], [S55 @2026-11-21].
+
+Open the connection prompt in the authorized FamilyTreeDNA kit. If the tree notice appears, use
+**Learn more** → **Get started now**. Otherwise look under **Account Settings** → **Genealogy** →
+**Family Tree** for the MyHeritage connection [S52 @2026-11-21], [S53 @2026-11-21],
+[S54 @2026-11-21]. Review the requested permissions. Once the privacy gate clears, select
+**I approve** to proceed with account linkage, sign in to or create the intended MyHeritage account, and
+review any linking terms before confirming [S52 @2026-11-21], [S53 @2026-11-21].
+
+For each kit, choose whether to transfer the archived FamilyTreeDNA tree, connect an existing
+MyHeritage tree, or start a new one. Select **Continue** to apply the choice. The integration links
+one MyHeritage tree per kit and offers no tree merge. Genetic results stay on FamilyTreeDNA
+[S52 @2026-11-21], [S53 @2026-11-21].
+
+For multiple authorized kits, repeat the connection from each kit's FamilyTreeDNA account and
+sign in to the same MyHeritage account. Choose the intended tree for each kit. Several kits can
+use the same tree, or separate trees can sit under the same account. Record the kit-to-tree
+mapping before restoring links [S52 @2026-11-21], [S53 @2026-11-21].
+
 To link a match: **Link on Family Tree** beside it, then search the person's name as written in
 MyHeritage, including prefixes and the maiden surname. [S4, H3] Candidates return with relationship
 to the kit, full name and birth/death years; choose by the documented path recorded beforehand, not the first
@@ -248,6 +279,11 @@ completion; those rows are work still to do.
 **Synthetic link-ledger example:** match `M1`, tree person `P1`, relationship `maternal second
 cousin`, side `maternal`, documentary basis `synthetic record set D1`, date `2026-10-03`, status
 `suggested-unconfirmed`. Leave it in that state until its FTDNA link is confirmed.
+
+After a completed transfer, check MyHeritage email notifications for **Smart Matches** to other trees
+and **Record Matches** to historical records [S52 @2026-11-21]. If no email arrives, open
+**Discoveries** → **Matches by people** and filter to the transferred tree [S56 @2026-11-21].
+Track these suggestions as research leads separate from the FamilyTreeDNA match links.
 
 ### 4. Anchor Family Matching with side-specific relatives
 

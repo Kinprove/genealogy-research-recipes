@@ -68,8 +68,16 @@ class gap is authored synthesis.
 
 - **S38:** Timothy Adams, [Carved in Stone: An Examination of Identity in an Early Regional Cemetery](https://press-files.anu.edu.au/downloads/press/n11504/html/03_adams.xhtml), ANU Historical Journal II, no. 4. Cemetery survey methods and epitaph discussion read 2026-11-20. Used for Irish places of birth and family relationships recorded in inscriptions at Riverside Cemetery, Queanbeyan.
 
+- **S39:** Community video, [Creduff - My Irish Genealogy Journey - JG0093](https://www.youtube.com/watch?v=IEtM0yT9AQo), 2022-06-09. Cited passages in the supplied transcript excerpts read 2026-11-21. The presenter reports that a relative returned to Ireland to settle an estate, that the passport application's birthplace led to a locality in County Tyrone, and that a map showed a road of the same name. The excerpts give no application date. The live video could not be fetched. The application and the presenter's map were not inspected.
+
+- **S40:** U.S. National Archives, [Passport Applications](https://www.archives.gov/research/passport). Search strategy and regular passport application guidance read 2026-11-21. Used for searching around the date of travel, distinguishing birthplace from any destination and reason for travel, and locating regular applications in M1372 and M1490.
+
+- **S41:** Public Record Office of Northern Ireland, [PRONI Historical Maps Viewer](https://www.proni.gov.uk/proni-historical-maps-viewer). Viewer guidance read 2026-11-21. Used for comparing modern basemaps with historical Ordnance Survey maps and identifying the parish and townland at a point on the map.
+
 ## Credits
 
+- Community video (S39) — Third-party content, rights retained by the owner, with attributed paraphrases of the transcript excerpts (adapted)
+- U.S. National Archives and Public Record Office of Northern Ireland (S40–S41) — Record guidance and map documentation summarized with attribution (adapted)
 - MyHeritage Blog (S33) — Third-party content, rights retained by the owner, with attributed paraphrases of the research suggestions (adapted)
 - UK Parliament, Maritime and Coastguard Agency, FamilySearch, New South Wales Registry and ANU Historical Journal II (S34–S38) — Historical scope, record fields and inscription evidence described with attribution (adapted)
 - National Archives of Ireland (S32) — Census search and geographic scope described with attribution (adapted)

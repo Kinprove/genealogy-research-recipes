@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observatio
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 114}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 122}
 ---
 
 # Route a Spanish or Andorran record to the archive that holds it on the event date
@@ -93,6 +93,8 @@ Inspect the margins of the marriage entry as well as its main text. The SSA’s 
 - **Read the diocesan survival list for the parish before you request a book or call it lost.** Urgell, for example, publishes a per-parish spreadsheet with the first and last years of each surviving sacramental book [S6].
 - **Check whether the diocesan archive keeps duplicates.** A book missing in the parish may survive there.
 - **Record originals and duplicates as separate holdings,** with the rules in [Catholic parish and diocesan record recovery](catholic-parish-diocesan-record-recovery.md), step 3.
+
+**Check the diocesan inventory by parish and sacrament for Castilian events before 1550.** The claimed 1550 start for Castilian church records [S53] would miss the 1494 Nofuentes baptism entry documented by the Archdiocese of Burgos [S54].
 
 ## 4. For Andorra, ask the holders and widen to the Catalan valleys
 

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 123}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 132}
 ---
 
 # Build a U.S. vital-registration coverage register before calling a birth or death record missing
@@ -50,6 +50,8 @@ For New York City before 1898, the Municipal Archives' list of holdings adds two
 Mark each start date as either `verified` (and name the authority you checked) or `presenter-reported`. Re-check any presenter-reported date with the state archives or the vital-records office before you rely on it. Do not extend one state's arrangement to another state.
 
 Consolidations change what a name refers to. The city and county of Philadelphia merged under the Act of 2 February 1854, and the city took over the county's boundaries [S7], [S6]. A "Philadelphia" record from before 1854 may therefore come from the old small city, a borough or a township. Set the authority to match the event date, not today's map.
+
+For a pre-1800 U.S. birth or death, check surviving town records for the jurisdiction at the time. If no town series covers the event, add separate rows for the family's church or synagogue registers and check the relevant birth, baptism or burial entries. Use published genealogies to identify the town, congregation or record to search [S78], [S79].
 
 **California.** For births and deaths before 1 July 1905, start with the county recorder for the place of the event. Check that county's dates in FamilySearch's *California, County Birth and Death Records, 1800–1994*. The collection omits San Francisco and its death name index covers only selected localities. Browse county images where available. Give the state filing series from July 1905 its own row [S39 @2026-11-20], [S40 @2026-11-20], [S41 @2026-11-20].
 
@@ -123,6 +125,18 @@ Check the access rule for the specific Ohio record and fields. Section 3705.23 g
 For Ohio state deaths from 20 December 1908 through 1953, search FamilySearch's *Ohio, Deaths, 1908–1953* and open the certificate image where available. The Ohio History Connection holds the 1908–1970 state death certificates. Its online index has separate ranges for the main state death series, 1913–1944 and 1954–1970. For the archive copy, use its microfilm through 1953 or its on-site digital access for 1954–1970. For a certified 1954–1970 copy, use the health department for the county of death [S47 @2026-11-20], [S49 @2026-11-20], [S52 @2026-11-20], [S53 @2026-11-20].
 
 Log the Ohio History Connection's holdings separately from the transfer thresholds. Ohio may transfer a record after 125 years for births or 50 years for deaths. Check the archive's county birth holdings and state death holdings before routing a request there. Use the state office's death series from 1971 [S47 @2026-11-20], [S48 @2026-11-20], [S49 @2026-11-20], [S54 @2026-11-20], [S56 @2026-11-20].
+
+### Rock Island County, Idaho and Harris County indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before sending names, exact event dates or parents' names for anyone who may be living to MyHeritage, clear the [privacy gate](../SKILL.md#privacy-gate). Use collection descriptions and non-identifying place and year filters while the gate is pending.
+
+For a Rock Island County birth, look for MyHeritage's *Illinois, Rock Island County Births* and search it if your account offers the event year. Record the years of the copy searched. Give the County Clerk's birth holdings their own row and use the Illinois State Archives' separate regular birth index (1877–1907) and delayed birth index (1860–1978) for the relevant year [S71 @2026-11-21], [S72 @2026-11-21], [S73 @2026-11-21].
+
+For an Idaho birth, search MyHeritage's *Idaho Births, 1861–1940*. Open the record image when linked and record the child's birth date and place, the parents' names and any details of their births [S71 @2026-11-21], [S74 @2026-11-21].
+
+Keep Idaho's 1907–1911 county birth holdings and the state filing series beginning in July 1911 on separate rows. Use the collection's 1861 start only for the index row. Check both authorities near the transition, since the state also holds some earlier records [S74 @2026-11-21], [S75 @2026-11-21], [S76 @2026-11-21].
+
+For a Harris County event, look for MyHeritage's *Texas, Harris County Births* or *Texas, Harris County Deaths* and search the matching collection if your account offers the event year. Log the birth and death indexes separately and use the indexed name, event date and place to pursue the underlying record. For events within Houston's city limits at the time, add the city series for births from 1882 or deaths from 1874 [S71 @2026-11-21], [S77 @2026-11-21].
 
 ### Other state and town indexes
 

@@ -27,6 +27,14 @@
 
 - **S15:** New York City Landmarks Preservation Commission, [Letter on Our Lady of Guadalupe Church, 229–231 West 14th Street, Manhattan](https://media.villagepreservation.org/wp-content/uploads/2023/08/04104928/LPC_OurLadyofGuadalupe_toVillagePreservation.pdf), dated 2023-08-03. Institutional letter read 2026-11-20. Dates the church’s opening to 1902 and draws on archdiocesan records to document its use for baptisms and weddings. Verify surviving register ranges separately.
 
+- **S16:** Editors of Family Tree Magazine, [Q&A: How Do I Find My Swedish Ancestor’s Parish?](https://familytreemagazine.com/heritage/swedish/find-swedish-genealogy-parish/), last updated 2026-02-11. Community article read 2026-11-21. The editors suggest checking Swedish-American church records and requesting a Swenson Center staff search in response to a reader seeking a Swedish parish of origin for an immigrant who settled in California. Use S17 for holdings and S18–S19 for the request procedure.
+
+- **S17:** Augustana College, [Church Records](https://www.augustana.edu/swenson/collections/churchrecords). Institutional microfilm catalogue read 2026-11-21. Lists Swenson Center church films by state, county, city and congregation, with film numbers, reel numbers where applicable, and notes on record types and years. The California rows include membership records for congregations in Berkeley, Oakland and Fresno. The catalogue describes the films rather than individual entries.
+
+- **S18:** Swenson Swedish American Research Center, [Genealogy-For-Hire](https://www.swensoncenter.org/genealogyforhire). Institutional service page read 2026-11-21. Describes research by staff and volunteers and directs applicants to mail the linked form with payment. The service page excludes microfilm sources from the virtual volunteer appointment option.
+
+- **S19:** Swenson Swedish American Research Center, [Genealogy Research Request Form](https://www.swensoncenter.org/_files/ugd/89a2c9_1a8c2c8d536140d99573dd6387ca9d9c.pdf), August 2021 revision. Both pages of the linked institutional form read 2026-11-21. The form requires the research subject’s name, American settlement, a specific research question and the applicant’s contact details. It has a field for the U.S. congregation and lists church records among the sources an applicant can specify.
+
 ## Credits
 
 - Archdiocese of New York, Concordia Historical Institute and Evangelical Lutheran Church in America (S8–S10) — Parish and archive guidance paraphrased with attribution (adapted)
@@ -35,3 +43,4 @@
 - Kinprove original procedural synthesis; the techniques and examples are paraphrased and attributed to S1–S6 (Everett, Minert, Castillo, Allen video presentations) — FSL-1.1-MIT (kinprove-original)
 - Lisa A. Alzo and Julie Roberts Szczepankiewicz (S11–S12) — Research guidance paraphrased with attribution (adapted)
 - MyHeritage Blog, Christine Human Hughes and the New York City Landmarks Preservation Commission (S13–S15) — Parish leads and register details paraphrased with attribution (adapted)
+- Editors of Family Tree Magazine, Augustana College and the Swenson Swedish American Research Center (S16–S19) — All rights reserved by the respective rights holders. Research guidance paraphrased with attribution (adapted)
