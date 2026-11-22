@@ -4258,5 +4258,35 @@
   "kind": "third-party-tool",
   "action": "For a Harris County event, look for MyHeritage's",
   "checkpoint": "Before sending names, exact event dates or parents' names"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "For a ship lead at Fall River, New London or a listed Rhode Island port",
+  "checkpoint": "A regional passenger or crew query sends the traveler's name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "For a Wilmington or Morehead City ship lead in 1908–1958",
+  "checkpoint": "A regional passenger or crew query sends the traveler's name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's [Ellis Island and Other New York Passenger Lists",
+  "checkpoint": "A broad New York passenger or crew query sends the traveler's name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "For a Swedish migrant with a lead through Britain",
+  "checkpoint": "A broad New York passenger or crew query sends the traveler's name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "For a supported pre-April 1944 special-inquiry lead",
+  "checkpoint": "A special-inquiry index request sends the immigrant's name"
  }
 ]
