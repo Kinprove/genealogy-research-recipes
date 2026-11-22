@@ -4066,5 +4066,59 @@
   "kind": "publish",
   "action": "send the replacement invitation through the privacy gate above for the new recipient",
   "checkpoint": "Sharing a kit's results gives another person a"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Scotland, Court of Session Processes",
+  "checkpoint": "Names and case or prison details that identify people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Use **Scotland, Crown Counsel Procedure Books**",
+  "checkpoint": "Names and case or prison details that identify people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For Scottish custody, check **Scotland, Prison Registers**",
+  "checkpoint": "Names and case or prison details that identify people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For India, match the event",
+  "checkpoint": "Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "try a documented, distinctive middle name as a separate",
+  "checkpoint": "A scoped query may send names, dates or places identifying people who may be living to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "If an arrival search fails for a traveler who may have sailed from Gothenburg",
+  "checkpoint": "Names, birthplaces or other search details identifying people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For the Netherlands, compare **Netherlands, Names & Stories in Newspapers**",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "rerun the query in sets added",
+  "checkpoint": "Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "include Canton (Kanton), Johnston, Midway",
+  "checkpoint": "Names and historical places identifying people who may be living go to MyHeritage when you run the census query"
  }
 ]
