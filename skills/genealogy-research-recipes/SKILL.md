@@ -429,6 +429,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/scandinavian-patronymic-farm-name-record-recovery.md` — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names.
 - `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
 - `recipes/french-succession-and-absence-tables.md` — Use a French registration-office index to distinguish a recorded death from declared absence and retrieve the referenced succession declaration.
+- `recipes/swiss-place-of-origin-record-recovery.md` — Distinguish Swiss communal citizenship from birthplace and residence, then choose the municipal, cantonal or parish record for the question.
 
 ### United States: people, vital and church records
 
