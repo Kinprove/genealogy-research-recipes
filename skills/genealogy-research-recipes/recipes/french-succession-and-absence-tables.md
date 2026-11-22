@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing", "french-belgian-civil-act-extrac
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 121}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 122}
 ---
 
 # Follow a French succession or absence table to its declaration
