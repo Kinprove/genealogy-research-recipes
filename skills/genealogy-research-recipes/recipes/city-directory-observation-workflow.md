@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery"]
 checked: "2026-10-07"
 checked_basis: "checked 7 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 189}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 190}
 ---
 
 # Recipe: Build a checked city-directory observation series
