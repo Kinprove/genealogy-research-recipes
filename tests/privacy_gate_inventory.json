@@ -4132,5 +4132,29 @@
   "kind": "third-party-tool",
   "action": "Submit the magazine's index download form",
   "checkpoint": "Submitting the download form sends the user's email address to Family Tree Magazine"
+ },
+ {
+  "recipe": "published-book-catalogue-and-full-text-discovery.md",
+  "kind": "third-party-tool",
+  "action": "For an in-person visit, centre the WorldCat holdings search",
+  "checkpoint": "The visit search sends the city chosen by the user"
+ },
+ {
+  "recipe": "published-book-catalogue-and-full-text-discovery.md",
+  "kind": "request",
+  "action": "draft a targeted index lookup for the user to send",
+  "checkpoint": "A loan or page-copy request sends the book's title"
+ },
+ {
+  "recipe": "published-book-catalogue-and-full-text-discovery.md",
+  "kind": "third-party-tool",
+  "action": "Save titles to a private WorldCat list",
+  "checkpoint": "Saving or following a list sends the user's account association"
+ },
+ {
+  "recipe": "published-book-catalogue-and-full-text-discovery.md",
+  "kind": "third-party-tool",
+  "action": "Follow the public list if the user wants to revisit it",
+  "checkpoint": "Saving or following a list sends the user's account association"
  }
 ]

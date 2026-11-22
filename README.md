@@ -292,7 +292,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [polish-parish-and-civil-register-routing](skills/genealogy-research-recipes/recipes/polish-parish-and-civil-register-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [portuguese-parish-civil-register-recovery](skills/genealogy-research-recipes/recipes/portuguese-parish-civil-register-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [probate-case-document-inventory](skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md) | record catalogues and original images | — | — | — | — | — |
-| [published-book-catalogue-and-full-text-discovery](skills/genealogy-research-recipes/recipes/published-book-catalogue-and-full-text-discovery.md) | record catalogues and original images | — | — | request | — | required |
+| [published-book-catalogue-and-full-text-discovery](skills/genealogy-research-recipes/recipes/published-book-catalogue-and-full-text-discovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [quaker-meeting-record-recovery](skills/genealogy-research-recipes/recipes/quaker-meeting-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [rabbinic-literature-person-search](skills/genealogy-research-recipes/recipes/rabbinic-literature-person-search.md) | record catalogues and original images | — | — | — | — | — |
 | [repository-photograph-collection-search](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md) | record catalogues and original images | — | — | publish, third-party-tool | contact | required |
