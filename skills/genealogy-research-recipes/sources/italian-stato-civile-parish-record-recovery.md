@@ -29,11 +29,21 @@ The decision order, the register-by-state table, the coverage-gap checklist, the
 - **S23:** Normattiva, [R.D. 24 settembre 1923 n. 2013, original text](https://www.normattiva.it/eli/id/1923/10/04/023U2013/ORIGINAL), read 2026-11-13. Used for: R.D. 15 November 1865 n. 2602 extended from 1 January 1924 to the territories annexed after the First World War.
 - **S24:** Portale Antenati, [Richieste di certificati](https://antenati.cultura.gov.it/il-portale/richieste-di-certificati/), read 2026-11-13 in a web browser. Used for: documents found on the portal having no legal value and not usable for legal or administrative purposes, in particular citizenship requests; Army service sheets not yet transferred to the State Archives held by the Centri documentali (former Distretti Militari), with other offices for the Navy, Air Force and Carabinieri.
 
-### Sources S25–S26
+### Sources S25–S31
 
 - **S25:** Price Genealogy, [Romantic Italian Weddings – Why Research Italian Marriage Records?](https://www.pricegen.com/romantic-italian-weddings-why-research-marriage-records/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 
 - **S26:** Piedmont Families Organization, [About the Waldensian Languages](https://www.waldensian.info/language.htm). Passage read 2026-11-16. Used for: The project’s explanation of its 1645 notarial abstract distinguishes fu before a parent’s name as indicating that the parent was deceased, rather than translating it as a verb. Only that factual reading is used; its abstract is not reproduced.
+
+- **S27:** Andrew Koch, Family Tree Magazine (community source), [Why US Genealogists Should Care About Napoleon](https://familytreemagazine.com/history/napoleon-bonaparte-family-history/), first posted in November 2023. Read 2026-11-21. Koch's civil-registration section gives the lead to search for Napoleonic municipal records. His broad 1806 date for northern and central provinces and 1808 date for southern provinces are corrected against S28–S31.
+
+- **S28:** Sistema informativo degli Archivi di Stato, [Ufficiali dello Stato civile del dipartimento del Mella](https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?Chiave=78978&TipoPag=prodente). Read 2026-11-21. The authority record dates the Mella offices to 1806–1815 and identifies the 27 March 1806 regulation and the Napoleonic Kingdom of Italy's municipal civil-status officers for births, marriages and deaths.
+
+- **S29:** Archivio di Stato di Torino, [Archivi per la Ricerca Anagrafica](https://archiviodistatotorino.cultura.gov.it/strumenti/archivi-ricerca-anagrafica/). Read 2026-11-21. The guide dates the *Atti dello Stato Civile napoleonico* to 1803–1813 for comuni in the Po department of Napoleonic Piedmont where civil-status offices had been established.
+
+- **S30:** Archivio di Stato di Firenze, [Stato civile di Toscana](https://archiviodistatofirenze.cultura.gov.it/statocivile/index.html). Read 2026-11-21. The guide dates the start of Tuscan civil registration to 1808 and describes the collection's coverage by the historical Grand Duchy, with exceptions around Lucca, Lunigiana and Garfagnana.
+
+- **S31:** Sistema informativo degli Archivi di Stato, [Comune di Palazzo San Gervasio. Ufficio di Stato civile](https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?Chiave=92398&RicProgetto=as&TipoPag=prodente). Read 2026-11-21. The historical note distinguishes Murat's decree of 29 October 1808, no. 198, for the Kingdom of Naples from the comuni's obligation to keep registers starting in 1809.
 
 ## Credits
 
