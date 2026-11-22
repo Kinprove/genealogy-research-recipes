@@ -51,6 +51,14 @@ Use this when an image has a caption, inherited identification or new informatio
 
 **Embedded captions.** Read names in a digital copy's IPTC Description/Caption and Keywords fields as attributions. Record the field and file version, and the contributor and their basis when known [S77], [S83].
 
+**Handwriting on a caption.** Record a relative's recognition of the writer as an attributed claim. Compare the writing with independently attributed letters or cards when available. Keep the proposed writer and the caption's identification of the sitter as separate claims [S88], [S89].
+
+**Unnumbered groups.** Record each contributor's identification against a row and position or a distinctive garment or prop in the full image. Use the detail to locate the figure the claim refers to [S88].
+
+Keep competing names open when one relative does not recognize a proposed sitter and the other name has no separate support. In one reported group-photo case, a descendant's nonrecognition of the first candidate left the figure unidentified [S90].
+
+**Tagged photographs.** **Privacy gate:** <!-- privacy-gate: third-party-tool --> With PhotoDater enabled, MyHeritage may process an undated photo on its servers. The photo may show living people. If the date is unknown and PhotoDater is enabled, clear the gate in `SKILL.md` before opening the image [S52 @2026-11-21]. On a deceased candidate's MyHeritage desktop profile, check for a **Photos** tab and open an already tagged image [S95 @2026-11-21]. Record its listed date, place and other tags as claims to check against the caption, provenance and records [S95 @2026-11-21] [S96 @2026-11-21].
+
 ## Record the context and look for other copies
 
 Record non-biometric context relevant to the question: an inscription, a stated occasion, location, photographer/imprint or independently supported format/date information. Preserve contradictions with a proposed attribution rather than resolving them from appearance. For related copies, retain their sources and what inscriptions or provenance they add [S6], [S1].
@@ -60,6 +68,8 @@ Record non-biometric context relevant to the question: an inscription, a stated 
 For a carte-de-visite portrait, read formal dress as a clue to the social standing the sitter may have wanted to project. Verify claims about the family's wealth or influence separately [S70], [S71].
 
 Keep an uncropped view while testing the place of a photograph. Compare doors, windows, room corners, furniture and other fixtures with separately located photographs. Record the particular features and where the comparison photograph's location comes from. A similar room is a location hypothesis to test; it does not identify the sitter or prove a family relationship [S68], [S69].
+
+For a candidate historical streetscape, open Google Street View at the location and compare the full photograph locally with fixed details such as the stonework around doors and windows. Try another viewpoint or **See more dates** where available if the first view is blocked or the facade has changed. Record the viewpoint, imagery date and features that agree or conflict [S97 @2026-11-21] [S98 @2026-11-21] [S99 @2026-11-21].
 
 **Locate a scene with image search.** **Privacy gate:** <!-- privacy-gate: third-party-tool --> A crop from the family's photograph goes to Google Lens. Remove people, identifying text and file metadata from the crop. If the photograph shows anyone who may be living, compare the scene locally. Answer the privacy gate in `SKILL.md` and get the user's explicit permission before sending the crop. On a computer, send the scene crop through Google's **Search by image** control and choose **Upload a file**, or drag the crop into the search box [S72 @2026-11-18].
 
@@ -79,7 +89,17 @@ The commissioner rule in step 4 did not end with Britain's 1911 Act. Under the C
 
 **Privacy gate:** <!-- privacy-gate: contact --> A request describing the photograph and the family connection may disclose information about living people to relatives in the other branch. Answer the privacy gate in `SKILL.md` before contacting a relative through a route the user already has. Ask whether the other branch holds a separately captioned or attributed group photograph showing members of both branches. Check where its identifications came from before using the grouping as evidence of an association. Verify the proposed kinship in records [S85].
 
+**Branches suggested by a tree match.** Use an existing MyHeritage Smart Match to trace the overlapping branch back to a documented connection. Use the match to find a possible contributor [S90 @2026-11-21] [S91 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: contact, publish --> A message may disclose the family connection and a marked photograph may show or name living people. The recipients are the matching tree's manager or relatives in that branch. Answer the privacy gate in `SKILL.md` before contact or sharing. Use the match's **Contact** control if the tree manager is the route to the branch [S91 @2026-11-21]. Ask a descendant in the relevant branch what they recognize and how they know. Share a marked copy privately within the cleared scope and record the response as the contributor's claim [S90 @2026-11-21].
+
+**Occasion clues across photographs.** If separate attributions place the same people in two group photographs, compare distinctive clothing and other scene details for a possible shared occasion. Record the occasion as a hypothesis and test it against records of the event [S90].
+
 **Keepsake copies.** **Privacy gate:** <!-- privacy-gate: contact --> These questions go to relatives and heirs who may be living; answer the privacy gate in `SKILL.md` before any message goes out, as in step 1. When you ask for other prints, ask also about small portraits set into lockets and brooches. Victorian families kept photographs of their dead in such keepsakes, including portraits taken after death [S63], [S64], [S65]. Record a keepsake portrait as another copy, and transcribe the jewel's own inscription literally as a separate caption: one Royal Collection locket pairs a Camille Silvy photograph of Prince Albert with a lock of hair and is inscribed "December 14/1861" [S67]. An inscribed date marks the keepsake or the event it commemorates, not the sitting. A mourning setting does not make the portrait post-mortem: a mourning brooch of about 1885 at The Henry Ford holds a tintype of the deceased taken while still alive [S66]. Record a portrait as taken after death only on an inscription or an attributed account, never from pose or appearance. Such a sitting follows the documented death: take the death date as its earliest bound, and in the documented-lifetime test treat a sitting after the death as expected, not as a misattachment.
+
+**Dead Fred.** The submission form specifies photographs taken before 1965 of people who are all deceased [S102 @2026-11-21]. The FAQ gives a cutoff of before 1960 [S103 @2026-11-21]. Keep a local draft when a photo dates to 1960–1964 or its eligibility is uncertain.
+
+**Privacy gate:** <!-- privacy-gate: publish --> The scan and its descriptive clues go to Dead Fred for public posting. The archive also requests the submitter's name and email [S105 @2026-11-21]. Check permission to publish, remove details about anyone who may be living and answer the privacy gate in `SKILL.md` before sending. Read the license in the submission terms [S104 @2026-11-21]. For an eligible unidentified photo, submit a JPEG copy via **Post Photos** with a supported date or place and an identification question [S100 @2026-11-21] [S101 @2026-11-21] [S102 @2026-11-21]. Use the first-submission password to manage the posting [S103 @2026-11-21].
 
 ## Bound the date from the photographer's imprint
 
@@ -117,9 +137,29 @@ Name the object class before using any format clue: a cased image (a daguerreoty
 
 **Digital dates.** Inspect the EXIF fields locally on the earliest available file. Distinguish `DateTimeOriginal` (capture) from `DateTimeDigitized` (digitization). Establish what the device captured before using either timestamp or the GPS coordinates. For a scan or a photograph of a print, metadata generated by the copying device describes the digital copy. Look for a date or place for the sitting on the physical photograph or in its provenance [S77], [S82].
 
+**Publication dates.** Record the issue date separately from the sitting. Use the issue as a latest bound once you establish it reproduces that exposure. One contributor dated a race photograph to 1954 and its appearance in a cycling magazine to 1979 [S88].
+
+**Album order.** Check the dated images on both sides and test whether dates in that part of the album run in order. Use the neighbours as a provisional range only where the sequence holds. If the pages are arranged by family or theme, use the neighbours as context [S86], [S87].
+
+**Seasons and stays.** Use seasonal clothing as a soft clue and record an approximate season and year when the year has separate support. If the sitting is tied to a temporary household residence, use the documented years of the stay as a conditional window [S86].
+
 **Vehicles.** If a car's design is visible, record the features that distinguish the make, model or variant. Check manufacturer literature or collection records for when that design first appeared. Use a supported introduction date as the earliest bound and leave the latest date open [S77], [S84]. In a 2012 Indiana Historical Society post, a then-recent photograph shows a boy beside a 1970s car [S84].
 
 Treat an AI date estimate, such as MyHeritage's PhotoDater, as a rough range to test against the bounds above, never as a bound itself. MyHeritage says the tool gives a best-guess year only for photos taken between 1860 and 1990, and only when its confidence is good enough. In its own test about 60% of estimates fell within five years of the actual date [S52 @2026-11-12] [S53 @2026-11-12]. A missing estimate tells you nothing about the date: MyHeritage names photo quality and other factors as reasons it gives none [S52 @2026-11-12]. Record the estimate with the tool's name and the date you read it, beside the bounds from physical clues. Uploading a photo to get an estimate is an outside-service step under the privacy gate in step 3 of "Record the context and look for other copies".
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> With PhotoDater enabled, opening an eligible undated image lets MyHeritage process the image on its servers. The image may show living people. Clear the gate in `SKILL.md` for this use before opening the image [S52 @2026-11-21].
+
+On MyHeritage desktop, open the thumbnail of a photo already on the site to trigger PhotoDater on its Photo Page [S52 @2026-11-21] [S92 @2026-11-21]. If there is no estimate, check for a date already stored in the site's metadata and whether the image is a photograph containing people [S52 @2026-11-21].
+
+For a batch, look in the user's desktop **List View → Year range** for **Missing date** and apply the filter. Open each undated image to request its estimate, whether you found it with the filter or directly. A decade filter can also return saved estimates. Inspect each result's date field for an estimate marker before using its year [S92 @2026-11-21] [S94 @2026-11-21].
+
+Click the estimate and choose **More details** to record the reported confidence, average error and other decades the histogram suggests. Use them to prioritize what to check. Keep the average error out of the date-bound table [S52 @2026-11-21] [S92 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: publish --> Saving or editing the year records dating information about the photographed people in MyHeritage for viewers admitted by the photo's settings. Clear the gate in `SKILL.md` before changing the site's metadata. Use **Save** on a corroborated estimate. Read the saved GEDCOM-formatted year as an estimate and label it that way in the research log. Dismiss unsupported suggestions. Replace a saved estimate when the sitting's date is established and retain the prior estimate in your log [S92 @2026-11-21] [S93 @2026-11-21].
+
+To turn off PhotoDater estimates, uncheck **PhotoDater** under **My Privacy → Content** in the family site's settings [S52 @2026-11-21] [S92 @2026-11-21].
+
+If the occasion is independently identified and an attributed account or record gives the person's age at it, subtract that age from the estimated occasion window to plan a birth-record search. Carry both uncertainties into the search and keep the result provisional [S92].
 
 **Uniforms, insignia and medals.** For a uniformed portrait, keep the full image and make linked detail crops of the cockade, belt buckle, shoulder straps, badges and awards. Date each regulated element from its cited introducing order or a medal's establishment, and treat that as an earliest bound for the picture. Where an order set a later date for wear, take the earliest bound from that date: in [S21], a contributor cited a 1907 order prescribing wear from 1909. For a fur-cap emblem a contributor cited abolition in January 1914, yet the owner dated the portrait showing it to November 1914 [S21]. Check actual wear before treating withdrawal as a latest bound. A jubilee medal's eligibility rule limits which candidates could have worn it; keep that apart from the photo-date bound. Record each order or statute as cited. A worn medal does not prove whose award it was.
 
@@ -139,6 +179,8 @@ Test an inherited, profile or published identification for consistency, never by
 On a deceased candidate's FamilySearch person page, open **Sources**, select the attached census and follow its citation to the census schedule [S75 @2026-11-18].
 
 **Named sitters as date limits.** When a group photograph's sitters are named by a caption or an attributed account, and their birth years are documented independently, use them as date limits. A named child shown sets an earliest possible date. A documented sibling missing from the image may suggest a latest one. Record each limit with the identification and the document it rests on. An absent child may simply have been elsewhere, and one wrong attribution moves the whole range. Do not assign names from appearance to make the limits fit. In one family group, a caption named a woman holding a child, but the researcher still questioned who she was and whether an older son was missing [S20]. A date limit that depends on either person remains conditional.
+
+For an already attributed sitter with a documented birth date, add a broad estimated age range to the birth date to get a provisional sitting window. Record the apparent age and the attribution it depends on. If multiple sitters' windows disagree, keep the disagreement in the date table [S86].
 
 **Keep the two directions apart.** A date bound derived from a naming cannot then test that same naming. If the earliest date rests on a named child's birth year, the image fitting that date says nothing for the child's name. Test a naming only against bounds that do not depend on it, and mark in the date table which bounds rest on which namings.
 

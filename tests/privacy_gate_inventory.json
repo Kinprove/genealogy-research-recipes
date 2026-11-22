@@ -3946,5 +3946,59 @@
   "kind": "upload",
   "action": "select **Record** and **Start recording**",
   "checkpoint": "Recording in MyStories sends the storyteller's voice and any details about living people in the account to MyHeritage for transcription"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "contact",
+  "action": "Use the match's **Contact** control",
+  "checkpoint": "A message may disclose the family connection"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "contact",
+  "action": "Ask a descendant in the relevant branch what they recognize",
+  "checkpoint": "A message may disclose the family connection"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "Share a marked copy privately within the cleared scope",
+  "checkpoint": "A message may disclose the family connection"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "submit a JPEG copy via **Post Photos**",
+  "checkpoint": "The scan and its descriptive clues go to Dead Fred for public posting"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "open the thumbnail of a photo already on the site to trigger PhotoDater",
+  "checkpoint": "With PhotoDater enabled, opening an eligible undated image lets MyHeritage process the image"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "open each undated image to request its estimate",
+  "checkpoint": "With PhotoDater enabled, opening an eligible undated image lets MyHeritage process the image"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "Use **Save** on a corroborated estimate",
+  "checkpoint": "Saving or editing the year records dating information about the photographed people"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "Replace a saved estimate when the sitting's date is established",
+  "checkpoint": "Saving or editing the year records dating information about the photographed people"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "check for a **Photos** tab and open an already tagged image",
+  "checkpoint": "With PhotoDater enabled, MyHeritage may process an undated photo on its servers"
  }
 ]
