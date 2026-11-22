@@ -3934,5 +3934,17 @@
   "kind": "contact",
   "action": "name the primary Legacy Contact and a backup",
   "checkpoint": "Naming Artifcts Legacy Contacts sends those people's email addresses to Artifcts"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "upload",
+  "action": "use that microphone to record the story for the open photo",
+  "checkpoint": "Saving a photo story sends the narrator's voice and any details about living people in the recording to MyHeritage"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "upload",
+  "action": "select **Record** and **Start recording**",
+  "checkpoint": "Recording in MyStories sends the storyteller's voice and any details about living people in the account to MyHeritage for transcription"
  }
 ]
