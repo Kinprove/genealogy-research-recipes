@@ -10,8 +10,8 @@ guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "A personal-
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 44}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 48}
 ---
 
 # Search a genealogical periodical index and retrieve the article
@@ -45,6 +45,8 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 
 - **Search GPAI as well for English-language periodicals of 1962–2001.** The Genealogical Periodical Annual Index is a separate printed index, published yearly from 1962 to 2001 and indexed by surname, location or topic [S36]. A Library of Congress guide, read in its 2009 capture, shows the depth changing by volume. Volumes 1–4 (1962–65) are arranged by broad subject, article title, principal surname, author and place. Volumes 5–8 (1966–69) are arranged by male personal name, place, subject and author. Volumes 13–30 (1974–91) are arranged by personal name (surname and given name), locality and topic. The guide lists volumes 9–12 as not yet published [S35]. A PERSI miss for those years says nothing about GPAI. Record which volumes you searched and how each was arranged, and don't treat a woman's name missing from volumes 5–8 as a negative. One presenter recommends GPAI for articles about the research area but calls it hard to use (partial read: transcript excerpts only) [S37].
 
+- **Search Jacobus for early U.S. genealogical periodicals.** Look up Donald Lines Jacobus's *Index to Genealogical Periodicals* in library catalogues under the original volumes (1932, 1948 and 1953) or the Genealogical Publishing Company reprint from Baltimore (chapter reading, partial read) [S48]. The 1978 reprint combines all three volumes in one [S49]. Use the periodical's publication year to choose a starting volume: volume 1 through 1931, volume 2 for 1931–1946, and volume 3 for 1947–1952. Check both volumes 1 and 2 for 1931. Search by surname, personal name or locality and check which issues of the periodical the volume indexed before interpreting a miss. Continue with PERSI or the journal's own index for years or titles outside Jacobus's coverage. [S49]
+
 ## Build the query set from place, jurisdiction and event
 
 - **Write the locality list first.** Before searching, list the ancestral place's jurisdictions: civil, parish, court or district, and region. Use the list for locality searches and when scanning tables of contents. [S12]
@@ -72,6 +74,14 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 - **Use Article Title Keyword for distinctive places or events.** Enter a distinctive town name of at least five characters and scan the titles for the right town [S38 @2026-11-18], [S39 @2026-11-18], [S42 @2026-11-18]. When an event name brings up several occurrences, filter the **Article Title** column by the event year. Leave **Publication Year** alone and check the unfiltered titles for articles that omit the year. [S38 @2026-11-18], [S39 @2026-11-18]
 
 - **When the original record is lost, look for a printed transcription.** Society periodicals printed abstracts and transcriptions of local records, cemetery transcriptions among them, and PERSI indexes those articles [S33], [S34]. A transcription located through the index preserved information from records later lost in a fire, according to the ACPL account (partial read: transcript excerpts only) [S30]. Before reporting a destroyed record's content as lost, search the place with that record type. Cite and weigh what you find as a derivative of the lost original, not as the original.
+
+- **Find *Family Tree Magazine* articles by publication year.** Start with the index covering the year the article appeared (issue preview, partial read) [S45].
+
+  Open the public [combined 2000–2004 index](https://familytreemagazine.com/wp-content/uploads/2017/08/ftmindex.pdf) for those years [S47 @2026-11-21]. The publisher's [article index page](https://familytreemagazine.com/freebie/article-index-downloads/) offers the PDF bundle at no charge and requires an email address on its download form. Search the relevant index by subject and use the listed issue date and page number to retrieve the article from the back issue. [S46 @2026-11-21]
+
+  **Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting the download form sends the user's email address to Family Tree Magazine. Answer the [privacy gate](../SKILL.md#privacy-gate) in writing first.
+
+  Submit the magazine's index download form only after clearing the gate. If the form route is unavailable, look for a public PDF for the publication year or browse the magazine's issue contents.
 
 ## Carry every hit to the article
 

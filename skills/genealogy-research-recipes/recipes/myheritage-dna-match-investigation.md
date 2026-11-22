@@ -68,20 +68,57 @@ working loop and records, rather than another clustering or cM interpretation me
    session header, then save and recheck the association.
    The documented reassignment procedure does not apply to DNA Health kits.
 
-**Privacy gate:** <!-- privacy-gate: publish --> Sharing a kit's results gives another person a
-living tester's DNA matches and family tree; answer the privacy gate in `SKILL.md` first.
+On desktop, open the **DNA** tab if it appears on your own tree profile or on a relative's
+profile for a kit you manage. Select the tested person's available results [S61 @2026-11-21].
+If the tab is missing, open **DNA → Overview** and check which tester is selected
+[S62 @2026-11-21].
 
-To let a helper such as a DNA coach work a kit, do not give them the account password:
-MyHeritage prohibits that under its Terms of Service [S1 @2026-11-12]. Use Manage DNA kits →
-the kit's three-dot menu → Share DNA results with a collaborator; only someone allowed to
-invite members to the kit's family site can send the invitation [S2 @2026-11-12],
-[S3 @2026-11-12]. The collaborator can view the matches, ethnicity estimate and Genetic
-Groups, contact matches, and view or edit the tree as its settings allow. The collaborator
-cannot download raw data, delete, reassign or reshare the kit, or change its DNA privacy
-preferences, and does not see the notes and labels already on the matches [S2 @2026-11-12],
-[S1 @2026-11-12]. MyHeritage's 2024 announcement adds that the collaborator needs two-factor
-authentication and that a kit can have only one collaborator [S1 @2026-11-12]. Remove results
-sharing, on the same menu, ends the access [S2 @2026-11-12].
+**Privacy gate:** <!-- privacy-gate: publish --> Sharing a kit's results gives another person a
+living tester's DNA matches, ethnicity estimate, Genetic Groups and family-site access
+[S2 @2026-11-21]. That can expose living people in the matches and tree. The invitation sends
+the collaborator's email address to MyHeritage [S2 @2026-11-21]. Answer the privacy gate in
+`SKILL.md` first.
+
+Before inviting a collaborator, review the linked family site's tree permissions. Acceptance
+gives the collaborator family-site membership [S1 @2026-11-21], [S2 @2026-11-21]. For view-only
+tree access, open **Family Tree → Manage trees → Edit tree settings → Permissions**. Restrict
+editing to the webmaster, or allow the webmaster and site managers if the collaborator is a
+regular site member [S1 @2026-11-21], [S63 @2026-11-21].
+
+Keep your account password private when a helper such as a DNA coach works a kit
+[S1 @2026-11-21], [S3 @2026-11-21]. Use **DNA → Manage DNA kits** → the kit's three-dot menu →
+Share DNA results with a collaborator; only someone allowed to
+invite members to the kit's family site can send the invitation [S2 @2026-11-21],
+[S3 @2026-11-21]. Use this workflow for an adult tester and adult collaborator. Verify that
+the collaborator has two-factor authentication on their own account before they open the
+results [S1 @2026-11-21]. With the gate cleared, enter the collaborator's email address and
+click **Share**. MyHeritage prompts invitees without an account to create one upon acceptance
+[S2 @2026-11-21].
+
+Check the arrow beside the kit number in **Manage DNA kits** before assigning any kit work.
+Yellow means the invitation is pending, and green means the collaborator accepted
+[S2 @2026-11-21]. Hover over the arrow to verify the collaborator's name if shown
+[S1 @2026-11-21].
+
+After accepting an invitation, choose the tester's entry with the shared-kit label in the DNA
+kit selector. Verify the selected tester before reviewing **DNA Matches**, **Ethnicity Estimate**
+or **Genetic Groups** [S1 @2026-11-21], [S2 @2026-11-21]. The collaborator can contact matches
+and view or edit the tree as its settings allow. The collaborator cannot download raw data,
+delete, reassign or reshare the kit, or change its DNA privacy preferences, and does not see
+the notes and labels already on the matches [S2 @2026-11-21], [S1 @2026-11-21].
+
+To change collaborators, check who already has access in **Manage DNA kits**. MyHeritage's
+sharing announcement describes one collaborator per kit [S1 @2026-11-21]. In the kit's
+three-dot menu choose **Remove results sharing** and confirm. Check that sharing has ended,
+then send the replacement invitation through the privacy gate above for the new recipient
+[S1 @2026-11-21], [S2 @2026-11-21], [S3 @2026-11-21].
+
+If the former collaborator should also lose tree access, check their membership separately in
+**Home → Site members** [S64 @2026-11-21].
+
+To end your own access as a collaborator, find the kit at the bottom of **Manage DNA kits** and
+choose **Remove shared kit** from its three-dot menu. This removes the kit from your access list
+[S1 @2026-11-21], [S3 @2026-11-21].
 
 **Privacy gate:** <!-- privacy-gate: export --> Downloading a raw DNA file exports the tested
 person's genetic data; answer the privacy gate in `SKILL.md` before downloading it.
@@ -435,6 +472,10 @@ missing from the linked tree. List them for the deceased-only extension above [S
    tree belongs to; it is not automatically A's tree.
 4. Form one bounded question for A or the manager, such as a grandparent's birth surname and
    birthplace, or whether a specified documented ancestor appears in their tree.
+
+Apply the [Living people rule](../SKILL.md#living-people) and skip **Site memberships** on a
+living match's member profile [S61 @2026-11-21]. Use the match's accessible tree or a relevant
+shared match's pedigree for the family-history lead [S65 @2026-11-21].
 
 For a geography question, compare the tester's and match's **Genetic Groups** on **Review DNA
 Match** if that panel is visible. Use a shared group to choose a place to investigate and check it

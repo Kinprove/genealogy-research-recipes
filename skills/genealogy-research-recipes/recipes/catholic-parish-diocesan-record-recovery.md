@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 174}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 190}
 ---
 
 # Recover a Catholic sacramental entry through parish, diocesan and successor holdings
@@ -61,6 +61,8 @@ Treat burial separately. In the Archdiocese of Philadelphia, the archdiocesan ce
 
 ## 4. Treat an online miss as a coverage question first
 
+**Early registers.** Use the local inventory to establish the first surviving year for the place and sacrament. The Council of Trent's 1563 decree called for marriage registers and for recording baptismal sponsors [S64], [S65]. Search for earlier books when the event predates the decree. Florence's San Giovanni baptistery began recording baptisms in 1450 [S66].
+
 Before you record "not found", check:
 
 - **Closure period.** The Southwark diocesan guidance sets a 110-year restriction on information from parish registers and lists exceptions [S53 @2026-11-19]. A 2021 presentation gave 1907 as a collection endpoint [S13 @2026-11-19]. Findmypast's baptism list gives a later end for individual parishes, including 1916 for Holbeck, St Francis [S54 @2026-11-19]. Check the parish and record type before interpreting a missing year.
@@ -109,6 +111,8 @@ If several baptisms are entered under one date, the priest may have gathered not
 When a priest supplied the ceremonies for a child already baptized privately (*ondoyé*), record the private baptism and the later church ceremonies separately. A valid baptism could be given in danger of death, with the other ceremonies supplied later [S44]. At Port-Royal in 1742, Honoré was born on 17 June. The entry says Abraham Bourg baptized him at his father's house and that the priest supplied the ceremonies on 24 June. It does not give a separate date for the baptism at home [S45]. Copy the lay baptizer's name and the place as written. Acadian families could wait for a missionary to record a baptism [S46]. Bourg also appears as lay baptizer for children in 1709 and 1719 [S47]. Use that recurrence to search for neighbours or relatives, and verify the family's residence in a dated record.
 
 ## 7. Read names in sacramental entries
+
+**Register language.** Determine the language from the entry and its neighbours before transcribing names. Check for Latin and the local language on either side of Vatican II, whose language provisions concerned worship [S64], [S67]. Early St. Augustine sacramental records include Spanish and Latin [S68]. For a Latin entry, keep the recorded form and use the West Yorkshire Archive Service's *Roman Catholic Latin Glossary* to interpret case endings and identify possible name equivalents [S69].
 
 **Additional saints' names.** Check whether a local baptismal custom accounts for an added saint's name [S48]. In late-15th-century Florentine baptisms, *Romolo* or *Romola* added after the other given names can reflect devotion to a local saint [S49]. Keep the names in the recorded order. Do not use a shared *Romolo* or *Romola* by itself as evidence of kinship.
 

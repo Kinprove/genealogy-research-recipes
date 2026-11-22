@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 72}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 78}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes
@@ -741,4 +741,4 @@ or seeking rehabilitation is a separate action requiring the user's scope and cu
 
 ## Sources
 
-[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).
+[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).

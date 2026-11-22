@@ -34,6 +34,10 @@ Read candidate-bearing passages in the available corpus before fixing the search
 
 Keep observed spellings, dictionary forms and generated possibilities in separate columns. A remembered list is a starting set, not an exhaustive inventory; corpus discovery is also not a guarantee of completeness. Review matched surface forms with context before interpreting counts. Short stems can match ordinary words, place names and unrelated surnames.
 
+In historical English-language records, search a written name abbreviation and its supported
+expansion separately. For `Wm.` or `Wm`, try the written form and `William` [S64, S66]. Keep the
+abbreviation as written in the attestation inventory.
+
 Before comparing an immigrant’s names across records, record the original spelling and
 pronunciation. Add attested regional nicknames and relevant religious forms, such as Hebrew,
 Greek or Latin forms, to the query inventory [S60]. Use the pronunciation to propose spellings a
@@ -78,6 +82,12 @@ In Pennsylvania German baptisms, search each given name separately. A family cou
 ## Diagnose three different failures
 
 When a supported spelling fails in separate given-name and surname fields, run a controlled trial with those fields exchanged. Ancestry’s collection guidance explicitly recommends this diagnostic [S50]. Inspect the displayed record and image to determine where the index put each name; preserve that field placement in the search log rather than changing the person’s name to fit the index [S54].
+
+When a search for a deceased person under their usual first and last names fails, keep the
+collection, place and date filters fixed. Search with the known middle name or nickname as the
+only given name, keeping the usual surname [S64, S65]. In a separate query, pair the usual given
+name with the known middle name in the surname field [S64, S65]. Check the full record before
+assigning a name role.
 
 | Failure | Controlled comparison | Limitation |
 | --- | --- | --- |
@@ -198,6 +208,10 @@ give two instances and no conversion rules. A reconstructed vernacular name is o
 For Polish-orthography and Latin given-name lanes in Galician registers, see
 [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
+When searching for the given name Rose in records from medieval England, test Roese and Rohese
+separately [S64, S67]. In Latin records from the same period and place, also test Roesia and Rosa
+[S68].
+
 ## Retrieve through another recorded participant
 
 When the target name may be misread, try an independently known co-listed household member
@@ -212,6 +226,13 @@ Use only syntax supported by the actual field, without transferring another data
 For a recorded surname prefix, test the joined, spaced and punctuation forms relevant to that name: IrishGenealogy lists O’Brien, O Brien and Obrien [S47]. Check whether a Dutch index files under the surname root or provides a separate prefix field; Hoitink explains the Raalte/van Raalte arrangement and discusses joined forms [S48]. Log each query and keep the literal record spelling rather than permanently stripping prefixes from the attestation inventory [S51] [S52].
 
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
+
+**Check damaged text in saved HTML.** When Cyrillic displays as garbled text or replacement
+characters, preserve the original bytes. Use a byte-order mark, the saved HTTP `Content-Type`
+if available, and the HTML charset declaration to choose how to decode a working copy [S69].
+Compare a known Cyrillic passage with the browser rendering or another verified reading before
+rerunning the search. If only the damaged text remains and you cannot verify a recovery, record
+the search as incomplete.
 
 Remote services may normalize differently from local code. Submit original and transformed queries separately and compare returned identifiers. Check only the syntax needed for the task; do not transfer local regex, wildcards or Boolean syntax to an undocumented interface.
 
@@ -260,4 +281,4 @@ Keep the corpus/index version or access date, field, exact Unicode query, filter
 
 A successful search can still have incomplete coverage. A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested. When a newly attested form changes an earlier negative, rerun the affected searches and amend that specific conclusion. Do not infer kinship from the rescued name hit.
 
-For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).
+For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).

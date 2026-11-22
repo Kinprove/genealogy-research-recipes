@@ -239,4 +239,4 @@ Record which sides of loose documents an image copy shows; filming can miss a pa
 
 Deliver the literal passage and verified fields, the exact inspected locator, coverage actually achieved and remaining gaps. For OCR retrieval use [corpus-seeded-name-search.md](corpus-seeded-name-search.md); for household reconstruction use [jewishgen-search-family-reconstruction.md](jewishgen-search-family-reconstruction.md).
 
-Sources and the distinction between provider facts and workflow synthesis: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/archival-image-coverage-verification.md).
+Sources and the distinction between provider facts and workflow synthesis: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/archival-image-coverage-verification.md).

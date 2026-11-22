@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 130}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 139}
 ---
 
 # Trace an African American ancestor across the 1870 boundary
@@ -53,6 +53,8 @@ Each section below blocks one of these mistakes.
 
 ## 1. Test free versus enslaved status first
 
+Use the 1870 federal population schedule to anchor a named household after emancipation. When earlier freedom is plausible, search the 1790–1840 federal schedules for the free Black household head. Use other members’ tallies to guide the household search and look for records that name them [S114], [S133].
+
 - **Check before assuming.** Before moving to enslaver-side records, look for the household as free people of color in the 1850 and 1860 population schedules, which name free people of color. The slave schedules, by contrast, list enslaved people mostly by age, sex and color under the slaveholder's name. If the free-household search fails, move to enslaver-side records [S17], [S10]. A free household found in 1850 or 1860 shows freedom at that census date only. Record it with that date, and if the family could have been enslaved earlier, still search for the will, deed, purchase or manumission that freed them [S2]. Make a status table with three values (free, enslaved, unknown), each with its evidence and date. A failed name search sets the status to "unknown", not "enslaved".
 - **Date the status evidence.** Compare the date the will was written with the date emancipation took effect locally. A Texas will bequeathing Mariah and her son Bob in April 1864 reached probate in September 1865, after emancipation, without specifying their status at probate [S26]. Enter the bequest at the writing date.
 - **Free people of color in court records.** Search available court minutes and registration books for the phrase “free man of color” and related terms. The 1863 court terms for Richmond County, Georgia, are a lead for registrations [S2]. Transcribe abbreviations such as FPC, FMC and FWC literally [S5].
@@ -87,6 +89,10 @@ According to the Just Genealogy livestream excerpt, Dorothy Provine’s register
 For Boston, look in the Overseers of the Poor’s almshouse records for entries that describe a person as enslaved or formerly enslaved. Record the status the entry states and leave it open when the entry gives only an admission [S94], [S96].
 
 Search period vocabulary as well as modern subject terms. In North Carolina material, the UNC Greensboro exhibit identifies terms such as absconding, truancy, eloping and running away. Combine the terms actually used by the local records with place and date; do not expect a contemporary heading to use a modern research label. [S73], [S74]
+
+According to Just Genealogy, Paul Heinegg’s *Free African Americans of North Carolina, Virginia, and South Carolina, From the Colonial Period to About 1820*, sixth edition, is a starting point for early free families [S123†]. Use the full-name index in each volume and follow the family entry to the tax, court, church or other record it cites. Check what that record establishes about status and kinship [S130].
+
+According to Lindsay Fulton, the 10 Million Names census map can help compare the distribution of free and enslaved populations [S115† @2026-11-21], [S121 @2026-11-21]. Use it to compare candidate localities. Determine individual status from records about the person.
 
 ## 2. Look for a document that names the enslaver
 
@@ -151,6 +157,10 @@ Read the expense clauses in a sharecropping agreement alongside the promised fra
 
 Search American Ancestors’ 10 Million Names databases for people enslaved in what became the United States. Include the collections about free and freed people and their communities when tracing a person across emancipation [S94 @2026-11-18], [S95 @2026-11-18].
 
+According to Lindsay Fulton, the flagship pages are a way to identify relevant collections and check whether they can be searched [S115† @2026-11-21]. Open 10 Million Names’ Five Flagships page, choose the theme that fits the question and check its Completed and Upcoming database lists before logging search coverage [S116 @2026-11-21], [S117 @2026-11-21], [S118 @2026-11-21]. For freedom suits, Underground Railroad testimony and mariners, start with Journeys to Liberation. For New Bedford, check the coastal-town biographical entries and the offshore whaling crew and voyage lists [S117 @2026-11-21].
+
+Use the project search for broad coverage and open the individual database when the ancestor’s historical place points to a specific collection [S119 @2026-11-21]. According to Lindsay Fulton, a given-name search is useful for records of enslavement [S115† @2026-11-21]. When the form permits it, leave the surname blank and narrow by the known historical place.
+
 For a promising 10 Million Names hit, check the collection description for a named contributor. Use the contributor’s own site for the historical context and related records. For example, the project credits the Newport Historical Society for its Newport database, and the society describes the primary sources it used [S94 @2026-11-18], [S97 @2026-11-18], [S98 @2026-11-18].
 
 For someone who escaped enslavement, search contemporary newspaper reward advertisements placed by enslavers, including issues from before 1850. Use terms such as “ran away” and “reward” with the person’s name or the place [S87], [S88].
@@ -196,6 +206,10 @@ Enslaved people appear in records of the enslaver's personal property: sale noti
 
 When a purchase names an estate as the seller, pull that estate’s probate file under the decedent’s name. Check its inventory and distributions for the person and any relatives named there. Follow the seller’s file even when a buyer purchased from an in-law’s estate [S84], [S85].
 
+For antebellum estate and private sale records, start at the county level under the candidate enslaver or decedent. Check state and local catalogues for probate, court order and deed books. The National Archives holds federal records, so a miss there leaves the local search open [S114 @2026-11-21], [S85 @2026-11-21].
+
+According to Lindsay Fulton, an unnamed estate entry gives a lead to other records of the same holder [S115†]. Search under that holder in personal-property tax lists, deeds and family papers in university special collections. Compare the tax counts and look for names in transactions, account books and other papers tied to the holder [S122], [S92].
+
 - **Search heirs’ chancery suits.** Inspect the pleadings, exhibits and disposition when an inventory or will omits a person, including children born after the will was written. William Kee’s heirs disputed who inherited Tissa but agreed that she was Hannah’s daughter [S59]. Record what the parties agreed on separately from what they contested. Search the county equity court and any state appeal. Virginia chancery exhibits can give names, ages and relationships [S72]. To locate the file, use [court case file recovery](court-case-file-recovery.md).
 
 ## 5. Build a per-document register of named enslaved people
@@ -222,9 +236,17 @@ Rules for reading the register:
 
 In a plantation list with explicit mother–child groups, look for daughters listed elsewhere in the same record as mothers. Record each stated relationship on its own, and keep the link between the two entries tentative until their details agree [S84], [S86].
 
+When an inventory gives ages and sex without names, carry those descriptors and the count into the next search under the same holder. According to Lindsay Fulton, these details can suggest a family group [S115†]. Test the grouping against other records and keep kinship tentative until a record identifies the relationship [S97].
+
+If a pre-emancipation entry names the person and the 1870 census search misses, keep the earlier name and locator in the register. According to Lindsay Fulton, a different name is one possible explanation [S115†]. Search the 1870 census again by given name, approximate age and locality, with the surname open, and leave the link unresolved if the evidence still falls short [S122].
+
 Keep an honorific separate from a relationship. The Natchez Trace history describes aunt and uncle as respectful forms of address for older Black people. A person called Uncle in a narrative is therefore a candidate relative only when other evidence supplies the kinship; copy the wording without manufacturing a parent-sibling connection. [S80], [S81]
 
 For North Carolina emancipation research, search county court records and the State Archives’ Records of Enslaved People collection, PC.1629, alongside Quaker meeting papers. Read the collection guide’s provenance notes: it combines originals and copies, and some selected copies have uncertain provenance. Identify the actual document and originating county or collection before treating a finding-aid entry as a complete county search. [S82], [S83]
+
+According to Just Genealogy, *In Full Force and Virtue: North Carolina Emancipation Records, 1713–1860* is a lead for manumission [S123†]. Search Byrd’s index and use both “emancipation” and “manumission” in the underlying record series. Check whether the document records a petition or a grant of freedom before assigning a status or date [S128], [S131].
+
+According to Just Genealogy, Byrd’s *North Carolina General Assembly Sessions Records: Slaves and Free Persons of Color, 1709–1789* is a starting point for colonial and early state legislative activity [S123† @2026-11-21]. Use its entries to identify the session and look for the petition, bill or other session paper in the State Archives’ North Carolina Digital Collections [S128 @2026-11-21], [S129 @2026-11-21].
 
 ## 6. Check segregated series before calling a search negative
 
@@ -234,6 +256,10 @@ For North Carolina emancipation research, search county court records and the St
 
 Search for both Black and white names in Byrd and Smith’s North Carolina county volumes. According to the Just Genealogy livestream excerpt, names of white people appear in these sources too [S99†]. The Mecklenburg, Gaston and Union volume has a full name index and a table of civil and criminal cases [S102].
 
+According to Just Genealogy, the county compilations include both stand-alone and combined titles [S123†]. Choose the volume for the historical county. Look under combined titles for Burke, Lincoln and Rowan, for Hyde and Beaufort, for Mecklenburg, Gaston and Union, and for Stokes and Yadkin [S124]. Perquimans, Pasquotank, Iredell and McDowell have separate titles [S124]. Check both Chowan volumes [S125], [S126].
+
+According to Just Genealogy, the case tables are a route to civil and criminal proceedings [S123†]. Use the table as well as the name index in both Chowan volumes and Pasquotank. Check the pertinent petitions, actions and miscellaneous sections, and log a miss against the volume and coverage you actually checked [S125], [S126], [S127].
+
 Keep a coverage log of every series checked.
 
 ## 7. Keep narratives and DNA as separate tests
@@ -241,6 +267,10 @@ Keep a coverage log of every series checked.
 - **WPA narratives.** The Federal Writers' Project interviews (1936–1938) hold more than 2,300 first-person accounts by former slaves. A narrative from the same birthplace or birth year gives locality context. It is not evidence about the ancestor. Note the narratives' limits: memories more than 60 years old, uneven transcription and reduced candor with white interviewers [S7].
 - **Handed-down accounts.** A family's account of an enslaved ancestor may not be a first-person narrative. It can be an oral history handed down over generations [S38]. Record its chain of tellers as [family interviews and oral tradition](family-interviews-and-oral-tradition.md) describes, and treat what it says as a hypothesis to test, not as the ancestor's own testimony.
 - **DNA.** DNA matches to descendants of a proposed sibling test one hypothesis [S15]. A Y-DNA surname mismatch is another. Neither proves who the enslaver or the father was. Route them to [Y-DNA interpretation](ydna-mtdna-interpretation.md) and [evidence/proof judgment](evidence-proof-judgment.md).
+
+According to Lindsay Fulton, the Remembering Slavery flagship points to Fisk and WPA interviews and other oral histories [S115† @2026-11-21]. Use the page to choose a testimony source, and check the completed list before counting the WPA index as searched [S118 @2026-11-21].
+
+For WPA testimony, go directly to the Library of Congress’s *Born in Slavery* collection and browse by interview state [S120 @2026-11-21], [S132 @2026-11-21]. According to Lindsay Fulton, interviews can supply names, relationships, enslavers and places [S115† @2026-11-21]. Extract each detail with its speaker, volume and page.
 
 ## Outputs
 

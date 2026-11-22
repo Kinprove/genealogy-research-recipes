@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 46}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 50}
 ---
 
 # Ask for a local repository's uncatalogued holdings before reporting a negative
@@ -26,6 +26,16 @@ for the onsite plan that separates finding an index from retrieving files. Use
 [evidence/proof judgment](evidence-proof-judgment.md)
 to weigh a compiler's knowledge and conclusions.
 
+## Contents
+
+- Bound what the empty catalogue covers
+- Check library guides and newspaper holdings
+- Ask about four categories by name
+- Log each category's access state
+- Cite the file layer, not the document it copies
+- Keep the compiler's conclusions as clues
+- Return
+
 ## Bound what the empty catalogue covers
 
 Treat an empty catalogue or online search as covering only the repository's processed, catalogued
@@ -33,6 +43,17 @@ holdings. Do not write "not held", "nothing found" or "searched [repository]" on
 The presenters describe vertical files as donated material that often never enters the card catalogue
 or indexed collection [S6], [S9]. They also describe accessioned donations waiting on shelves without
 being processed, filmed or put online [S1], [S2], [S3].
+
+## Check library guides and newspaper holdings
+
+Open the website of the library serving the town even after an empty catalogue search. Browse
+**Research**, **History**, **Resources**, or **Local Archives** for records, books and photographs.
+Follow links to local newspaper databases, genealogy sites and photo collections such as Flickr
+[S16, S17].
+
+For newspaper issues missing online, check the town's library, according to Anna Rose Johnson
+[S15†]. Match the newspaper title and dates against the local history guide's microfilm and print
+listings [S18, S19]. Keep any uninspected dates on the worklist.
 
 ## Ask about four categories by name
 

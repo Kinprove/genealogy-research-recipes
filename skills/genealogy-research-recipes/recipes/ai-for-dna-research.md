@@ -254,6 +254,12 @@ Do not turn a small ethnicity percentage into one ancestor at one generation. Fi
 8. **For a family connection, supply both family maps and the pair matrix.** Ask for placements that preserve the known relationships, dependent observations, missing comparisons, sensitivity to branch/generation coverage, and one next discriminating check. Do not request a separate best parent for each sibling or an AI-computed combined probability.
 9. **For a multiply related match, ask for interval and role decisions.** Separate supported overlap from unresolved overhang; name the actual alternative ancestral paths; distinguish a cluster seed, a pedigree-validation helper and a scored focal match. Require a reason for each working inclusion or omission.
 
+10. **Find usernames that appear on both supplied DNA match lists.** Compare the two username columns from the same testing service on the user's device [N97]. Keep each exact, nonblank overlap once. If a username could refer to more than one kit, check the supplied kit-level identifiers and leave unresolved matches ambiguous. Record each list's date and any known filters. Treat the result as overlap in those two supplied lists. Require segment evidence before calling a shared match triangulated [N98].
+
+    **Privacy gate:** <!-- privacy-gate: third-party-tool --> Sending the two coded match columns to a chatbot discloses each living match's coded membership in the testers' lists. Answer the privacy gate in `SKILL.md` first.
+
+    If the privacy gate clears, give the chatbot only the two columns of match codes and ask it for the exact codes present in both. Use the same code for the same match in both columns, keep the key on the user's device and check the result against both source lists.
+
 ## Worked mini-examples (workflow logic, not clicks)
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool, export --> These workflows export match cM and segment data to files and hand match screenshots, CSVs and GEDmatch coordinates to AI tools and DNA Painter; answer the privacy gate in `SKILL.md` first.

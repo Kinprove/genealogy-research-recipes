@@ -11,7 +11,7 @@ handoff: ["missing-marriage-jurisdiction-search", "us-period-law-record-reading"
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 135}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 144}
 ---
 
 # Recover Pennsylvania marriage licenses, returns and state copies
@@ -33,6 +33,14 @@ Check separately for the application, issued license and officiant’s return or
 ## Check the incomplete state copy series
 
 For marriages in 1885–1891, check the state’s incomplete *Record of Marriages* in RG 14 alongside the county record. Compare recorded birthplace, residence and date field by field. The reading room series extends past the dated images linked from its older state scan interface. A miss in the state listing leaves the county search open. [S3 @2026-11-18], [S4 @2026-11-18]
+
+## Compare city returns and congregation registers
+
+According to the interview, check the officiating congregation’s marriage register and any separate city marriage return even after finding the county filing for a historical Pennsylvania marriage. [S7†], [S8] Compare the surviving entries for the same ceremony field by field.
+
+For a ceremony in Philadelphia from 1 July 1860 through 31 December 1885, check the city marriage records at the Philadelphia City Archives. Use the officiant’s name and the quarter of the ceremony to locate the Board of Health return. [S9 @2026-11-21], [S10 @2026-11-21]
+
+For a Catholic ceremony in the same period, look for the parish marriage register in the Philadelphia Archdiocese’s digitized sacramental records. [S11 @2026-11-21]
 
 ## Treat a bond as evidence of intended marriage
 

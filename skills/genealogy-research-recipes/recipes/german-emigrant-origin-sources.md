@@ -11,7 +11,7 @@ handoff: ["german-register-image-recovery", "russian-empire-emigrant-origin-reco
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 87}
+router: {"section": "Records by country and region", "group": "Germany", "order": 93}
 ---
 
 # Trace a German emigrant's home town through emigration files, indexes and the parish register
@@ -94,6 +94,17 @@ For each state-archive database, record its geographical coverage and the source
 - **Hessen.** The Hessisches Landesarchiv identifies the Darmstadt, Marburg and Wiesbaden indexes in the LAGIS *Hessische Auswanderer* module. In Marburg, the underlying HESAUS index draws on names in multiple record series [S21 @2026-11-19]. Check the office and dates before interpreting a miss.
 
 The Baden-Württemberg database comes from 1970s index cards centred on 1850–1900. Do not assume either database covers every year or every district. Write down the years and places that your village's entries actually span. A miss outside that span means nothing.
+
+**Rhineland.** For a deceased emigrant who may have left the Rhineland in 1814–1939, search
+MyHeritage’s *Germany, Rhineland Emigrants, 1814-1939* index by name. Narrow the search with
+any known birth year, origin, departure year or destination [S24 @2026-09-19], [S25 @2026-09-19].
+Use the indexed origin as a candidate locality for the register search in § 7.
+
+For an archival file reference, search Landesarchiv NRW’s *Auswanderer aus dem Rheinland*,
+Findbuch 200.01.01, by surname. Check the listed offices and the finding aid’s own span
+(1816–1934) before interpreting a miss. Copy the fonds, file number and folio. If the cited
+folio records only the formal release, look on the preceding folios for the application
+[S26 @2026-09-19].
 
 A miss counts only for the index's stated extent. Record it as "not in [index], which covers X and excludes Y". Do not record it as "not from [state]". Also search across levels and landscape areas, not just the one unit you first identified. [S1], [S2]
 

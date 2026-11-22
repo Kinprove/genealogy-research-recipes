@@ -10,7 +10,7 @@ guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a comple
 handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-empire-emigrant-origin-recovery", "source-citation", "unknown-parentage-wato"]
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"
-capabilities: {"browse": ["FamilySearch Catalog", "Ancestry Card Catalog", "Fold3"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
+capabilities: {"browse": ["FamilySearch Catalog", "Ancestry Card Catalog", "Fold3"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": ["contact"]}
 router: {"section": "Research method", "group": "Evidence and proof", "order": 3}
 ---
 
@@ -21,6 +21,7 @@ example an [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
 
 ## Contents
 
+- Reopen a stalled question
 - Research log
 - Turn locality coverage into the next searches
 - Find a manuscript collection's holder
@@ -30,6 +31,24 @@ example an [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
 - Research report
 - Find earlier projects for a person
 - Sources
+
+## Reopen a stalled question
+
+Frame the question around the person and the relationship, event or identity to resolve. If a
+family story bundles claims, turn its prerequisite into a question with its own evidence. For
+example, ask which woman married the subject, then whether the identified woman was a
+particular man's daughter [B43]. Keep the parentage claim conditional while the spouse's identity
+remains unresolved.
+
+Before opening another collection for a stalled question, inventory the earlier claims the plan
+depends on and their cited records. Recheck whether each record concerns the right person and
+supports the claim.
+Flag inherited assumptions, conflicts and sources held only as indexes or extracts. Put checks
+that can remove a premise from the plan near the front, including reading a document already in
+hand or retrieving the record behind an extract. Choose a short first round from the wider list.
+When a result changes the premise, link the log entry to the affected tasks and record which
+searches move up, wait or drop out. Taplin's and Dyer's planning examples illustrate this
+sequence [B44], [B45].
 
 ## Research log
 
@@ -46,6 +65,17 @@ place/date coverage, exact query or browsing range, and the result. Link the ent
 Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
+
+For a faded immigration entry, transcribe what you can read and mark the illegible spans.
+Keep the document number and the exact location in the image with the partial reading [B42].
+
+**Privacy gate:** <!-- privacy-gate: publish --> Posting an immigration-record excerpt or question
+can expose details about the traveler and other people named in the record to the genealogy forum
+or social media group and its audience. Answer the privacy gate in `SKILL.md` first.
+
+If you still need a second reading, post only the cropped, redacted excerpt and the question
+needed to read it to a genealogy forum or social media group after clearing the gate. Log each
+suggestion with its contributor and check it against the image before adopting it [B42].
 
 A web search-engine query, including a `site:` query, does not search a site's internal database.
 Run the site's own search across the name variants (such as Cyrillic е/ё spellings and -ев/-ов
@@ -64,6 +94,10 @@ covers only that database.
 
 If a search went unlogged, use the browser history for the relevant dates to reopen the pages that were visited [B3](https://www.youtube.com/watch?v=BSOrsobztYY). Reconstruct the citation and log entry from the record, and label the entry as reconstructed. A visited URL cannot tell you which names you tried or which results you dismissed. Leave an undocumented search open.
 
+If source wording and researcher comments share one field, label the portions `Source` and
+`Analysis`. Keep the labels when copying an extract to another note or printing a log. If you
+also use colour, keep its legend with the log so the distinction survives a handoff [B46].
+
 When building a timeline, keep the date as written, its source locator and stated precision
 separate from any derived sort key. If software supplies a synthetic first day to order a
 month-only date, label that value as an ordering convention and do not export it as the event
@@ -73,11 +107,23 @@ The [timeline-sorting example](https://www.youtube.com/watch?v=8Smljk9Aink) repo
 date beside a generated first-of-month value. It motivates this distinction without
 establishing a current formula or interface contract.
 
+Give each distinct dated statement its own event row when one source supplies several. Repeat
+the document number and pinpoint locator, and record what each date refers to. A newspaper can
+give a notice date, its publication date and a scheduled hearing date. Label the hearing as
+scheduled until a record establishes what happened [B47]. When refreshing a timeline, compare the
+document number, locator and dated statement with existing rows before adding them again.
+
 For a set of multi-person records, assign each source item a document number and repeat it on one row per person mentioned. Record the person’s role and keep unresolved identities distinct. Filter by name to find occurrences across documents, then filter by document number to recover everyone named together [B5](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/). Multiple rows from one record add no independent evidence of kinship.
 
 To compare associates across record types, give each identified person or unresolved candidate a row and each dated source item a column. Order the columns by the recorded action or observation and retain their document numbers [B6](https://familylocket.com/rlp-257-alford-johnson-project-interview-with-michelle-mickelson-part-1/). Mark observed occurrences and use recurrent combinations to choose a distinguishing record. A blank cell leaves the occurrence unknown, and copies of a single record remain dependent. Keep the source log and occurrence rows behind the chart.
 
 Log the names actually searched in each resource, with the date and method. If you encountered another surname while extracting records, record the occurrence and queue a separate search before describing that surname as covered [B7](https://dna-explained.com/2024/06/14/genealogy-proof-series-extracting-and-recording-data-so-that-you-can-find-it/).
+
+When records give different names for a person or candidate, log each full name as written with
+the record date and citation. Compare the forms in date order. In the next search, start with
+forms recorded near the target date, including any middle name or nickname used in the given-name
+field [B41]. Keep the recorded forms alongside the working name and check identity against other
+details in the records.
 
 For a surname study in parish metrical books, keep separate lists of brides born with the surname and brides who took it at marriage, alongside the family groups [B8](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=). When a widow is recorded under a previous husband’s name, follow that marriage back one entry at a time. Look for her birth surname in the first marriage you can establish. Check the spouses, places and chronology against each original, retain age discrepancies and mark any marriage you could not locate.
 
@@ -256,6 +302,13 @@ The [research-log views example](https://familylocket.com/rlp-258-saving-views-o
 demonstrates filtering next steps and grouping them by repository. These are companion
 views of the log, not replacement search results or a requirement to use Airtable.
 
+Give each sent request its own dated correspondence entry. Retain the channel, the
+question asked and a private locator for the message. Link each reply to the request and
+record what the sender actually confirmed, including the scope they checked if stated.
+Carry an unanswered request as pending, and log a follow-up as a new dated entry linked to
+the earlier exchange. A sent message documents the request. The reply, if any, supplies the
+respondent's information [B50].
+
 ### Reconcile every task before producing an archive visit list
 
 For each event task, retain the person/event identifier, target record, archive
@@ -302,6 +355,32 @@ without imposing an additional approval process.
 State the person and question, list the records inspected, and explain which observations
 support or contradict each proposed identity, movement or locality. Refer to the document
 numbers and citations so another researcher can retrace the analysis.
+
+Before finishing the report, compare names, dates, places and relationships repeated from the
+original objective with the findings. If the evidence supports a correction, label the earlier
+identifier as superseded where the original wording is retained. If the conflict is open, flag it
+in the current summary. Dyer reported that a draft kept the initial death date in its objective
+even though the findings in the same report gave a different date [B48].
+
+Keep search details in the log. In the report, summarize negative searches by record series or
+question when they help evaluate a proposed answer, explain a change of route, or establish what
+remains open. Give the scope and a pointer to the log rows. If you used a derivative because the
+original could not be inspected, state both the positive finding and the limit on the original.
+A Family Locket example uses footnotes to retain relevant negative searches without turning
+the report into a chronological list of queries [B49].
+
+For a family-history scrapbook, draft the narrative along the subject's life timeline. If
+portraits are scarce, use record images, gravestone photos or relevant book and newspaper extracts.
+Keep the source locator with each and turn gaps exposed by the draft into specific questions
+tied to the timeline [B40].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A question sent to a living relative may disclose
+details about the subject or other living people to that relative. Answer the privacy gate in
+`SKILL.md` first.
+
+After clearing the gate, ask a living relative who may know the missing detail through a route
+allowed by the [Living people rule](../SKILL.md#living-people). Record any recollection with
+the speaker and date, and leave unresolved details open [B40].
 
 **Privacy gate:** <!-- privacy-gate: publish --> Handing or sharing the report, in full or in parts,
 exposes what it says about living relatives to family members and other readers; answer the
@@ -353,4 +432,4 @@ Original Kinprove reference, licensed FSL-1.1-MIT.
 
 ## Sources
 
-[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/research-documentation.md).
+[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/research-documentation.md).

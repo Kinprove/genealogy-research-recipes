@@ -248,6 +248,9 @@ below, then check findings on the images before using them as evidence.
 
 ## Long sessions and interruptions
 
+Keep a short filing guide beside the project instructions. Record the filename pattern, folder
+labels and tags in use. Consult the guide before filing new material after a break [S15].
+
 - Keep a running plan and findings file. Save each query with its output and completeness as you go.
   Work reconstructed from a final chat cannot separate a real negative from an incomplete run.
 - After an interruption, reload the governing instructions and check the live state. Memory, task

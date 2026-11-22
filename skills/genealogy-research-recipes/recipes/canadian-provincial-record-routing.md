@@ -10,8 +10,8 @@ guardrails: [{"id": "CANADIAN-PROVINCIAL-RECORD-ROUTING-01", "text": "Vital regi
 handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "french-canadian-register-recovery", "historical-place-name-resolution", "us-vital-registration-coverage", "usa-immigration-search-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 162}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 176}
 ---
 
 # Route a Canadian vital, estate, military or Indigenous-series record to its province, custodian and access category
@@ -80,6 +80,22 @@ Gather these before searching:
 
 Establish the denomination and actual register holder before selecting an archive. Anglican historical parish registers are with the diocese, sometimes housed in a university or provincial archive [S14 @2026-11-16]. Follow the parish-record recipe for the chosen denomination. Only a transcript excerpt was inspected for the video’s custody suggestion [S19 @2026-11-16].
 
+### Search supplementary vital indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting a MyHeritage search sends the subject's or relatives' names, dates and places entered in the query to MyHeritage. If any of those people may be living, answer the privacy gate in `SKILL.md` before submitting it.
+
+Search the named collection for the province, event and year. Log its range separately from the province's official coverage row. Use the [French-Canadian register recovery](french-canadian-register-recovery.md) route to follow up Québec register leads.
+
+**Check Nova Scotia birth hits for baptism evidence.** Use MyHeritage's *Canada, Nova Scotia Births, 1836–1921* as a second index and open the image behind the hit. Copy the birth date, place and any registration number [S23 @2026-11-21]. A birth hit can open on a baptism certificate [S22 @2026-11-21]. If it does, record birth and baptism separately, and transcribe the child's given names, parents, their residence and the officiating priest where stated. For a delayed birth registration at Nova Scotia Archives, open the supporting pages for copies of church-register entries [S24 @2026-11-21].
+
+**Include stillbirths in a Québec birth search.** Search MyHeritage's *Canada, Quebec Births, 1820–1917* for the birth date and place and the parents' names. Use the parent fields if the child's name is unavailable. Check a stillbirth entry for a death date too [S29 @2026-11-21] [S30 @2026-11-21].
+
+**Use Québec death entries from 1825–1917 for birth and kinship leads.** Search MyHeritage's *Canada, Quebec Deaths, 1825–1917* for the death date and place. Check the entry for the deceased person's birth date and the names of parents and spouse [S29 @2026-11-21] [S31 @2026-11-21].
+
+**Check Québec marriage entries for each spouse's birth details.** Search MyHeritage's *Canada, Quebec Marriages, 1820–1917* for the spouses and their parents. Check for a separate birth date and birthplace for each spouse, alongside the marriage date and place [S29 @2026-11-21] [S32 @2026-11-21].
+
+**Choose the Québec index for the event and date.** Search MyHeritage's *Canada, People of Quebec* for birth, baptism, death or burial and the parents' names [S25 @2026-11-21] [S26 @2026-11-21]. For a Québec death from 1926 through 1997, choose the distinct *Canada, Quebec Civil Deaths, 1926–1997* index [S27 @2026-11-21] [S28 @2026-11-21]. Read the deceased person's birth date, residence, parents and spouse where recorded [S27 @2026-11-21].
+
 ## 3. Route a military personnel file by war and access category
 
 **Privacy gate:** <!-- privacy-gate: request --> An ATIP request for the file of a veteran who survived the war sends the veteran's identity, and the veteran may be living; answer the privacy gate in `SKILL.md` before you send it.
@@ -93,6 +109,10 @@ Establish the denomination and actual register holder before selecting an archiv
 - **Open the LAC entry even when you already hold an attestation paper.** The service file of a man who served holds one copy of his attestation paper, and most entries have two digitised items: the service file as a PDF and the attestation paper as a JPEG [S6 @2026-11-16]. An attestation paper from another site is one document of the file, not the file.
 
 - **For an American volunteer, search under other names and birthplaces.** Search for the Canadian Expeditionary Force attestation paper under the names the family used [S13]. Library and Archives Canada warns that some American volunteers supplied both a different name and a different birthplace [S6]. If a search restricted to a U.S. birthplace fails, remove that filter and try the aliases separately. Compare next of kin, date of birth and residence on the candidate's attestation with independent records before attaching the file.
+
+**Carry a Canadian Great War Project hit into the file search.** Follow the suggestion from the available excerpt [S33 @2026-11-21] and copy the name, unit and enlistment date from the hit [S34 @2026-11-21]. Search LAC's *Personnel Records of the First World War* by name or regimental number [S35 @2026-11-21]. Compare the unit and enlistment date in the digitised papers with the project's entry.
+
+**Trace what happened on leaving the Canadian unit.** For a U.S.-born volunteer, check whether the record supports discharge home or onward service in a U.S. unit, the alternatives from the available excerpt [S33]. Read the service file's record of service and casualty forms and record the action, its effective date and any stated destination [S36]. Treat an entry that only records departure as an unresolved destination.
 
 ## 4. Search Métis and First Nations series by series, not by name index
 

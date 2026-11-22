@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "jewishgen-search-family-reconstruction", "
 checked: "2026-10-07"
 checked_basis: "Checked 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 75}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 81}
 ---
 
 # Jewish genealogy: conditional naming, town and DNA clues
@@ -66,6 +66,10 @@ Put these distinct propositions in the general register when the case uses them.
 | C1 — custom | Did this family follow the proposed deceased- or living-relative naming practice at that birth? | Who supplied the name and the actual death date |
 | T1 — place | What place role, person and date does this record establish? | Place claims for another person or period, and migration beyond what the source states |
 | D1 — DNA attribution | Does this segment come through the proposed ancestor rather than another shared path? | Attribution of other segments or every same-surname match |
+
+When the Hebrew religious name on a Jewish gravestone or memorial plaque differs from the civil given name, keep both forms as recorded and leave the same-person hypothesis (A1) open. [S15, S16] Look for a record giving both forms or compare independent details such as the death date and known relatives before linking the records.
+
+When the deceased's name on a gravestone or memorial plaque is followed by בן (*ben*, “son of”) or בת (*bat*, “daughter of”), transcribe the following name separately as a parent's given name. [S15, S16] Use the inscription and the community's practice to distinguish father, mother or both, and leave the parent's role open if those clues are ambiguous. [S16, S17] Compare the recorded parent name with birth or marriage records to test the proposed kinship (K1).
 
 Test the proposed sibling relationship (K1) and the proposed name equivalence (A1) separately. In Ross's Kiev research, Isaac's father was recorded as Pincus and Harris's as Barney [S2]. Retain both forms. A double name or a change between languages could explain a difference [S10], [S11]. Seek a record linking the two forms to the same man before using that explanation to support the brother hypothesis.
 

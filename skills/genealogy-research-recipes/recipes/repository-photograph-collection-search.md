@@ -11,7 +11,7 @@ handoff: ["family-photograph-attribution-and-dating", "soviet-personal-file-reco
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 192}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 209}
 ---
 
 # Search repository photograph collections by place and subject
@@ -30,6 +30,7 @@ This recipe covers search coverage and caption provenance. For a located Swedish
 
 - Find the collections that cover the town and period
 - Browse by place, subject and business, not by person
+- Search Historypin by place and collection
 - Riddarhuset portraits: select the branch, then inspect the object
 - Browse neighboring aerial-image series and paper copies
 - Exhaust each repository's surfaces before reporting no image
@@ -79,6 +80,18 @@ The Goskatalog portal was inaccessible from this check on 19 November 2026 (conn
 3. Search the business and historical street name. The historical-society description named the hardware store but omitted the great-grandfather pictured inside it. His surname was part of the business name [S5]. Check period directories for name and address changes.
 4. Query an ancestral town and state in the unidentified subset. A DeadFred search found a candidate through those two place fields even though the family surname was absent [S7]. Save the item and its caption for a separate attribution check.
 5. Try the surname alone and limit the format to images [S3]. Repeat with spelling variants. Record the collection searched and the names actually returned.
+
+## Search Historypin by place and collection
+
+Browse Historypin’s contributed photographs, videos and stories while signed out [S60 @2026-11-21] [S61 @2026-11-21]. In the [Pins map](https://www.historypin.org/pins/map), enter the town from a census or city directory in Search Location. Narrow with a historical neighborhood, street or public landmark and use the Image and Date Range filters for period views of schools, churches, workplaces or nearby streets [S61 @2026-11-21]. Use those views as local context. If the map is empty, log the area and filters and continue with other repositories. The map covers what contributors chose to pin [S60 @2026-11-21].
+
+The presenter reported in July 2023 that starting with the city appeared to surface the intended street [S59† @2026-11-21]. Try that order for an ambiguous street name and verify the suggested locality in the user’s own account or signed-out view. If Search Location only resolves the city, try the historical street name under Keywords [S61 @2026-11-21].
+
+If a town search is empty, zoom out and inspect pins just beyond its boundary. A search confined to Euclid, Ohio, would miss Euclid Beach Park in Cleveland, as shown by the search reported in the July 2023 interview [S59†] [S65].
+
+Open a relevant pin from the map or results list. Read its description and any contributor notes, save its URL, and follow its Collections links to look for related images [S61 @2026-11-21] [S62 @2026-11-21] [S64 @2026-11-21].
+
+Search [Collections](https://www.historypin.org/collections/) separately by locality or a keyword such as an event name [S63 @2026-11-21]. Open a matching collection and inspect its pins and map [S64 @2026-11-21]. Log each search surface separately.
 
 ## Riddarhuset portraits: select the branch, then inspect the object
 
@@ -150,6 +163,10 @@ Use [archival image coverage verification](archival-image-coverage-verification.
 
 **Museum exhibits and off-display photographs.** According to Lisa Lisson’s guide, start with local-history exhibits that cover the ancestor’s period, occupation or cause [S51†]. Browse the photographs on display and follow their credits to the holding collection. Use the exhibit title and any item numbers to ask the museum curator about related photographs off display [S54]. Log what you actually examined on each surface.
 
+**Privacy gate:** <!-- privacy-gate: contact --> A library inquiry discloses the research location and period, any family details supplied and, if sent remotely, the user’s name and reply address to local-history staff. Start with the historical place and date range and answer the privacy gate in `SKILL.md` before making the inquiry.
+
+**Off-shelf library photograph files.** According to Anna Rose Johnson’s interview, ask local-history staff for photograph files kept off the public shelves [S69†] [S70]. For a house, ask specifically for files of unidentified buildings and browse them even when the catalogue has no address match [S71].
+
 **Log each surface separately.** For each one, record:
 
 - the collection
@@ -218,6 +235,10 @@ Do not compare faces yourself and do not name anyone from appearance. Resemblanc
 **Privacy gate:** <!-- privacy-gate: publish --> A suggested metadata correction makes the names of people in the photo public in the holder's catalogue, and some sitters may be living; answer the privacy gate in `SKILL.md` first.
 
 Offer a supported identification to the holding institution as a suggested metadata correction. Supply the item reference, the proposed name and its documentary basis [S2], [S5]. Preserve the original caption and record the holder’s response separately [S45].
+
+**Privacy gate:** <!-- privacy-gate: contact --> An original-photo inquiry shares the user’s name, reply address and item reference with the Dead Fred archive. A claim may also disclose the user’s mailing address and relatives’ names or relationships. Answer the privacy gate in `SKILL.md` before sending either message.
+
+**Request a Dead Fred original.** For a documented, deceased direct ancestor, ask Dead Fred whether it holds the physical print, the distinction reported in the founder’s 2022 interview [S66† @2026-11-21]. If the archive confirms it owns the print, request the original through FAQ 7 at <joe@deadfred.com>. Give the item reference, the user’s relationship to the sitter and the user’s mailing address. The archive offers those originals free of charge [S67 @2026-11-21] and says it retains the digital image and requester’s contact information [S68 @2026-11-21]. For a contributor’s scan, record the digital item and any documented holder [S68 @2026-11-21].
 
 ## Return
 

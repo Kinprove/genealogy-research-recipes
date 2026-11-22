@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["elib.nlu.org.ua"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 85}
+router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 91}
 ---
 
 # Recipe: Recovering and identifying Ukrainian archival guides in ELIB
@@ -97,4 +97,4 @@ the actual case. Continue with [archival-image-coverage-verification.md](archiva
 when identifying or inspecting retrieved case images.
 
 Provider examples were checked on 2026-10-18 and the consolidated-catalogue
-volume on 2026-11-02; see [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/elib-ukrainian-archive-reference-books.md).
+volume on 2026-11-02; see [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/elib-ukrainian-archive-reference-books.md).

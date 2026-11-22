@@ -10,8 +10,8 @@ guardrails: [{"id": "UK-CENSUS-AND-1939-REGISTER-INTERPRETATION-01", "text": "Be
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 96}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 102}
 ---
 
 # Read England and Wales censuses and the 1939 Register under each year's own rules
@@ -53,6 +53,10 @@ Collect every image attached to the household return [S12]:
 - the enumerator's instructions and boundary notes.
 
 Cite the piece reference from the cover. Several families at one address each have their own schedule [S13], so record the schedule as well as the address.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before sending a 1921 census search to MyHeritage, answer the privacy gate in `SKILL.md`. Confirm that the person is deceased and send only the name, dates and place needed for the lookup.
+
+If another provider's 1921 index misses a deceased ancestor, try MyHeritage's [1921 England & Wales Census](https://www.myheritage.com/research/collection-20972/1921-england-wales-census) [S61 @2026-11-21], [S62 @2026-11-21]. If you can see the index entry but cannot open the full return, use the match to locate the schedule and its supporting images with another provider.
 
 In 1921, read the orphanhood answer for children under 15 together with the relationship-to-head column. Do not assume the head of household is the parent who died. The child may be a nephew or cousin whose dead parent lived elsewhere [S12].
 
@@ -130,6 +134,8 @@ If you find an entry in the FamilySearch index, follow its link to Findmypast fo
 - **Ireland and Northern Ireland, 1921.** No census was taken in Ireland in 1921, including the area that became Northern Ireland. Ireland is outside the England and Wales returns in any case. If someone was resident there in 1921, their absence from the England and Wales census is a coverage gap, not a failed search.
 - **1931 and 1941.** The 1931 England and Wales returns were destroyed by fire in 1942, and no census was taken in 1941 [S8], [S11]. A gap for those years is a record gap, not a failed search. Use the 1939 Register for the period between [S11].
 - **Merchant mariners at sea and other coverage limits.** The cited presentations cover vessels in port [S12], [S13] but do not establish coverage of mariners at sea. Check TNA coverage notes before reading an absence for a seafarer.
+
+For England and Wales, 1921 is the latest census with public household returns, and the 1951 returns are due to open in 2052 [S61 @2026-11-21], [S63 @2026-11-21]. Log 1951 as an access gap while the returns are closed.
 
 **What the series does cover.** The England and Wales returns also include the Channel Islands and the Isle of Man; vessels in English and Welsh ports and inland waterways from 1861; the British Army overseas in 1911 and 1921; and RAF bases overseas in 1921 [S16], [S25]. TNA's coverage notes answer the seafarer question: from 1861 the series includes Royal Navy and merchant ships at sea and in ports at home and abroad. In 1861 all the ship returns are at the end of the series; after that, ships in home ports are at the end of the district where they were moored, and only ships in foreign waters are at the end of the series. The shipping returns are likely to be incomplete, and none survive for Royal Navy ships in foreign waters in 1891 [S16]. Before reading an absence for an islander, a soldier or airman overseas, or a sailor or fisherman away overnight, search those parts of the series [S32]. Also read the home schedule: in 1891, for one, it was to list people out at work overnight who returned the next day and were not returned elsewhere [S38]. A miss in the shipping returns still does not show that a seafarer was ashore.
 

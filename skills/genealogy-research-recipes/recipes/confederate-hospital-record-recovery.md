@@ -11,7 +11,7 @@ handoff: ["us-civil-war-service-record-episodes"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 153}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 163}
 ---
 
 # Recover Confederate hospital records behind a Civil War service entry
@@ -31,6 +31,8 @@ According to the presenter’s advice, use the General Hospital patient index an
 For Charlottesville General Hospital, use the separate patient index in Chapter VI, volume 216, and follow its entry into the register volumes 214 and 215. Record the admission entry with its own volume and page. [S3 @2026-11-18], [S4 @2026-11-18]
 
 When opening a hospital’s records, distinguish a patient register from case accounts or statistical returns. A name search in a statistical return supplies no named patient coverage. Use a dated register entry to tie treatment to a patient and a unit. [S2], [S3]
+
+Robert J. Driver Jr.’s Prince Edward County volume covers Farmville Hospital deaths, according to the presenter’s book roundup. [S7†] For a death at Farmville General Hospital from April 1862 through April 1865, look up the name in the volume’s separate hospital death list (ISBN 9780788426971). Check the death list even if the county soldiers’ roster has no entry for the patient. [S8]
 
 ## Search related papers at other custodians
 

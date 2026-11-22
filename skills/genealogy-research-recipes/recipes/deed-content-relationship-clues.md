@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 181}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 198}
 ---
 
 # Read deed content as dated relationship, probate, migration and parcel hypotheses
@@ -150,6 +150,8 @@ Record the fractional interest actually conveyed and trace the owners of the rem
 For each parcel, tabulate acreage acquired, disposed of and still held [S68]. Reconcile differences against the legal descriptions and allow for survey variation. Check probate [S71] and transactions outside the years searched [S69]. When full-text search returns unequal acreages, compare the tracts before assuming a missing deed, then search the grantor and grantee indexes by hand [S70]. Inspect the images for transcription errors [S72].
 
 When a gift deed might resolve a disputed branch assignment in a published genealogy, trace the same parcel from the purchase through the gift and any later conveyances [S84], [S86]. Compare the owners named in that chain with the people each proposed branch places on the tract. Record any missing transfer and corroborate the proposed relationships with other records.
+
+**Susquehanna Company lot claims.** For a Wyoming Valley lot, find the claimant in Donna Bingham Munger’s *Connecticut’s Pennsylvania “Colony”*, vol. III, *The Claimants*. Match the township and lot number, and record the drawer and the references for the title chain [S94]. Read the chain for stated family relationships, a clue reported in the presenter’s discussion of claimants descended from original proprietors [S93†], [S94]. Check each relationship against the cited deeds or estate papers. If the chain leaves a transfer unresolved, search *Seventeen Townships: Claimant Papers* (Pennsylvania Land Office, RG 17, series 17.197) by township and claimant surname [S95]. Test purchase and inheritance before inferring a family link from successive ownership.
 
 Keep similar surnames such as Wilmer and Wimmer separate until the parties and parcels can be matched. Where a later deed cites a different day, compare the earlier deed’s body, acknowledgment and cover note on the images. A proposed 13th/30th misreading in an AI-assisted comparison remained unverified by its presenter [S9]. Preserve both readings pending inspection.
 

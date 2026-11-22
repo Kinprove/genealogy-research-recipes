@@ -78,6 +78,8 @@ See [the Card Catalog guide](https://help.ancestry.com/hc/en-us/articles/5393330
 
 Try the singular and plural separately, then clear the text and compare a category-and-place search. In the Genealogy Gems demonstration, searching for “postcard” missed titles containing “postcards” [B16]. Log the date, terms, filters and count for each attempt so you can reproduce the difference.
 
+For M841, enter `postmasters` in the Card Catalog’s Title field to find *U.S., Appointments of U. S. Postmasters, 1832–1971* [S14 @2026-11-21], [S20 @2026-11-21]. A 2022 Title search from the available excerpt missed the collection with `post office` [S19 @2026-11-21]. Compare the terms in the current account if the collection is missing.
+
 Do not take an empty Ancestry-wide search as proof that a newspaper item is absent. Ancestry's
 global search does not include the Newspapers.com Stories and Events Index collections because
 of their size, as reported in March 2024 [S1 @2026-11-12], [S2 @2026-11-12]. Run a Card
@@ -205,6 +207,12 @@ and [Searching with Soundex](https://help.ancestry.com/hc/en-us/articles/5393328
 
 Remove the target name and search with a distinctive combination of residence, birth year, birthplace, sex or known relatives. Try each parent’s name or a sibling or neighbour whose name is easier to distinguish. Open the image, locate the household and check nearby pages for an entry indexed under another spelling [B2].
 
+For the T718 payment ledgers in *U.S., Revolutionary War Pensioners, 1801–1815, 1818–1872*, retry a failed full-name search in the same account with only the surname [S18 @2026-11-21]. Inspect plausible ledger images for an obscured given name and compare the locality with known places for the pensioner. Check whether the place names the paying agency [S18 @2026-11-21]. In the 2022 example from the available excerpt, the surname-only search recovered an entry whose given name was blotted out [S17 @2026-11-21].
+
+If a surname search in the M841 postmaster appointments fails, clear both name fields and search the collection by the post office’s locality, county and state [S20 @2026-11-21]. If that fails, browse by state and county, then turn to the office [S20 @2026-11-21], [S21 @2026-11-21]. In the 2022 example from the available excerpt, the office search recovered a candidate under a different surname [S19 @2026-11-21].
+
+Enlarge a suspect M841 appointment entry, compare the handwriting with the rows immediately above and below, and trace any ambiguous stroke to its own row before reading the surname [S22]. In the 2022 example from the available excerpt, the presenter traced a letter in the indexed surname to a neighboring entry [S19].
+
 **Privacy gate:** <!-- privacy-gate: publish --> An added reading becomes alternate information that
 other Ancestry users can find by search. Before adding a reading that names or links someone who may
 be living, answer the privacy gate in `SKILL.md`. Until each such person has given permission, keep
@@ -250,6 +258,8 @@ initials or are poorly indexed. If the original book has no usable index, specif
 a bounded image range and inspect it systematically.
 
 If there is a separate probate index volume, copy its reference to the will book and printed page. Open the named book, verify its heading and locate the actual will before reporting what it says [B5].
+
+If a general name search misses, open Ancestry collection 1268, *U.S., Index to General Correspondence of the Record and Pension Office, 1889–1904* (M686), directly [S24 @2026-11-21]. Follow the browse route from the available excerpt of the 2022 demonstration [S23 @2026-11-21], checking the controls in the current account before selecting the surname range. For a separate name search, use FamilySearch’s index to the same cards [S25 @2026-11-21].
 
 The internal-index method is described by [Lisa Louise Cooke](https://lisalouisecooke.com/2019/11/17/browse-only-records-at-ancestry/).
 Use the current viewer's available navigation; the 2019 article's screen positions

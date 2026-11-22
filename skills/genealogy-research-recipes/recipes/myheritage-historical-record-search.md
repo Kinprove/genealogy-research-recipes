@@ -70,6 +70,24 @@ with the relevant jurisdiction as well. **Netherlands, Notarial Records, 1600–
 wills alongside other deeds, so a title search for `will` alone can miss a useful collection
 [S49 @2026-11-20] [S50 @2026-11-20] [S51 @2026-11-20].
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names and case or prison details that identify people who may be living go to MyHeritage when these collections are searched. Keep those terms local until the gate is answered.
+
+For a Scottish civil dispute, search **Scotland, Court of Session Processes, Acts and Decrees,
+1560–1930**. Use the case date and description to distinguish people with the same name
+[S61 @2026-11-21]. For criminal proceedings, start with the court or prosecution series instead
+[S62 @2026-11-21].
+
+Use **Scotland, Crown Counsel Procedure Books** to identify a possible prosecution
+[S56 @2026-11-21]. For a Crown Counsel opinion in the AD9 series, read the disposition.
+Some cases went to the High Court or Sheriff Court and others were dropped. Use the named court
+to look for trial papers and leave the trial unresolved until you find them [S57 @2026-11-21].
+
+For Scottish custody, check **Scotland, Prison Registers** for historical admissions of women
+and children as well as men. Keep the prison and admission year distinct from the person's
+residence and birth details [S56 @2026-11-21] [S58 @2026-11-21] [S59 @2026-11-21].
+The registers include untried prisoners. Verify any trial or conviction separately
+[S60 @2026-11-21].
+
 ### 2. Check coverage and remove filters that hide useful collections
 
 Use catalog type, location and time filters to discover plausible sets, then read their descriptions.
@@ -89,6 +107,28 @@ registration reports as the underlying source [S34 @2026-11-20].
 In **Latvia, Jewish Birth Records from JewishGen**, check the town and year before interpreting
 a miss. The index spans 1838–1921, with most entries from 1854–1909
 [S29 @2026-11-20] [S30 @2026-11-20]. Check coverage of the town's registers outside that concentration.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes. Keep those terms local until the gate is answered.
+
+When revisiting an earlier search, set the Collection Catalog sort to **Last Updated**. Compare
+the dates on relevant collections with the date of your earlier search and rerun the query in sets added
+or revised since then [S54 @2026-11-21] [S55 @2026-11-21]. A recent update by itself establishes
+nothing about the town or years added.
+
+For an 1851 Scottish household, check the **1851 Scotland Census Extract** for a lead and
+confirm access in the user's account [S52 @2026-11-21]. Use the locality and household details
+from a hit to find the return image on Scotland's People [S77 @2026-11-21].
+
+For a Piotrków Trybunalski birth, check **Piotrków Trybunalski Poland Births, 1808–1875**
+and verify access in the user's account [S52 @2026-11-21]. The collection indexes Jewish births.
+If the community or year falls outside its scope, start with the appropriate local registers
+[S78 @2026-11-21] [S79 @2026-11-21].
+
+For India, match the event to **India, Births and Baptisms, 1786–1947**,
+**India, Marriages, 1792–1948**, or **India Deaths and Burials, 1719–1948**
+[S82 @2026-11-21] [S83 @2026-11-21]. Check coverage of the specific place and community.
+If coverage is missing or unclear, follow the family to its local religious or community
+records or regional archives and keep the event unresolved [S82 @2026-11-21].
 
 ### 3. Run a sparse → tight → relaxed ladder
 
@@ -116,6 +156,10 @@ Millford birthplace are estimates. Suppose requiring exact spelling and both est
    or variants where the form supports them. Inspect each candidate's original wording.
 
 These are proposed queries, not reported results. Keep each attempt and its reason in the ledger.
+
+For a common first name and surname, try a documented, distinctive middle name as a separate
+**Keywords** query under **+ More**, if the form offers it [S66 @2026-11-21] [H1 @2026-11-21].
+Compare it with the baseline before requiring that middle name in later searches.
 
 ### 4. Search the name as it might actually have appeared
 
@@ -178,6 +222,12 @@ When a marriage index gives both a license issue date and a marriage date, log t
 If the entry gives only the issue date, leave the ceremony date open and look for a completed
 certificate or return that records it. [S23, S24]
 
+In **New York, Chemung County Births**, keep the child's birth date and the announcement's
+publication date in separate fields. Use the surname and parents to identify the intended
+notice [S61 @2026-11-21]. Use the publication date to locate the issue in the Chemung County
+Library District's newspaper holdings. A missing notice leaves the civil birth entry open
+[S63 @2026-11-21].
+
 ### 7. Separate the person's place from the record's place
 
 Identify birthplace, residence, event location, publication town and collecting jurisdiction.
@@ -206,6 +256,17 @@ In **France, Naturalizations**, use the decree date from the index to find the p
 Check both the *Bulletin des lois* and the *Journal officiel* for publication in 1924–1930.
 Residence in France leaves naturalization an open question
 [S37 @2026-11-20] [S38 @2026-11-20] [S39 @2026-11-20].
+
+Check **Netherlands, Batavian-French Army Studbooks, 1795–1813** when service may have
+crossed Dutch and French commands [S58 @2026-11-21]. For the Dutch studbooks, use the
+Nationaal Archief's inventory **2.01.15** and record the inventory item and folio. If a name
+is missing, check the supplementary extracts before drawing a conclusion about the person's
+service [S64 @2026-11-21].
+
+If an arrival search fails for a traveler who may have sailed from Gothenburg, try
+**Sweden, Gothenburg, Passenger Lists 1869–1951**. Use the departure date, transit port and
+destination, where shown, to choose the next passenger list. Keep the Swedish departure
+and the eventual arrival as distinct events [S71 @2026-11-21] [S72 @2026-11-21].
 
 ### 8. Find the target through a better-documented relative
 
@@ -299,6 +360,18 @@ Newspapers from OldNews.com**. Use the OCR and Gallica scan link for the first c
 OldNews scan for the second. Log the newspaper, issue date and page to spot the same article in
 both routes [S40 @2026-11-20] [S42 @2026-11-20] [S43 @2026-11-20] [S44 @2026-11-20].
 
+For the Netherlands, compare **Netherlands, Names & Stories in Newspapers** with the
+issue-level **Netherlands Newspapers from OldNews.com**. In the structured result, read the
+full OCR text when shown and note the paper, publication place and issue date. If the name
+index misses, search the issue collection for the notice or a relative, or browse an
+identified issue [S73 @2026-11-21] [S74 @2026-11-21] [S75 @2026-11-21].
+
+Before treating a **Names & Stories** hit as verified, use its newspaper title, publication
+place and date to locate the printed page. Check the user's access to full pages on OldNews
+through MyHeritage Omni or OldNews Pro. If the page is blocked, use the issue locator to seek
+the same scan in another holding and keep the extract provisional
+[S73 @2026-11-21] [S76 @2026-11-21] [S80 @2026-11-21].
+
 ### 13. Read beyond the highlighted hit
 
 Read the whole article, continuation, page heading and surrounding entries. In censuses, inspect
@@ -329,6 +402,27 @@ In **Spain, Catalonia, Barcelona Births and Baptisms, 1850–1923**, check both 
 and the parents' birthplaces and residence. Use the grandparents to distinguish similarly named
 parents and the birthplaces to choose which parish records to check next
 [S40 @2026-11-20] [S41 @2026-11-20].
+
+For a known deceased person in the Netherlands, check **Online Familieberichten (Dutch Death Notices)** in the
+user's MyHeritage account and use the original Online Familieberichten project if the entry is unavailable.
+Identify the item as a death announcement, funeral notice or memorial card before using its dates
+[S52 @2026-11-21] [S81 @2026-11-21].
+
+In **England, Funeral Notices and Obituaries** and **Wales, Funeral Notices and Obituaries**,
+use any last and former residences to distinguish candidates. To locate the original obituary,
+use the newspaper title and its publication place and date. Keep those separate from the
+deceased's residence and death date [S58 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names and historical places identifying people who may be living go to MyHeritage when you run the census query. Keep those terms local until the gate is answered.
+
+For the **1950 United States Federal Census**, include Canton (Kanton), Johnston, Midway
+or Wake when the research points to one of those islands. Open the corresponding schedule
+to verify the entry [S68 @2026-11-21] [S69 @2026-11-21] [S85 @2026-11-21].
+
+After a MyHeritage 1950 U.S. census name miss, use a map of the known 1950 residence to identify
+the enumeration district. Browse the population schedules at the National Archives by district
+number. Check any sheets numbered from 71 onward for people enumerated out of order [S70].
+Do not attribute a miss to the initial state-by-state rollout [S67, S69].
 
 ### 14. Use supplied tree-event geography as a search worklist
 
@@ -375,6 +469,16 @@ in place. If a match later proves wrong, use the field log to revisit the affect
 and citations; check their other support before correcting or removing the imported assertions.
 Verify the resulting tree values separately from the match's status. Undoing confirmation alone
 does not repair the tree. [S12, H8]
+
+A MyHeritage search can run without the subscription that opens a result
+[S53 @2026-11-21]. When a hit is paywalled, check what the result list shows in the user's
+own account. Save any visible birth or marriage date, newspaper year or identifying image
+detail as a lead. Use it to choose a register or newspaper issue to check elsewhere
+[S52 @2026-11-21]. Keep the blocked record unverified.
+
+If a historical-record search returns a profile from a MyHeritage family tree, look at the bottom
+of its record page for the link to the originating tree. Inspect the profile and follow any
+record citations as leads [S65 @2026-11-21] [S84 @2026-11-21].
 
 ## Prompt-craft
 

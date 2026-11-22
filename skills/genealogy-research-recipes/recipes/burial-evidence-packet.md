@@ -11,7 +11,7 @@ handoff: ["german-military-record-period-routing", "immigrant-congregation-origi
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 177}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 194}
 ---
 
 # Build a burial evidence packet from cemetery records
@@ -76,6 +76,16 @@ locations even where there are no markers. On an authorized visit, note the depr
 surface without probing or disturbing the ground. Look for an existing cemetery delineation
 survey to check their position. Leave the occupants unidentified from these features alone.
 [P158], [P159]
+
+In Interment.net, open the cemetery’s individual transcriptions and record the compiler, fieldwork
+date and underlying source where given. Keep a register-based entry separate from a reading of a
+stone. Before using any survey’s silence, compare the candidate’s burial date with the fieldwork
+cutoff for that section. Carry a later or undated burial to the cemetery register. [P226 @2026-11-21], [P227 @2026-11-21]
+
+For a burial ground with no surviving markers, use deeds and local histories to locate the ground.
+Build the burial list from named burials in church records, newspapers or histories that identify
+the person’s burial. Retain the source for each name and leave individual plots unresolved unless a
+record supplies them. [P226], [P228]
 
 Compare dated cemetery transcriptions word by word, including older editions: a stone legible to a 1940s compiler may have worn away by the 1990s [P118]. Record the compiler and date for each reading and check disputed words against an image or the surviving stone [P146].
 
@@ -176,6 +186,16 @@ is not a negative.
   officers. [P73] An original burial place can differ from the present grave after a reburial, so
   look for the present grave separately.
 
+When you need a photograph of a military grave or memorial, search The War Graves Photographic
+Project by name and match the cemetery and unit to the official register. Search beyond Commonwealth
+casualties when the case calls for it. Record whether the photograph depicts a grave marker or a
+commemoration. [P226 @2026-11-21], [P229 @2026-11-21]
+
+For a U.S. veteran whose grave may be in a private cemetery or outside the United States, search
+MyHeritage’s *United States, Veterans Burials*, which lists records from 1763 onward. Keep the
+stated burial place, birth and death dates and any spouse name. Use the named cemetery to look for
+an interment entry. [P250 @2026-11-21], [P252 @2026-11-21]
+
 ABMC covers more than its First and Second World War cemeteries. Its Honolulu Memorial names 8,209
 people listed as missing from the Korean War and 2,504 from the Vietnam War, and ABMC also
 administers Mexico City National Cemetery, Corozal American Cemetery in Panama and Clark Veterans
@@ -262,6 +282,15 @@ burials, search its separate Diocese of Manchester collection (1603–1910). The
 titles and overlapping years cover different sets of records.
 [P177 @2026-11-18], [P189 @2026-11-18], [P190 @2026-11-18]
 
+For Oldham, compare a hit from MyHeritage’s *England, Lancashire, Oldham Burials*, announced with
+burials from 1800 onward, with FamilySearch’s *England, Lancashire, Oldham Cemetery Registers,
+1797–2004*. Use the FamilySearch registers for a 1797–1799 candidate. Keep death date and age
+separate from the date and place of burial. [P236 @2026-11-21], [P237 @2026-11-21]
+
+For Cumberland or Lancashire, search MyHeritage’s *England, Cumberland and Lancashire Burials* from
+1728 onward. Record the place of death separately from the burial date and place. Use the named
+burial place to follow the entry into cemetery or parish records. [P238 @2026-11-21], [P241 @2026-11-21]
+
 For Stockton-on-Tees, search MyHeritage's Durham burial index from 1871 onward for the name
 and stated date and place of burial. Check the council's burial register search as well.
 Leave a miss unresolved. The council says its online entries are incomplete.
@@ -286,12 +315,21 @@ death dates, Hebrew name, parents' names, any cemetery ID and comments as suppli
 which name field matched. Use a cemetery ID to seek a burial record and keep the plaque as evidence
 of commemoration. [P201 @2026-11-20], [P204 @2026-11-20]
 
+For Stockholm, search MyHeritage’s *Sweden, Stockholm Burials* from 1773 onward. Use the stated
+cemetery and burial date to choose a grave book in Hittagraven’s older indexes. Check the years
+listed for that particular cemetery before using a miss. [P238 @2026-11-21], [P242 @2026-11-21],
+[P243 @2026-11-21]
+
 For a Paris municipal cemetery burial, search MyHeritage’s *Daily Burial Registers of Parisian
 Cemeteries* and check its cemetery list, including the sites outside the city limits. In the
 Archives de Paris, use the annual index and open the daily register by cemetery. Follow the
 burial date or, if the index gives the death date, its entry number. Copy the grave location
 and label the death and burial dates from the entry itself.
 [P198 @2026-11-20], [P199 @2026-11-20], [P200 @2026-11-20]
+
+For Santiago General Cemetery, search MyHeritage’s *Chile, Santiago Burials* from 1893 onward.
+Retain the stated burial date and place. Test the cemetery before interpreting a miss for a death
+elsewhere in Santiago. [P250 @2026-11-21], [P251 @2026-11-21]
 
 When an East European Jewish stone has no surname, JOWBR documents searches using the deceased's
 given name, the father's given name or the Hebrew Name field. Use the known locality to assess
@@ -359,6 +397,28 @@ cemetery, and take the cemetery and plot from the cemetery's own record (Section
 description names no date range and no contributing firms or cemeteries, so a miss is not a
 negative.
 
+For Rockhampton, use MyHeritage’s *Australia, Queensland, Rockhampton Burials* from 1864 onward
+alongside the Regional Council’s cemetery indexes. Search North and South Rockhampton separately
+when the cemetery is uncertain. Record age and death date apart from interment date and cemetery.
+For 1858–1864, check the council’s listing for the separate Rockhampton Court House records. [P238 @2026-11-21], [P239 @2026-11-21], [P240 @2026-11-21]
+
+For Denver’s Riverside Cemetery, search MyHeritage’s *Colorado, Denver, Riverside Cemetery Burials*
+and Denver Public Library’s *Riverside Cemetery Burial Register Index, 1876–1963*. The library dates
+the first interment to 1876. If a MyHeritage hit gives an earlier date within its advertised
+1855–1963 span, check for an earlier burial elsewhere or a later transfer and take the Riverside
+burial date and location from the cemetery evidence. [P238 @2026-11-21], [P244 @2026-11-21], [P245 @2026-11-21], [P246 @2026-11-21]
+
+For Walnut Hills Cemetery, search MyHeritage’s *Ohio, Hamilton, Cincinnati, Walnut Hills Cemetery
+Burials* from 1843 onward. Preserve the reported birth place, birth, death and burial dates and any
+parent or spouse names. Route Spring Grove and Oak Hill candidates to *Ohio, Hamilton, Cincinnati
+Burials*, which covers those cemeteries from 1845 onward. [P238 @2026-11-21], [P247 @2026-11-21],
+[P248 @2026-11-21]
+
+For Norfolk, Virginia, start with the city’s **Search Burial Records** for its eight municipal
+cemeteries and retain the stated burial cemetery and any mapped grave location. Use the *Virginia,
+Norfolk Burials* index named in MyHeritage’s 2023 announcement as an additional lead when accessible
+in the user’s account. Keep burial and death fields separate. [P238 @2026-11-21], [P249 @2026-11-21]
+
 To list the relatives the FamilySearch Family Tree places in one cemetery, open the cemetery in
 FamilySearch's Cemeteries search on the website (the mobile Family Tree app lacks it), signed in
 with the user's own account, and click **Only show my relatives**; only people in the Family Tree
@@ -416,6 +476,10 @@ a mismatch. Read doubtful letters and symbols against the carving. Preserve even
 errors in the literal transcription and keep proposed corrections in the research notes.
 [P160]
 
+Preserve each face’s carved line breaks in the literal transcription. If a field takes only one
+line, mark each line break with `/`. Keep apparent spelling and date errors as carved, with any
+proposed reading or correction in the notes. [P226], [P230]
+
 If her inscription reads only ‘Mrs. [husband’s name]’, transcribe the designation as carved
 and keep the birth and death dates separately. Leave her given and maiden names unresolved.
 Use the husband’s name as a search lead in the census and check the household against the
@@ -436,6 +500,10 @@ the largest copy available, not a thumbnail. A word that cannot be read in a sma
 copy is unread, not missing from the stone. An AI model may receive a smaller image than the file;
 see [ai-for-documentary-records](ai-for-documentary-records.md#the-pitfalls-worth-internalizing-the-least-obvious-most-llm-usable-part).
 
+According to the Family Tree Magazine cemetery segment, try inverting the colors of a photograph of
+faint lettering. [P231†] Use a local working copy and check the reading against the original. Label
+each reading by image and mark any still-doubtful letters. [P226], [P232]
+
 Record whether anyone outlined the inscription before photographing it. Compare a doubtful letter with an untreated image if available and label each reading by its image. In a matzevah discussion a reader proposed that an apparent מ was the traced ה of צנועה [P17]. Without an untreated image, record the expected formula as a reason to recheck the carving.
 
 For a difficult inscription, an optional second photograph uses light directed from the side
@@ -455,6 +523,11 @@ has been inspected. The [family-cemeteries video](https://www.youtube.com/watch?
 [Lil Dicky tree session](https://www.youtube.com/watch?v=SKDoU7MJkds) motivate this. A name on
 another face does not by itself establish burial at that spot or a relationship, and the back may
 carry nothing.
+
+On an authorized visit, photograph every accessible face and any smaller inscribed detail even when
+writing the transcription on site. Check for footstones, cornerstones and enclosures. Record damage
+and visible repairs with the affected face so later readings can be checked against the right
+feature. [P226], [P230]
 
 For each person named on a family monument, retain the literal burial-place statement and its
 image/surface locator separately from the monument's physical cemetery and plot. A family
@@ -491,6 +564,16 @@ notes or other documented association. On an authorized future visit, photograph
 cemetery sign first can help preserve this context. If no such image was supplied, record
 it as absent; do not invent a sign image or assume that every adjacent camera file belongs
 to that cemetery. A sign identifies the photographed place, not the person or burial. [P24]
+
+Before surveying multiple graves, sketch the natural rows against fixed features such as fences,
+paths or trees. Work section by section in row order, number the rows and assign each monument a
+unique survey code. Use that code on the sketch, photos and transcript, keeping survey codes
+distinct from official plot numbers. [P226], [P230]
+
+If dictating inscriptions during an authorized visit, state the monument code and face first, then
+say and spell each name and repeat each date. Record and transcribe the audio on the user’s device,
+and check the transcript against the photographs before entering names or dates in the packet.
+[P226]
 
 Read any wide shot of a row or section in a supplied photo set as well as the close-ups. It
 records where stones stand relative to one another and can show a stone with the target surname
@@ -598,10 +681,20 @@ from the rounded Civil War–Spanish War design used for Union veterans. Use the
 label the design and check the inscription and service record for the veteran’s allegiance
 and unit. [P223]
 
+When a volunteer transcription runs a company letter into a regiment number, compare the upright
+character with adjacent letters and digits on the stone, then test the candidate unit and company in
+the service roster. According to Scott’s reading, `Company 113th Wisconsin Infantry` could be split
+as `Company I, 13th Wisconsin Infantry`; use the National Park Service’s 13th Wisconsin Infantry
+entry to check the unit name. [P255†], [P256]
+
 When one grave has a family stone and a commemorative marker, such as a military marker a society
 placed later, record each date with the marker it comes from, who placed it and when. Record
 lettering cut later, such as sandblasted text beside raised original lettering, as a later
 addition. A date conflict between markers stays an unresolved discrepancy (Section 5). [P66]
+
+For a name on the Great War memorial along boulevard de Ménilmontant at Père Lachaise, record the
+monument as commemoration of a Parisian death or disappearance and seek a separate burial record
+before assigning a grave. [P233], [P235]
 
 For a U.S. government marker, look for the memorial designation `IN MEMORY OF` [P176]. A relative reported a Maryland veterans’ cemetery tablet for a sailor lost at sea aboard USS *Cyclops* [P175]. Record the memorial site separately and seek a disposition record before assigning a place of burial.
 
@@ -644,6 +737,11 @@ capture-origin check, not a guarantee of coordinate accuracy, grave identity or 
 If the death municipality in France is known but the cemetery is not, check whether its archival
 descriptions list `registres des convois funéraires` or `registres des transports de corps` for the
 relevant period. A Paris transport entry of 27 December 1955 gave Vignot in the Meuse as the destination for Victor Grandsire, four days after his death [P28]. Copy the date and destination, then seek the interment entry and plot at the receiving cemetery.
+
+For a Père Lachaise ossuary reference, use the name recorded at deposit to trace the cemetery of the
+former concession and search that cemetery’s daily burial register. Section 1.2.2 of the 2014 Paris
+municipal audit identifies documentation of deposits from reclaimed concessions at Père Lachaise and
+at the cemetery of origin. Record the deposit and earlier burial separately. [P233], [P234], [P200]
 
 To trace a U.S. service burial or transfer in the World War I era, look in RG 92,
 NM-81 entry 1942, *Burial Case Files*, 1915–1939 (National Archives ID 595318).
@@ -709,6 +807,11 @@ are:
 | Interment register; lot or plot-ownership books | The sexton or cemetery office; for a public cemetery, the town or county, or in some states, such as Utah, the state archives [P79, P80] | Burials, and separately who owned each plot |
 | Burial, removal or transit permit | Issued under state law; in California, through a funeral establishment or the local vital-records office [P81] | Permission to bury, cremate or move the body |
 | Funeral-home case file | The firm or its successor; some collections were given to libraries, archives or societies [P82] | Private business records, kept at the firm's discretion |
+
+If a U.S. burial permit is missing from the cemetery’s records, check the county court’s records for
+a permit series covering the place and period. According to Scott, permits are one target for
+courthouse research. [P253† @2026-11-21] For Wicomico County, Maryland, route a 1900–1911 search to
+the Maryland State Archives’ Circuit Court burial permit series T4244, paper unit T4244-1. [P254 @2026-11-21]
 
 Permit rules and record survival vary by state and period.
 
@@ -1003,6 +1106,12 @@ to trace it to an obituary. Open the funeral home's notice or the digitized news
 cite that version for the death and any stated next-of-kin details. Keep names of living
 survivors local and distinguish announced burial plans from an interment record.
 [P160 @2026-11-18], [P162 @2026-11-18]
+
+When two Find a Grave memorials place the same candidate in different cemeteries, keep both cemetery
+claims and check each interment register for a dated burial or removal. Test a cenotaph at either or
+both sites. A photographed stone can still be commemorative. [P257] According to Scott, one of two
+competing memorials had a stone photograph and the other had a portrait, leaving the burial
+unresolved. [P255†]
 
 Keep an earlier inscription transcript or research letter with its author/date, exact
 reported reading and any available image reference. Record a later inspection separately

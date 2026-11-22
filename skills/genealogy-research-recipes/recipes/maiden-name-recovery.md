@@ -56,11 +56,15 @@ In English-language records, "Shee" can transliterate the Cantonese use of 氏, 
 
 **Poland.** When a historical record uses the traditional Polish surname forms, read `-ówna` as a daughter’s form and `-owa` as a wife’s form [S37], [S38]. For example, use `Nowakówna` to look for her father’s family under `Nowak`. With `Nowakowa`, search for her marriage to a `Nowak` to reach her birth family [S38].
 
+**Czech names.** Compare a married woman’s recorded surname with her husband’s to see if it is a feminine form of the same surname [S47]. Check for pairs such as `Nováková` and `Novák` [S48] or `Zelená` and `Zelený` [S49]. If the forms match, keep her birth surname open and search for her marriage under the groom’s surname (§2).
+
 ## 1. Read birth and death registrations
 
 **Privacy gate:** <!-- privacy-gate: request --> A certificate order sends the child's name, the birth details or index reference you hold and the requester's identity to the registration office, and asks for a record that names the child and the child's parents. A child born within the last hundred years may be living. Before ordering a certificate or copy that names such a child, answer every [privacy gate](../SKILL.md#privacy-gate) item and follow its [Record requests](../SKILL.md#record-requests) rule: order only the record the question needs, send only the identity proof the office asks for, and keep the order an unsent draft on the user's device until every item is answered.
 
 Search the birth registration of every child, not just one [S1]. In England and Wales the birth certificate gives the name and maiden name of the mother [S2]. Record the maiden name each registration gives, child by child, with its locator. Treat a differing name as a conflict to resolve: it can be a previous married name or a different mother.
+
+If the parent fields leave her birth surname unresolved, compare the children’s full middle names in birth and baptism records. Test a surname-like middle name as a candidate for the mother’s birth surname, especially in a family that passes names down [S44], [S45], [S46]. Compare it with the maternal grandfather’s surname and other family surnames [S44], [S46]. Search for her under her given name and that surname, then confirm the link to her birth family in an independent record.
 
 For a historical New York City birth, read the mother's name on the birth return itself. Look for the maiden-name label under the mother's full name on forms that use it [S26], [S27]. Use the recorded surname to look for her birth family.
 

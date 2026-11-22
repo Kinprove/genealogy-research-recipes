@@ -4,14 +4,14 @@ title: "Recover and read historical maps as dated, copy-specific evidence"
 summary: "Read a historical map, atlas, plat or fire-insurance sheet as dated evidence, and trace a detached archival map to its case."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "HISTORICAL-MAP-RECORD-RECOVERY-01", "text": "retain the map-to-case link as a candidate until the records establish it. Keep the estimated map-production date, the case-file span and any dated event statements separate. Seek the case's actual statements before dating the depicted event or moving a same-named person to another generation."}]
 handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historical-place-name-resolution"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 50}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 56}
 ---
 
 # Recover and read historical maps as dated, copy-specific evidence
@@ -25,6 +25,8 @@ Use this recipe when you are about to use a Sanborn fire-insurance sheet, a land
 - Read a Sanborn volume, not a loose sheet
 - Link a person to a building only through dated records
 - Place a recorded historical address
+- Trace a post office and its mail routes
+- Test a mapped migration route
 - Find a vanished cemetery, church or settlement
 - Read landowner maps and overlays with limits
 - Return a map packet
@@ -63,6 +65,12 @@ same-named person to another generation. [S31]
 
 **Kanawha Valley waterways.** Trace each named waterway to its junction with the main river or another tributary. Compare the detailed sheet with the water-route inset on John S. Swann's 1867 *Title Map of the Coal Field of the Great Kanawha Valley*. Search the Library of Congress under that title or use David Rumsey map 4965.001 [S92], [S93], [S94]. If the sheet ends before the junction, check an adjoining map from the period before ruling out the connection.
 
+**Overlapping claims.** Read disputed outlines on colonial Pennsylvania maps as the mapmaker's representation of a claim. Check the boundary at the date of the record and search the record series created by each claimant. For a tract in Pennsylvania's Westmoreland County that Virginia also claimed, check Pennsylvania's warrant registers and the Pennsylvania Land Office's *Virginia Entries*, series 17.209. Settlers sometimes warranted the same tract in both jurisdictions [S96], [S97].
+
+**Privacy gate:** <!-- privacy-gate: contact --> The user's approved name, reply address and map question go to the Library of Congress Geography and Map Division. Remove family names, private addresses and attachments from the question.
+
+If the catalogue leaves a sheet or edition unresolved, send a map-location question through **Ask a Librarian: Maps, Geography**. Give the locality, period, map series and editions checked, and ask for the missing sheet or call number [S98 @2026-11-21], [S99 @2026-11-21].
+
 ## Read a Sanborn volume, not a loose sheet
 
 1. Use the street index and graphic index to find the detail sheet. Read the adjoining-sheet numbers in its margins to continue across the edge. For an uncoloured block, check other volumes of the same edition and record the bounds of the surveyed area before reporting a gap [S3], [S77].
@@ -71,9 +79,13 @@ same-named person to another generation. [S31]
 4. Open the individual sheet and its neighbour where a mosaic overlaps: in the Spanish Fork mosaic, the upper sheet’s border hid shops visible on the underlying sheet [S1].
 5. Compare the same lot across dated editions, recording each structure that appears or disappears. Trace ownership independently through a dated plat and the underlying land records [S9].
 
+**Mixed use.** Check use abbreviations on each part of the building and record any floors the sheet assigns to a use. A shop label can coexist with dwelling space. Use colour for the material indicated by the edition's key and check the use labels separately [S98], [S100].
+
 ## Link a person to a building only through dated records
 
 Match a dated advertisement or directory entry to the building’s occupancy label and nearby landmarks. Search the whole edition for competing matches: Spanish Fork had two banks, so an advertisement locating a firm near a bank needed the bank’s name or another landmark [S1], [S2]. Compare the editions nearest the advertisement, especially when the firm may have moved. Record the printed address, the independent clues and any later renumbering before linking a person to the building.
+
+When following a household across addresses, plot each residence on the Sanborn edition closest to its record date. Compare nearby factories, businesses or rail lines with the recorded occupation. Use those features to identify possible employers and verify a match or a reason for moving in dated records about the household [S98].
 
 ## Place a recorded historical address
 
@@ -89,7 +101,41 @@ Match a dated advertisement or directory entry to the building’s occupancy lab
 
 **Electoral address dates:** For a historical British address, read the register's qualifying date as well as the date it came into force. Date its residence statement to the qualifying date, as The London Archives guide explains, and for London and Middlesex registers use the guide's name/address search route. Copy the qualifying date into the address worksheet before comparing street numbers. These lists contain eligible electors rather than every resident, so an absent name does not show that the building was empty or the whole household lived elsewhere. [S63 @2026-11-17], [S64 @2026-11-17]
 
+**Conflicting census addresses.** Plot both addresses on the plans nearest their respective census years. Compare the lots and cross streets, and check a dated conversion table for a street rename or house renumbering before recording a move. In Chicago, start with the 1909 conversion guide outside the Loop and the separate 1911 guide in the Loop [S101], [S102].
+
+## Trace a post office and its mail routes
+
+**Find the route map.** Start with the state's list in National Archives *Special List 29*, then check the Topographer's series in Record Group 28, section 28.6.2. Use Preliminary Inventory 168 entries 189 and 190 for printed post-route maps and entry 191 for manuscript maps. Carry over the full filing reference. For example, Special List 29, New Jersey entry 565, gives the filing reference *RG 28: State Maps, New Jersey, 1915* and an operating date of 1 April 1915 [S103 @2026-11-21], [S104 @2026-11-21], [S105 @2026-11-21], [S122 @2026-11-21], [S106 @2026-11-21].
+
+**Date the postal evidence.** Identify the producer and record the date the sheet says its routes were in operation. The Post Office Department bought maps before it appointed its first Topographer in 1837. The public state and multistate map series ordered in 1862 was updated over time, so compare editions around the event [S103], [S105], [S107].
+
+**Place the post office.** Find the digitized rolls of microfilm M1126 in National Archives Catalog series 608210. Browse by state or territory, then county, parish or district, then office name. Check a former name or jurisdiction when the first search misses. Enlarge each dated report and look for the township, range and section where applicable, the mail-route number and distance to the route, and named waterways, roads or railroads. Plot the written distances and landmarks when the sketch is missing. Check whether the report concerns a proposed office, a move or a name change before marking its location [S103 @2026-11-21], [S107 @2026-11-21].
+
+## Test a mapped migration route
+
 **Railroad routes:** Read the map's date and purpose before tracing a corridor. The Library of Congress collection described by TeachingHistory includes surveys, company-report maps and public route guides; distinguish a proposed or surveyed line from an operating route. Use a dated operating-route map to test travel between documented places, keeping the line's operating status separate from evidence of the family's actual journey. [S65], [S66]
+
+**California Gold Rush.** Start from the last documented residence before the journey and the earliest documented arrival. Compare an overland route, a crossing via Panama and a voyage around Cape Horn. Use Ensigns & Thayer's 1849 *Map of the gold region[s] of California* to identify suggested routes, then test the alternatives against dated waypoints. Search for named wagon-company records on a land route or ship manifests at the relevant ports on a sea route. For Panama, check each sea leg. For a coastal voyage, search departure-port coastal manifests as well as arrival records [S98], [S108], [S109], [S110].
+
+When documented waypoints imply a detour, compare the direct line and the candidate route on a topographic map. Locate passes, river crossings and alternate tracks, then date the segment that could explain the detour. On the California Trail's Truckee Route, Roller Pass was one of several climbs out of the same basin [S98], [S111].
+
+**Appalachian atlas.** Search for Carrie Eldridge's *An Atlas of Appalachian Trails to the Ohio River*. For a Blue Ridge crossing, start with figure 9, *Virginia’s Blue Ridge Gaps*, and confirm the trail through the gap on a dated route map. For settlement into Kentucky, use figure 10, *Kentucky Settlement Area*. In the contents, look under *The Carolina Road (Upper Road-Rogues Road)* for the names Eldridge groups there, then compare the dated segments before treating labels as interchangeable [S112], [S113], [S114].
+
+When a river route crosses the fall line, locate the falls or rapids for that river. Check period maps or travel accounts for the extent of navigation and any portage before tracing a continuous upstream journey [S112], [S123].
+
+**Trail or wagon road.** Check when a foot or pack trail became usable by wagons at the crossing you need. Compare the military roads in Eldridge's figure 6 with the earlier trails. Braddock's 1755 expedition widened an existing trail for its wagons and artillery, and Forbes's campaign took a separate route to Fort Duquesne in 1758. Use records of the household to decide whether it travelled either road [S112], [S113], [S115], [S116].
+
+**Modern corridor locators.** In Pennsylvania, use U.S. 40 near Fort Necessity to find the Braddock corridor and U.S. 30 near Bedford to find the Forbes corridor. Verify the historical alignment on a route map before carrying a modern highway segment into the itinerary [S112], [S116], [S118].
+
+**Cumberland Gap.** Date the documented crossing separately from the settlement road. Thomas Walker crossed the Gap in 1750, and Daniel Boone blazed the Wilderness Road through it for settlement in 1775. Check earlier trails for a journey before that road was cut [S112], [S117].
+
+**National Road into Ohio.** Date the specific segment before assigning a household to the road. Construction started in Cumberland, Maryland, in 1811, reached Wheeling by 1818, and began in Ohio in 1825. For an earlier itinerary, look for an earlier trail or road serving the documented waypoints [S112], [S118], [S119].
+
+**Great Wagon Road.** Check the Shenandoah Valley segment against a dated map. In Middletown, Virginia, use the Valley Pike, now U.S. 11, to locate the corridor and confirm the historical alignment at the place in question [S112], [S120].
+
+**Great Trail.** Search for *Tuscarawas Path* as well as *Great Trail* when tracing the westbound corridor from the Forks of the Ohio. Verify the junction and route onward to Detroit separately on a dated trail map [S112], [S124].
+
+**Zane's Trace.** For a journey through Ohio to Kentucky, trace the road opened in 1797 from Wheeling to Limestone, now Maysville. Check where the family's documented waypoints join or leave the trace before extending an itinerary to Lexington [S112], [S121].
 
 ## Find a vanished cemetery, church or settlement
 
