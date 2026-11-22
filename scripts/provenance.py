@@ -30,6 +30,7 @@ WARN_DAYS = 30
 ENTRY = re.compile(r'^(?:- \*\*([A-Z]\d+)\b|([0-9]+)\.\s|\|\s*([A-Z]\d+)\s*\|)')
 SOURCE_ID = r'(?:[SHPOCNB]\d+(?:-addition-\d+)?|U[0-9a-f]{12})'
 MARKER = re.compile(r'[\[(](' + SOURCE_ID + r'\b[^\]\n)]*)[\])]')
+MARKER_DATE = re.compile(r' @(\d{4}-\d{2}-\d{2})')
 CURRENT = re.compile(
     r'https?://|\b[a-zA-Z0-9-]+\.(?:com|org|gov|net|ie|uk)\b|[$€£]|'
     r'\b(?:currently|as of|now available|fees?|subscription|custod(?:y|ian)|'
@@ -453,6 +454,10 @@ def validate(slug, source_text, recipe_text, ledger, exceptions, today):
             for sid in claim['sources']:
                 require(re.search(rf'\[{re.escape(sid)}†? @{claim["checked"]}\]', visible_text(anchor)),
                         f'{label}: missing dated marker for {sid}')
+        if checked:
+            # Every visible date is the claim's check date, including a source's repeated markers.
+            shown = {d for m in MARKER.finditer(visible_text(anchor)) for d in MARKER_DATE.findall(m[1])}
+            require(shown <= {claim['checked']}, f'{label}: dated marker differs from the claim check date')
     for block in candidate_blocks(recipe_text):
         require(any(block == c['anchor'] for c in claims.values()),
                 f'{slug}: unregistered factual/cited passage: {block[:100]!r}')
