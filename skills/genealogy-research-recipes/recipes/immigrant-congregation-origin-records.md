@@ -4,13 +4,13 @@ title: "Find an immigrant's hometown in U.S. congregation records"
 summary: "Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "IMMIGRANT-CONGREGATION-ORIGIN-RECORDS-01", "text": "One hometown statement in one entry is a lead. Before filing identity, correlate it with the rest of the family's evidence and with origin-side records."}]
 handoff: ["scandinavian-parish-record-recovery"]
 checked: null
 checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 178}
 ---
 
@@ -121,6 +121,12 @@ Keep three locators separate and linked: the abstract page, the film, archive or
 ### Swedish-American membership entry to a Swedish parish search
 
 If the American surname gives no reliable Swedish origin, copy the stated birth parish and birth date from the Swedish-American congregation’s membership register. ArkivDigital’s 2022 demonstration used those fields to search for a Swedish household under the emigrant’s given name [S7]. Compare the household with the U.S. evidence before linking the people.
+
+If you cannot access a candidate Swedish-American register online, check the Swenson Swedish American Research Center’s church-record microfilm catalogue by state, town and congregation, including California congregations when the immigrant lived there [S17 @2026-11-21]. Match the register type and years, then copy the film number and any reel number.
+
+**Privacy gate:** <!-- privacy-gate: request --> Apply the [record-request rules](../SKILL.md#record-requests) before sharing the immigrant’s or named relatives’ names, dates and places, the immigrant’s church affiliation, or the requester’s contact and payment details with Swenson Center staff. Keep the request as an unsent draft until the gate is cleared.
+
+If you cannot inspect the matching film, request a staff search for the immigrant’s Swedish parish of origin [S16 @2026-11-21], [S18 @2026-11-21]. Use the Center’s Genealogy Research Request Form and follow its mailing and payment instructions [S18 @2026-11-21], [S19 @2026-11-21]. Give the name to search and the U.S. settlement [S19 @2026-11-21]. Specify the candidate congregation, register type, years and film reference in the research question.
 
 1. Use the candidate congregation table to select the U.S. church and relevant years.
    Check which membership and other register volumes are actually available. The

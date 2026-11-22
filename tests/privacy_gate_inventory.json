@@ -4042,5 +4042,11 @@
   "kind": "contact",
   "action": "send a map-location question",
   "checkpoint": "The user's approved name, reply address and map question"
+ },
+ {
+  "recipe": "immigrant-congregation-origin-records.md",
+  "kind": "request",
+  "action": "request a staff search for the immigrant’s Swedish parish of origin",
+  "checkpoint": "before sharing the immigrant’s or named relatives’ names"
  }
 ]
