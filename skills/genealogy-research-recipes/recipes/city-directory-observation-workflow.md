@@ -94,6 +94,8 @@ The worksheets below work with manually read images or copied index rows.
 
 Before you call an edition missing, find out which directories were published for the place and where they are held. For a U.S. place, uscitydirectories.com lists directories by state and locality with the repositories that hold them; its pages carry a 2002–2005 copyright, so a year it omits is unlisted there, not unpublished [S32 @2026-11-14], [S36 @2026-11-14], [S42 @2026-11-14]. The Library of Congress guide *United States: City and Telephone Directories* indexes the Library's own city and telephone directories by state [S36 @2026-11-14], [S43 @2026-11-14].
 
+For an edition missing online, check the local-history holdings of the library serving the town, following the lead from the available excerpt [S65]. Search its catalogue or holdings list by directory title or by locality and year, including print and microform holdings [S66], [S67]. Record the format and catalogue locator in the coverage row. Mark the relevant section as inspected only after viewing its pages.
+
 For Los Angeles, browse the Los Angeles Public Library's digitized city and street directories in ResCarta [S58 @2026-11-20]. If the edition is missing there, check the library's City Directories Index for paper and microform holdings [S59 @2026-11-20]. Record a holdings match with its format and mark an edition viewable online only after opening its scans. A search-result extract from Nancy Hendrickson's guide points to both routes [S57† @2026-11-20].
 
 For Ohio, start with the LDSGenealogy.com Ohio City Directories index and open the relevant county page [S60 @2026-11-20], [S61 @2026-11-20]. Check countywide listings as well as any section for the target locality [S62 @2026-11-20]. Follow the provider's link and verify access to the specific edition before marking it accessible in the coverage row.
@@ -172,6 +174,8 @@ An edition year identifies the volume; it does not by itself establish a residen
 each printed address or an exact move date. Keep an unstated time basis unknown. [S4]
 
 ## 3. Sort the series into questions you can investigate
+
+When people with the same or similar names could be confused, search for the subject and each plausible candidate in every available directory year in the period of interest and for a few years on either side [S63]. Compare their separate timelines by address and occupation [S64]. Report when each appears and how many distinct candidates the inspected editions support, keeping unresolved entries and coverage gaps visible.
 
 1. Append the next available edition using the same columns.
 2. Sort complete rows by normalized surname and given name, then by edition year.
