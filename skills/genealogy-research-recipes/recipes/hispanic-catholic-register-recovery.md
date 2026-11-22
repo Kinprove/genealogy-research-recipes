@@ -11,7 +11,7 @@ handoff: ["brazilian-parish-civil-registry-recovery", "portuguese-parish-civil-r
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 178}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 179}
 ---
 
 # Recover a Mexican or Hispanic Catholic ancestor across parish and civil registers
