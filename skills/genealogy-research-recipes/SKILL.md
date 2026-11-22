@@ -329,6 +329,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/historical-newspaper-section-search.md` — Choose historical newspaper sections for social ties, business activity, missing immigrants, and out-of-town deaths.
 - `recipes/olympic-participation-records.md` — Check Olympic results and trials, then route Olympic publications and archival files to the right finding aid.
 - `recipes/slavevoyages-person-and-voyage-linkage.md` — Choose the named-person dataset that fits the route, then trace the candidate through the underlying record and voyage.
+- `recipes/slavery-convention-territorial-record-recovery.md` — Find the records a jurisdiction created while accepting, excluding or implementing obligations under the 1926 Slavery Convention.
 
 ### Places and maps
 
