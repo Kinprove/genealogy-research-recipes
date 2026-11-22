@@ -3802,5 +3802,17 @@
   "kind": "request",
   "action": "Submit a separate stack service slip for each original file",
   "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "have them select the shared kit in the DNA Matches kit selector and send the message",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Use MyHeritage messaging only if the recipient and channel are cleared",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
  }
 ]
