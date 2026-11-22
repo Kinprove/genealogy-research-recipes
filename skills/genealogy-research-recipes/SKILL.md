@@ -489,6 +489,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/acadian-records-across-the-expulsion.md` — Locate an Acadian household before deportation, then link it to records at a destination or later resettlement.
 - `recipes/canadian-arrival-record-routing.md` — Choose a Canadian ocean or land arrival series by port and date, and seek substitutes before interpreting a missing entry.
 - `recipes/canadian-great-war-project-cross-border-enlistment.md` — Search for a possibly U.S.-born Canadian Expeditionary Force volunteer and confirm the candidate in the original service file.
+- `recipes/india-great-famine-household-record-recovery.md` — Follow a household across famine-era district, relief, land and migration records without assigning a cause from disappearance alone.
 
 ## Recipes: Record types in any country
 
