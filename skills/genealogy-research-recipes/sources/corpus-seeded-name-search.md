@@ -86,6 +86,8 @@ S42 to S46 were read on 2026-11-15. Not verified independently: the 1875 Efremov
 - **S67:** Talan Gwynek (Brian M. Scott), [Feminine Given Names in A Dictionary of English Surnames, part 3](https://heraldry.sca.org/names/reaneyHZ.html), © 1994, read 2026-11-21 at the public URL. Used for the Rose entry’s Norman forms Roese and Rohese. Its dated examples include related spellings, and its derivation differs from S64’s flower etymology.
 - **S68:** A. Brown and S. L. Uckelman, [Rose](https://dmnes.org/2023/1/name/Rose), *Dictionary of Medieval Names from European Sources*, 2023 edition, no. 1, read 2026-11-21 at the public URL. Used for Latin records from medieval England listing Roesia in 1222 and Rosa in 1279–80. The entry associates later forms with Latin *rosa* and gives a Germanic derivation for the earlier name. The cited record editions were not inspected.
 
+- **S69:** WHATWG, [HTML Living Standard, §13.2.3.2, Determining the character encoding](https://html.spec.whatwg.org/multipage/parsing.html#determining-the-character-encoding). Section read 2026-11-22. It specifies byte-order marks, transport metadata and markup declarations as evidence for decoding HTML bytes. Checking the decoded text against a known passage is the recipe’s validation step.
+
 ## Credits
 
 - Community sources S51, S52, S53, S54 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)

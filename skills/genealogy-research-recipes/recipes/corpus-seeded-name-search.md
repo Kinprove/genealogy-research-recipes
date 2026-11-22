@@ -227,6 +227,13 @@ For a recorded surname prefix, test the joined, spaced and punctuation forms rel
 
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
 
+**Check damaged text in saved HTML.** When Cyrillic displays as garbled text or replacement
+characters, preserve the original bytes. Use a byte-order mark, the saved HTTP `Content-Type`
+if available, and the HTML charset declaration to choose how to decode a working copy [S69].
+Compare a known Cyrillic passage with the browser rendering or another verified reading before
+rerunning the search. If only the damaged text remains and you cannot verify a recovery, record
+the search as incomplete.
+
 Remote services may normalize differently from local code. Submit original and transformed queries separately and compare returned identifiers. Check only the syntax needed for the task; do not transfer local regex, wildcards or Boolean syntax to an undocumented interface.
 
 If you build a word index from Tesseract's TSV output, parse it as raw tab-separated text, not as quoted CSV: Tesseract writes each word into its row with no quoting or escaping. [S23] A default reader, such as Python's `csv` module or pandas `read_csv`, uses `"` as its quote character with `QUOTE_MINIMAL`. It treats a word token that begins with a double quote, such as an OCR'd opening quotation mark, as the start of a quoted field, and a quoted field can run across tabs and line ends. [S24, S25] The following rows are then swallowed into one cell, their words vanish from the index, and a name looks absent when it is not: a false negative. Parse with quoting disabled (`csv.QUOTE_NONE`, or `quoting=3` in pandas). Compare the parsed row count with the file's line count minus the header, and check that no text field contains the TSV header or runs of numeric columns.
