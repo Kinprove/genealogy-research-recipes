@@ -3784,5 +3784,11 @@
   "kind": "third-party-tool",
   "action": "Search the named collection for the province, event and year",
   "checkpoint": "Submitting a MyHeritage search sends"
+ },
+ {
+  "recipe": "child-placement-and-orphan-train-records.md",
+  "kind": "request",
+  "action": "route the request through the living adult subject",
+  "checkpoint": "the child's names, estimated dates and placement clues"
  }
 ]
