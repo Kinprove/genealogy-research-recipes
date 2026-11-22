@@ -78,13 +78,15 @@ Rank every planned recipient by how close the relationship is and how sensitive 
 
 Contacting a more distant relative is still contact. It needs the same consent and disclosure limits as step 1.
 
+If two cleared MyHeritage recipients in the same tier are equally useful, check for last-visit dates on their match-linked member profiles in the user's account [S34 @2026-11-21]. If both dates are visible, put the more recent first. Leave willingness to reply unknown.
+
 When two close matches point to the same paternal family, ask a relative you can already reach which brothers were in that family [S17]. Keep the question to family structure and use the replies to build a candidate list. Agreement on a surname does not identify the father.
 
 If a match has died and other matches cannot answer the branch question, ask a surviving spouse you can already reach whether they remember anyone the match had reconnected with on that line [S31]. If the spouse already has a way to reach that person, ask whether the spouse would pass on a cleared message. Follow the Living people rule in `SKILL.md` and leave private contact lists and details out of the request.
 
 ## 3. Write a first message the recipient can check
 
-**Privacy gate:** <!-- privacy-gate: contact, publish --> The message names kits, shared DNA and possibly a tree with living relatives in it; answer the privacy gate in `SKILL.md` before sending it or the tree link. The same gate covers historical record excerpts sent to the match that could identify living descendants.
+**Privacy gate:** <!-- privacy-gate: contact, publish --> The message names kits, shared DNA and possibly a tree with living relatives in it; answer the privacy gate in `SKILL.md` before sending it or the tree link. The same gate covers historical record excerpts sent to the match that could identify living descendants. A cross-site message can take the tester's FamilyTreeDNA match details to MyHeritage and to the recipient shown there.
 
 Address the message so that it works whether the recipient is the tester or someone managing the kit. Rossi manages several kits and warns against assuming that the reader is the matching tester, or that you are matching their own kit [S5]. Include:
 
@@ -101,6 +103,10 @@ Keep it short. The aim is that the recipient does not have to move from website 
 Check the match's linked tree for signs that someone other than the tester runs the kit, sometimes the family's genealogist [S9]. If so, write to that person. In the sensitive tier, the tester decides first whether that person may be contacted (step 1).
 
 To message a MyHeritage match, use **Contact** on the match [S25 @2026-11-20] or at the top of **Review DNA Match** [S26 @2026-11-20]. For a managed kit, you can contact the kit manager or, if the match has their own MyHeritage account, the match [S26 @2026-11-20]. Check the options in the user's account and confirm the selected recipient is cleared before sending.
+
+MyHeritage lets a collaborator contact matches for a shared kit after accepting the invitation [S36 @2026-11-21]. If the collaborator is cleared to write under steps 1 and 2, have them select the shared kit in the DNA Matches kit selector and send the message in their own name [S35 @2026-11-21]. Confirm the kit and recipient in the collaborator's account before sending.
+
+If a FamilyTreeDNA match already links to a MyHeritage tree, check the linked tree for a MyHeritage messaging option in the user's account [S37 @2026-11-21]. Treat a site-owner contact option as a route to the owner [S38 @2026-11-21]. Use MyHeritage messaging only if the recipient and channel are cleared. Otherwise use another cleared route if available. Name FamilyTreeDNA as the site where the kits match.
 
 Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests to a genetic cousin [S6]. This governs what a message asks; a site's own connection or sharing request, such as 23andMe's, follows that site's recipe.
 
@@ -137,6 +143,8 @@ When following up on an unexpected match, share a birth surname of the tester's 
 - **Privacy.** If asked, describe the privacy risks plainly. Do not sugarcoat them or lie [S2]. Do not assert any company's current privacy terms unless you have checked them.
 - **Kits.** If the user is supplying kits, say up front that the recipient will not pay. The presenter treats a prepaid kit as removing a major barrier [S2].
 
+Address privacy in the initial invitation draft with a short, plain-language note [S32].
+
 For a line from France, recruit testers among descendants of emigrants, such as Québécois or Acadian families, and expect few testers living in France [S11]. French law permits genetic examination of a person for medical or scientific-research purposes and for anti-doping, not for genealogy, and fines a person who requests one outside the legal conditions €3,750 (articles in force when checked on 2026-11-12) [S12], [S13]. Some people in France test anyway: a French law firm cited an estimate of three million in July 2026 [S14]. Do not read a lack of France-resident matches as evidence against a French origin.
 
 **Privacy gate:** <!-- privacy-gate: contact, publish --> A group invitation reaches the tester. Joining or posting may disclose the tester's identity, an unknown-parentage search or information about living relatives to the service and group members. Answer the privacy gate in `SKILL.md` for those destinations before inviting the tester or posting.
@@ -152,6 +160,8 @@ For each message, log the date, recipient, kit, site, channel, sender (tester or
 Before the first message to any match, and before posting about the case online, save dated screenshots of the match entry (kit names, shared cM, longest segment) and of any tree linked to the match. Keep them with the log. Matches may later make their profiles private or remove their trees [S7].
 
 Record a missing reply as **no response as of [date]**, never as “refused” or “declined”. Jones describes a parentage search that narrowed to six brothers. More than a year after contact, the family had not replied [S3]. Leave the reason for the silence and the identity of the father unresolved. A contact log establishes only what was sent, received or expressly declined.
+
+Log whether the message was seen only if you can confirm it. In a reported MyHeritage case, a close match saw the outreach well after it was sent and then replied [S33].
 
 Record a reply such as "no, I don't recognise those names" as **does not recognise**, never as "no connection". Bardige notes that this is the usual answer to a list of surnames and towns. It means only that the names are not in the recipient's documented tree, so it does not count against the hypothesis [S8].
 
