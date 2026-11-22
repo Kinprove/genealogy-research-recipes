@@ -75,6 +75,12 @@ Treat structural validity and sharing readiness as separate findings. For an onl
 
 For an Ancestry tree the user owns, open **Tree Settings** and choose **Export tree** under **Manage your tree** [S24 @2026-11-18], [S25 @2026-11-18]. Select **Export** if the download button is missing. When **Download Your GEDCOM File** is available, select it and extract the `.ged` from the ZIP on the user's device [S25 @2026-11-18].
 
+**Privacy gate:** <!-- privacy-gate: export --> These exports copy the selected tree from FamilyTreeDNA or MyHeritage to the user's own device. The file may contain information about living or possibly living people. Answer the privacy gate in `SKILL.md` before exporting and keep the `.ged` local.
+
+For a local copy of an archived FamilyTreeDNA tree, check **Account Settings → Genealogy** in the user's kit. A read-only archive still supports GEDCOM export [S27 @2026-11-21], [S28 @2026-11-21]. If the archived tree is present, use **Tree Management → Export Tree** and save the `.ged` on the user's device [S28 @2026-11-21].
+
+For a copy of a tree already transferred to MyHeritage, use the family site that received it [S27 @2026-11-21]. Open **Family tree → Manage Trees**, choose **Export to GEDCOM** beside that tree, then select **Begin the export** and save the file locally [S29 @2026-11-21].
+
 ## 2. Put only evaluated findings in the file
 
 - **Export only people, events and links that have been evaluated against the evidence.** Keep hypotheses, candidates and unresolved alternatives in the research notes, not as facts or links in the file.
