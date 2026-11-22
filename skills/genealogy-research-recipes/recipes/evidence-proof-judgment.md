@@ -229,6 +229,10 @@ For a Russian Orthodox household, run the one-off-name test across consecutive c
 
 ### Read each record for what it can show
 
+**Test a candidate birth entry against a later marriage.** When a weak tree lead yields a plausible historical birth entry, look for the subject’s marriage record. If it names parents, compare them with the parents on the birth entry and with those of other candidates. Cite each entry and keep the birth unassigned if the marriage does not distinguish the candidates [N350].
+
+**Check whether two census addresses describe the same site.** Before adding a move to the timeline, compare the historical street names and numbers against dated maps, street-name indexes or old-to-new numbering tables. Record the as-written addresses and cite the map sheet or table entry that connects them. A confirmed renaming or renumbering resolves the address discrepancy. Use the other household descriptors to test who lived there [N350], [N351].
+
 **Test a name used consistently across censuses against the birth entry.** When a series of returns uses a different given name from the birth registration, compare household members, age and birthplace across the entries. Keep the birth-record form and the later form in the dossier with their own citations. If the descriptors link the entries, consider a nickname or informal name use before deciding that one entry is wrong or belongs to someone else [N333].
 
 **Test whether occupations overlapped.** Put the occupation statements from census and other dated records on one timeline. Read the instructions for each form to see whether it asked for one occupation or allowed several. The 1851 England and Wales household schedule allowed people to list distinct trades in order of importance [N334]. Keep concurrent work, a change of trade and a namesake open until the dated records distinguish them [N333], [N334].
@@ -240,6 +244,8 @@ For a Russian Orthodox household, run the one-off-name test across consecutive c
 **A missing court order does not count against a name change.** For much of U.S. history a person could take a new name under the common law without going to court [N206], [N207]. Bridge the two names through records that span the change: a deed for land bought under one name and sold under the other, pension applications made after the change, probate, divorce and criminal court records that note an earlier name or an alias, and sometimes a death certificate [N208], [N206], [N209], [N210]. Then compare the two identities' descriptors in the dossier before you join them.
 
 **Read a stated age by the form's own definition before you compute a birth year.** The age may be at the last birthday, at the next birthday, or on a stated reference date: the 1850 U.S. census asked for the age at the last birthday before 1 June 1850, and Canada's 1851 census asked for the age next birthday [N211], [N212], [N205], [N213], [N214]. Work out the birth interval from that definition before you log a one-year discrepancy. Cite the record only for what it gives: an 1850 census age of 3 and a birthplace of Indiana support a birth in Indiana between 2 June 1846 and 1 June 1847, not an exact birth date taken from a death certificate, even when the two agree [N215], [N205].
+
+**Test a witness against an unnamed census tally.** Look for the witness’s stated age and testimony date in the court file [N357]. Carry the resulting birth interval to each later census’s reference date and compare it with the recorded age band for the proposed household member [N358]. When the age is missing, as reported in the discussion, leave the age test open [N356†]. An overlap establishes age compatibility. Require separate evidence to identify the person or assign a relationship to the head of household.
 
 **Ask whether an age changed when there was a reason to misstate it.** Compare enlistment ages with records made before enlistment [N307], [N308], and compare ages reported before and after marriage [N309]. In one case, later records from a marriage certificate to a gravestone repeated a birth year the woman had adopted [N310]. Trace the earliest appearance of the new age and ask who supplied it. A plausible motive calls for a check against independent evidence close to the birth.
 
@@ -266,6 +272,8 @@ For a Russian Orthodox household, run the one-off-name test across consecutive c
 **A will speaks at its date.** A beneficiary named in it was alive, or believed alive, when the testator signed it; that does not show that the beneficiary outlived the testator. Read the whole estate file to see whether the share went to that person or to their heirs, since a gift to someone who died first lapses or passes as the will or the law directs [N251], [N252]. A child named only to receive nothing or a token sum was usually named so the child could not claim to have been overlooked; that shows neither estrangement nor that the will names every child [N253], [N254]. A child left out may already have received a share in the parent's lifetime: look for deeds of gift, settlement deeds and the child's own will before you read the omission as a quarrel [N253], [N255], [N256].
 
 **Separate same-named testators and beneficiaries.** Make a row for each appearance, with the county, will date, probate date and role [N320], [N322]. In one transcribed will, the testator’s same-named son also served as executor [N321]. Check the roles in the will and leave index hits unassigned until other evidence identifies the person.
+
+**Use probate heirs to test an out-of-town death report.** Take the reported name, death date and residence to the historical probate index for the likely court and use its case number or volume and page to find the file [N355]. Compare named heirs and stated relationships against the documented family of each plausible decedent, using the comparison reported in the interview [N354†]. Cite the newspaper and probate file separately. Keep the identification open if the heirs fit more than one family or the file supplies no discriminating names.
 
 **Compare wills on both ends of a proposed move.** Look for the mother's will naming a son at his destination [N326] and the son's will identifying the property he received from her [N323]. Match the property descriptions and check deeds or distributions if the transfer is unclear [N327]. Record what each document says about residence separately from ownership.
 
@@ -332,6 +340,8 @@ mother's or grandmother's generation. Motivating examples:
 inspected does not prove it was never used. A custom of passing on maternal surnames must be shown
 from the records, and any such clue is a search lead, not parentage.
 
+**Compare independently documented middle names for namesakes.** When candidates share a first name and surname, compare any middle name in the candidate birth or immigration record with the middle names supported for each person. Record the literal name and its source in the dossier. Use a distinctive match alongside dates, places and relatives to rank the candidates. Keep the identity open if only the name agrees [N348], [N349].
+
 When a birth or baptism names only the mother, also test a surname-like middle name as the
 father's surname. For an illegitimate child, a birth certificate or baptism entry usually records
 only the mother, but the mother may give the child the father's name as middle names [N303]. Keep
@@ -361,6 +371,8 @@ settled. A name rare in the settlement can be common in the place of origin, so 
 share it need not be kin [N265], [N266].
 
 ## Compare the creation stages within a marriage record
+
+**Split a chatbot’s marriage claim before verifying it.** Test each spouse’s name and identity, whether they married each other, the year and the place as separate propositions. Cite the historical records that support each proposition. Leave the others open when a record confirms only one detail [N347].
 
 When a loose license/return and a book entry survive, compare the license, ceremony return
 and filing/recording endorsements separately. Retain both locators and each component's
@@ -432,6 +444,10 @@ A bilingual seal may reflect the issuing office rather than its holder. On a Sov
 When an entry corrects itself, transcribe both readings, the correction, its date if known, the named informant and the corrector’s attestation. An amended patronymic that agrees with an earlier entry may have been copied from it [N140]. Check whether later records use the struck or amended name, record later certificates as later uses, and leave biological parentage open unless independent evidence identifies it.
 
 When the image of a birth entry is available, look for papers inserted between the leaves and for later margin notes that an index or transcription may not carry. A receipt for a birth certificate issued for an adoption, naming the recipient, issue date and number, is its own dated document. Record it with its locator, and use the named recipient to search his parish for the child under his surname or a new patronymic. A later court legitimization note names a legitimizing husband. Neither the receipt nor the note proves that an adoption was completed or who the biological father was. Verify the receipt or legitimisation note on the image and seek a record that establishes the legal outcome [N154].
+
+**Resolve the order of numeric dates before declaring a conflict.** When a date in historical immigration or civil paperwork can be read day-first or month-first, keep the literal date and look for an unambiguous example in the same hand and form, such as a day number above 12. Establish the convention for each record before comparing the dates. Keep both readings open if the order remains ambiguous, and check the calendar separately [N352], [N353].
+
+**Date a passport application against the obituary subject’s death.** Use the destination and approximate travel dates in the obituary to find candidate historical passport papers. Read the application’s own date, distinguish it from any later issue or index date, and compare it with an independently established death date [N360]. Set aside an application made after the death and keep searching for an earlier record. In a case reported in the talk, a match on name, home county and destination still led to an application dated after the obituary subject’s death, which is also recorded in a probate index [N359†], [N361].
 
 If a disputed year comes with a month/day and liturgical observance, preserve the literal
 forms and test candidate years against the documented calendar/tradition. Compare independent
@@ -520,6 +536,8 @@ her birthplace and with land or probate records she made under both names. Motiv
 [Gunton](https://www.youtube.com/watch?v=QOxgU5AZjEo),
 [Dove](https://www.youtube.com/watch?v=pNF5B1jZ8gM). Agreement supports a surname but does not prove
 it. A matching birthplace or a registration under the maiden name identifies no father.
+
+**Test a first-and-middle-name match across surnames.** When a candidate marriage entry gives a woman’s documented first and middle names under a different surname, check for an earlier marriage that accounts for the surname. Compare parents, age or residence where available. Keep a different woman with the same given names in play until other records resolve the identity [N349].
 
 An unchanged surname can also hide a marriage within the family. A widow who seems never to have
 remarried may have married her late husband's brother. A man whose wives share a maiden name, and
