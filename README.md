@@ -181,7 +181,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [burial-evidence-packet](skills/genealogy-research-recipes/recipes/burial-evidence-packet.md) | record catalogues and original images | — | — | link, publish, third-party-tool, upload | contact | required |
 | [canadian-arrival-record-routing](skills/genealogy-research-recipes/recipes/canadian-arrival-record-routing.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [canadian-census-interpretation](skills/genealogy-research-recipes/recipes/canadian-census-interpretation.md) | record catalogues and original images | — | — | — | — | — |
-| [canadian-provincial-record-routing](skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md) | record catalogues and original images | — | — | request | — | required |
+| [canadian-provincial-record-routing](skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [catholic-sacramental-cross-notations](skills/genealogy-research-recipes/recipes/catholic-sacramental-cross-notations.md) | record catalogues and original images | — | — | — | — | — |
 | [chechen-ingush-1944-deportation-records](skills/genealogy-research-recipes/recipes/chechen-ingush-1944-deportation-records.md) | record catalogues and original images | — | — | request | — | required |

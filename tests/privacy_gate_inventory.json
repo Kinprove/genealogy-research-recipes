@@ -3778,5 +3778,11 @@
   "kind": "publish",
   "action": "From the single-photo view in Reimagine, tap the share icon",
   "checkpoint": "Sharing from Reimagine sends the selected photo or comparison"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the named collection for the province, event and year",
+  "checkpoint": "Submitting a MyHeritage search sends"
  }
 ]
