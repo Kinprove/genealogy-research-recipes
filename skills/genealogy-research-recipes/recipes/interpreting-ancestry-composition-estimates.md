@@ -121,6 +121,12 @@ GEDmatch's calculators become available once a kit's upload is complete [S6 @202
 
 Compare the estimate with what the documented parents could have passed on. A share of about half in a population that neither known parent belongs to, or a share of only about half when both known parents belong to it entirely, is not ordinary inheritance variation (§4). When the population is one the model detects precisely, treat it as a parentage lead. Ashkenazi Jewish ancestry is the clearest case: 99.3% precision and 98.6% recall in 23andMe's cross-validation. [S5]
 
+When looking for an unknown parent's family, shortlist a country if it recurs among distant DNA matches and fits the broader ethnicity estimate. Check whether those matches share DNA with known relatives on either side, and verify the ancestral places suggested by their trees in historical records. Keep the country and parental side tentative until the matches and records support the proposed line. [S34], [S8]
+
+On MyHeritage, open **DNA → Overview** in the tester's account and check the existing DNA Matches breakdown. It groups matches by estimated relationship and by country of residence. Use the country breakdown to prioritize a lead and keep matches from other countries in the shared-DNA comparison. [S35 @2026-11-21]
+
+In the published account, the close match that advanced the paternal search was in the United States while the family's initial lead was Denmark. [S34]
+
 Compare the percentage lead with an actual relative match. In Greschler’s account, a 49.9% Ashkenazi estimate preceded a direct 23andMe match to the donor [S9]. In a separate case, four companies estimated a tester with four Jewish grandparents at about half Ashkenazi. She shared only 69 cM with her legal father’s brother, then 495 cM with a grandson of the proposed donor’s brother [S10]. Record which comparison tests each relationship.
 
 Cooper also mentions donor conception after an unexpected half-Jewish estimate, without giving a match or shared-DNA amount for that account [S2].
