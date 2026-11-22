@@ -194,6 +194,8 @@ Continue through the reserve and later annotations rather than ending at dischar
 
 **Search the military index for the recruitment place.** For enlistment or conscription in Nord, use MyHeritage's *France, Military Enlistees and Conscripts of Nord*. Carry the date and place of enlistment or conscription from a hit into the appropriate recruitment series [S71 @2026-11-20], [S89 @2026-11-20]. For conscription in the former Seine from 1887 to 1921, use *France, Military Conscripts of Seine*. Take the bureau and matricule from the hit to the register image and confirm the classe there [S71 @2026-11-20], [S90 @2026-11-20]. Use the historical recruitment jurisdiction when choosing the index. After a miss, continue with the classe and bureau or the earlier recruitment stages below.
 
+**Read the full Seine matricule.** Copy the occupation from *État civil* and the physical description from *Signalement* [S91], [S92]. Read *Détail des services et mutations diverses* with *Corps d’affectation* and record the mobilization date, each regiment and its assignment date when given, and the date and wording of any discharge [S91], [S92]. Record transfer to the reserve and final discharge as separate events. Cite the register cote and the image that supplies each detail [S92].
+
 ### Before classe 1867: follow the local recruitment stages
 
 For a corroborated earlier class and locality, check the surviving recruitment series
