@@ -480,6 +480,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-military-headstone-application-recovery.md` — Route a U.S. military headstone application by death and application dates, then compare its service and burial identifiers.
 - `recipes/us-treasury-accounting-military-claims.md` — Find Treasury audit, paymaster or pension-account records for a U.S. military payment or claim, using the office and transaction date.
 - `recipes/us-marine-corps-muster-and-wwi-unit-records.md` — Recover a U.S. Marine’s dated unit from muster rolls, then trace First World War assignments and death records.
+- `recipes/us-postmaster-appointments-and-office-sites.md` — Find a U.S. postmaster by office and date, distinguish appointment from confirmation, and locate the office in site reports.
 
 ### Canada, Latin America, Asia and Oceania
 
