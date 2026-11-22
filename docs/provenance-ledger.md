@@ -162,18 +162,18 @@ in the recipe text so that a reader or a consuming model can use a claim correct
 The issue compared the current layout with two alternatives: keep check dates only
 in the sidecar and ledger, or keep the whole claim-to-source mapping there as well.
 Pull request #667 prompted the question. In the Southern Claims Commission recipe,
-dated markers sit between the steps that lead from an envelope-only House file to the M2007
-docket cards.
+dated markers sit between the steps that lead from an envelope-only House file to
+the M2007 docket cards.
 
 **Decision.** Keep the current format. Each alternative loses a check, or loses
 information that a reader of the shipped skill needs. No validator, test or recipe
 change follows. These elements stay visible in the recipe text:
 
-- every source ID marker;
-- the dagger and the limited- or partial-access wording, in the sentence that
-  cites the source;
-- the claim's check date on each marker of a `platform-ui`, `fee`,
-  `portal-availability` or `custody` claim;
+- every source ID marker, in the sentence it supports;
+- for an unread source, the dagger and attributed wording, and for a partly read
+  source, the scope wording, in the sentence that cites it;
+- for a `platform-ui`, `fee`, `portal-availability` or `custody` claim, the
+  claim's check date on a marker of each cited source;
 - the archival identifiers and historical dates that a lookup needs, such as
   M2007, Record Group 123 and its Archives identifier, or the 3 March 1873
   deadline. These are part of the instructions, not provenance markers.
@@ -182,47 +182,54 @@ Nothing moves to the sidecar or the ledger.
 
 ### What reaches a reader
 
-The ledger never ships (see the ledger location section above). The sidecars ship
-in every build except the Claude directory build. That build omits `sources/` and
+No release build or package includes the ledger. A Git install copies it, but
+outside the skill folder that `SKILL.md` points the assistant to. The sidecars
+ship in every build except the Claude directory build, which omits `sources/` and
 links the sidecars on GitHub (`scripts/build_dist.py`). So the recipe text is the
 only place where every installed copy shows a claim's sources and its check date.
 `SKILL.md` tells the assistant to read the sidecar entry for each cited ID. It
-defines `[S12 @2026-11-07]` as the claim's last check date.
+defines `[S12 @2026-11-07]` as the claim's last check date. The recipe header's
+`checked` date is a recipe-level check of platform documentation. It is null in
+52 of the 189 recipes that have reviewed current-state claims, including the
+Southern Claims Commission recipe.
 
-The issue assumed that the sidecar already shows the claim dates. A sidecar entry shows
-the date its source was read, which is not always the claim's check date. There are
-1,366 reviewed current-state claims. For 1,265 of them, every cited source was
-read on the day the claim was checked. For 101, at least one cited source was
-read later, so its sidecar entry shows a later date than the claim's check. In
-3 claims, no cited entry shows the claim's date at all:
-`southern-claims-commission-case-files#C-02` to `#C-04` were checked on
-2026-11-18 and cite only S2, which the sidecar records as read on 2026-11-21.
+The issue assumed that the sidecar already shows the claim dates. A sidecar entry
+shows when its source was retrieved, which is not always when the claim was
+checked. There are 1,366 reviewed current-state claims. For 1,265 of them, the
+ledger records every cited source as retrieved on the day the claim was checked.
+For 101, at least one cited source was retrieved later, so its sidecar entry shows
+a later date than the claim's check. In 3 claims, no cited entry shows the claim's
+date at all: `southern-claims-commission-case-files#C-02` to `#C-04` were
+checked on 2026-11-18 and cite only S2, which the sidecar records as read on
+2026-11-21.
 
 ### What the checks read
 
 | Check | What it reads |
 | --- | --- |
 | Expiry of a current-state claim | The ledger's `checked` date only |
-| Dated marker | Each marker's date, compared with the ledger's `checked` date |
+| Dated marker | For each cited source, a marker with the ledger's `checked` date |
 | Source join | The paragraph's rendered markers, compared with the ledger's `sources` |
-| Dagger and attribution, partial access | The sentence that holds each marker |
-| Unregistered passage | A marker, domain, currency, current-state phrase or custodian name in a paragraph |
+| Unread or partly read source | The sentence that holds each marker of that source |
+| Unregistered passage | A marker, or a domain, currency, current-state phrase or custodian name in the raw paragraph |
 
-The dated-marker check only keeps the visible date equal to the ledger date. The
+The dated-marker check only keeps a visible date equal to the ledger date. The
 source join is the only check that compares the ledger mapping with a second,
-independent record. Of the 3,852 reviewed paragraphs, 3,478 need a ledger record
+independent record. Of the 3,852 reviewed paragraphs, 3,427 need a ledger record
 only because they carry a marker.
 
 Each change below was applied to the real Southern Claims Commission recipe,
 sidecar and ledger, and run through `validate()` from `scripts/provenance.py`
-with the date 2026-11-22. For the alternatives, the dated-marker check was
-removed. For "IDs and dates only in the ledger", the source join was removed too,
-and access wording was checked per paragraph. A paragraph is the smallest unit
-that a ledger record can name.
+with the date 2026-11-22. The alternatives were simulated with a patched copy of
+`validate()`. For "dates only in ledger and sidecar", the dated-marker check was
+removed. For "IDs and dates only in ledger", the source join was removed too, and
+access wording was checked per paragraph, the smallest unit that a ledger record
+can name. The last column is discussed below.
 
 | Change | Current | Dates only in ledger and sidecar | IDs and dates only in ledger | One date per claim |
 | --- | --- | --- | --- | --- |
 | Ledger names the wrong source (C-07) | Caught | Caught | Passes | Caught |
+| Ledger record removed, marker kept (C-07) | Caught | Caught | Passes | Caught |
 | Marker and ledger record both removed (C-07) | Passes | Passes | Passes | Passes |
 | Check older than 180 days (C-02) | Caught | Caught | Caught | Caught |
 | Ledger date changed, recipe unchanged (C-05) | Caught | Passes | Passes | Caught |
@@ -233,13 +240,13 @@ that a ledger record can name.
 C-01 is one sentence long, so the per-paragraph check still caught the removed
 attribution there. Moving dates out keeps the expiry check and loses only the
 visible date and its comparison with the ledger. Moving the IDs out lets a wrong
-source link pass, as well as a qualification moved to another sentence.
+or missing ledger link pass, as well as a qualification moved to another sentence.
 
 Qualifications are bound to sentences. 464 reviewed claims cite both a fully read
 source and a limited or partial one. In 422 of them, at least one sentence cites a
-read source but not the limited one. The validator can require the dagger and the
-attribution in the limited source's own sentence only because the marker shows
-which sentence that is.
+read source but not the limited one. The validator can require the qualification
+in the limited source's own sentence only because the marker shows which sentence
+that is.
 
 ### Model probe
 
@@ -247,10 +254,11 @@ Three tasks were given to `claude-opus-5-5`, with `SKILL.md` as system
 instructions and a read tool for the recipes, isolated as in
 `evals/run_evals.py`. The tasks were: an envelope-only disallowed House file
 (referral, M2007, Record Groups 123 and 205, Fold3), a barred claim (M87, M1407,
-Record Group 233), and a New York City birth certificate without a certificate
-number (portal steps). In each task, the user's date was 15 September 2027, past
-every expiry window. Each layout ran three times per task. A blind judge
-(`claude-opus-5-5`) graded each answer against the recipe's facts.
+Record Group 233, Fold3), and a New York City birth certificate without a
+certificate number (portal steps). In each task, the user's date was 15 September
+2027, past every expiry window. Each layout ran three times per task. For each
+layout, `SKILL.md` described the markers that layout uses. The same model,
+without the layout name, graded each answer against the recipe's facts.
 
 | Layout | Right steps | States the check date | Warns that steps may have changed | Keeps attribution |
 | --- | --- | --- | --- | --- |
@@ -265,36 +273,56 @@ every expiry window. Each layout ran three times per task. A blind judge
   release-date note that `SKILL.md` requires under "Version and updates". In
   this probe, that note told users that their copy might be out of date; the claim
   dates mostly did not.
-- Two answers stated attributed advice as fact. The dagger text was the same in
-  every layout.
-- Limits: one model, three tasks, three samples per cell.
+- One answer with one date per claim stated attributed advice as fact. The other
+  failing grade was a grading error: that answer cited the walkthrough that S6
+  records.
+- Limits: one model, which also graded; three tasks; three samples per cell. A
+  month counted as stating the check date, and an answer that did not use the
+  attributed advice counted as keeping its attribution. No layout removed the
+  source IDs, and no task asked for the evidence behind a claim. For the layout
+  with readable sidecars, `SKILL.md` said that each sidecar entry records the
+  check date, which is true only where the retrieval and check dates match. The
+  runs without sidecars had no web access, so they could not open the GitHub
+  links that the Claude directory build uses.
 
 The outcome rules were fixed before the run. Inline dates counted as used if, for
 each task, at least 2 of 3 answers with them stated the date and at most 1 of 3
 answers without them did. This held for the barred-claim task only. So the probe
-adds only weak evidence, and the decision rests on the counts above.
+adds only weak evidence about dates, and the decision rests on the checks and
+counts above.
 
 ### One date per claim, not adopted
 
 This option was not one of the two alternatives that #697 named. Each claim has one
-check date, and the validator requires it on every marker in the paragraph. So the
-3,992 dated markers in the 1,366 claims repeat their claim's date. Showing the date
-once, on the paragraph's last marker, would leave 1,366 dated markers. The number
-of dated markers followed by more prose in the same paragraph would fall from
-3,554 to 444. The validator caught every change in the table above with this layout.
+check date. Because the validator requires it on a marker of each cited source,
+the 3,992 dated markers in the 1,366 claims repeat their claim's date; 1,123
+claims carry more than one. Showing the date once, on the paragraph's last dated
+marker, would leave 1,366 dated markers. In the rendered text, the number of dated
+markers followed by more words in the same paragraph would fall from 2,483 to 440.
+With this layout, the validator caught the same changes as with the current one.
 
-It is not adopted. The probe rules accepted it only if, for each task, it stated
-the date in no more than one answer fewer than the current layout. It failed on the
-barred-claim task (0 of 3 against 2 of 3), although that task's paragraphs cite one
-source each and are the same in both layouts. With the date shown only once, a
-reader must also know that a date at the end covers the earlier steps. Only
-`SKILL.md` would say so, and a reader on GitHub does not see it. Reconsider this
-option only with a reader test that shows readers keep the date for a step whose
-marker no longer carries it.
+It is not adopted, because the probe found a reader who misread it. In two of the
+three answers to the envelope task in this layout, the model said that the Court
+of Claims referral step had no recorded check date. That step's marker had lost
+its date, and the paragraph's last marker carried the date that covers it. No
+answer with every marker dated said so. The probe rules also accepted this layout
+only if, for each task, it stated the date in no more than one answer fewer than
+the current layout; it failed on the barred-claim task (0 of 3 against 2 of 3).
+Only `SKILL.md` would tell a reader that a date at the end covers the earlier
+steps, and a reader on GitHub does not see it.
 
-Adopting this option, or moving the dates out, would require these changes: replace
-the dated-marker check in `validate()`; change the "Read source limits" text in
-`SKILL.md` and the provenance section of `MAINTAINERS.md`; update the tests that
-quote dated recipe text or test the dated-marker rule; and rewrite 1,123 reviewed
-paragraphs (one date per claim) or 1,366 (no inline dates), together with their
-ledger anchors.
+Changing the layout would require these changes:
+
+- one date per claim: replace the dated-marker check in `validate()`, and rewrite
+  the 1,123 reviewed paragraphs that carry more than one dated marker, with their
+  ledger anchors;
+- dates only in ledger and sidecar: remove that check, and rewrite 1,380 reviewed
+  paragraphs, the 1,366 current-state ones and 14 others that carry a dated
+  marker. No pending record carries a dated marker;
+- IDs and dates only in ledger: also remove the source join and the sentence
+  checks, and rewrite every reviewed paragraph and the 1,003 pending ones that
+  carry markers. The frozen inventory fingerprints those pending records, so each
+  would first need a review;
+- each of them: change the "Read source limits" text in `SKILL.md` and the
+  provenance section of `MAINTAINERS.md`, and update the tests that quote dated
+  recipe text or test the dated-marker rule.
