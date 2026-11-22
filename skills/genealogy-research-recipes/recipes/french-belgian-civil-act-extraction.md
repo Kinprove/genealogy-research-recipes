@@ -48,6 +48,8 @@ For Belgium, use **Civil Birth Registers** for 1800–1925, **Civil Marriage Reg
 
 ## Find Belgian register images in AGATHA
 
+For Belgian events around the start of civil registration, browse the commune’s earliest civil volume [S26], [S27]. The registers generally begin in 1796–1797 [S19]. France decreed annexation in 1795 and extended its civil-registration rules to the annexed departments in 1796 [S27]. Check the corresponding parish books for earlier events or gaps in the civil series [S19]. Some parish books contain the first civil acts because the 1796 order kept those books in use until 22 September 1796 [S27].
+
 - Search Belgian parish and civil registers in the State Archives' AGATHA (agatha.arch.be). It replaced the old SEARCH site (search.arch.be), which was shut down on 23 December 2024. Links and guides that point to search.arch.be no longer reach the registers. A SEARCH account also works on AGATHA. [S5]
 - Create an AGATHA account from its homepage before opening register images. [S5]
 - A person hit in AGATHA is a pointer. Open the register image and extract the act from it.

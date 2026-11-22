@@ -43,7 +43,7 @@ narrative and named family conclusions are not adopted as verified claims.
 
 - **S18:** MyHeritage, [Collection catalog for Belgian vital records](https://www.myheritage.com/research/records-catalog/belgium/birth-marriage-death/catid-2000). Public catalog listings read 2026-11-20. The birth, marriage and death titles show 1800–1925, 1800–1938 and 1800–1950 respectively. The check covers the collection listings.
 
-- **S19:** State Archives of Belgium, AGATHA, [Genealogy: how to get started?](https://agatha.arch.be/en/help/beginning/). Civil status guidance read 2026-11-20. Describes birth, marriage and death fields and using a municipality’s index or ten-year table to find the register entry. Used for interpreting fields and locating images by commune.
+- **S19:** State Archives of Belgium, AGATHA, [Genealogy: how to get started?](https://agatha.arch.be/en/help/beginning/). Civil status guidance read 2026-11-20. Describes birth, marriage and death fields and using a municipality’s index or ten-year table to find the register entry. Used for interpreting fields and locating images by commune. Register chronology and coverage guidance read 2026-11-21. Gives 1796–1797 as the usual start of Belgian civil registers and directs researchers to parish books for earlier events and gaps in the transition years.
 
 - **S20:** Criminocorpus, [Code civil, Des actes de naissance, version in force 21 March 1803](https://criminocorpus.org/fr/legislation/droit/civil/premier/ii/ii/1803-03-21/). Historical statutory text read 2026-11-20. Article 56 identifies the birth declarants and article 62 provides for a separate recognition act and a marginal reference when a birth act exists.
 
@@ -57,6 +57,10 @@ narrative and named family conclusions are not adopted as verified claims.
 
 - **S25:** French Senate, [Documents parlementaires, session ordinaire de 1919](https://www.senat.fr/comptes-rendus-seances/3eme/pdf/documents_parlementaires/1919/DP1919_001_096.pdf). Explanatory memorandum to Annex No. 5 read 2026-11-20. Describes transcriptions in the communes of domicile and gives the example of September 1914 deaths transcribed in 1918. Used for contemporary evidence about the routing and delay.
 
+- **S26:** Andrew Koch, Family Tree Magazine, [Why US Genealogists Should Care About Napoleon](https://familytreemagazine.com/history/napoleon-bonaparte-family-history/), first posted November 2023. Community article’s civil registration section read 2026-11-21. Points readers to the introduction of French civil registration in Belgium. The article gives 1796 for the annexation. The archive inventory in S27 dates the annexation to 1795 and the civil-registration order to 1796.
+
+- **S27:** Laurent Honnoré with Loïc Burelle, Coraline Cauchie and Stéphane Vanleynseele, Archives de l’État à Mons, [Inventaire des archives du Tribunal de première instance de Charleroi. Tribunal civil. Registres de l’état civil (1792) 1796–1910](https://agatha.arch.be/data/ead/BE-A0524_707453_703182/annexes/EP6169.pdf), 2021. Historical introduction, pp. 11–12, read 2026-11-21. Distinguishes the 1 October 1795 annexation decree from the 17 June 1796 civil-registration order and explains why some first civil acts are in parish registers used through 22 September 1796.
+
 ## Credits
 
 - Archives du Gard, Fondation Napoléon, Heemkunde Nieuwerkerken, Belgian Chamber of Representatives and Criminocorpus (S9–S13) — Calendar tables, historical guidance and legal texts paraphrased (adapted)
@@ -68,3 +72,5 @@ narrative and named family conclusions are not adopted as verified claims.
 - Talya, Esther Shuman and MyHeritage (S14–S18) — Blog and catalog information paraphrased with attribution (adapted)
 - State Archives of Belgium and Archives départementales du Val-de-Marne and de l’Orne (S19, S22, S24) — Archive research guidance paraphrased with attribution (adapted)
 - Criminocorpus, Légifrance and the French Senate (S20–S21, S23, S25) — Historical statutory and parliamentary texts paraphrased with attribution (adapted)
+- Andrew Koch, Family Tree Magazine (S26) — Research lead paraphrased with attribution (adapted)
+- Archives de l’État à Mons (S27) — CC BY-NC-ND 3.0 inventory cited for historical facts (adapted)
