@@ -206,6 +206,17 @@ benchmark; the underlying images, prompts and logs were not inspected here [S15]
 
 7. **Use the index to find the page.** Two hits for a wife’s family came from the same patronymic misread twice [S15]. Re-read every hit on its image before connecting the families.
 
+**Triage a long series with local HTR.** When the scans have no searchable text, use the
+blind control above to check whether a local handwriting reader retrieves known entries.
+Keep the recognized text tied to its source page. Search for several independently known
+terms likely to occur in the same entry, such as a child’s given name, a parent’s name and the
+residence. Use supported spellings and try each term separately. Start with pages matching
+more of the distinct terms and keep pages that match only one for follow-up. Terms can match
+different entries on a page, so read the complete entry on the image. Record the model version,
+layout settings, queries, matching rules and which pages produced text or failed. Log screening separately
+from image review. A zero-hit screen leaves the images to be checked before ruling out a
+record. Word-spotting evaluations measure missed and false matches separately [S60].
+
 For resource estimates, compare the same frames with the same model, brief, crop scale and number of readers. Measure input tokens including cache reads, uncached input, output, image views, elapsed time and coverage. Include interrupted batches separately. The practitioner’s follow-up compared different frames and changed prompt, batch size and launch method together [S16]. Use its figures to design a local comparison; assess accuracy on a blind control and calculate billed cost from the applicable rates.
 
 ### Generate candidates for an uncertain German word

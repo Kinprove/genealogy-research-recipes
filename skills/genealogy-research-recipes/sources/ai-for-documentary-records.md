@@ -223,6 +223,8 @@ used.
 - **S58:** Erica Edvi, MyHeritage Blog, [Introducing Reimagine: An Innovative Photo App by MyHeritage](https://blog.myheritage.com/2023/05/introducing-reimagine-an-innovative-photo-app-by-myheritage/), published 2023-05-30. Public launch article read 2026-11-21. It describes the color wheel, photo and album-thumbnail edit markers, separate originals and single-photo sharing options. The current help pages S12 and S59 document the applicable controls and options.
 - **S59:** MyHeritage Help Center, [How do I share my photos from Reimagine?](https://www.myheritage.com/help/en/articles/12852057-how-do-i-share-my-photos-from-reimagine), page dated 2026-07-21. Public help page read 2026-11-21. It documents the share control on the single-photo view and its original, improved and comparison options.
 
+- **S60:** Angelo Marcelli, Giuseppe De Gregorio and Adolfo Santoro, [A Model for Evaluating the Performance of a Multiple Keywords Spotting System for the Transcription of Historical Handwritten Documents](https://www.mdpi.com/2313-433X/6/11/117), *Journal of Imaging*, 2020-11-03. Methods and limitations read 2026-11-22. The study measures missed and false matches for a particular word-spotting system. Ranking genealogy pages by several expected terms is Kinprove’s retrieval heuristic. The study does not validate that ranking or estimate its recall on a new register.
+
 ## Credits
 
 - Sources S34 and S35, German church-book discussion and GeneaVlogger case — Third-party sources, paraphrased with attribution (adapted)

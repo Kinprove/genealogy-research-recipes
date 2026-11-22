@@ -358,6 +358,13 @@ If a citation supplies an indexing batch number or a film/DGS number, use the ma
 For a film-scoped search that misses, take the film number to the Catalog and check its image
 groups (workflow 5) [S143 @2026-11-21], [S150 @2026-11-21], [S151 @2026-11-21].
 
+**When the browser and connector disagree, use the same search surface.** Compare Records
+with Records or Full Text with Full Text. Wait for the browser results to finish updating and
+check the applied filters shown in the results [S149]. Confirm the collection, query spelling,
+dates, place and exact-match settings across the two routes. Use an accessible record known to be
+in the same collection and index as a control query. If the routes still disagree or one cannot
+apply a needed filter, log the coverage you verified on each route.
+
 For a plausible hit, use the paper icon to open the indexed details and citation. Use the camera
 icon when available to inspect the linked image for fields the index omits. Record which view
 supplied each fact [S143 @2026-11-21], [S144 @2026-11-21].

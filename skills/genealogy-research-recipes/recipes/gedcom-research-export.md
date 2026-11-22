@@ -171,6 +171,16 @@ On MyHeritage, importing a GEDCOM creates a new family tree on the family site a
 
 Import the prepared `.ged` into MyHeritage. On the existing family site the user chose, select **Family Tree → Import GEDCOM**, then use **Upload** to select the file or drag it onto the page [S24 @2026-11-18], [S26 @2026-11-18]. To import while registering for a first family site, choose **Import tree (GEDCOM)** on the registration page and select the file. Have the account holder enter their name, gender and email address, then select **Get started** [S26 @2026-11-18].
 
+**Verify Old Style dates in the destination.** After an authorized import, open the affected
+events and compare their date fields with the original GEDCOM, including the calendar, precision
+and any bounds. GEDCOM 5.5.1 interprets an unmarked date as Gregorian [S16]. If the importer
+loses a Julian date and a Gregorian equivalent can preserve its meaning and uncertainty, use
+that verified equivalent in a separate copy for the destination. Keep the source citation and
+put the original reading, its calendar and the basis for the conversion in the event’s `NOTE`.
+If a reliable conversion is unavailable, keep the original reading in the note and leave the
+destination copy’s date field empty. Keep the original calendar-marked file and check the
+resulting field and note in the destination.
+
 **Cross-reference IDs in 5.5.1:** the first character may be a letter, an underscore or a digit, and lowercase letters are allowed, unlike in 7.0 [S15]; the standard's own example ID is `@1234@` [S16]. A leading digit is valid in both versions and is no reason to rewrite IDs. If an importer still rejects the file's IDs, rename them in a derivative copy: a pointer must match a cross-reference ID in the same file [S16], so change each ID and every pointer to it in one pass, and add each old and new ID to the packet's ID map.
 
 **Blank lines and the last line:** every 7.0 line ends with a line terminator, and 7.0 dropped the permission earlier versions gave for blank lines before a line [S15]. The 5.5.1 standard says the trailer must be followed by the terminator, and that files with extra blank lines between records are not to be used when transmitting to other systems [S16]. Remove empty lines and make sure `0 TRLR` ends with a terminator.

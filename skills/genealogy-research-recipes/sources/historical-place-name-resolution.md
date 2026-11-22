@@ -171,6 +171,10 @@ S84–S85 supply the Ontario Locator rule in §2; S86–S88 the postal-place rul
 - **S135:** Delaware Public Archives, [Colonial / Pre-Statehood Records](https://archives.delaware.gov/delaware-agency-histories/colonialprestatehood-records/). Agency history read 2026-11-21. It describes the 1704 separate assembly, the shared governor until 1776 and the division of evidence between county-agency papers and Pennsylvania colonial records. It also describes the earlier administrations.
 - **S136:** Library of Congress, [Delaware: Local History & Genealogy Resource Guide](https://guides.loc.gov/delaware-local-history-genealogy). Historical introduction read 2026-11-21. It dates the Lower Counties' union with Pennsylvania to 1682.
 
+- **S137:** National Historical Library of Ukraine (НІБУ), [List of populated places of Chernihiv Governorate, based on 1859 data](https://omeka.nibu.kyiv.ua/s/nibu/item/7022), published 1866. Catalogue record read 2026-11-22. The record identifies the edition, reference year and linked digital item. The volume’s pages were not inspected.
+
+- **S138:** National Historical Library of Ukraine (НІБУ), [List of populated places of Chernihiv Governorate with at least ten inhabitants, based on 1901 data](https://omeka.nibu.kyiv.ua/s/nibu/item/489), published 1902. Catalogue record read 2026-11-22. The record identifies the edition, reference year, population threshold and linked digital item. The volume’s pages were not inspected.
+
 ## Credits
 
 - Family Tree Magazine and MyHeritage Blog articles cited as S116, S121, S123 and S125 — Copyright of their authors and publishers where claimed, research advice paraphrased with attribution (adapted)
