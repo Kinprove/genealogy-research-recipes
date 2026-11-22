@@ -38,6 +38,12 @@ The sources supply the procedures demonstrated and the presenters' or author's s
 
 - **S29:** MyHeritage, [Netherlands, South Holland, Civil Deaths, 1900-1942](https://www.myheritage.com/research/collection-21023/netherlands-south-holland-civil-deaths-1900-1942), collection 21023. Public collection description and search form read 2026-11-20. Used for the date range, the list of included civil registration offices, the name and death search fields, and the description of entries with birth year, death date and place, and parents' and spouse's names. Review covered the public catalogue page.
 
+- **S30:** Aíne Lagan / MyHeritage Blog, [Being Dutch: Traditions and Genealogy](https://blog.myheritage.com/2025/08/being-dutch-traditions-and-genealogy/), published 2025-08-14. Community article read 2026-11-22 UTC. Lagan flags patronymics as a difficulty when tracing Dutch ancestry across the registration transition. The two-form search draws on S31 for continued patronymic use. The article's nationwide prevalence claim is unsupported by the regional evidence used here.
+
+- **S31:** Drents Archief, [Begin onderzoek](https://www.drentsarchief.nl/onderzoeken/start-je-onderzoek/zoeken-op-onderwerp/stamboomonderzoek/begin-onderzoek). Archive guide read 2026-11-22 UTC. The naming section describes patronymics used alone or with family names and documents their persistence in Drenthe after 1811. It traces Roelof Aling's 1863 death record back to his 1776 baptism as the son of Willem Alberts and gives his earlier name as Roelof Willems. The guide also describes a civil death act using a patronymic in place of the expected surname. Review covered the guide's account of these acts.
+
+- **S32:** Collectie Overijssel, [Registers van naamsaanneming](https://collectieoverijssel.nl/zoekhulp/registers-van-naamsaanneming/). Archive guide read 2026-11-22 UTC. Used for comparing the recorded old and adopted names and the declaration's family details with church and civil entries. The archive describes children named with their ages in some acts and variation by municipality, including omissions of the old name.
+
 ## Credits
 
 - Kinprove original procedural synthesis; presenter demonstrations and statements cited as S1 (BYU Family History Library / Laurie Castillo), S2 and S3 (BYU Family History Library / Ina Robertson), S4 (GeneaVlogger), and retrieval leads from Yvette Hoitink's Dutch Genealogy articles S5–S7; archive, CBG and reference facts cited as S8–S23; corrections drawn from the IISG, the Amsterdam City Archives DTB guide, ECAL information sheets, the Stadsarchief Delft, CODART and archimon.nl — FSL-1.1-MIT (kinprove-original)
@@ -45,3 +51,4 @@ The sources supply the procedures demonstrated and the presenters' or author's s
 - Kinprove original editorial notes summarizing citations — FSL-1.1-MIT (kinprove-original)
 - Nationaal Archief, Old Go and Stadsarchief Rotterdam via Open Archives (S25–S27) — Archive descriptions and published register evidence paraphrased (adapted)
 - Esther Shuman / MyHeritage Blog and MyHeritage (S28–S29) — Collection descriptions paraphrased with attribution (adapted)
+- Aíne Lagan / MyHeritage Blog, Drents Archief and Collectie Overijssel (S30–S32) — Naming guidance and archival descriptions paraphrased with attribution (adapted)
