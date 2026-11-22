@@ -4216,5 +4216,23 @@
   "kind": "third-party-tool",
   "action": "Try the MyHeritage 1950 United States Federal Census index",
   "checkpoint": "The historical name and location search terms for the census subject go to MyHeritage's collection search."
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Search Ancestry's",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Search the Kansas Historical Society's fraternal order index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "also check the Washington County Free Library's Obituary Locator",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
  }
 ]
