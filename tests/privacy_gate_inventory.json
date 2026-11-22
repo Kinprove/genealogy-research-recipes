@@ -4204,5 +4204,11 @@
   "kind": "contact",
   "action": "ask the proposed sibling whether they are willing to test",
   "checkpoint": "Recruiting a living relative to DNA-test discloses the hypothesis and asks for their genetic data"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "If the soldier's handwritten name on a WWI letter is hard to read, search MyHeritage's",
+  "checkpoint": "MyHeritage receives the soldier's tentative name and, if entered, the addressee's historical city or county"
  }
 ]
