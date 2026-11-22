@@ -4036,5 +4036,11 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage's NRW marriage index",
   "checkpoint": "The deceased spouses' names and any birth or marriage dates"
+ },
+ {
+  "recipe": "historical-map-record-recovery.md",
+  "kind": "contact",
+  "action": "send a map-location question",
+  "checkpoint": "The user's approved name, reply address and map question"
  }
 ]
