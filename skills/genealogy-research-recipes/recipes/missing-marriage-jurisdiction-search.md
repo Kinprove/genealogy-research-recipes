@@ -82,6 +82,10 @@ Do not suggest modern resort venues by default. Las Vegas, Hawaii or Mexico belo
 
 ## Add counties from the family timeline
 
+After a miss in the later home county, use dated personal property tax lists to trace each partner’s earlier residence. Keep same-name entries provisional until you can link them to the partner. When a tax-list lead like the one from the available excerpt places either partner in an earlier county during the marriage window, add that county to the ranked list [S44]. Search that county’s marriage register, bonds and returns for the overlapping years.
+
+For a 1787 lead in Shenandoah County, Virginia, check the personal property tax list on reel 315 [S45 @2026-11-21]. Search the 1781–1850 marriage register on reel 65 and the marriage bonds on reels 68 (1772–1788) and 69 (1789–1791) for the years in the marriage window [S46 @2026-11-21].
+
 Map where siblings and close relatives lived at the likely marriage date, including the counties where other family members had married [S6]. Lisson reports locating an ancestor’s wedding in her sister’s home in another county after checking the home county and known elopement destinations [S14]. Add a relative’s county even when the couple never lived there.
 
 Match each partner’s service or work postings to the marriage window. Lefler reports that a Tennessee groom’s March 1951 Air Force enlistment and August air police training at Camp Gordon, Georgia, put him within reach of Aiken, South Carolina, where the couple married that August [S5]. Search across the state line from the posting and use the installation’s name at the time [S5], [S14]. For catalogue and map searches, the Army dates the change from Camp Gordon to Fort Gordon to 1956, the Fort Eisenhower name to 2023 and the return to Fort Gordon to June 2025 [S39].
