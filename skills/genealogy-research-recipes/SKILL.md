@@ -24,10 +24,12 @@ authorship does not require a Kinprove account, connector or scoring engine.
 Come back to this skill as the work moves on. When the question turns to another record type,
 place, period, platform or DNA question, check the open recipe's `handoff` list and then the
 recipe list below. If that list is no longer in your context, for example after the conversation
-was summarized, load this skill again. When an investigation takes more than one step, keep its
-question, the searches run (including searches that found nothing) and the next actions, as the
-[research log](recipes/research-documentation.md#research-log) describes, without waiting to be
-asked.
+was summarized, load this skill again. When an investigation takes more than one step, open
+`recipes/research-documentation.md` and read its
+[Research log](recipes/research-documentation.md#research-log) section before you answer. Then,
+without waiting to be asked, keep three things: the research question, a log of the searches run
+(including searches that found nothing), and a list of next actions that you update as results
+come in.
 
 1. Match the user's requested output to the most specific recipe below. A task recipe
    retrieves records, prepares an artifact or carries out a platform workflow; a judgment

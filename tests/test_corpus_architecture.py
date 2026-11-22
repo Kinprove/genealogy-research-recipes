@@ -85,9 +85,12 @@ class CorpusArchitectureTests(unittest.TestCase):
         self.assertLess(self.skill.index("\n## How to use\n"), self.skill.index(catalog.ROUTER_START))
         self.assertIn("If that list is no longer in your context, for example after the conversation was "
                       "summarized, load this skill again.", how_to)
-        self.assertIn("keep its question, the searches run (including searches that found nothing) and the "
-                      "next actions, as the [research log](recipes/research-documentation.md#research-log) "
-                      "describes, without waiting to be asked.", how_to)
+        self.assertIn("open `recipes/research-documentation.md` and read its "
+                      "[Research log](recipes/research-documentation.md#research-log) section before you answer.",
+                      how_to)
+        self.assertIn("without waiting to be asked, keep three things: the research question, a log of the "
+                      "searches run (including searches that found nothing), and a list of next actions that you "
+                      "update as results come in.", how_to)
 
     def test_version_note_follows_the_recipe_list(self):
         self.assertGreater(self.skill.index("\n## Version and updates\n"), self.skill.index(catalog.ROUTER_END))
