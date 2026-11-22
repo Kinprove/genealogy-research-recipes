@@ -11,7 +11,7 @@ handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 92}
+router: {"section": "Records by country and region", "group": "Germany", "order": 93}
 ---
 
 # Route a German soldier to the military series that survive for his period, army and rank

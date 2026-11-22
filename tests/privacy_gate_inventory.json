@@ -4300,5 +4300,11 @@
   "kind": "request",
   "action": "For a Chilean origin-file request",
   "checkpoint": "The adoptee’s identity and required proof go to the origin-search authority"
+ },
+ {
+  "recipe": "rootsweb-broken-link-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Paste the old public RootsWeb URL into the Wayback Machine",
+  "checkpoint": "A RootsWeb URL goes to the Internet Archive"
  }
 ]
