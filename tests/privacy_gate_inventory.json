@@ -4186,5 +4186,11 @@
   "kind": "contact",
   "action": "After clearing the gate, ask a living relative who may know the missing detail",
   "checkpoint": "A question sent to a living relative may disclose"
+ },
+ {
+  "recipe": "scandinavian-patronymic-farm-name-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "by name and birth date, with birthplace blank",
+  "checkpoint": "The Swedish emigrant’s name and exact birth date go to ArkivDigital"
  }
 ]

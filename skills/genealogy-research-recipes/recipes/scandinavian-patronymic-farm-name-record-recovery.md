@@ -4,13 +4,13 @@ title: "Recover a Scandinavian emigrant's home-parish entries under patronymic, 
 summary: "Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "SCANDINAVIAN-PATRONYMIC-FARM-NAME-RECORD-RECOVERY-01", "text": "The name in the parish register is usually not the American surname. Same-named parishioners are common, so separate them by birth date, parents, spouse, farm and vaccination entries, never by name alone."}]
 handoff: ["scandinavian-parish-record-recovery", "danish-church-book-probate-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 119}
 ---
 
@@ -45,6 +45,10 @@ From destination records (census, church, naturalization, obituary, passenger li
 - co-travellers such as siblings, a future spouse or neighbours
 
 Start with destination records, identify the parish, and then search that parish [S2]. An approximate age is not an anchor. The exact birth date is. Swedish church books, including the household examination books, record the exact birth date, often in its own column, so the date works almost like an identifier for telling same-named people apart [S5].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The Swedish emigrant’s name and exact birth date go to ArkivDigital.
+
+If destination records give a Swedish emigrant’s exact birth date and leave the parish unknown, search ArkivDigital’s *Population of Sweden* (*Befolkningen i Sverige*, BiS) under **Index Search** by name and birth date, with birthplace blank [S41 @2026-11-21], [S42 @2026-11-21], [S43 @2026-11-21]. If the surname is uncertain, try the given name and exact date alone [S42 @2026-11-21]. Use the birth parish in a strong match as a lead. Keep it separate from the parish of residence and check the original entries against the destination records before linking the person [S41 @2026-11-21], [S43 @2026-11-21].
 
 Treat the American surname as one search form. For a Danish emigrant called Jensen abroad, use the father’s given name in the home parish to derive the patronymic expected at baptism [S2].
 
