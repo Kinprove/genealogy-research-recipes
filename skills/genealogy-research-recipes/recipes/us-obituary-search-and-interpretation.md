@@ -59,6 +59,8 @@ When the person's own notice is missing or thin, or names a woman only through h
 - **Parents and the mother's maiden name.** Search siblings' obituaries for the mother's name [S1]. In one notice Neill found that the surname attributed to the mother appeared to belong to the grandmother, possibly as her middle name [S7]. Keep the printed name under the stated generation and test both generations against marriage and birth records.
 - **Full and half siblings.** Compare each parent's children across marriages with the people named in the notice. In Neill's case the four listed siblings were three full siblings and one maternal half-sibling. Six paternal half-siblings were omitted [S8]. Record the relationship each notice actually gives and check parentage separately for every sibling.
 
+For a first cousin who is hard to place in historical records, check the survivors lists in the obituaries of the cousin's deceased parents and grandparents [S61]. Treat the printed relationship as a lead. Use the gated index search below if you need to retrieve a notice, and apply §6 to any living survivor.
+
 ## 3. Search past the week of death
 
 Search the death notices and obituaries in the issues around the week of death [S1], then widen the window and record its limits in the search log. An obituary could take time to be written and submitted [S2], and a card of thanks, in which the family thanked the community, may appear right after the funeral or much later [S6]. Cards of thanks tied to deaths appear from the later nineteenth century; the earliest that the GenealogyBank author found is from 1879 [S6].
@@ -67,11 +69,13 @@ Read a card of thanks for relationships and leads. It may describe the deceased 
 
 ## Find the original issue through an obituary index
 
-**Privacy gate:** <!-- privacy-gate: third-party-tool --> The query sends the deceased subject's public name or the paper title and issue date to MyHeritage, JewishGen, the relevant library index, or the newspaper archive.
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The query sends the deceased subject's public name or the paper title and issue date to MyHeritage, JewishGen, Ancestry, the Kansas Historical Society, the relevant library index, or the newspaper archive.
 
 Search the index by the confirmed deceased person's public name after answering the privacy gate in `SKILL.md`. Limit outbound searches to that name and, for the issue lookup, the newspaper title and publication date. Keep survivors' details and private research notes local.
 
 Use the newspaper title and publication date from the hit to open that issue, even when the date of death differs. If the hit gives a page or column, go straight there. Read the notice and any accompanying caption on the original page, and record what the text actually attributes. Keep the index entry as a locator [S13], [S14], [S29].
+
+Search Ancestry's *Web: Obituary Daily Times Index, 1995–2016* for notices in that date range. If the hit gives a publication place and date without a title, check the papers serving that place on that date. For a later notice, go to the relevant local index or newspaper issues [S39 @2026-11-21], [S40 @2026-11-21].
 
 Choose the index for the paper and locality. Use indexed dates, places and family names to sort candidates in the private log.
 
@@ -83,13 +87,39 @@ Choose the index for the paper and locality. Use indexed dates, places and famil
 
 - **Idaho, Boise.** MyHeritage's Boise index starts in 1957 and points to the *Idaho Statesman* and *Idaho Daily Statesman*. Use the title on the hit [S13 @2026-11-18], [S18 @2026-11-18]. Boise Public Library's *Idaho Statesman* index supplies publication dates for 1957–2017 [S19 @2026-11-18].
 
+- **Illinois, statewide.** MyHeritage's *Illinois Obituaries* index starts in 1831, with entries concentrated in the *Chicago Daily News*, *Illinois State Journal*, *Chicago Tribune* and *Denni Hlasatel*. Use the publication place and date to narrow the issue search, checking which papers actually served that place [S46 @2026-11-21], [S47 @2026-11-21].
+
+- **Illinois, Kane County.** MyHeritage's county index lists entries from 1850. Use the publication date to pick the issue. Check the Illinois Newspaper Project's Aurora holdings for the title in use that year, including the *Aurora Beacon* for early dates [S46 @2026-11-21], [S48 @2026-11-21], [S49 @2026-11-21].
+
 - **Indiana, Hendricks County.** Use MyHeritage's county index for entries from 1872 onward. Compare the burial place and spouse when supplied, then use the paper and publication date on the hit [S14 @2026-11-18], [S20 @2026-11-18].
 
 - **Indiana, Lake County.** Look for the *Post Tribune*, *Lake County Star* and *Crown Point Register* [S13 @2026-11-18] in Lake County Public Library's title-specific indexes and corresponding microfilm. Check the *Post Tribune* issues directly for 1987–1989, when its online index is incomplete [S21 @2026-11-18].
 
+- **Indiana, Porter County.** MyHeritage's county index includes *The Northwest Indiana Times* and *The Valparaiso Vidette Messenger* notices from 1913 onward. Compare the death date in the private log, then open the title and issue dated on the hit [S41 @2026-11-21], [S42 @2026-11-21].
+
+- **Indiana, Wells County.** Compare birth and death details, cemetery, parents, spouse and marriage date when present on a MyHeritage county index hit. Use its publication date to locate the notice [S46 @2026-11-21]. Search Wells County Public Library's downloadable Cem-Obit spreadsheet locally for marriage or plot details and whether a notice was scanned [S50 @2026-11-21].
+
+- **Kansas, fraternal notices.** For a lodge lead, compare residence and death date in MyHeritage's *Kansas, Fraternal Order Death Notices* index, dated 1860–1969 [S58 @2026-11-21], [S59 @2026-11-21]. Search the Kansas Historical Society's fraternal order index by the deceased person's public name for the order and lodge. Use its coverage by order and proceedings call numbers to locate the original notice in the order's proceedings [S60 @2026-11-21].
+
 - **Kansas, McPherson County.** Use MyHeritage's county index for its newspaper title and issue date. McPherson Public Library's local newspaper microfilm starts in 1872. Base the issue search on the cited paper and issue date, since the collection's stated 1841 start predates the county's first newspaper [S13 @2026-11-18], [S22 @2026-11-18], [S23 @2026-11-18], [S24 @2026-11-18].
 
 - **Kentucky, Daviess County.** Use the Daviess County Public Library's Owensboro Area Obituary Index for Owensboro papers. Use the indexed obituary date and expand the source code before looking up the issue. MI identifies the *Owensboro Messenger & Inquirer*, OM the *Owensboro Messenger*, and OI the *Owensboro Inquirer* [S13 @2026-11-18], [S25 @2026-11-18].
+
+- **Louisiana, statewide.** MyHeritage's Louisiana index starts in 1809 and includes the *Times-Picayune*, *The Advocate* and the *Lake Charles American Press*. Compare residence, death date, age and spouse in the private log. Use the exact paper on the hit with the publication date, including when the hit names the *New Orleans States* or the *New Orleans Item-Tribune* [S46 @2026-11-21], [S51 @2026-11-21].
+
+- **Maryland, Washington County.** MyHeritage's county index lists entries from 1790. Use the paper title and publication date to locate the issue [S41 @2026-11-21], [S43 @2026-11-21]. For Hagerstown notices, also check the Washington County Free Library's Obituary Locator [S44 @2026-11-21].
+
+- **Massachusetts, Boston.** MyHeritage's Boston index starts in 1932 and includes the *Boston Globe*, *Boston Herald* and *Boston Evening Transcript*. Compare residence and death date in the private log. Use the indexed paper and publication date to choose the issue [S41 @2026-11-21], [S45 @2026-11-21].
+
+- **Michigan, Genesee County.** Use MyHeritage's county index for *Flint Journal* notices from 1920 onward. Use the death date to distinguish hits and the publication date to pull the issue [S46 @2026-11-21], [S52 @2026-11-21].
+
+- **New York, Chemung County.** MyHeritage's 1900–1968 county index draws chiefly from the *Elmira Star-Gazette*. Compare the death date and use the publication date to check the paper. Check other local titles if the hit leaves the title unclear and the notice is missing from the dated *Star-Gazette* issue [S46 @2026-11-21], [S53 @2026-11-21].
+
+- **New York, Herkimer County.** Use MyHeritage's county index for *Herkimer Evening Telegram* notices from 1924 onward. Compare the recorded death place and take the publication date to the original issue [S46 @2026-11-21], [S54 @2026-11-21].
+
+- **New York, Steuben County.** MyHeritage's county index lists entries from 1860. Compare the birth and death years and burial place. If the hit leaves the paper or issue date unknown, check the county historian's published obituary list locally or use the death year to narrow a search of local issues [S46 @2026-11-21], [S55 @2026-11-21], [S56 @2026-11-21].
+
+- **North Carolina, Randolph County.** Use the Randolph Room's index for the *Courier* and *Courier-Tribune* from 1903 onward. Find the deceased's name within the relevant year list, then use the newspaper date and page to locate the notice in the corresponding microfilm [S46 @2026-11-21], [S57 @2026-11-21].
 
 - **Ohio, Columbiana County.** MyHeritage's county index points to the *Salem News*, with entries dated from 1934 and occasional parent and spouse names. Use the publication date to locate the issue [S13 @2026-11-18], [S26 @2026-11-18]. Check the Salem Public Library's gap list before relying on a miss in its local index [S27 @2026-11-18].
 
@@ -126,7 +156,7 @@ A recent obituary's survivors list names living people and often where they live
 ## Return packet
 
 - An expectation note: date and place of death, the expectation set in §1, the titles and issues checked, and any miss worded as "no notice found" in those titles and issues.
-- A notice table: one row per obituary, death notice or card of thanks, with whose notice it is (subject, sibling, child or spouse), paper, date and page, and the names and relationships transcribed as printed.
+- A notice table: one row per obituary, death notice or card of thanks, with whose notice it is and their relationship to the subject, newspaper or proceedings title, date and page, and the names and relationships transcribed as printed.
 - Leads from each notice, labelled with that notice: parents, the mother's maiden name, women's later surnames, church, employer, lodge and funeral home.
 - Conflicts and gaps: relationships that differ between notices, relatives missing from a survivors list, and siblings not marked as full or half.
 - Any funeral or memorial card: who holds it and what it carries. A request to a relative stays marked as an unsent draft until the privacy gate is answered.
