@@ -101,6 +101,8 @@ Use the series descriptions to record what survives for Sing Sing and how it can
 - Classify each series as **inspected**, **restricted**, **destroyed**, **not held by custodian**, **referred elsewhere** or **not yet asked**. A restricted, unheld or destroyed series does not mean "no record".
 - Check gaps in an index against the original cards. In a reported NYPD Bertillon-card search the index jumped from 14885 to 14889; the researcher sought an on-site check of the missing numbers [S5]. Compare the card’s arrest date and charge with contemporaneous newspaper coverage before linking it to a relative.
 
+**Ohio county jails, 1852–1855.** Browse the county returns in the Ohio Secretary of State’s jail-report compilation (ISBN 9781556131035) [S62], [S63]. For Belmont County, use Appendix C, p. 18, of the report for 1855 (printed 1856) for the return covering November 1, 1853, to November 1, 1854 [S64]. Check the county and the dates printed on the return before interpreting a miss. If the county or period is missing from the printed returns, check county jail registers and court records [S64].
+
 ## England and Wales: follow a no-fixed-abode incident beyond a census miss
 
 Use this branch for a Victorian person described as having *no fixed abode* or recorded through a criminal-justice or welfare encounter. Keep the household census search open through [UK census interpretation](uk-census-and-1939-register-interpretation.md), including the actual institution and open-air-return coverage for the census year. Do not infer exclusion from all pre-1911 censuses. GenealCymru's historical account motivates the newspaper, prisoner-calendar, police and workhouse leads below [S8]; it does not verify a person's identity or a complete life history.
