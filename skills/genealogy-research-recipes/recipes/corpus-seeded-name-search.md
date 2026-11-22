@@ -34,6 +34,10 @@ Read candidate-bearing passages in the available corpus before fixing the search
 
 Keep observed spellings, dictionary forms and generated possibilities in separate columns. A remembered list is a starting set, not an exhaustive inventory; corpus discovery is also not a guarantee of completeness. Review matched surface forms with context before interpreting counts. Short stems can match ordinary words, place names and unrelated surnames.
 
+In historical English-language records, search a written name abbreviation and its supported
+expansion separately. For `Wm.` or `Wm`, try the written form and `William` [S64, S66]. Keep the
+abbreviation as written in the attestation inventory.
+
 Before comparing an immigrant’s names across records, record the original spelling and
 pronunciation. Add attested regional nicknames and relevant religious forms, such as Hebrew,
 Greek or Latin forms, to the query inventory [S60]. Use the pronunciation to propose spellings a
@@ -78,6 +82,12 @@ In Pennsylvania German baptisms, search each given name separately. A family cou
 ## Diagnose three different failures
 
 When a supported spelling fails in separate given-name and surname fields, run a controlled trial with those fields exchanged. Ancestry’s collection guidance explicitly recommends this diagnostic [S50]. Inspect the displayed record and image to determine where the index put each name; preserve that field placement in the search log rather than changing the person’s name to fit the index [S54].
+
+When a search for a deceased person under their usual first and last names fails, keep the
+collection, place and date filters fixed. Search with the known middle name or nickname as the
+only given name, keeping the usual surname [S64, S65]. In a separate query, pair the usual given
+name with the known middle name in the surname field [S64, S65]. Check the full record before
+assigning a name role.
 
 | Failure | Controlled comparison | Limitation |
 | --- | --- | --- |
@@ -197,6 +207,10 @@ lanes. Keep the literal entry, and do not search origin adjectives as surnames. 
 give two instances and no conversion rules. A reconstructed vernacular name is only a candidate.
 For Polish-orthography and Latin given-name lanes in Galician registers, see
 [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
+
+When searching for the given name Rose in records from medieval England, test Roese and Rohese
+separately [S64, S67]. In Latin records from the same period and place, also test Roesia and Rosa
+[S68].
 
 ## Retrieve through another recorded participant
 
