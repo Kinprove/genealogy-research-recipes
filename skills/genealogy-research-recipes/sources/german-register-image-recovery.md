@@ -150,8 +150,20 @@ S77 is a community magazine article. S78–S81 are the wiki operator's blog post
 
 - **S92:** Archiwum Diecezji Koszalińsko-Kołobrzeskiej, [Zarządzenie w sprawie gromadzenia zbiorów Archiwum Diecezji Koszalińsko-Kołobrzeskiej](https://www.archiwum.koszalin.opoka.org.pl/zarzadzenie.html). Diocesan directive read 2026-11-20. It includes Protestant records already in parish possession in the transfer to this diocesan archive. Its terms apply to this diocese and do not identify the parish or books in S90.
 
+- **S93:** Esther Shuman / MyHeritage Blog, [MyHeritage Adds 26 Million Historical Records in December 2023](https://blog.myheritage.com/2024/01/myheritage-adds-26-million-historical-records-in-december-2023/), 2024-01-01. Community source. Post read 2026-11-21. The launch roundup describes the 1874–1899 marriage index with images for Münster, Detmold and Arnsberg, the details to look for, and the existence of civil records before 1876. The collection title, coverage description and access terms are from the launch.
+
+- **S94:** MyHeritage, [Germany, North Rhine-Westphalia Marriages, 1874-1899](https://www.myheritage.com/research/collection-20726/germany-north-rhine-westphalia-munster-detmold-arnsberg-marriages-1874-1899). Public collection page read 2026-11-21. Used for the displayed title, collection ID, date range and fields; the URL retains the district names from the old title. The description does not list coverage by Standesamt, and signed-in image access was not tested.
+
+- **S95:** Esther Shuman / MyHeritage Blog, [MyHeritage Adds 235 Million Historical Records in February 2025](https://blog.myheritage.com/2025/03/myheritage-adds-235-million-historical-records-in-february-2025/), 2025-03-02. Post read 2026-11-21. The update reports an expansion of the same marriage index and gives its broader title and geographic description without enumerating the added offices.
+
+- **S96:** Landesarchiv NRW, [Personenstandsregister: Standesamtsregister zur biografischen Spurensuche](https://www.archive.nrw.de/sites/default/files/media/files/Sch%C3%BClerbrosch%C3%BCre_Kapitel%205.10%20Personenstandsregister.pdf). PDF text read 2026-11-21. Chapter 5.10.1 distinguishes the start of Standesamt registration on 1 October 1874 in Prussia from its start on 1 January 1876 in Lippe.
+
+- **S97:** Landesarchiv NRW, [Familienforschung digital](https://www.archive.nrw.de/landesarchiv-nrw/geschichte-erfahren/familienforschung/familienforschung-digital). Page read 2026-11-21. Used for the digitised marriage duplicates and the route to the archive's volumes. The listing establishes how to look for a volume; coverage at a particular office and year should be checked in its finding aid.
+
 ## Credits
 
+- Esther Shuman and MyHeritage (S93–S95) — Collection descriptions and updates paraphrased with attribution (adapted)
+- Landesarchiv NRW (S96–S97) — Archive guide and finding-aid information paraphrased with attribution (adapted)
 - MyHeritage Blog and MyHeritage collection catalogue (S87–S90) — Collection details and one contributor's account paraphrased with attribution (adapted)
 - Archiwum Diecezji Koszalińsko-Kołobrzeskiej (S91–S92) — Catalogue and directive paraphrased with attribution (adapted)
 - Institut für Sächsische Geschichte und Volkskunde, BYU Library, FamilySearch, Meyers Gazetteer and German Roots (S82–S86) — Reference entries paraphrased with attribution (adapted)

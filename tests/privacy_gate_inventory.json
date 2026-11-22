@@ -4030,5 +4030,11 @@
   "kind": "export",
   "action": "For a copy of a tree already transferred to MyHeritage",
   "checkpoint": "These exports copy the selected tree from FamilyTreeDNA or MyHeritage to the user's own device."
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's NRW marriage index",
+  "checkpoint": "The deceased spouses' names and any birth or marriage dates"
  }
 ]
