@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet", "evidence-proof-judgment", "russian-empire-j
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 72}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 73}
 ---
 
 # Recover Soviet personal files when ZAGS or metrical records are lost

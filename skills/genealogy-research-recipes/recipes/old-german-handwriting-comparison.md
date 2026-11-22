@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "german-register-image-recovery"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 94}
+router: {"section": "Records by country and region", "group": "Germany", "order": 95}
 ---
 
 # Test a reading of an old German handwritten word
