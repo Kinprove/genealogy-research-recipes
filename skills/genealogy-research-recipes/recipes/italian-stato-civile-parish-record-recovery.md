@@ -61,8 +61,11 @@ Gather these before searching:
 
 Fix who registered the event before you choose a series. Use the event year and the place's ruler in that year, not today's region.
 
+**Check the first Napoleonic register for the comune and event type.** Use the 27 March 1806 regulation as a search lead for comuni it covered in the Napoleonic Kingdom of Italy [S27], [S28]. For comuni in Piedmont's Po department, search the *Atti dello Stato Civile napoleonico* from 1803 [S29]. For comuni covered by the *Stato civile di Toscana*, start in 1808 [S30].
+
 | Place and period | Legal register of the event |
 | --- | --- |
+| Mainland South (Kingdom of Naples), 1809 to 1814 | Civil register kept by the comune under Murat's decree of 29 October 1808, no. 198 [S27], [S31] |
 | Mainland South (Kingdom of the Two Sicilies, roughly today's southern Italy), 1815 to 1865 | Civil register kept by the comune; the Napoleonic civil register stayed in use there after 1815 [S20] |
 | Sicily, from 1820 | Civil registers kept by the comuni under the Codice per lo Regno delle Due Sicilie (code of the Two Sicilies) [S1], [S20] |
 | Comuni then in the Kingdom of Italy, from 1 January 1866 | Stato civile of the comune under R.D. 15 November 1865 n. 2602 [S2], [S20] |
