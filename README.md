@@ -246,7 +246,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [holocaust-register-and-survivor-list-recovery](skills/genealogy-research-recipes/recipes/holocaust-register-and-survivor-list-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [holocaust-testimony-source-interpretation](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md) | record catalogues and original images | — | — | request | contact | required |
 | [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [immigrant-congregation-origin-records](skills/genealogy-research-recipes/recipes/immigrant-congregation-origin-records.md) | record catalogues and original images | — | — | — | — | — |
+| [immigrant-congregation-origin-records](skills/genealogy-research-recipes/recipes/immigrant-congregation-origin-records.md) | record catalogues and original images | — | — | request | — | required |
 | [institutional-patient-record-recovery](skills/genealogy-research-recipes/recipes/institutional-patient-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [interpreting-ancestry-composition-estimates](skills/genealogy-research-recipes/recipes/interpreting-ancestry-composition-estimates.md) | ethnicity-estimate help pages and published method papers, the tester's own estimate and match list | — | — | upload | contact | required |
 | [irish-1901-1911-census-returns](skills/genealogy-research-recipes/recipes/irish-1901-1911-census-returns.md) | record catalogues and original images | — | — | — | — | — |
