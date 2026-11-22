@@ -189,8 +189,8 @@ links the sidecars on GitHub (`scripts/build_dist.py`). So the recipe text is th
 only place where every installed copy shows a claim's sources and its check date.
 `SKILL.md` tells the assistant to read the sidecar entry for each cited ID. It
 defines `[S12 @2026-11-07]` as the claim's last check date. The recipe header's
-`checked` date is a recipe-level check of platform documentation. It is null in
-52 of the 189 recipes that have reviewed current-state claims, including the
+`checked` date records one dated source check for the whole recipe, and the
+catalog requires it only for platform recipes. It is null in 52 of the 189 recipes that have reviewed current-state claims, including the
 Southern Claims Commission recipe.
 
 The issue assumed that the sidecar already shows the claim dates. A sidecar entry
@@ -273,13 +273,15 @@ without the layout name, graded each answer against the recipe's facts.
   release-date note that `SKILL.md` requires under "Version and updates". In
   this probe, that note told users that their copy might be out of date; the claim
   dates mostly did not.
-- One answer with one date per claim stated attributed advice as fact. The other
-  failing grade was a grading error: that answer cited the walkthrough that S6
-  records.
+- Two answers failed the attribution grade. On rereading, both rest on sources
+  the recipe records as read: S2 and S5 for the Fold3 collections, and S6 for
+  the name search. Neither states the unread advice as fact.
 - Limits: one model, which also graded; three tasks; three samples per cell. A
   month counted as stating the check date, and an answer that did not use the
-  attributed advice counted as keeping its attribution. No layout removed the
-  source IDs, and no task asked for the evidence behind a claim. For the layout
+  attributed advice counted as keeping its attribution. The steps grade passed
+  one answer that used the birth year where the recipe asks for the filing year.
+  No layout removed the source IDs, no run used the current layout with readable
+  sidecars, and no task asked for the evidence behind a claim. For the layout
   with readable sidecars, `SKILL.md` said that each sidecar entry records the
   check date, which is true only where the retrieval and check dates match. The
   runs without sidecars had no web access, so they could not open the GitHub
@@ -303,9 +305,10 @@ With this layout, the validator caught the same changes as with the current one.
 
 It is not adopted, because the probe found a reader who misread it. In two of the
 three answers to the envelope task in this layout, the model said that the Court
-of Claims referral step had no recorded check date. That step's marker had lost
-its date, and the paragraph's last marker carried the date that covers it. No
-answer with every marker dated said so. The probe rules also accepted this layout
+of Claims referral step had no recorded check date, and one told the user to
+treat the step as a lead to confirm. That step's marker had lost its date, and
+the paragraph's last marker carried the date that covers it. No answer with every
+marker dated said so. The probe rules also accepted this layout
 only if, for each task, it stated the date in no more than one answer fewer than
 the current layout; it failed on the barred-claim task (0 of 3 against 2 of 3).
 Only `SKILL.md` would tell a reader that a date at the end covers the earlier
@@ -318,11 +321,11 @@ Changing the layout would require these changes:
   ledger anchors;
 - dates only in ledger and sidecar: remove that check, and rewrite 1,380 reviewed
   paragraphs, the 1,366 current-state ones and 14 others that carry a dated
-  marker. No pending record carries a dated marker;
+  marker, with their ledger anchors. No pending record carries a dated marker;
 - IDs and dates only in ledger: also remove the source join and the sentence
-  checks, and rewrite every reviewed paragraph and the 1,003 pending ones that
-  carry markers. The frozen inventory fingerprints those pending records, so each
-  would first need a review;
+  checks and their tests, and rewrite every reviewed paragraph and the 1,003
+  pending ones that carry markers, with their ledger anchors. The frozen inventory
+  fingerprints those pending records, so each would first need a review;
 - each of them: change the "Read source limits" text in `SKILL.md` and the
   provenance section of `MAINTAINERS.md`, and update the tests that quote dated
   recipe text or test the dated-marker rule.
