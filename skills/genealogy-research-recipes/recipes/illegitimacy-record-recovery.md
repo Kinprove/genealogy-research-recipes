@@ -11,7 +11,7 @@ handoff: ["english-nonregister-record-recovery"]
 checked: "2026-11-05"
 checked_basis: "checked 2026-11-05"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 196}
+router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 197}
 ---
 
 # Recover records of a birth outside marriage

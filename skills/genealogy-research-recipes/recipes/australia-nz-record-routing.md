@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "evidence-proof-judgment", "his
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images", "MyHeritage Victorian birth and death indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 175}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 176}
 ---
 
 # Route an Australian or New Zealand record to the holder and window of its date
