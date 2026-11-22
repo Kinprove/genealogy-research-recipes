@@ -4240,5 +4240,23 @@
   "kind": "third-party-tool",
   "action": "try MyHeritage's",
   "checkpoint": "Before sending a 1921 census search to MyHeritage"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "For a Rock Island County birth, look for MyHeritage's",
+  "checkpoint": "Before sending names, exact event dates or parents' names"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "For an Idaho birth, search MyHeritage's",
+  "checkpoint": "Before sending names, exact event dates or parents' names"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "For a Harris County event, look for MyHeritage's",
+  "checkpoint": "Before sending names, exact event dates or parents' names"
  }
 ]
