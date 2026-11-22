@@ -240,7 +240,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [hebrewbooks-search-recovery](skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md) | hebrewbooks | curl for a public page PDF | — | — | — | — |
 | [hispanic-catholic-register-recovery](skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [historic-hungary-record-routing](skills/genealogy-research-recipes/recipes/historic-hungary-record-routing.md) | record catalogues and original images | — | — | — | — | — |
-| [historical-map-record-recovery](skills/genealogy-research-recipes/recipes/historical-map-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [historical-map-record-recovery](skills/genealogy-research-recipes/recipes/historical-map-record-recovery.md) | record catalogues and original images | — | — | — | contact | required |
 | [historical-newspaper-section-search](skills/genealogy-research-recipes/recipes/historical-newspaper-section-search.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [historical-place-name-resolution](skills/genealogy-research-recipes/recipes/historical-place-name-resolution.md) | record catalogues and original images | — | — | request | — | required |
 | [holocaust-register-and-survivor-list-recovery](skills/genealogy-research-recipes/recipes/holocaust-register-and-survivor-list-recovery.md) | record catalogues and original images | — | — | — | — | — |
