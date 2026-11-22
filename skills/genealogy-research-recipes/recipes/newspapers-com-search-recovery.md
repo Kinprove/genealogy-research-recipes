@@ -175,6 +175,16 @@ Set place and publication-date limits separately. (S9, H7, H8, H9)
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
 | 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary, marriage or birth item, also search the matching index. Newspapers.com's 2023–24 posts put these indexes in the Categories drop-down under the Keyword box. For an obituary or marriage, the Newspapers.com index on Ancestry is a second route. Follow any candidate to the image. (S5, S6, H13, H14) | The index is another access path, not independent corroboration. A category search reaches only items placed in that index, so a miss there needs the same search without the category. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject’s name and any identifying details in the repeated query go to Newspapers.com.\
+If a person drops out of the historical record and hometown-area papers yield nothing,
+rerun the same name search beyond the last known home state. When the destination is unknown,
+drop the title restrictions and keep the original publication-date window as you search across
+the country. Leave publication place open if the country is uncertain [S102]. Read distant hits
+for details that distinguish the person from namesakes.
+
+A Pennsylvania-only pass would have missed the *Sacramento Bee* hit from the available excerpt
+of the episode’s sponsor segment [S100], [S101].
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject’s surname fragment and identifying search terms go to Newspapers.com.\
 When a printed misspelling could explain an exact-surname miss, try the wildcard tactic suggested
 in the interview, from the available excerpt [S97]. First test an internal asterisk on a known public

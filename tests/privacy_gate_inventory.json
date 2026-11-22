@@ -4120,5 +4120,11 @@
   "kind": "third-party-tool",
   "action": "include Canton (Kanton), Johnston, Midway",
   "checkpoint": "Names and historical places identifying people who may be living go to MyHeritage when you run the census query"
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "rerun the same name search beyond the last known home state",
+  "checkpoint": "The research subject’s name and any identifying details in the repeated query go to Newspapers.com."
  }
 ]
