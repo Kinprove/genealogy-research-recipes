@@ -22,6 +22,12 @@
 
 - **S11:** [Catholic Historical Research Center of the Archdiocese of Philadelphia, FAQ](https://chrc-phila.org/faq/). Reviewed 2026-11-21, help-page, access read. Read the genealogy section on 2026-11-21. It identifies the Archdiocese’s digitized sacramental marriage records through 1919.
 
+- **S12:** [Esther Shuman, MyHeritage Adds 55 Million Historical Records in January 2024](https://blog.myheritage.com/2024/02/myheritage-adds-55-million-historical-records-in-january-2024/), published 2024-02-01. Reviewed 2026-11-22, web-page, access read. Read the MyHeritage Blog announcement’s Lancaster County table entry on 2026-11-22. It introduces the marriage index under the title Pennsylvania, Lancaster County Marriages and gives 1944 as the starting year.
+
+- **S13:** [MyHeritage, Pennsylvania, Lancaster County Marriage Licenses](https://www.myheritage.com/research/collection-20763/pennsylvania-lancaster-county-marriage-licenses). Reviewed 2026-11-22, catalogue, access read. Read the public collection description and search form on 2026-11-22. The page gives the current title, lists Lancaster County coverage starting in 1944 and shows fields for the spouses’ names and marriage year. The description gives no last year or guarantee of completeness.
+
+- **S14:** [Lancaster County Archives, Marriage License Index (1937–1972)](https://www.co.lancaster.pa.us/1157/Marriage-License-Index-1937-1972). Reviewed 2026-11-22, catalogue, access read. Read the county’s index guide on 2026-11-22. It lists separate bride and groom indexes for 1937–1972 and gives the book, volume and license number as reference details for the filing.
+
 ## Credits
 
 - Community advice and independent sources in S1 onward — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

@@ -4312,5 +4312,11 @@
   "kind": "third-party-tool",
   "action": "Look in *Channel Islands, Jersey, Occupation Registration Cards* for an index lead",
   "checkpoint": "The index search sends the name and any date or place filters you enter to MyHeritage"
+ },
+ {
+  "recipe": "pennsylvania-marriage-licenses-and-returns.md",
+  "kind": "third-party-tool",
+  "action": "search MyHeritage’s",
+  "checkpoint": "before sending either spouse’s name or the marriage year to MyHeritage"
  }
 ]

@@ -299,7 +299,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [old-german-handwriting-comparison](skills/genealogy-research-recipes/recipes/old-german-handwriting-comparison.md) | public catalogues, documentation and historical records | — | — | third-party-tool | — | required |
 | [olympic-participation-records](skills/genealogy-research-recipes/recipes/olympic-participation-records.md) | public catalogues, documentation and historical records | — | — | — | contact | required |
 | [orthodox-clergy-record-recovery](skills/genealogy-research-recipes/recipes/orthodox-clergy-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [pennsylvania-marriage-licenses-and-returns](skills/genealogy-research-recipes/recipes/pennsylvania-marriage-licenses-and-returns.md) | public catalogues, documentation and historical records | — | — | — | — | — |
+| [pennsylvania-marriage-licenses-and-returns](skills/genealogy-research-recipes/recipes/pennsylvania-marriage-licenses-and-returns.md) | public catalogues, documentation and historical records | — | — | third-party-tool | — | required |
 | [periodical-index-search-retrieval](skills/genealogy-research-recipes/recipes/periodical-index-search-retrieval.md) | record catalogues and original images | — | — | third-party-tool | contact | required |
 | [philippine-surnames-and-registers](skills/genealogy-research-recipes/recipes/philippine-surnames-and-registers.md) | public catalogues, documentation and historical records | — | — | — | contact | required |
 | [piracy-and-privateering-records](skills/genealogy-research-recipes/recipes/piracy-and-privateering-records.md) | record catalogues and original images | — | — | — | — | — |
