@@ -4126,5 +4126,11 @@
   "kind": "third-party-tool",
   "action": "rerun the same name search beyond the last known home state",
   "checkpoint": "The research subject’s name and any identifying details in the repeated query go to Newspapers.com."
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "third-party-tool",
+  "action": "Submit the magazine's index download form",
+  "checkpoint": "Submitting the download form sends the user's email address to Family Tree Magazine"
  }
 ]
