@@ -37,7 +37,8 @@ class StaticEvaluationTests(unittest.TestCase):
                     "wato-ranking", "ystr-distance", "memorial-proof", "photo-attribution",
                     "family-interview", "gedcom-ancestry", "parentage-proof", "russia-origin",
                     "deportation-1944", "unreadable-village", "gate-record-reuse",
-                    "gate-record-new-destination", "gate-record-confirmation-missing"}
+                    "gate-record-new-destination", "gate-record-confirmation-missing",
+                    "open-investigation-log"}
         self.assertLessEqual(required, {case["id"] for case in load_cases()})
         self.assertGreater(report["recipes"], 100)
         self.assertGreaterEqual(report["guardrails"], 20)

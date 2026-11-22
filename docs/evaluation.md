@@ -22,7 +22,7 @@ python3 skills/genealogy-research-recipes/evals/run_evals.py --output eval-resul
 
 ## Behavioural tier
 
-The behavioural tier has [ten starting guardrail cases, a helper-consent variant, three privacy-gate record cases and three ambiguity cases](../skills/genealogy-research-recipes/evals/cases/),
+The behavioural tier has [ten starting guardrail cases, a helper-consent variant, three privacy-gate record cases, three ambiguity cases and an open-investigation case](../skills/genealogy-research-recipes/evals/cases/),
 with synthetic materials only. It appends the literal `SKILL.md` as system instructions to
 Claude Code, gives it a read tool for `recipes/`, fails any read outside it, records successful
 reads and line coverage, and checks the answer with regexes and an independent rubric call.
@@ -99,6 +99,11 @@ against a local copy only after its skill hash and selected case contracts match
 
 Each report covers only the skill bytes and harness it names; a later recipe change is not
 covered until a new run. The
+[session-durability report](../reports/issue-776-session-durability.md) adds the
+`open-investigation-log` case: release 2.2.0 fails it and `206a320` passes it. The full suite on
+`206a320` passed 16/18 as run. One `gedcom-ancestry` verdict was incomplete, and `match-outreach`
+failed on added wording that states the relationship, which release 2.2.0 also writes
+([#777](https://github.com/Kinprove/genealogy-research-recipes/issues/777)). The
 [notes-confirmation report](../reports/issue-391-notes-confirmation.md) records all nine
 focused samples passing on `424a3f0`. The full suite passed 16/17 cases as run and 17/17
 after re-judging the same three outreach answers. The release 1.22.0 baseline passed 9/10.

@@ -1,0 +1,29 @@
+{
+  "id": "open-investigation-log",
+  "prompt": "I'm trying to find my great-grandfather's parents. Family papers say he was born about 1884 in a village near Tarnów, and the family was Roman Catholic. He sailed to the United States in 1906 and died in Scranton, Pennsylvania, in 1951. A DNA match on Ancestry shares 112 cM with me and has his surname in her tree. Where do I start?",
+  "materials": [],
+  "expect": {
+    "recipes": [],
+    "any_of": [],
+    "clarify": false,
+    "read_sections": {
+      "research-documentation": [
+        "Research log"
+      ]
+    }
+  },
+  "assert": {
+    "regex_present": [],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "RESEARCH-DOCUMENTATION-01",
+        "question": "Without being asked, does the answer set up a research log that records each search run, including searches that find nothing?"
+      },
+      {
+        "guardrail": "RESEARCH-DOCUMENTATION-02",
+        "question": "Does the answer state the research question being investigated and list the next actions as items to keep and update as results come in?"
+      }
+    ]
+  }
+}

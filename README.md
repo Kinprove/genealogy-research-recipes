@@ -134,6 +134,14 @@ ClawHub before installing from it.
 The skill states its release date. When an installed copy is more than a week old, the agent
 mentions once per conversation that a newer version may exist and how to update.
 
+In a project that has its own skills or tool guides, an agent can answer a genealogy question
+without loading this skill. To have it load the skill first, add a line such as this to the
+project's own instructions, for example `CLAUDE.md` or `AGENTS.md`:
+
+```text
+For any genealogy research question, load the genealogy-research-recipes skill first, before a project tool guide, and load it again after the conversation has been summarized.
+```
+
 ## Privacy
 
 The plugin collects, stores and sends nothing by itself. It is text, with an optional script
