@@ -119,6 +119,17 @@ veteran, relatives and witnesses alongside the claimant search. Check whether a 
 someone else's application. Keep a text miss open because handwriting recognition can miss
 names [S91 @2026-11-20], [S92 @2026-11-20], [S113 @2026-11-20].
 
+For a Revolutionary War claim, also search MyHeritage's *Revolutionary War Pension Records*
+(collection 10021) for pension and bounty-land applications. The public collection page
+marks it free. Check whether the result and its images open in the user's account, and
+compare the packet with M804 before treating it as complete [S115 @2026-11-21],
+[S116 @2026-11-21].
+
+For possible capture at Charleston, follow the lead from the available excerpt [S129] to the
+pension and bounty-land references in Carl Borick's *Relieve Us of This Burthen* [S130]. Check whether those papers place the soldier's unit in the city at surrender or
+outside it. Keep the individual's capture open until evidence identifies
+him among those taken.
+
 In the DAR Genealogical Research System, open the Revolutionary War Pension Index from the Rev
 War tab [S94 @2026-11-20]. Following the suggestion from the available excerpt of the DAR
 interview, search its index of abstracts for applicants and for people named in other files
@@ -181,6 +192,11 @@ for half pay for life; and BLWt a bounty-land warrant application [S26], [S53]. 
 every claim in the file failed: many files under the Virginia act of 5 July 1832 were numbered R
 although the claims were not rejected [S25], [S26].
 
+On an M804 jacket, read numbered S and W as survivor and widow award identifiers and verify
+whose award the papers document [S66]. The jacket from the available excerpt held
+bounty-land papers alone [S128]. For a BLWt jacket, inventory the bounty claim and look
+separately for an award before recording a pension [S26].
+
 For a Revolutionary War payment search, distinguish the outer file envelope from the inner
 pension jacket. Following the example from the available excerpt on Daniel Waldo, treat
 crossed-out place names as agency leads and copy them along with the names left standing
@@ -209,6 +225,11 @@ company and surname, browse the candidate’s company under each documented unit
 Compare the images when two indexes cover the same claim. An XC number at the bottom of one card can be missing from the other [S14]. Keep each image’s series, original number and filing or transfer dates. Take the additional identifier into the custody check and leave any mismatch open until the custodian confirms where the file is held.
 
 Read claimant details as of the filing date. Check how the series defines its state field and investigate a difference from the unit state as a possible move [S8]. Take the claimant widow’s marriage date from the file and look for earlier wives [S88]. When a card shows both spouses’ claims, copy both numbers and try the widow’s certificate number for the combined papers [S9]. Search remarried widows under each later surname. If a state roll reports only that the widow applied, request the application and decision before recording an award [S82].
+
+In FamilySearch's T317 index (*United States, Mexican War Pension Index, 1887–1926*), use
+the event date and place to locate the earliest filing. Read the card image to assign
+the filing to the veteran or widow and copy any occupation, department or act written
+there, following the example from the available excerpt [S125 @2026-11-21], [S126 @2026-11-21].
 
 **Artifact:** An index-locator table with a separate row per candidate and claim/category.
 
@@ -287,6 +308,53 @@ Agents, NAID 302049. Use the agency, quarter and pension class to locate the bun
 the vouchers if its abstract is missing [S29 @2026-11-20],
 [S30 @2026-11-20].
 
+In RG 217, Inventory 14, Entry 721, use the agency, actual collection quarter and
+year, and act or pension class to locate the settled account. If the abstract is
+unbound, check the first folded paper in that quarter's bundle. If the expected quarter
+is empty, browse later quarters and the next year for delayed or combined payments
+[S29 @2026-11-21]. Following the distinction from the available excerpt, record the voucher number and
+whether and when the payment was collected apart from the application and award
+[S118 @2026-11-21].
+
+Read the Treasury transfer under the act of 6 April 1838 as a lead to unclaimed pension
+money. The act set the threshold at eight months after payment became due [S119]. Verify
+whether the payment was to the pensioner or to a survivor or representative before using
+it as a death lead. Compare the recipient and purpose on repeated notices under that act
+before filing them as copies, using the example from the available excerpt [S118].
+
+Check the pension application for a notice referring to the act of 6 April 1838. Test
+shortened notes such as “6 April” or “April 1838” on the final-payment index slip against
+that act, following the lead from the available excerpt [S121 @2026-11-21]. Search
+Craig R. Scott's *The “Lost” Pensions: Settled Accounts of the Act of 6 April 1838* by
+name. Carry the payment year and account number into RG 217, Inventory 14, Entry 724,
+*Settled Accounts for Payment of Accrued Pensions (Final Payments)*, August 1838 to
+September 1865. Check the account for the pension certificate and evidence from heirs
+[S29 @2026-11-21], [S120 @2026-11-21]. Search each distinct account given on the
+application notices, using the example from the available excerpt [S118 @2026-11-21].
+
+To trace Treasury review of an accrued-pension claim under the 1838 act, carry the
+claimant, payment year and account number from the Third Auditor's account into the Second
+Comptroller's Army Pension Division records, RG 217, section 217.4.4 of the Archives
+guide. Check the registers and decisions for the amount reviewed. Follow the review
+lead from the available excerpt [S118 @2026-11-21], [S122 @2026-11-21], [S131 @2026-11-21].
+
+For a Union Civil War pension payment with a warrant lead, check the Treasury pay-warrant
+indexes (RG 39, 1861–1919) [S132 @2026-11-21]. Search by year, issuing department, warrant
+type and number, using the example from the available excerpt [S118 @2026-11-21]. Copy any
+address from the matched document.
+
+If a pension check is dated after the pensioner's death, use the route from the available excerpt
+to RG 217, Entry 728, *Applications for Payment of Checks Issued to Deceased Pensioners*,
+1889–1919 [S118 @2026-11-21], [S122 @2026-11-21]. Check for an application for payment
+without administration and identify the applicant and recipient from the papers.
+
+For Navy pension payments, follow the accounting route from the available excerpt to the
+Fourth Auditor's records in RG 217 [S118 @2026-11-21]. In section 217.9.3 of the Archives
+guide, look for certificates of settlement of pension accounts (1824–1870), records of
+payments (1859–1901) and indexes to pension agents' accounts (1816–1895). The Fourth Auditor
+succeeded the Accountant for the Navy in 1817. Search the predecessor's records under the
+same office heading for the period beginning in 1798 [S122 @2026-11-21].
+
 ## 4. Inventory the pages and reconstruct the claim's sequence
 
 1. Read the received file through once, including covers, administrative notes, rejected claims
@@ -309,6 +377,22 @@ image for the soldier's own declaration and the decisions on his claim before yo
 as hers alone, because her file may or may not include his [S34], [S66]. The papers are in no
 particular order, and important ones can lie near the end [S66].
 
+In M804, look through the whole sequence for bounty-land papers. Record each by its
+claim and benefit type, following the lead from the available excerpt on bounty-land
+papers inside a pension file [S26], [S117]. In a combined War of 1812 file, classify a
+widow's pension and bounty-land applications by the benefit named on each form. Link
+her evidence of her husband's service, their marriage and his death to the filing
+it supports, even when the forms look alike [S114], [S33].
+
+For a War of 1812 widow's account of enlistment, record the widow as the informant.
+Attribute the enlistment age, birthplace, occupation, height, complexion, and eye and hair
+color reported about her husband to the veteran. Use the veteran's age and the date on a
+bounty-land application to estimate his age at the documented enlistment date, or at the
+start of the war as a preliminary check [S114], [S33]. Compare that estimate with his
+reported enlistment age and test any claim of full-war service against dated enlistment and
+discharge entries. In the magazine's example, the widow recalled full-war service and the
+file gave a shorter dated term [S114].
+
 Give each document in the image/document inventory the claim it belongs to: the soldier's, the
 widow's, a rejected claim, another claimant's, or unassigned when the papers do not show it. Then
 order each claim's documents by date in the claim-action timeline. Record the sort in the tables;
@@ -320,6 +404,12 @@ year, residence when called into service, residences since the war, and residenc
 of the declaration as separate entries. Keep the court venue separate from the wartime residence
 [S69]. Log each witness and what the witness attests to, distinguishing service or marriage
 testimony from a statement about the applicant's reputation [S66], [S69].
+
+In an 1832 Revolutionary War declaration, build a row for each claimed tour with terms
+of enlistment, dates, officers, campaigns and engagements. Treat those dates as a
+recollection made decades later, following the caution from the available excerpt [S117]. Compare
+dates and sequence with service records and the dates each supporting witness actually
+attests to [S66].
 
 Read the letters, diaries and other personal accounts in a Revolutionary War file for leads
 about the writer's or applicant's occupation and residence. If someone is named as providing
@@ -379,6 +469,11 @@ then can belong to the 1832 act [S112]. Read the ledger's numbered payment marks
 Use the example from the available excerpt on Daniel Waldo to keep the dates covered, actual
 collection date and any death notation in separate fields [S111]. If a year is written
 above a quarter mark, copy both and check the collection date in the voucher [S29].
+
+If a grayscale image leaves a Treasury ledger annotation ambiguous, compare it with a
+color image or the original. Check later marks for a stated death date or a reference
+to an accrued-pension account, following the example from the available excerpt [S118].
+Record the mark as written and verify its meaning against the voucher or account [S29].
 
 FamilySearch has the T718 images as "United States, Revolutionary War Pension Payment Ledgers,
 1818-1872"; despite the title, the volumes include widows and pensioners of later wars
@@ -504,6 +599,21 @@ certificate number when given [S105], [S106]. Verify each relationship in the ap
 For half pay in lieu of bounty land under section 2 of the act of 16 April 1816, the five-year
 term was computed from 17 February 1815 [S107]. Use an explicit death statement to date the death.
 
+For early War of 1812 widow or orphan half pay, browse the Paymaster General's
+state-arranged register (RG 217, Entry 587) for the soldier, the recipient and payment
+dates. If the left column gives an account date, follow the cross-reference
+from the available excerpt into Entry 516, *Settled Accounts of Army Paymasters*
+[S118 @2026-11-21], [S122 @2026-11-21]. Also check the Third Auditor's half-pay register,
+Entry 588, for the claimant and payment dates [S123 @2026-11-21].
+
+In RG 217, Entry 726, search the settled accounts for payments to War of 1812 widows
+or orphans, July 1812 to August 1825. If the packet gives a Paymaster General reference,
+carry its office, account number and date into Entry 516 for the underlying application.
+Check the application for the marriage place and date, officiant, witnesses and each
+child's birth date, including births after the soldier's death, following the case
+from the available excerpt [S118 @2026-11-21], [S122 @2026-11-21], [S123 @2026-11-21],
+[S124 @2026-11-21].
+
 If the pensioner was alive into the 1830s, check Ancestry's *U.S., The Pension Roll of 1835*
 by state and compare any hit with the earlier certificate and pension papers before linking
 the entries [S108 @2026-11-20], [S106 @2026-11-20].
@@ -512,6 +622,15 @@ Use the Old Wars search from the available excerpt for a War of 1812 disability 
 claim [S103]. Include Army, Navy and Marine Corps claims in that search. For
 militia service, check M313 as well as T316 and classify any hit by the act and papers it
 identifies [S104], [S33], [S74].
+
+### Mexican War
+
+For a Mexican War Quartermaster teamster's claim under the act of 29 January 1887,
+check for enlisted service, civilian employment, or a Congressional resolution
+naming the claimant for specific service. Compare any evidence of enlistment, service
+and honorable discharge with the act's terms [S127]. Treat the job title as an
+occupation and test the contractor explanation from the available excerpt against the
+stated reason for denial [S125].
 
 ### Union Civil War and later
 
