@@ -19,34 +19,15 @@ ordered actions and investigator-created schemas with dated platform-documentati
 The research methods apply across platforms, including work from exported data. Kinprove
 authorship does not require a Kinprove account, connector or scoring engine.
 
-## Version and updates
-
-This copy is version 2.2.0, released 2026-11-22.
-
-Many installations do not update by themselves. If today's date is more than 7 days after
-that release date, end your first answer in the conversation with one short note: this copy
-of the recipes was released on that date, and a newer version may be available. Give the
-update step for the user's installation, or the applicable options if the host is unclear:
-
-- Copies installed from a plugin directory (Anthropic's Claude directory or the ChatGPT/Codex
-  plugin directory): updates arrive through that directory.
-- Claude Code: `claude plugin update genealogy-research-recipes@kinprove`. For automatic
-  updates, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
-  **Enable auto-update**.
-- Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
-  the `kinprove` marketplace, or turn on **Sync automatically**.
-- Hermes Agent: `hermes plugins update genealogy-research-recipes`.
-  If Hermes reports no update, check the
-  [Hermes Marketplace listing](https://hermes-agent.nousresearch.com/marketplace/genealogy-research-recipes)
-  for the version available through the catalog.
-- OpenClaw: `openclaw plugins update genealogy-research-recipes`.
-  ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
-  `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
-
-Give this note once per conversation, after the answer itself. Skip it when you do not know
-today's date. Do not check for a newer version over the network yourself.
-
 ## How to use
+
+Come back to this skill as the work moves on. When the question turns to another record type,
+place, period, platform or DNA question, check the open recipe's `handoff` list and then the
+recipe list below. If that list is no longer in your context, for example after the conversation
+was summarized, load this skill again. When an investigation takes more than one step, keep its
+question, the searches run (including searches that found nothing) and the next actions, as the
+[research log](recipes/research-documentation.md#research-log) describes, without waiting to be
+asked.
 
 1. Match the user's requested output to the most specific recipe below. A task recipe
    retrieves records, prepares an artifact or carries out a platform workflow; a judgment
@@ -86,9 +67,15 @@ today's date. Do not check for a newer version over the network yourself.
    sections relevant to the question. A router summary or first page does not complete
    the task-recipe read.
    Carry any material source limitation alongside the claim it affects: a search-result extract,
-   unread page or unavailable recording is a lead, not a verified reading. Consult the paired
-   `sources/` file when the claim's support is unclear; attribute an independently read source
-   explicitly rather than treating an inaccessible additional citation as confirmation.
+   unread page or unavailable recording is a lead, not a verified reading. For a run of scanned
+   pages, narrow it first with an index or finding aid, read in small batches, and report the pages
+   not yet read as unread: see
+   [coverage as pages × targets](recipes/archival-image-coverage-verification.md#report-coverage-as-pages--targets)
+   and the reader-workload step of
+   [a bulk register run](recipes/ai-for-documentary-records.md#gate-a-bulk-handwritten-register-run).
+   Consult the paired `sources/` file when the claim's support is unclear; attribute an
+   independently read source explicitly rather than treating an inaccessible additional citation
+   as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
    reading a WATO ranking as a verdict, ignoring endogamy). Before you conclude that records
@@ -115,10 +102,10 @@ Permission item.
 ## Read source limits
 
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
-every sentence. Most cited passages lack a recorded review against their sources, and a marker or
-a date alone does not show that one was reviewed. When relying on a factual passage, read the
-entry for each cited source ID in its `sources/<recipe-id>.md` sidecar and carry the limitations
-that entry states.
+every sentence. Not every cited passage has a recorded review against its sources yet, and a
+marker or a date alone does not show that one was reviewed. When relying on a factual passage,
+read the entry for each cited source ID in its `sources/<recipe-id>.md` sidecar and carry the
+limitations that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
 unavailable access: preserve the attributed observation and qualification rather than restating
@@ -539,6 +526,33 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/vaud-foundling-baptism-and-naming-records.md` — Follow a Vaud foundling’s baptismal note into a dated naming or placement inquiry and identify which relationship each record establishes.
 
 <!-- recipe-catalog:end -->
+
+## Version and updates
+
+This copy is version 2.2.0, released 2026-11-22.
+
+Many installations do not update by themselves. If today's date is more than 7 days after
+that release date, end your first answer in the conversation with one short note: this copy
+of the recipes was released on that date, and a newer version may be available. Give the
+update step for the user's installation, or the applicable options if the host is unclear:
+
+- Copies installed from a plugin directory (Anthropic's Claude directory or the ChatGPT/Codex
+  plugin directory): updates arrive through that directory.
+- Claude Code: `claude plugin update genealogy-research-recipes@kinprove`. For automatic
+  updates, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
+  **Enable auto-update**.
+- Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
+  the `kinprove` marketplace, or turn on **Sync automatically**.
+- Hermes Agent: `hermes plugins update genealogy-research-recipes`.
+  If Hermes reports no update, check the
+  [Hermes Marketplace listing](https://hermes-agent.nousresearch.com/marketplace/genealogy-research-recipes)
+  for the version available through the catalog.
+- OpenClaw: `openclaw plugins update genealogy-research-recipes`.
+  ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
+  `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
+
+Give this note once per conversation, after the answer itself. Skip it when you do not know
+today's date. Do not check for a newer version over the network yourself.
 
 ## What a recipe is (and isn't)
 

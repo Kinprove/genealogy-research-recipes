@@ -6,7 +6,7 @@ kind: "judgment"
 scope: {"platforms": [], "tasks": ["research logs, research reports, NIL searches, coverage and linked next actions"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches and unsearched collections with their actual status."}]
+guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches and unsearched collections with their actual status."}, {"id": "RESEARCH-DOCUMENTATION-02", "text": "When analysis produces another search, retain a separate pending-action field linked to the originating document number or correspondence entry."}]
 handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-empire-emigrant-origin-recovery", "source-citation", "unknown-parentage-wato"]
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"

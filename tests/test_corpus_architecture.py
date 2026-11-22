@@ -78,6 +78,20 @@ class CorpusArchitectureTests(unittest.TestCase):
             self.assertIn(f"](recipes/{slug}.md)", how_to)
         self.assertIn("for Jewish events outside the Kingdom of Poland", " ".join(how_to.split()))
 
+    def test_how_to_use_opens_the_skill_and_keeps_the_session_rules(self):
+        # Claude Code keeps only the start of a skill after it summarizes a conversation (#776).
+        self.assertEqual(re.findall(r"^## (.+)$", self.skill, re.M)[0], "How to use")
+        how_to = " ".join(self.skill.split("\n## How to use\n", 1)[1].split("\n## ", 1)[0].split())
+        self.assertLess(self.skill.index("\n## How to use\n"), self.skill.index(catalog.ROUTER_START))
+        self.assertIn("If that list is no longer in your context, for example after the conversation was "
+                      "summarized, load this skill again.", how_to)
+        self.assertIn("keep its question, the searches run (including searches that found nothing) and the "
+                      "next actions, as the [research log](recipes/research-documentation.md#research-log) "
+                      "describes, without waiting to be asked.", how_to)
+
+    def test_version_note_follows_the_recipe_list(self):
+        self.assertGreater(self.skill.index("\n## Version and updates\n"), self.skill.index(catalog.ROUTER_END))
+
     def test_eastern_europe_routers_hand_off_to_their_neighbours(self):
         for source, target in EAST_HANDOFFS:
             with self.subTest(source=source, target=target):
