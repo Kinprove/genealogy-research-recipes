@@ -3814,5 +3814,29 @@
   "kind": "contact",
   "action": "Use MyHeritage messaging only if the recipient and channel are cleared",
   "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "upload",
+  "action": "Submit existing family material",
+  "checkpoint": "The submitter’s details and any family files, scans, estate records or questionnaire answers would go to 10 Million Names through its help center."
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "upload",
+  "action": "Use the family history questionnaire",
+  "checkpoint": "The submitter’s details and any family files, scans, estate records or questionnaire answers would go to 10 Million Names through its help center."
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "upload",
+  "action": "Submit a high-quality scan",
+  "checkpoint": "The submitter’s details and any family files, scans, estate records or questionnaire answers would go to 10 Million Names through its help center."
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "upload",
+  "action": "Submit an estate record",
+  "checkpoint": "The submitter’s details and any family files, scans, estate records or questionnaire answers would go to 10 Million Names through its help center."
  }
 ]
