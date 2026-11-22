@@ -498,6 +498,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/catholic-parish-diocesan-record-recovery.md` — Search for a Catholic sacrament across the parish, nearby parishes, the diocesan copy, the successor custodian and dispensation files.
 - `recipes/catholic-sacramental-cross-notations.md` — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish.
 - `recipes/immigrant-congregation-origin-records.md` — Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address.
+- `recipes/intercountry-adoption-record-discrepancies.md` — Compare birth and placement records, adoption papers and attributed family accounts when an intercountry adoption may have been irregular.
 
 ### Burials, directories, land and probate
 

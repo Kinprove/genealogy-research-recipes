@@ -4288,5 +4288,17 @@
   "kind": "request",
   "action": "For a supported pre-April 1944 special-inquiry lead",
   "checkpoint": "A special-inquiry index request sends the immigrant's name"
+ },
+ {
+  "recipe": "intercountry-adoption-record-discrepancies.md",
+  "kind": "contact",
+  "action": "ask the birth parent whether they want to give their own account",
+  "checkpoint": "The requester’s identity and an invitation about the person’s own account"
+ },
+ {
+  "recipe": "intercountry-adoption-record-discrepancies.md",
+  "kind": "request",
+  "action": "For a Chilean origin-file request",
+  "checkpoint": "The adoptee’s identity and required proof go to the origin-search authority"
  }
 ]
