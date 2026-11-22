@@ -26,6 +26,10 @@ When no photograph survives, check local wedding coverage for descriptions of wh
 
 For a missing associate, browse society columns for meetings, club events and private gatherings. Copy the guest and organizer names with their roles and the event’s date. Party attendance gives a social link to investigate. [S1], [S2]
 
+For a deceased person’s travels and civic ties, browse society columns for visits, parties they hosted and named group memberships, according to Rhonda Lauritzen’s guidance. [S17†], [S18] Check the destination paper using the reported place and date of a visit. Keep a host or guest role distinct from an explicitly stated membership. [S18]
+
+When a deceased person is missing from longer articles, browse letters to the editor for their signature and check brief sick-list notices and local sports results, according to the podcast’s suggestions. [S19†], [S20]
+
 If the first profile ties the person to a conference or award, search for the event itself in the host city and in publications serving the sponsoring religious or civic community. Coverage may be filed under the event or organization. [S1]
 
 For a deceased twentieth-century immigrant, browse local reports of school sports, academic prizes and amateur tournaments, along with legal notices of sales or marriages. [S5]
@@ -40,6 +44,10 @@ For a suspected move, compare advertisements in the old and new towns. Record ea
 
 When an immigrant disappears from the expected destination, browse the classifieds for *Information Wanted* and *Missing Friends*. Search for both the advertiser and the missing person. The Boston *Pilot* used this genre for Irish immigrant notices. Use stated origins and migration details as leads to the records for each person. [S1], [S3]
 
+## Trace people in enslavement coverage
+
+For an enslaved person, browse sale and escape advertisements, newspaper court reports and abolitionist newspapers for names, descriptions and places. If the person’s name is missing, search by the named enslaver, estate or locality. [S21], [S22], [S23] When a report identifies a freedom suit, use the parties and court to look for the underlying petition. Keep details from the report and the petition attributed to their respective sources. [S21], [S23], [S24]
+
 ## Follow probate notices to the estate
 
 When a will is hard to find, check the local paper’s legal notices for probate or estate notices. Use the named court and any hearing date to guide the search for the will or other estate papers. [S6], [S10]
@@ -47,6 +55,8 @@ When a will is hard to find, check the local paper’s legal notices for probate
 ## Reconstruct an unusual death away from home
 
 Search the news columns in towns near the incident as well as the deceased person’s home paper. Keep the initial account and follow-up reports as dated observations. Record their witnesses, sequence and conflicting details separately. [S1]
+
+When an out-of-town death report describes a letter found on the deceased, look for the postmark even if the writer is unnamed, as reported in the podcast’s newspaper segment. [S19†], [S25] Record its locality and date as printed and look for the candidate or their associates in records from that locality. Keep the mailing place, the address on the letter and any evidence of residence separate. [S26]
 
 To test an oral account about a deceased ancestor, search the name as it would appear in print, including any title, with an incident keyword from the story. Read each promising article for the event it describes. In the reported example, a trolley-accident search turned up a refugee-arrival article. [S4]
 
