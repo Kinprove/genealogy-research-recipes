@@ -479,6 +479,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-army-quartermaster-record-recovery.md` — Use the Quartermaster General’s claims, contracts, correspondence and personnel series to trace Army suppliers, employees or officers.
 - `recipes/us-military-headstone-application-recovery.md` — Route a U.S. military headstone application by death and application dates, then compare its service and burial identifiers.
 - `recipes/us-treasury-accounting-military-claims.md` — Find Treasury audit, paymaster or pension-account records for a U.S. military payment or claim, using the office and transaction date.
+- `recipes/us-marine-corps-muster-and-wwi-unit-records.md` — Recover a U.S. Marine’s dated unit from muster rolls, then trace First World War assignments and death records.
 
 ### Canada, Latin America, Asia and Oceania
 
