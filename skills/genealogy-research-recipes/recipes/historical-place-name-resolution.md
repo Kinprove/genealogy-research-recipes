@@ -70,6 +70,8 @@ Not covered here:
 
 - **Ohio towns and townships through 1900.** Look up the name in the 2011 revision of Julie Minot Overton's *Ohio Towns and Townships to 1900: A Location Guide*. Check the entries for abandoned places as well as surviving ones [S105], [S106]. Take each matching location into the event-date county check (§6).
 
+- **Swedish parish candidates by county.** Look for Finn A. Thomsen's *The Genealogical Guidebook & Atlas of Sweden* by author and title, using FamilySearch catalogue entry 75325 as a lead [S116], [S118]. Use the county clue to narrow the alphabetical parish list and compare the parish churches on the maps [S116], [S117]. Check which parish served each plausible locality on the event date (§6).
+
 ## 3. Date the name before matching it
 
 - Every candidate row needs a gazetteer or map dated close to the record. A modern-only match is not a candidate yet. Place names change in three ways:
@@ -104,6 +106,12 @@ Not covered here:
 - **Civil and church jurisdictions in Meyers.** For a village in the German Empire covered by Meyers, take the Kreis (district) and Standesamt (civil registry office) from Entry. Read the named Catholic or Protestant parish at the top of Ecclesiastical when present [S97 @2026-11-20], [S103 @2026-11-20], [S104 @2026-11-20]. Treat the table of nearby congregations as a search list. If the parish assignment is missing, confirm which parish served the village using a dated parish directory or register.
 
 - **Scottish localities around 1881.** Check John Wilson's 1882 *The Gazetteer of Scotland*, a lead from the available excerpt [S113], [S115]. Use the population drawn from the 1881 census returns and any named churches or schools to distinguish same-named places [S114]. Verify the parish at the event date (§6).
+
+- **Swedish place names on dated maps.** Search only the place name in Lantmäteriet's *Sök ortnamn* to locate matching names [S116 @2026-11-21], [S119 @2026-11-21]. In *Historiska kartor*, search each plausible spelling of the parish (*socken*) or locality when looking for detailed maps [S120 @2026-11-21]. Use a map close to the event date to test the parish assignment before choosing registers.
+
+- **Renamed streets and renumbered properties.** Locate the historical street in a period atlas or street directory. Use city-directory street sections, contemporary newspaper notices and any address conversion guide to trace the name and the number separately [S123], [S124]. Match the block or cross streets before placing the site on a modern map.
+
+- **US post-office spelling variants.** Consult National Archives Reference Information Paper No. 72 for the dated naming policies, a lead from the available excerpt [S131], [S132]. For a name that may reflect the U.S. Board on Geographic Names' 1933 recommendations, test *burgh/burg* and *centre/center*, with and without hyphens, the county-seat suffix *C.H.*, and *City* or *Town* [S132]. Check local or legal usage for *centre* [S132]. Keep the recorded form and verify each proposed match in dated sources.
 
 ## 4. Convert phonetic and translated forms back to the source language
 
@@ -142,9 +150,19 @@ For a residence in or near former Cherokee lands, also plot it on Charles C. Roy
 
 - **County creation and organisation.** Keep creation, administrative attachment and full organisation separate when reading Newberry's Ohio chronology [S90]. Take each entry's date and the statute volume, chapter and page it cites into the candidate table's jurisdiction column (§8) [S90]. When an attachment affects the search, read that cited law for the county and function assigned, then select that county's relevant series instead of choosing from a boundary outline alone [S89], [S90].
 
+- **Parent counties in New York.** Open the county entry in J. H. French's 1860 *Gazetteer of the State of New York* [S129]. Take the formation date and each parent county named, then repeat the lookup for the parents back to the event date, following the method from the available excerpt [S128]. Confirm which branch covered the locality and whether it was attached elsewhere for the record's function in Newberry's New York chronology [S130].
+
+- **Lower Counties on the Delaware.** For a locality in New Castle, Kent or Sussex under Penn's proprietorship from 1682, use the Pennsylvania records lead from the available excerpt [S134], [S136]. The Lower Counties began meeting in their own assembly in 1704 and shared Pennsylvania's governor until separation in 1776 [S135]. Search Pennsylvania's colonial records for the shared administration and the corresponding Delaware county's records for county business [S135]. For dates before the transfer to Penn, check the earlier administration [S135], [S136].
+
+- **Mainland Europe around the Congress of Vienna.** Use Alexander Altenhof's *Europe 1815* map to identify the jurisdiction just after the June 1815 settlement [S121], [S122]. Treat it as a starting point for a mainland European emigrant's locality. For a birth, marriage or departure elsewhere in the nineteenth century, verify the governing jurisdiction on a map dated to that event.
+
 - **Borders around a Polish locality.** Find a map that depicts the event date in the David Rumsey Map Collection's Eastern Europe and Poland holdings or the FEEFHS Map Library [S97 @2026-11-20], [S101 @2026-11-20], [S102 @2026-11-20]. Record the date depicted and the map's publication date separately. Use the boundary and its legend to identify the governing jurisdiction before looking for the parish or civil district (§3).
 
+- **India during the famine of 1876–1878.** Use a period gazetteer or map to locate the village in its 1870s district, presidency or princely state and record the modern equivalent [S125 @2026-11-21]. Look up the famine map by shelfmark *IOR/X/9113/10* in the British Library catalogue, or try the same reference in The National Archives' Discovery catalogue [S126 @2026-11-21], [S127 @2026-11-21]. Compare the historical locality with the map's affected areas. If the scale leaves the locality's position uncertain, record that uncertainty.
+
 - **Post-office name changes.** Search contemporary newspaper notices for the old and new names, then search locality records under both [S109]. In Meade County, Kentucky, search Good Springs and Meadville [S110]. Check the 23 July 1851 issue of the *National Intelligencer* as a lead from the available excerpt [S108].
+
+- **A settlement name introduced by a post office.** Check whether the office took an existing locality name or introduced a name that the settlement later used, a possibility from the available excerpt [S131]. The Town of Hyde Park traces the change from Stoutenburgh to Hyde Park in 1812 to the name of its post office [S133]. Compare the office's establishment and name with the settlement names on dated maps or in local records, then search both names.
 
 - **A birthplace jurisdiction in a pension.** Compare the boundaries at birth with those when the statement was made. For a reported 1771 North Carolina birth in an 1815 statement (from the available excerpt of the transcript) [S93], include both the later state and its former western lands. Tennessee entered the Union in 1796 from land North Carolina had ceded [S94], [S95]. Narrow the search with dated evidence.
 
