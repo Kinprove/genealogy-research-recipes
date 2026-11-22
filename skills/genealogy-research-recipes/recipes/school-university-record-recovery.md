@@ -72,6 +72,10 @@ The Rutherford B. Hayes Presidential Library & Museums lists the 1840 enumeratio
   A published graduate list (1837 onward, with medals) leaves out pupils who left before graduating. [S14]
 - Record which Poltava inventories you checked. A reported miss for Kremenchuk gymnasiums there left another route open. Moscow held a list of numbered certificates for pupils completing the seventh class in 1913 [S4], [S13].
 
+When a historical school or university award is the clue, search the prize lists by award name and year [S49], [S50], [S51]. In a French lycée inventory, look under *palmarès* and *distributions des prix* [S50]. For Cambridge awards through 1910, check the University Prizes section of the 1917 *Historical Register* [S51]. Use the award year and any class or college named to narrow the search in admission registers, pupil entry and exit registers, or university matriculation records. Record award and enrolment dates separately, and search the enrolment series even if the prize list has no match. [S50], [S52]
+
+For Collège Rollin, the Archives de Paris finding aid lists prize distributions for 1909–1912 at D2T2 482–483 and attendance certificate stubs covering those years at D2T2 289, in a gap between the listed pupil entry and exit registers. [S50 @2026-11-21]
+
 ## 3. If the school's fond is lost, go to the district curator and cross-district lists
 
 - Search the chancellery fond of the educational-district curator for the date. For Kremenchuk, participants named the Kiev district curator's chancellery. [S4]
