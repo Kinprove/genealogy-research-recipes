@@ -282,7 +282,8 @@ shows its grades.
   attributed advice counted as keeping its attribution. The steps grade passed
   one answer that used the birth year where the recipe asks for the filing year.
   No layout removed the source IDs, no run used the current layout with readable
-  sidecars, and no task asked for the evidence behind a claim. For the layout
+  sidecars, no task asked for the evidence behind a claim, and no task used a
+  partly read source. For the layout
   with readable sidecars, `SKILL.md` said that each sidecar entry records the
   check date, which is true only where the retrieval and check dates match. The
   runs without sidecars had no web access, so they could not open the GitHub
@@ -308,8 +309,9 @@ It is not adopted, because the probe found a reader who misread it. In two of th
 three answers to the envelope task in this layout, the model said that the Court
 of Claims referral step had no recorded check date, and one told the user to
 treat the step as a lead to confirm. That step's marker had lost its date, and
-the paragraph's last marker carried the date that covers it. No answer with every
-marker dated said so. The probe rules also accepted this layout
+the paragraph's last marker carried the date that covers it. None of the nine
+answers with every marker dated said that a step lacked a check date, and the
+misreading did not appear in the other two tasks. The probe rules also accepted this layout
 only if, for each task, it stated the date in no more than one answer fewer than
 the current layout; it failed on the barred-claim task (0 of 3 against 2 of 3).
 Only `SKILL.md` would tell a reader that a date at the end covers the earlier
