@@ -4054,5 +4054,17 @@
   "kind": "contact",
   "action": "ask the tree owner about photographs or papers",
   "checkpoint": "Send only the sender’s authorised identity, the deceased ancestor’s name and period"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "publish",
+  "action": "enter the collaborator's email address and click **Share**",
+  "checkpoint": "Sharing a kit's results gives another person a"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "publish",
+  "action": "send the replacement invitation through the privacy gate above for the new recipient",
+  "checkpoint": "Sharing a kit's results gives another person a"
  }
 ]
