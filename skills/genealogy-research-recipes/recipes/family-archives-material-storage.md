@@ -32,6 +32,10 @@ Use acid-free, lignin-free folders and boxes large enough to support loose recor
 
 If a news clipping came out of a Bible, photograph or note where it lay before moving it. File the original separately in flat housing and keep the clipping locator with the Bible. A flat copy can preserve the association without placing a stiff sleeve inside the binding. [S3], [S4]
 
+Protect weak original recipe cards and loose recipe clippings in sleeves when they still need handling, according to the episode’s advice. [S21†] Choose preservation-quality polyester. [S22]
+
+When a family recipe is still used, keep the housed original outside the kitchen and cook from a scan or photo kept on the user's device or a printout made at home, according to the episode’s advice. [S21†], [S22], [S23]
+
 ## Match the enclosure to the photograph or film
 
 According to the presenter, choose boxes that fit the prints or film and preserve the grouping of albums or originals. [S1†]
@@ -40,6 +44,8 @@ Use sleeves or folders that pass the Photographic Activity Test for prints. Choo
 
 If using card stock as a protective cover for prints, choose acid-free, lignin-free stock that passes the Photographic Activity Test. [S10], [S12]
 
+When a loose print could slip out of a mixed paper folder, separate it from direct contact with the papers, according to the organizing talk’s advice. [S24†] Give it its own photo enclosure and keep it with the associated papers if the enclosure fits safely. If it must move, record where it lay and leave the new locator with the papers. [S25]
+
 ## Handle and display photographs and albums
 
 Turn paper album pages with clean, dry hands. When handling loose prints or negatives directly, wear clean, fitted nitrile gloves and hold the item by its edges. [S10], [S11], [S14], [S15]
@@ -47,6 +53,12 @@ Turn paper album pages with clean, dry hands. When handling loose prints or nega
 Leave a photograph stuck to glass in place. Avoid heat, prying and other DIY removal methods. [S10], [S14]
 
 Use existing scans for routine viewing and display on the user's own device. Keep the original album boxed to limit handling and light exposure. [S16], [S17]
+
+## Assemble a heritage scrapbook
+
+Mount copies with photo corners. Avoid self-stick pages, tape and glue. Choose acid-free, lignin-free pages and inert polypropylene or polyester sleeves. Check that materials touching photographs pass the Photographic Activity Test even if the packaging says “archival.” Use a permanent pen that passes the same test to label plastic sleeves. [S14], [S18], [S19], [S25]
+
+Treat budget color prints with unspecified materials as replaceable copies. For durable inkjet copies, choose pigment ink and paper matched to the ink and printer. Keep the unedited scan on the user's device so a faded print can be replaced. [S18], [S20]
 
 ## Support books and textile folds
 
