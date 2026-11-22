@@ -11,7 +11,7 @@ handoff: ["us-20th-century-military-service-reconstruction"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 159}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 160}
 ---
 
 # Verify U.S. Navy participation in a World War II battle
