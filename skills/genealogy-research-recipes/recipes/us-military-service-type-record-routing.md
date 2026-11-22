@@ -49,17 +49,39 @@ Classify each service clue into exactly one working type, and record the basis f
 
 - **Company books.** For 1812–15, NARA Record Group 98 (Records of United States Army Commands, 1784–1821) holds company books and order books for many regular infantry regiments, the 2nd and 3rd Artillery, the 1st and 3rd Rifle regiments and the Light Dragoons [S13 @2026-11-16]. One presenter (only transcript excerpts read) says these company and descriptive books carry the same kinds of detail as the Register [S9 @2026-11-16]. Search them when the Register entry is thin or the man is missing from it.
 
+**Revolutionary War records outside the service file.** Follow the alternate routes from the available excerpt of the Strauss interview [S66 @2026-11-21]. For pay, start in Treasury RG 217, §217.7.7, with paymasters' accounts (1777–1781) or the index to later settled Revolutionary War claims (1828–1835), according to which transaction you need [S38 @2026-11-21]. For a wartime diplomatic question, search the Committee for Foreign Affairs and Secretaries for Foreign Affairs papers in RG 360, M247 [S68 @2026-11-21]. For follow-up correspondence from 1785–1790, check the foreign letters in State Department RG 59, M61 [S69 @2026-11-21].
+
 **Privateering commissions.** For a Revolutionary letter of marque, identify the vessel and issuing authority before choosing a record series. Follow Continental Congress commissions and state-issued commissions as separate leads [S34 @2026-11-20] [S35 @2026-11-20]. For the War of 1812, start with the State Department's letters-of-marque correspondence in RG 59, M588, roll 1. Check applications and abstracts returned by customs collectors as well as applications sent directly to the department [S36 @2026-11-20].
 
 **Navy muster and pay rolls.** If the Navy rolls in RG 45 or RG 24 leave a gap [S58 @2026-11-20], check the Treasury series in National Archives RG 217, §217.9.5. Use its card index (1828–1907) to find muster, pay and receipt rolls (1820–1898) [S38 @2026-11-20]. Follow the presenter's advice (only transcript excerpts read) to check the index by ship or shore station even when the series description suggests a gap, then look for the relevant dates in the rolls [S37 @2026-11-20].
 
 For a Coast Survey vessel or revenue cutter that operated with the Navy [S61] [S39], search by vessel name in the Navy muster rolls. Also test the vessel name in the Treasury index when the Navy rolls leave a gap, as the presenter suggests (only transcript excerpts read) [S37].
 
+**Treasury Navy service records.** Follow the lead from the available excerpt of the Treasury talk [S71 @2026-11-21]. For Navy enlisted men or warrant officers, check the separate 1825–1892 service-record series in the Fourth Auditor's Record and Prize Division, RG 217, §217.9.5, even if the ship's payroll turns up nothing [S38 @2026-11-21].
+
+**Marine detachments aboard Navy ships.** Follow the detachment route from the available excerpt of the USS Constitution talk [S79 @2026-11-21]. Search Marine Corps RG 127 by month and ship, using T1118 for 1798–1892. Browse it at FamilySearch or search the Marine rolls at Ancestry. Run a separate Navy muster search for sailors [S81 @2026-11-21] [S80 @2026-11-21].
+
+For the earliest USS Constitution detachment, start the Marine roll search in 1798, the year of the first voyage and the opening year of T1118 [S82] [S77]. Keep the 1797 launch as a separate date in the ship's chronology, following the dating lead from the available excerpt [S79].
+
 If the type is unknown, keep two or more routes open. Do not choose one by default. Expect a man to have service of more than one type. An empty or incomplete CMSR search does not end the search. Check pension and state records for service the CMSR leaves out (pension recipe §4).
 
 **Quaker meeting clues.** Treat a Revolutionary-era Quaker monthly meeting minute that mentions military activity as a claim lead [S28]. Use any place of service named in the minute [S25] to choose the compiled service, pension and bounty-land records to search. Match each series to the probable service type and its eligibility rules (§2) [S29]. Keep the meeting's location separate from the place of service unless the minute connects them.
 
 With a known NARA microfilm-publication number, look it up in NARA's digitization-partner table and follow the listed collection links. Keep the National Archives Catalog Availability Status column separate from the extent of each partner's collection; check the target collection's coverage before reading a miss. Do not assume that a provider's name search indexes the publication number, or that a link to one partner proves the whole series is online. [S23 @2026-11-16](https://www.pricegen.com/7512-2/) [S24 @2026-11-16](https://www.archives.gov/digitization/digitized-by-partners)
+
+**Former Confederates in U.S. Volunteer Infantry.** For service in the 1st–6th U.S. Volunteer Infantry, 1864–1866, look up RG 94 microfilm M1017 in NARA's digitization-partner table and open the listed partner collection, following the suggestion from the available excerpt of the microfilm talk [S73 @2026-11-21] [S24 @2026-11-21]. Search these U.S. volunteer service files separately from the man's Confederate service [S74 @2026-11-21].
+
+**Mexican War volunteers in Mormon organizations.** Follow the publication route from the available excerpt of the microfilm talk [S73 @2026-11-21]. Use the alphabetical volunteer index M616 as a name lead and open the actual compiled service file in RG 94, M351. Follow the M351 collection links from NARA's Mexican War guide or its digitization-partner table [S75 @2026-11-21] [S24 @2026-11-21].
+
+For the Mormon Battalion, choose M351 roll 1 for A–G, roll 2 for H–R, or roll 3 for S–Z [S76 @2026-11-21]. For a physical film search, use the roll list and confirm the viewing location, following the route from the available excerpt [S73 @2026-11-21] [S89 @2026-11-21].
+
+**Battle of Tippecanoe, November 1811.** Look up T1085 in NARA's Microfilm Catalog, following the lead from the available excerpt of the microfilm talk [S73 @2026-11-21]. Use the single roll for both militia and Regular Army muster and pay records [S77 @2026-11-21] [S89 @2026-11-21]. Check current viewing listings and include the Indiana State Library's microform holdings as a separate option [S78 @2026-11-21].
+
+**Mexican War regular Army units.** Follow the unit-roster lead from the available excerpt of the Treasury talk [S71 @2026-11-21]. Search the Second Auditor's *Roster of Officers and Regular Army Units Serving in the Mexican War*, January 1845–January 1850, RG 217, §217.7.3, NAID 2580614 [S38 @2026-11-21] [S72 @2026-11-21]. Carry the unit, commanding officer and any payment date or paymaster named into the search for unit rolls and individual service records.
+
+**Army paymasters' accounts.** Follow the parallel rolls search from the available excerpt of the Treasury talk [S71 @2026-11-21]. If the settled Army paymaster accounts (1815–1861) lack the roll you need, search the separately listed muster rolls and payrolls (1815–1866) in the Second Auditor's Archives Division, RG 217, §217.7.7 [S38 @2026-11-21].
+
+**Colonial Southern militia and Gooch's American Regiment.** Use Murtie June Clark's *Colonial Soldiers of the South, 1732–1774*. In the 1983 edition, start at page 1 for the Maryland Militia and page 125 for Gooch's Regiment, following the chapter leads from the available excerpt [S85] [S86]. Keep a regiment match open for men recruited in Northern colonies too. Rhode Island recruiting correspondence is one route to check colony of enlistment independently of the compilation's title [S87].
 
 **Death during the War of 1812.** For a regular enlisted soldier, inspect the Remarks field in the Register of Enlistments (M233). Read the full page for other death entries only when the question covers other soldiers as well, as the presenter suggests (only transcript excerpts read) [S48] [S49]. Treat a notation in the Register as a lead to the roll or other original record.
 
@@ -74,6 +96,12 @@ For a regular unit, use the National Archives RG 98 guide to locate surviving co
 ## 2. Write each series' eligibility rule before reading a miss
 
 Build a routing table with one row per series: custodian, coverage, eligibility rule, and whether a miss is meaningful. A miss counts only when the man met the eligibility rule **and** the series covers his period and place.
+
+**Revolutionary War search misses.** Follow the search-status distinction from the available excerpt of the Strauss interview [S66 @2026-11-21]. Check the series description and finding aid for surviving coverage. Record holdings without searchable images as unsearched unless you actually examined them, and record losses only where a source identifies the affected records [S67 @2026-11-21].
+
+Limit a negative federal search to the series examined. Follow the repository leads from the available excerpt of the interview [S66 @2026-11-21]. For state-only militia, check the relevant state archive or county records [S67 @2026-11-21]. Check the DAR Library's Patriot Records Project Index as a separate route and carry a hit's source locator to the underlying record [S70 @2026-11-21].
+
+**Mexican War teamsters.** Keep enlisted duty and civilian employment open. For suspected volunteer service, check FamilySearch's M616 index and follow a hit to the CMSR [S75 @2026-11-21] [S90 @2026-11-21]. Treat a miss as leaving civilian employment possible, following the advice from the available excerpt [S83 @2026-11-21]. Test Regular Army enlistment separately with the Register (§1). Congress authorized teamster positions in some Regular Army units in 1847 [S84 @2026-11-21]. Look for a hiring, contract or pay record that identifies the man as a civilian before assigning that status.
 
 - **Pennsylvania donation land.** Check service to the end of the war in the Pennsylvania Continental Line. The State Archives lists ten surveying districts in parts of Butler, Clarion, Crawford, Erie, Lawrence, Mercer, Venango and Warren counties and gives separate claimant, patent and register series [S31 @2026-11-19]. An archivist describes a Line soldier whose service ended at the 1781 mutiny and reports grants to some special ranger companies outside the Line [S3 @2026-11-19]. Check the specific company's eligibility. A missing grant cannot exclude earlier Line or militia service.
 - **State bounty land.** Search federal and state grants separately. Bockstruck's published index covers Connecticut, Georgia, Maryland, Massachusetts, New York, North Carolina, Pennsylvania, South Carolina and Virginia [S30 @2026-11-19]. A researcher reports that Massachusetts veterans had to choose between state and federal grants [S4 @2026-11-19]. Check the applicable terms and both sets of records before interpreting a federal miss.
@@ -110,6 +138,8 @@ Build a routing table with one row per series: custodian, coverage, eligibility 
 
 Attach exactly one evidence-kind label to every record: **service proof**, **payment**, **levy/fine**, **enumeration** or **claim lead**.
 
+**Gooch's Regiment ration lists.** Follow the record-type lead from the available excerpt of the Gooch's Regiment talk [S85]. If a ship's list records soldiers “borne for victuals only”, label the entry as enumeration of people provisioned on that ship. Carry the ship and date to the relevant service records for any claim about enlistment, duty or home colony [S88].
+
 - **Militia fines and levies in tax lists are levy/fine, never service proof.** Pennsylvania militia fines were charged to men who were not serving. The archivist adds two details. Older men who could not serve were charged too. During the Revolution, some levies fell on a whole township, or on a group within it, depending on whether a volunteer could be found [S3 @2026-11-19]. Look for muster, class or account records instead.
 - **A county-history roster can be an enumeration.** In a Georgia county history used to fill an early census gap, the militia roster's notes said that some compilers included women and enslaved people while others omitted them [S5 @2026-11-19]. Transcribe the heading and the counting rule for the particular district. A name establishes inclusion on that list; seek a separate record of service.
 - **Pennsylvania militia-loan certificates.** Follow the certificate number on an abstract card marked “militia loan accounts” to the underlying account. An archivist reports that the card can give little more than a name, amount and county, while the account may identify the dates and place of a tour, often frontier or guard duty [S3 @2026-11-19]. The State Archives lists the Revolutionary War Military Abstract Card File as series 13.50, digitized rolls 4444–4497 [S32 @2026-11-19]. Record what the account actually states.
@@ -133,6 +163,8 @@ In later Hardy County orders, search for a successor named “in room of” the 
 - Retain the class, company and battalion exactly as each roll identifies them, along with the duty status and county. In the Lancaster County example, the same man's active entry was 2nd battalion, 7th company, 8th class, while the inactive entry was 7th battalion, 1st company, 2nd class [S4]. Check the local system before deciding that a change of all three numbers means a different person or a transfer.
 
 Record the roster status next to every designation. Two different number sets do not by themselves mean two men or two units. Do not apply the Pennsylvania renumbering to another colony without checking that colony's own rule.
+
+**Pennsylvania Revolutionary militia.** Use the Pennsylvania State Archives' Revolutionary War Military Abstract Card File, series 13.50, to locate the underlying county and battalion record [S65 @2026-11-21]. Check that record for rank, class, captain's company, battalion and any stated dates [S64 @2026-11-21]. Carry the recorded duty status with the date so that a roster date alone cannot establish a tour.
 
 ## 5. Route a suspected Loyalist separately
 
@@ -160,3 +192,5 @@ Return:
 - handoffs to pension recovery and proof judgment.
 
 Mark every series you did not search as unsearched. Report "no service found" only for the series whose eligibility and coverage fit the man.
+
+For a draft Revolutionary War reference request, record the exact National Archives record group and series or subseries title. Add the entry or National Archives identifier when listed. Use the series description to name the target in the draft, following the advice from the available excerpt of the Strauss interview [S66] [S67].
