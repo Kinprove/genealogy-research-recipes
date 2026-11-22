@@ -3790,5 +3790,17 @@
   "kind": "request",
   "action": "route the request through the living adult subject",
   "checkpoint": "the child's names, estimated dates and placement clues"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Enter the ancestor's name and each documented sibling's name",
+  "checkpoint": "A chancery index query sends the historical ancestor's or sibling's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "Submit a separate stack service slip for each original file",
+  "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
  }
 ]
