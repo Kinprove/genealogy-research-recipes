@@ -4156,5 +4156,23 @@
   "kind": "third-party-tool",
   "action": "Follow the public list if the user wants to revisit it",
   "checkpoint": "Saving or following a list sends the user's account association"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "contact",
+  "action": "ask local-history staff for photograph files kept off the public shelves",
+  "checkpoint": "A library inquiry discloses the research location and period"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "contact",
+  "action": "Ask Dead Fred whether it holds the physical print",
+  "checkpoint": "An original-photo inquiry shares the user’s name, reply address and item reference"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "contact",
+  "action": "request the original through FAQ 7",
+  "checkpoint": "An original-photo inquiry shares the user’s name, reply address and item reference"
  }
 ]
