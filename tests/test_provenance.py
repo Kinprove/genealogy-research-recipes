@@ -390,6 +390,13 @@ class ProvenanceTests(unittest.TestCase):
                 self.check(ledger, recipe=recipe)
             else:
                 self.rejects(ledger, 'dated marker differs from the claim check date', recipe=recipe)
+        # A claim with no recorded check date shows no date.
+        ledger = reviewed()
+        ledger['claims'][0].update(kind='method', checked=None)
+        self.rejects(ledger, 'dated marker without a claim check date')
+        anchor = ANCHOR.replace(' @2026-11-07', '')
+        ledger['claims'][0]['anchor'] = anchor
+        self.check(ledger, recipe=RECIPE.replace(ANCHOR, anchor))
 
     def test_durable_method_does_not_expire(self):
         ledger = reviewed()

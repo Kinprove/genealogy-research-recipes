@@ -341,5 +341,6 @@ reviewed current-state claims in 105 recipes cite a source with two or more date
 markers. `validate()` now requires every dated marker of a claim with a
 `checked` date to show that date. This tightens the current format and does not
 change it; no recipe or ledger record had to change. Six reviewed `method` claims
-show a dated marker while their ledger records no `checked` date. The rule does not
-cover them.
+showed a dated marker although their ledger recorded no `checked` date; each stamp
+had arrived without a check. Those six dates were removed from the markers, and a
+dated marker now needs a `checked` date on its claim.

@@ -45,8 +45,8 @@ sentence checks use offsets within the parsed prose, not within the raw anchor.
 For `platform-ui`, `fee`, `portal-availability` and `custody`, record `checked`
 and a separate `[S1 @YYYY-MM-DD]` marker for each supporting source. Every dated
 marker in the paragraph must show the `checked` date, including a source's
-repeated markers. Fees and
-portal availability expire after 90 days; platform UI and custody after 180.
+repeated markers. A claim without a `checked` date carries no dated marker.
+Fees and portal availability expire after 90 days; platform UI and custody after 180.
 History, methods and examples have no automatic expiry. These claim dates do
 not replace the catalog header's independently enforced platform check. From 30
 days before a claim expires, `provenance.py --check` prints one warning that

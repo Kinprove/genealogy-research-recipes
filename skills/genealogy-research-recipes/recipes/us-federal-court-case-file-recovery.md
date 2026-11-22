@@ -117,7 +117,7 @@ film, so check that catalog before you plan a visit.
 
 ## Search the index first, then request the file
 
-If you have only a name, start with the finding aid for the court and filing period. Use its index or docket to obtain the case reference before requesting the papers [S2], [S20 @2026-11-19].
+If you have only a name, start with the finding aid for the court and filing period. Use its index or docket to obtain the case reference before requesting the papers [S2], [S20].
 
 **Privacy gate:** <!-- privacy-gate: request --> A case-file or index request names the parties,
 who may be living for a 20th-century case; answer the privacy gate in `SKILL.md` before you send
