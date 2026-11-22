@@ -93,7 +93,7 @@ When the civil birth date is later than a baptism attributed to the same child, 
 
 ## 4. Check where non-Catholic registers survive before choosing a route
 
-Look up the Church of Ireland parish in the RCB Library’s *List of Church of Ireland Parish Registers* [S24 @2026-11-19]. Read the colour key and the full parish entry, including separate lines for losses and surviving material as Johnson demonstrates [S2 @2026-11-19]. Record the date range and the disposition that applies to the register you need:
+Look up the Church of Ireland parish in the RCB Library’s *List of Church of Ireland Parish Registers* [S24]. Read the colour key and the full parish entry, including separate lines for losses and surviving material as Johnson demonstrates [S2]. Record the date range and the disposition that applies to the register you need:
 
 - held by the Representative Church Body (Dublin)
 - held by PRONI (Belfast)
