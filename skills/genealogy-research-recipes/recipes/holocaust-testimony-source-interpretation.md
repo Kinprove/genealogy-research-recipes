@@ -11,7 +11,7 @@ handoff: ["dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 83}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 84}
 ---
 
 # Recipe: Interpret a Holocaust name record through its underlying source
