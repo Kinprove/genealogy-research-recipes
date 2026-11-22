@@ -71,8 +71,20 @@ citations and certification rubrics are not reproduced. Checked 2026-10-07.
 
 - **S6:** Barbara J. Mathews and Darcie Hind Posz, [Meeting Lineage Society Requirements: Part 2, Standards](https://genealogical.com/2021/10/25/meeting-lineage-society-requirements-part-2-standards/) (2021-10-25). Guidance on older applications and evidence standards read 2026-11-20. The authors advise following the citations and checking the documents filed with an application before relying on the lineage.
 
+- **S7:** Craig R. Scott, Just Genealogy, [Genealogy Evidence Analysis Process Map - Part I - Sources - Information - Evidence - JG0140](https://www.youtube.com/watch?v=0_XKhsaAd1s) (2022-07-26). YouTube page title checked and supplied transcript excerpts read 2026-11-21. Scott recommends checking a copy of the map for three entries under each heading and cautions against applying information or evidence labels to sources. The video and full transcript were unavailable. S8 independently supports the figure locator, version check and terminology. The page placement in the standards manual was not verified.
+
+- **S8:** Elizabeth Shown Mills, [QuickLesson 17: The Evidence Analysis Process Map](https://www.evidenceexplained.com/content/quicklesson-17-evidence-analysis-process-map). Figure 1, the classification guidance and note 1 read 2026-11-21. Mills locates the map on the flyleaf of *Evidence Explained* and identifies figure 1 as the expanded map. Note 1 distinguishes the two-class version in the 2007–12 editions from the three-class revision. The lesson applies the three classifications separately and shows that an original record can contain secondhand information that directly addresses a question.
+
+- **S9:** Donald Lines Jacobus, read by Craig R. Scott, Just Genealogy, [Genealogy as Pastime and Profession - Chapter Ten - The Client](https://www.youtube.com/watch?v=4b9QrOGtK4s) (2024-03-26). YouTube page title checked and supplied transcript excerpts read 2026-11-21. In the supplied reading, a child’s birth before the marriage raised suspicion and the ensuing review uncovered mistaken parentage in the pedigree. The video, full transcript and underlying chapter text were unavailable. S10 provides independent support for comparing the dates without assuming a pre-marriage birth disproves a link.
+
+- **S10:** Albion M. Urdank, [Implicit Narratives: Textuality in English Historical Demography](https://escholarship.org/content/qt4nv3j63d/qt4nv3j63d.pdf) (2003). Family reconstruction method and the Hillier–Warner case on page 10 and note 41 read 2026-11-21. Urdank correlates parish records in family reconstitution forms. He places the couple’s first child’s birth in 1795 and cites Avening form 0620 for their 1797 marriage. The underlying parish entries were not independently inspected.
+
 ## Credits
 
+- Craig R. Scott (S7) — Teaching guidance paraphrased with attribution (adapted)
+- Elizabeth Shown Mills (S8) — Published method paraphrased with attribution (adapted)
+- Donald Lines Jacobus, read by Craig R. Scott (S9) — Teaching example paraphrased with attribution (adapted)
+- Albion M. Urdank (S10) — Published research paraphrased with attribution (adapted)
 - Donald Lines Jacobus, read by Craig R. Scott (S3) — Teaching examples paraphrased with attribution (adapted)
 - The National Archives (S4) — Probate search method paraphrased with attribution (adapted)
 - Elizabeth Shown Mills (S5) — Published example paraphrased with attribution (adapted)
