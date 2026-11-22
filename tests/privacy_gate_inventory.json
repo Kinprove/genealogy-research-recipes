@@ -4000,5 +4000,23 @@
   "kind": "third-party-tool",
   "action": "check for a **Photos** tab and open an already tagged image",
   "checkpoint": "With PhotoDater enabled, MyHeritage may process an undated photo on its servers"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "select **I approve** to proceed with account linkage",
+  "checkpoint": "Account linkage sends the kit holder's account details"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "choose whether to transfer the archived FamilyTreeDNA tree",
+  "checkpoint": "Account linkage sends the kit holder's account details"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "repeat the connection from each kit's FamilyTreeDNA account",
+  "checkpoint": "Account linkage sends the kit holder's account details"
  }
 ]

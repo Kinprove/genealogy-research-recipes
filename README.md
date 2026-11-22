@@ -222,7 +222,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [french-canadian-register-recovery](skills/genealogy-research-recipes/recipes/french-canadian-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [french-departmental-record-routing](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [french-succession-and-absence-tables](skills/genealogy-research-recipes/recipes/french-succession-and-absence-tables.md) | record catalogues and original images | — | — | — | — | — |
-| [ftdna-practical-dna-workflows](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md) | familytreedna | — | — | export, link, publish | — | required |
+| [ftdna-practical-dna-workflows](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md) | familytreedna, myheritage | — | — | export, link, publish, upload | — | required |
 | [ftm-research-workflows](skills/genealogy-research-recipes/recipes/ftm-research-workflows.md) | familytreemaker, ancestry, familysearch | — | — | link, publish, upload | contact | required |
 | [galicia-bukovina-habsburg-record-routing](skills/genealogy-research-recipes/recipes/galicia-bukovina-habsburg-record-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [gedcom-research-export](skills/genealogy-research-recipes/recipes/gedcom-research-export.md) | — | — | — | export, upload | — | required |
