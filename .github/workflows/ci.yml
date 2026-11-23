@@ -71,10 +71,25 @@ jobs:
     name: Channel distribution builds
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    outputs:
+      hermes-changed: ${{ steps.changes.outputs.hermes }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
+          fetch-depth: 2
+      - name: Detect Hermes integration changes
+        id: changes
+        env:
+          PUSH_BEFORE: ${{ github.event.before }}
+        run: |
+          base=HEAD^1
+          if [ "$GITHUB_EVENT_NAME" = push ]; then
+            git fetch --no-tags --depth=1 origin "$PUSH_BEFORE"
+            base=$PUSH_BEFORE
+          fi
+          changed=$(bash .github/scripts/hermes-integration-changed.sh "$base")
+          echo "hermes=$changed" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
           python-version: "3.12"
@@ -89,56 +104,9 @@ jobs:
           python -B scripts/build_dist.py --check-links "$RUNNER_TEMP"/openai-plugin/*.zip
 
   hermes:
-    name: ${{ matrix.check }}
-    strategy:
-      fail-fast: false
-      matrix:
-        check: [Hermes native plugin, Hermes catalog distribution]
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          persist-credentials: false
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          persist-credentials: false
-          repository: NousResearch/hermes-agent
-          # Freeze the runtime that exercises the public register_skill contract.
-          ref: 6cf3104d749b49151a22a5cdbe40dc729577b505
-          path: .hermes-runtime
-      - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
-        with:
-          version: "0.12.10"
-      - name: Prepare the pinned Hermes runtime
-        run: |
-          HERMES_RUNTIME="$RUNNER_TEMP/hermes-runtime"
-          printf 'HERMES_RUNTIME=%s\n' "$HERMES_RUNTIME" >> "$GITHUB_ENV"
-          mv .hermes-runtime "$HERMES_RUNTIME"
-          uv sync --project "$HERMES_RUNTIME" --frozen --no-dev --python 3.14
-      # `validate` passes with warnings, but a security-scan caution makes every
-      # Hermes catalog install and update ask the user to confirm, so any warning fails.
-      - name: Validate native plugin and real registration
-        if: matrix.check == 'Hermes native plugin'
-        run: |
-          set -o pipefail
-          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate . --json | tee "$RUNNER_TEMP/validate-root.json"
-          jq -e 'has("warnings") and (.warnings | length == 0)' "$RUNNER_TEMP/validate-root.json" > /dev/null || { echo "::error::hermes plugins validate reported warnings"; exit 1; }
-          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins doctor . --ci
-      - name: Validate the Hermes catalog distribution with the pinned runtime
-        if: matrix.check == 'Hermes catalog distribution'
-        run: |
-          set -o pipefail
-          uv run --project "$HERMES_RUNTIME" --frozen --no-dev python -B scripts/build_dist.py --target hermes-catalog --source HEAD --out "$RUNNER_TEMP/hermes-catalog"
-          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate "$RUNNER_TEMP/hermes-catalog" --json | tee "$RUNNER_TEMP/validate-dist.json"
-          jq -e 'has("warnings") and (.warnings | length == 0)' "$RUNNER_TEMP/validate-dist.json" > /dev/null || { echo "::error::hermes plugins validate reported warnings on the catalog distribution"; exit 1; }
-      - name: Exercise namespaced skill and recipe access in an isolated profile
-        if: matrix.check == 'Hermes native plugin'
-        env:
-          PYTHONDONTWRITEBYTECODE: "1"
-          PYTHONPATH: ${{ runner.temp }}/hermes-runtime
-          TMPDIR: ${{ runner.temp }}
-        run: uv run --project "$HERMES_RUNTIME" --frozen --no-dev python -B tests/check_hermes_runtime.py
+    needs: distributions
+    if: needs.distributions.outputs.hermes-changed == 'true'
+    uses: ./.github/workflows/hermes.yml
 
   openclaw:
     name: OpenClaw native plugin

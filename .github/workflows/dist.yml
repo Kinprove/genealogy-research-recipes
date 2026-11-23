@@ -11,7 +11,7 @@ on:
         type: string
 
 permissions:
-  contents: write
+  contents: read
 
 # Serialize releases and retries so each distribution branch keeps linear history.
 concurrency:
@@ -19,7 +19,15 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  hermes:
+    uses: ./.github/workflows/hermes.yml
+    with:
+      release-tag: ${{ github.event.release.tag_name || inputs.tag }}
+
   publish:
+    needs: hermes
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -32,6 +40,7 @@ jobs:
           python-version: "3.12"
       - name: Resolve the release tag and build from its commit
         env:
+          VALIDATED_SHA: ${{ needs.hermes.outputs.source-sha }}
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAG: ${{ github.event.release.tag_name || inputs.tag }}
         run: |
@@ -40,6 +49,7 @@ jobs:
           # Refuse a tag without a published GitHub release before any branch changes.
           [ "$(gh release view "$RELEASE_TAG" --json isDraft --jq .isDraft)" = "false" ]
           SOURCE_SHA=$(git rev-parse --verify "refs/tags/$RELEASE_TAG^{commit}")
+          test "$SOURCE_SHA" = "$VALIDATED_SHA"
           printf 'SOURCE_SHA=%s\n' "$SOURCE_SHA" >> "$GITHUB_ENV"
           for target in claude-directory hermes-catalog openai-plugin; do
             python -B scripts/build_dist.py --target "$target" --source "$SOURCE_SHA" --out "$RUNNER_TEMP/$target"
@@ -52,6 +62,7 @@ jobs:
           printf 'VERSION=%s\n' "$VERSION" >> "$GITHUB_ENV"
       - name: Append distribution commits and upload the OpenAI ZIP
         env:
+          VALIDATED_CATALOG_TREE: ${{ needs.hermes.outputs.catalog-tree }}
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAG: ${{ github.event.release.tag_name || inputs.tag }}
           GIT_AUTHOR_NAME: github-actions[bot]
@@ -65,12 +76,16 @@ jobs:
           git_remote() {
             git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic $AUTH" "$@"
           }
-          for target in claude-directory hermes-catalog; do
+          # Compare the exact validated catalog before the first remote write.
+          for target in hermes-catalog claude-directory; do
             branch="dist/$target"
             export GIT_INDEX_FILE="$RUNNER_TEMP/$target.index"
             git read-tree --empty
             git --work-tree="$RUNNER_TEMP/$target" add --all --force
             tree=$(git write-tree)
+            if [ "$target" = hermes-catalog ]; then
+              test "$tree" = "$VALIDATED_CATALOG_TREE"
+            fi
             remote_head=$(git_remote ls-remote --heads origin "refs/heads/$branch")
             message="Build $target from $SOURCE_SHA ($VERSION)"
             if [ -n "$remote_head" ]; then

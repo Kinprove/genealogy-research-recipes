@@ -1,0 +1,79 @@
+name: Hermes integration
+
+on:
+  workflow_call:
+    inputs:
+      release-tag:
+        description: Published release tag to verify (defaults to the CI checkout)
+        required: false
+        type: string
+    outputs:
+      source-sha:
+        value: ${{ jobs.verify.outputs.source-sha }}
+      catalog-tree:
+        value: ${{ jobs.verify.outputs.catalog-tree }}
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Hermes native plugin and catalog
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      source-sha: ${{ steps.build.outputs.source-sha }}
+      catalog-tree: ${{ steps.build.outputs.catalog-tree }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Select source and build the Hermes distribution
+        id: build
+        env:
+          RELEASE_TAG: ${{ inputs.release-tag }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ref=HEAD
+          if [ -n "$RELEASE_TAG" ]; then
+            ref="refs/tags/$RELEASE_TAG"
+            git check-ref-format "$ref"
+            test "$(gh release view "$RELEASE_TAG" --json isDraft --jq .isDraft)" = false
+          fi
+          sha=$(git rev-parse --verify "$ref^{commit}")
+          git worktree add --detach "$RUNNER_TEMP/hermes-source" "$sha"
+          python3 -B scripts/build_dist.py --target hermes-catalog --source "$sha" --out "$RUNNER_TEMP/hermes-catalog"
+          export GIT_INDEX_FILE="$RUNNER_TEMP/hermes.index"
+          git read-tree --empty
+          git --work-tree="$RUNNER_TEMP/hermes-catalog" add --all --force
+          tree=$(git write-tree)
+          echo "source-sha=$sha" >> "$GITHUB_OUTPUT"
+          echo "catalog-tree=$tree" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          repository: NousResearch/hermes-agent
+          ref: 6cf3104d749b49151a22a5cdbe40dc729577b505
+          path: .hermes-runtime
+      - uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          version: "0.12.10"
+      - name: Prepare the pinned Hermes runtime
+        run: |
+          mv .hermes-runtime "$RUNNER_TEMP/hermes-runtime"
+          uv sync --project "$RUNNER_TEMP/hermes-runtime" --frozen --no-dev --python 3.14
+      - name: Validate source and catalog and exercise native registration and skill reads
+        env:
+          HERMES_PLUGIN_ROOT: ${{ runner.temp }}/hermes-source
+          PYTHONDONTWRITEBYTECODE: "1"
+          TMPDIR: ${{ runner.temp }}
+        run: |
+          set -o pipefail
+          runtime="$RUNNER_TEMP/hermes-runtime"
+          for target in "$HERMES_PLUGIN_ROOT" "$RUNNER_TEMP/hermes-catalog"; do
+            uv run --project "$runtime" --frozen --no-dev hermes plugins validate "$target" --json | tee "$RUNNER_TEMP/validate.json"
+            jq -e 'has("warnings") and (.warnings | type == "array" and length == 0)' "$RUNNER_TEMP/validate.json" > /dev/null || { echo "::error::Hermes validation reported warnings on $target"; exit 1; }
+          done
+          uv run --project "$runtime" --frozen --no-dev hermes plugins doctor "$HERMES_PLUGIN_ROOT" --ci
+          PYTHONPATH="$runtime" uv run --project "$runtime" --frozen --no-dev python -B tests/check_hermes_runtime.py

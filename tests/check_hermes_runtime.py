@@ -13,7 +13,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(os.environ.get("HERMES_PLUGIN_ROOT", Path(__file__).resolve().parents[1]))
 PLUGIN = "genealogy-research-recipes"
 QUALIFIED_SKILL = f"{PLUGIN}:{PLUGIN}"
 
