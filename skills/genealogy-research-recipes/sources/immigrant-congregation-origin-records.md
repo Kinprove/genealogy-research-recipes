@@ -35,6 +35,14 @@
 
 - **S19:** Swenson Swedish American Research Center, [Genealogy Research Request Form](https://www.swensoncenter.org/_files/ugd/89a2c9_1a8c2c8d536140d99573dd6387ca9d9c.pdf), August 2021 revision. Both pages of the linked institutional form read 2026-11-21. The form requires the research subject’s name, American settlement, a specific research question and the applicant’s contact details. It has a field for the U.S. congregation and lists church records among the sources an applicant can specify.
 
+- **S20:** David A. Fryxell, Family Tree Magazine, [5 Key Records for Finding Swedish Ancestors](https://familytreemagazine.com/heritage/swedish/swedish-genealogy-records/), last updated 2026-05-04. Community article read 2026-11-22. Fryxell suggests checking U.S. church records before passenger records, notes that church records can state an arrival year, and points readers to Ancestry for Lutheran records. Use S21 and S23 to assess the fields in individual entries.
+
+- **S21:** Swenson Swedish American Research Center, [Church Records](https://www.swensoncenter.org/churchrecords). Institutional guide read 2026-11-22. Lists birth date and place, year of arrival in America and date received into church membership as details to look for in the church books. Links to Ancestry for selected digitised church records, including Lutheran records.
+
+- **S22:** Buffalo & Erie County Public Library, Grosvenor Room, [Church Records in Microfilm and Print, p. 4](https://www.buffalolib.org/sites/default/files/special-collections/guides/ChurchRecords.pdf#page=4), January 2025 revision. Institutional finding aid entry for Augustana Lutheran Church read 2026-11-22. The entry identifies Ancestry’s ELCA Swedish American Church Records collection as 61584. The direct Ancestry listing returned HTTP 403. Verify the available congregation and years in the collection.
+
+- **S23:** Ancestry, [Finding Swedish Records](https://help.ancestry.com/hc/en-us/articles/53933331801747-Finding-Swedish-Records). Ancestry help page read 2026-11-22. Recommends checking U.S. church records for a Swedish birth parish and using an approximate arrival year to narrow passenger-list searches.
+
 ## Credits
 
 - Archdiocese of New York, Concordia Historical Institute and Evangelical Lutheran Church in America (S8–S10) — Parish and archive guidance paraphrased with attribution (adapted)
@@ -44,3 +52,4 @@
 - Lisa A. Alzo and Julie Roberts Szczepankiewicz (S11–S12) — Research guidance paraphrased with attribution (adapted)
 - MyHeritage Blog, Christine Human Hughes and the New York City Landmarks Preservation Commission (S13–S15) — Parish leads and register details paraphrased with attribution (adapted)
 - Editors of Family Tree Magazine, Augustana College and the Swenson Swedish American Research Center (S16–S19) — All rights reserved by the respective rights holders. Research guidance paraphrased with attribution (adapted)
+- David A. Fryxell, the Swenson Swedish American Research Center, Buffalo & Erie County Public Library and Ancestry (S20–S23) — All rights reserved by the respective rights holders. Collection guidance and register details paraphrased with attribution (adapted)
