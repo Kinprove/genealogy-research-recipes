@@ -4438,5 +4438,53 @@
   "kind": "request",
   "action": "request the arrival record from Immigration, Refugees and Citizenship Canada",
   "checkpoint": "IRCC receives the immigrant's identifying details, arrival information and any required consent or eligibility documents"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "request",
+  "action": "Request an official Québec civil-status document",
+  "checkpoint": "A request to a provincial archive or registry for"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the Montréal synagogue index",
+  "checkpoint": "Submitting a MyHeritage search sends"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Use Prince Edward Island's event-specific indexes",
+  "checkpoint": "Submitting a MyHeritage search sends"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Separate British Columbia births from baptisms",
+  "checkpoint": "Submitting a MyHeritage search sends"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Carry British Columbia marriage and death locators",
+  "checkpoint": "Submitting a MyHeritage search sends"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Verify Alberta marriage index hits",
+  "checkpoint": "Submitting a MyHeritage search sends"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Use enlistment details to narrow a First World War name search",
+  "checkpoint": "A personnel-index query sends"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Narrow a Home Child lookup by birth date or destination",
+  "checkpoint": "A Home Child index query sends"
  }
 ]
