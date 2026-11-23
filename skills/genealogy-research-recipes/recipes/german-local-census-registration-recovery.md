@@ -77,6 +77,12 @@ The "census" heading is not enough, for two reasons:
 
 Check older finding aids and filmed material when staff report no census. In one search a loose sheet led the archive director to a microfiche cabinet holding the records [S1]. Record the heading and format checked, including any unavailable guide.
 
+**Hamburg alien registrations (1868–1889).** Include arrivals from other German states when tracing people who came to Hamburg to live or work. Here *Fremde* (“alien”) refers to people who lacked Hamburg citizenship [S13] [S16].
+
+Search MyHeritage’s *Germany, Hamburg Alien Registrations, 1868-1889* by the registrant’s name [S14 @2026-11-22]. Record the indexed birth date and place, the registration date and place, and the occupation when shown [S13 @2026-11-22] [S14 @2026-11-22]. Use each hit as a lead to the protocol entry.
+
+Search the Staatsarchiv Hamburg’s alphabetical registers for the *Fremdenmeldeprotokolle* in **332-8 Meldewesen**, even if MyHeritage has no match [S15 @2026-11-22]. Use A 5 and the surname’s letter range for men, and A 6 for women. Copy the number pair after the birthplace. It usually gives the volume first and the page second. Check the reverse order if the first reading fails. For men’s protocols, record the separate microfilm order reference from the archive catalogue [S15 @2026-11-22]. Use the volume and page to check the protocol entry.
+
 ## Write locally, in order
 
 1. **Privacy gate:** <!-- privacy-gate: request --> Registration entries can name people who may still be living; answer the privacy gate in `SKILL.md` before writing for them. **Town or city first.** Find the official municipal website (the presenter's pattern is the town name under .de). Use the municipal site, not Wikipedia. Write to the Stadtarchiv. For registration entries, write to the Einwohnermeldeamt or the Stadtarchiv. [S3]
