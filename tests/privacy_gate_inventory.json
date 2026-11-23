@@ -5296,5 +5296,11 @@
   "kind": "third-party-tool",
   "action": "Repeat the search by service number",
   "checkpoint": "MyHeritage or Findmypast receives the soldier’s service number in the follow-up search."
+ },
+ {
+  "recipe": "buenos-aires-passenger-arrival-recovery.md",
+  "kind": "request",
+  "action": "Submit a migration record request",
+  "checkpoint": "passenger and requester details and proofs"
  }
 ]
