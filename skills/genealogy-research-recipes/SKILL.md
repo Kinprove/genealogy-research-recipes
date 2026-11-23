@@ -507,6 +507,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/catholic-sacramental-cross-notations.md` — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish.
 - `recipes/immigrant-congregation-origin-records.md` — Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address.
 - `recipes/intercountry-adoption-record-discrepancies.md` — Compare birth and placement records, adoption papers and attributed family accounts when an intercountry adoption may have been irregular.
+- `recipes/catholic-vocation-and-clergy-records.md` — Choose the sources for a named Catholic priest, missionary or religious in Spanish-language archives and separate ordination, assignments, licences and profession.
 
 ### Burials, directories, land and probate
 
