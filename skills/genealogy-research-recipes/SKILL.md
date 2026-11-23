@@ -310,6 +310,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/rootstech-on-demand-session-recovery.md` — Find a relevant RootsTech session across location, language and speaker filters and check for a recording or downloadable handout.
 - `recipes/rootsweb-broken-link-recovery.md` — Recover a vanished RootsWeb publication, society page or tree lead through archived URLs and successor hosts.
 - `recipes/elephind-historical-newspaper-search.md` — Choose Elephind’s keyword or semantic search, check the indexed newspaper title and verify the article at its host.
+- `recipes/filae-historical-record-search.md` — Choose the Filae collection that covers a French event, narrow by relatives and carry the result to the underlying record.
 
 ### Books, periodicals and manuscripts
 

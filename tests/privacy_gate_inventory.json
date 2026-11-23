@@ -5728,5 +5728,11 @@
   "kind": "publish",
   "action": "choose the visibility approved for the story",
   "checkpoint": "A story’s title, text and images can name or depict living people"
+ },
+ {
+  "recipe": "filae-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Run a Filae person search",
+  "checkpoint": "Target and relative names and any date or place filters go to Filae"
  }
 ]

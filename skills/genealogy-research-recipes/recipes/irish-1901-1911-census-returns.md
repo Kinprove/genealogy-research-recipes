@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "irish-civil-registration-jurisdiction-reco
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 122}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 123}
 ---
 
 # Search, retrieve and read the Irish 1901, 1911 and 1926 census returns
