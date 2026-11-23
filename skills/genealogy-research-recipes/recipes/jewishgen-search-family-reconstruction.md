@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment", "russi
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["jewishgen"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 84}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 85}
 ---
 
 # Recipe: JewishGen searches that recover families missed by a name-and-town query
