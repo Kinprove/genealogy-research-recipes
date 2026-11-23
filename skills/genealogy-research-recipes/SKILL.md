@@ -416,6 +416,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/jersey-occupation-registration-card-recovery.md` — Trace a Jersey resident or child through German Occupation registration cards and household entries.
 - `recipes/british-army-wwii-casualty-lists.md` — Trace a British Army casualty through successive wartime lists and reconcile changes in status by service number.
 - `recipes/durham-home-guard-record-recovery.md` — Trace a County Durham Home Guard candidate from the name index to the original WO 409 enrolment form and identify the unit.
+- `recipes/england-wales-historical-divorce-recovery.md` — Trace an England or Wales divorce from an index hit to the court papers and distinguish allegations, petitions and decrees.
 
 ### Western and Northern Europe
 
