@@ -345,6 +345,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/czech-newspaper-criminal-case-recovery.md` — Recover Czech press coverage of an incident, trial, verdict and prison transfer, then carry the reported dates and court into the archival search.
 - `recipes/czech-parish-death-entry-reading.md` — Separate death, discovery, burial, rites and informants in Czech parish entries and follow a reported cause to its supporting record.
 - `recipes/estonian-byname-and-surname-recovery.md` — Use Estonian revision lists, farm moves and surname assignments to distinguish a place-bound byname from a name a family carried.
+- `recipes/estonian-surname-and-household-recovery.md` — Connect an Estonian surname to its assignment record and trace the earlier household through manor revisions, parish books and farm bynames.
 
 ### Russian Empire and Soviet Union
 

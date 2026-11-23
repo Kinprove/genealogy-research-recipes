@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-23"
 checked_basis: "checked on 2026-10-23"
 capabilities: {"browse": ["record catalogues and original images", "MyHeritage district indexes"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 138}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 139}
 ---
 
 # Recover a Portuguese ancestor in the parish and civil registers of mainland Portugal, the Azores and Madeira
