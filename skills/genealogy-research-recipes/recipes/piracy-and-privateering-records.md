@@ -11,7 +11,7 @@ handoff: ["us-federal-court-case-file-recovery", "evidence-proof-judgment", "pub
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 125}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 126}
 ---
 
 # Trace a sailor or vessel in piracy and prize records

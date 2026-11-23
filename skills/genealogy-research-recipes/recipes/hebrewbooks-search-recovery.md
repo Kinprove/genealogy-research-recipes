@@ -11,7 +11,7 @@ handoff: ["rabbinic-literature-person-search"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["hebrewbooks"], "local_script": ["curl for a public page PDF"], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 94}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 95}
 ---
 
 # Recipe: Recovering HebrewBooks search misses
