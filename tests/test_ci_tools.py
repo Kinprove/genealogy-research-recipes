@@ -36,9 +36,9 @@ class CiToolTests(unittest.TestCase):
                      for path in sorted((ROOT / ".github/workflows").glob("*.y*ml"))}
         for text in (*workflows.values(), maintainers):
             self.assertNotRegex(text, r"\bnpx\b|\bnpm (?:install|i) -g\b")
-        # The distribution workflow needs only Git and standard-library Python.
+        # Only workflows that exercise Node tools need the locked npm install.
         for name, text in workflows.items():
-            if name != "dist.yml":
+            if name not in ("dist.yml", "hermes.yml"):
                 self.assertIn("npm ci --prefix ci-tools --ignore-scripts", text)
         self.assertIn("npm ci --prefix ci-tools --ignore-scripts", maintainers)
         # Check every install, so a later step cannot silently reenable scripts.
@@ -56,6 +56,39 @@ class CiToolTests(unittest.TestCase):
         self.assertIn("ci-tools/node_modules/.bin/markdownlint-cli2", workflow)
         self.assertIn('ci-tools/node_modules/.bin" >> "$GITHUB_PATH"', workflow)
         self.assertIn("ci-tools/node_modules/.bin/clawhub package publish", maintainers)
+
+    def test_hermes_routing_uses_the_whole_git_range_including_renames(self):
+        script = ROOT / ".github/scripts/hermes-integration-changed.sh"
+        with tempfile.TemporaryDirectory() as temporary:
+            repo = Path(temporary)
+
+            def git(*args):
+                return subprocess.run(["git", *args], cwd=repo, capture_output=True, check=True, text=True)
+
+            def changed(base):
+                return subprocess.run(["bash", script, base], cwd=repo, capture_output=True, text=True)
+
+            git("init", "--quiet")
+            git("config", "user.name", "CI")
+            git("config", "user.email", "ci@example.invalid")
+            git("commit", "--allow-empty", "-qm", "base")
+            (repo / "plugin.yaml").write_text("name: example\n")
+            git("add", ".")
+            git("commit", "-qm", "change manifest")
+            for path in ("README.md", "PROVENANCE.md", "provenance/example.yml",
+                         "skills/genealogy-research-recipes/SKILL.md",
+                         "skills/genealogy-research-recipes/recipes/example.md"):
+                file = repo / path
+                file.parent.mkdir(parents=True, exist_ok=True)
+                file.write_text("Recipe change\n")
+            git("add", ".")
+            git("commit", "-qm", "recipe and generated indexes")
+            self.assertEqual(changed("HEAD^1").stdout.strip(), "false")
+            self.assertEqual(changed("HEAD~2").stdout.strip(), "true")
+            git("mv", "plugin.yaml", "old-manifest.txt")
+            git("commit", "-qm", "rename adapter manifest")
+            self.assertEqual(changed("HEAD^1").stdout.strip(), "true")
+            self.assertNotEqual(changed("missing-base").returncode, 0)
 
     def test_model_workflow_launcher_uses_locked_wrapper_and_preserves_arguments(self):
         workflow = (ROOT / ".github/workflows/behavioural-evals.yml").read_text(encoding="utf-8")

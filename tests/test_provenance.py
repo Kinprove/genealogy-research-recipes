@@ -5,6 +5,7 @@ import datetime as dt
 import importlib.util
 import io
 import json
+import os
 import shutil
 import subprocess
 import tempfile
@@ -14,9 +15,10 @@ from pathlib import Path
 from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
-PARSER_AVAILABLE = bool(shutil.which('node')) and all(
+# CI supplies a legacy base and must fail if parser dependencies are missing.
+RUN_PARSER_TESTS = 'PROVENANCE_LEGACY_BASE' in os.environ or (shutil.which('node') and all(
     (ROOT / 'tests/markdown-links/node_modules' / name / 'package.json').is_file()
-    for name in ('markdown-it', 'parse5'))
+    for name in ('markdown-it', 'parse5')))
 SPEC = importlib.util.spec_from_file_location('provenance', ROOT / 'scripts/provenance.py')
 p = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(p)
@@ -48,7 +50,7 @@ class ParserSetupTests(unittest.TestCase):
                 p.prepare_visibility([text])
 
 
-@unittest.skipUnless(PARSER_AVAILABLE, 'install the pinned Markdown parser before full provenance tests')
+@unittest.skipUnless(RUN_PARSER_TESTS, 'install the pinned Markdown parser before full provenance tests')
 class ProvenanceTests(unittest.TestCase):
     def check(self, ledger=None, source=SOURCE, recipe=RECIPE, debt=None, today=TODAY):
         ledger = ledger if ledger is not None else reviewed()
@@ -492,11 +494,18 @@ class LegacyBaseAndExpiryTests(unittest.TestCase):
             self.assertNotIn(absent, warnings[0])
 
 
-@unittest.skipUnless(PARSER_AVAILABLE, 'install the pinned Markdown parser before full provenance tests')
+@unittest.skipUnless(RUN_PARSER_TESTS, 'install the pinned Markdown parser before full provenance tests')
 class CorpusProvenanceTests(unittest.TestCase):
     def test_entire_corpus_and_generated_report_match(self):
-        corpus = p.run(ROOT, 'check', dt.datetime.now(dt.timezone.utc).date())
-        self.assertGreater(len(corpus), 100)
+        args = ['--check']
+        if 'PROVENANCE_LEGACY_BASE' in os.environ:
+            args.extend(['--legacy-base', os.environ['PROVENANCE_LEGACY_BASE']])
+        self.assertGreater(len(list((ROOT / p.LEDGERS).glob('*.yml'))), 100)
+        with patch.dict(p.VISIBLE_CACHE, clear=True), patch.object(subprocess, 'run', wraps=subprocess.run) as run:
+            self.assertEqual(p.main(args), 0)
+        parser = str(ROOT / 'scripts/provenance_visible.mjs')
+        renders = [call for call in run.call_args_list if parser in call.args[0]]
+        self.assertLessEqual(len(renders), 2, 'batch prose/anchors, then their visible citation fragments')
 
     def test_regeneration_cannot_enroll_new_debt_and_is_transactional(self):
         with tempfile.TemporaryDirectory(prefix='grr-provenance-') as tmp:

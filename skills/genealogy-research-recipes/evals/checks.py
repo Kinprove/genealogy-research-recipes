@@ -4,6 +4,7 @@ import datetime as dt
 import json
 import re
 import sys
+from bisect import bisect_right
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -68,24 +69,32 @@ def required_lines(skill, recipe, sections):
 def guardrails(skill=SKILL):
     result = {}
     for path in sorted((Path(skill) / "recipes").glob("*.md")):
-        metadata, body = header(path)
+        text = path.read_text(encoding="utf-8")
+        if not text.startswith("---\n"):
+            continue
+        metadata, body = parse_recipe(text)
         if metadata and metadata["id"] != path.stem:
             raise ValueError(f"{path.name}: header ID differs from filename")
+
+        # Map normalized offsets back to body lines. Blank lines share the
+        # next word's offset; trailing blank lines all start at the end.
+        flat = normalized(body)
+        header_lines = text.count("\n", 0, len(text) - len(body))
+        starts = []
+        offset = 0
+        for raw_line in body.splitlines():
+            starts.append(min(offset, len(flat)))
+            words = normalized(raw_line)
+            if words:
+                offset += len(words) + 1
         for rule in metadata.get("guardrails", []):
             key = rule["id"]
             if key in result:
                 raise ValueError(f"Duplicate guardrail ID: {key}")
             quote = rule["text"]
-            quoted = bool(quote) and normalized(quote) in normalized(body)
-            # Locate the quoted sentence in the body, never in its header copy.
-            start = path.read_text(encoding="utf-8").index(body)
-            body_lines = body.splitlines(keepends=True)
-            line = None
-            for index in range(len(body_lines)) if quoted else []:
-                if normalized(quote) in normalized("".join(body_lines[index:])):
-                    line = path.read_text(encoding="utf-8")[:start].count("\n") + index + 1
-                else:
-                    break
+            # The old suffix search selected the last occurrence of a quote.
+            at = flat.rfind(normalized(quote)) if quote else -1
+            line = header_lines + bisect_right(starts, at) if at >= 0 and starts else None
             result[key] = {"recipe": path.stem, "quote": quote, "line": line}
     return result
 
