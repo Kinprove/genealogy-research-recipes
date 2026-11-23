@@ -329,6 +329,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-historical-newspaper-issue-recovery.md` — Use publication language, title runs, topic indexes and dated follow-ups to recover a newspaper item about a historical event in Finland.
 - `recipes/finnish-newspaper-byline-attribution.md` — Identify a writer behind initials or a pen name by linking Finnish local letters, pseudonym indexes and explicit period attributions.
 - `recipes/finnish-newspaper-correspondent-recovery.md` — Trace Finnish local letters across pen names and titles using Translocalis, issue images and independent biographical evidence.
+- `recipes/finnish-translocalis-local-letter-recovery.md` — Find local letters by parish or byline in Translocalis and test the collection's coverage and author identifications against the original issues.
 
 ### Places and maps
 

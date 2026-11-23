@@ -11,7 +11,7 @@ handoff: ["holocaust-testimony-source-interpretation", "jewish-archival-list-tri
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 108}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 109}
 ---
 
 # Follow a Holocaust-era index hit to its register or list
