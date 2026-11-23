@@ -5266,5 +5266,11 @@
   "kind": "request",
   "action": "Submit a Red Cross detention inquiry",
   "checkpoint": "detainee and requester details sent to the International Committee of the Red Cross"
+ },
+ {
+  "recipe": "austrian-confessional-register-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the MyHeritage Vienna indexes by event",
+  "checkpoint": "Before sending names, dates or places of a subject or relative"
  }
 ]
