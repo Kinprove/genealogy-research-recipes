@@ -22,6 +22,7 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 
 - Record each index's depth and coverage before searching
 - Build the query set from place, jurisdiction and event
+- Search the Finnish Historical Bibliography
 - Carry every hit to the article
 - When a Russian periodical has no index: full text or the paper run
 - Report bounded results
@@ -47,6 +48,14 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 
 - **Search Jacobus for early U.S. genealogical periodicals.** Look up Donald Lines Jacobus's *Index to Genealogical Periodicals* in library catalogues under the original volumes (1932, 1948 and 1953) or the Genealogical Publishing Company reprint from Baltimore (chapter reading, partial read) [S48]. The 1978 reprint combines all three volumes in one [S49]. Use the periodical's publication year to choose a starting volume: volume 1 through 1931, volume 2 for 1931–1946, and volume 3 for 1947–1952. Check both volumes 1 and 2 for 1931. Search by surname, personal name or locality and check which issues of the periodical the volume indexed before interpreting a miss. Continue with PERSI or the journal's own index for years or titles outside Jacobus's coverage. [S49]
 
+- **Choose the right index for the Register.** For the *New England Historical and Genealogical Register*, which began in 1847 [S56], use the *Index of Persons* for volumes 1–50 [S58] or Jane Fletcher Fiske’s *Index of Persons* for volumes 51–148 [S59]. Use Margaret Wellington Parsons’s 1959 abridged index to volumes 51–112 for genealogies, biographies, places and topics. Check separate volume indexes for individual names when the consolidated person index is unavailable or the target volume lies outside its range. Jacobus describes the Parsons and volume-index routes in the chapter reading (partial read of the transcript). [S57], [S60] The Register’s start date also appears in the periodical-history talk (partial read of the transcript). [S53]
+
+- **Check annual indexes in *The New York Genealogical and Biographical Record*.** Include the journal when looking for record abstracts about a New England as well as a New York family (partial read of the chapter transcript). [S57] Search the annual indexes by surname in volumes 1–25 and by individual name from volume 26. For witnesses in church-record transcripts, supplement Worden’s cross-volume index with the publisher’s full-text search. [S61]
+
+- **Choose a New Jersey journal index by what you know.** For records published in *The Genealogical Magazine of New Jersey* (begun in 1925, partial read of the chapter transcript) [S57 @2026-11-22], use the society’s **Digital GMNJ Name, Subject, Author and Place Indexes** and check the volume range of the index you choose. Carry the resulting volume and page to the journal. [S62 @2026-11-22]
+
+- **Search *The Virginia Genealogist* by its full-run index.** For Virginia records in the journal Jacobus identifies (partial read of the chapter transcript) [S57], look up John Frederick Dorman’s *Index to the Virginia Genealogist*, volumes 1–50, covering 1957–2006. Use the smaller volumes 1–20 index only for 1957–1976. [S63]
+
 ## Build the query set from place, jurisdiction and event
 
 - **Write the locality list first.** Before searching, list the ancestral place's jurisdictions: civil, parish, court or district, and region. Use the list for locality searches and when scanning tables of contents. [S12]
@@ -67,6 +76,8 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 
 - **Browse PERSI's subjects within the locality.** For an English locality, open **British Isles**, choose England under **Country**, and enter the place in **County or City/Town** [S38 @2026-11-18], [S40 @2026-11-18]. For a U.S. county, open **United States**, choose the state, then choose the county [S38 @2026-11-18], [S41 @2026-11-18]. Open each relevant subject in the results. A county search starts from the articles indexed to that county, so follow it with a title-keyword pass for a distinctive town name. [S39 @2026-11-18]
 
+- **Use PERSI’s Other Countries route for Eastern European localities.** Start with **Other Countries** on the ACPL search menu, then work through the localities and subjects relevant to the research question. [S50 @2026-11-22], [S51 @2026-11-22]
+
 - **Add PERSI's record types to place searches.** ACPL's PERSI handout lists the subject categories and record types PERSI uses: biographies, cemeteries, census, church, court records, deeds, directories, history, institutions, land, maps, military, naturalization, obituaries, passenger lists, school records, tax lists, vital records, voter lists, wills and other. Pair the place with each type that could record the event. Before narrowing, read the wording of the titles already in the results and take your next keywords from it, as the handout advises. [S31 @2026-11-16]
 
 - **Use PERSI's Research Techniques to find how-to articles.** Start with the broad record type and narrow to the method or topic you need. Keep this search separate from a locality search for published records. [S38 @2026-11-18], [S39 @2026-11-18]
@@ -82,6 +93,20 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
   **Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting the download form sends the user's email address to Family Tree Magazine. Answer the [privacy gate](../SKILL.md#privacy-gate) in writing first.
 
   Submit the magazine's index download form only after clearing the gate. If the form route is unavailable, look for a public PDF for the publication year or browse the magazine's issue contents.
+
+- **Check a yearbook bibliography for a named subject missing from an article title.** Read its annotations or subject entries alongside the titles and use the yearbook title, volume, year and pages to retrieve the article. For example, the Finnish Literature Society bibliography names Paul Widemark as the subject of Senni Timonen’s *Unohtunut Karjalan-kävijä* in *Kalevalaseuran vuosikirja* 57 (1977), pp. 195–215. [S70], [S71]
+
+## Search the Finnish Historical Bibliography
+
+- **Match the Finnish Historical Bibliography to the publication year.** Search its ARTO references in Finna. Melinda documents broad coverage from 1960 to about 2012, thinner coverage through 2018, about half of the 1950s, and scattered older entries. For publication years through 1990, also check the printed bibliography for the year in question, using [Doria’s volume listings](https://www.doria.fi/handle/10024/136376/browse?etal=-1&order=ASC&rpp=20&sort_by=1&starts_with=P&type=title). The early runs include 1544–1900, 1901–1925 and 1926–1950. Keep an ARTO miss within the limits of that coverage. [S72 @2026-11-22], [S73 @2026-11-22], [S77 @2026-11-22]
+
+- **Use the specialist bibliographies for press and literary leads.** For Finnish press titles, look up Akseli Routavaara’s *Suomen sanomalehdistö 1771–1932* and Väinö Kaarna and Kaarina Winter’s *Suomen sanomalehdistön bibliografia 1771–1963*. Choose by publication year and carry any title and issue clues to the newspaper run. For literary studies from 1901–1925, look up Sulo Haltsonen’s *Luettelo suomalaisista kirjallisuudentutkimuksista 1901–1925* in *Kirjallisuudentutkijain seuran vuosikirja*, volume 11 (1954). [S72], [S74], [S75], [S76]
+
+- **Start a Finna search from the record’s classification.** Open a relevant ARTO citation and follow its **Luokitus** classification link. For medieval history, retain the complete displayed `"z HIS:7"` when testing the classification search. Compare it with the shorter `"HIS:7"` keyword query in your own Finna session and inspect the classification on candidate hits before accepting them. [S77 @2026-11-22], [S78 @2026-11-22], [S79 @2026-11-22]
+
+- **Check classifications against the edition for the work’s publication year.** Compare the printed schedules for 1981–85 and 1986–90 when a subject code disagrees with the article. Search the subject in words as well as by code. A Kanteletar article carries `HIS:17.2` in ARTO, even though the later schedule uses 17.2 for newspapers, periodicals and calendars. [S73 @2026-11-22], [S78 @2026-11-22], [S80 @2026-11-22], [S81 @2026-11-22]
+
+- **Search medieval-history codes across publication years.** Check the medieval-history class in the corresponding print volume and run the ARTO `HIS:7` search across the older years as well. The 1980 article *Ålands kyrka intill föreningen med Åbo stift* carries ARTO code `HIS:7.3`, so a search restricted to publications from 1986 onward can miss it. [S78 @2026-11-22], [S82 @2026-11-22]
 
 ## Carry every hit to the article
 
@@ -136,6 +161,16 @@ When the citation or inspected article suggests continuation in another issue, i
 additional parts in the copy request. If the extent is unclear, ask the holder whether it
 continues and which parts the request covers. Record each supplied or still-outstanding part;
 one indexed citation or one received copy does not establish that every instalment was obtained. [S17]
+
+- **Use the journal title in effect for the issue.** For *The American Genealogist*, search *New Haven Genealogical Magazine* for volumes 1–8 beginning in 1922, *The American Genealogist and New Haven Genealogical Magazine* from July 1932, and *The American Genealogist* from 1937. For the early New Haven family sketches, also search *Families of Ancient New Haven*, the reprint title. [S54], [S55] Jacobus describes the early project and a later presenter mentions the title change (partial read of both transcripts). [S52], [S53]
+
+- **Check the earlier title for Pennsylvania society articles.** In catalogues, search under the Genealogical Society of Pennsylvania’s *Publications* for volumes before 16 and *The Pennsylvania Genealogical Magazine* from volume 16 (1948). [S64] Jacobus recommends the society journal for Pennsylvania research (partial read of the chapter transcript). [S57]
+
+- **Check the series’ own index after an Alvin miss.** For *Kungliga Vetenskaps Academiens Handlingar*, use the [academy’s archive links](https://www.vetenskapshistoria.se/samlingar/vara-arkiv/) to open the dedicated 1739–1854 search. Search by author or title words, or browse by year and page. [S66 @2026-11-22], [S67 @2026-11-22] For later volumes, match the series, volume and part in the [HathiTrust volume list](https://catalog.hathitrust.org/Record/008891274). Check its **Previous Title** link for earlier holdings. The two routes cover different runs, so an Alvin miss leaves digitization unresolved. [S65 @2026-11-22], [S68 @2026-11-22]
+
+- **Privacy gate:** <!-- privacy-gate: contact --> An article-copy request sends the user's name, contact details and article citation to the interlibrary borrowing service at Kansalliskirjasto in Finland. Answer the [privacy gate](../SKILL.md#privacy-gate) before sending. Keep the request limited to the citation and required requester details.
+
+- **Use Finnish interlibrary borrowing for an overseas yearbook article.** If Finna and online searches turn up no usable copy and you are a private customer of the National Library of Finland, send an article-copy request to the National Library of Finland using the full citation. Check for an existing digital copy first and plan for a paper copy through the service. [S65 @2026-11-22], [S69 @2026-11-22]
 
 ## When a Russian periodical has no index: full text or the paper run
 

@@ -4786,5 +4786,11 @@
   "kind": "publish",
   "action": "post a focused request in the Genealogie forum’s Čtení starých materiálů section",
   "checkpoint": "The scan link and partial transcription can reveal people named on the page. Apply the [privacy gate](../SKILL.md#privacy-gate) before sharing either with readers of the Genealogie forum."
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "send an article-copy request to the National Library of Finland",
+  "checkpoint": "An article-copy request sends the user's name, contact details and article citation to the interlibrary borrowing service at Kansalliskirjasto in Finland"
  }
 ]
