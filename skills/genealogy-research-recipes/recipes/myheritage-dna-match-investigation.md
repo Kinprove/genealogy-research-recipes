@@ -194,11 +194,29 @@ When a match card shows a name in brackets after the original, use the Global Na
 rendering as a spelling lead. Save both forms with the match's identifier and verify the person's
 identity before joining records across scripts [S47 @2026-11-20], [S49 @2026-11-20].
 
+If a name has no transliteration in **Shared DNA Matches**, check **Review DNA Match** for the
+bracketed form. If a new-match email shows a transliteration, flag it as a spelling lead and
+check it against the match card. Respect a private name and leave its translation unobserved
+[S49 @2026-11-22].
+
+For an unknown branch, keep documented matches as anchors and make a separate shortlist of
+unplaced matches. Start with a strong unplaced match whose tree or shared matches can move
+the question forward. Leave its side open while you test whether it connects to a branch already
+documented [S68].
+
 If the first company's list stalls and relatives on the target branch are reported to use
 MyHeritage, review an existing authorized MyHeritage kit for the same tester. If a parent helped
 sort the first list, include that parent's authorized kit when available. Compare the tester's
 results across services for new leads. Log each match under the kit and service that returned it
 [S53], [S54].
+
+If the first service gives no usable lead, review any other authorized kit already available for
+the same tester, even before you know whether the target branch uses that database. Record the
+kit and service that yielded each lead [S68].
+
+When two full siblings' authorized kits are available, run the same shortlist pass for both.
+Keep useful matches seen on either list, recording which kit returned each one. Siblings can
+inherit different segments and have different matches [S69], [S81].
 
 **Privacy gate:** <!-- privacy-gate: upload --> A new DNA test sends the living tester's kit
 activation data to MyHeritage and their cheek sample to its testing lab. Answer the privacy gate
@@ -251,6 +269,27 @@ When resuming from a match review, look for its labels at the top of **Review DN
 for each shared match's labels on its row. Open the label manager to read the full names and any
 labels hidden from the row's display [S43 @2026-11-20], [S46 @2026-11-20], [S60 @2026-11-20].
 
+### Record a relationship you have established
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Saving a confirmed DNA relationship sends the
+living tester's and match's kinship and any selected family side to MyHeritage. Answer the
+privacy gate in `SKILL.md` first.
+
+Keep the evidence for the established relationship in the private packet. Once the gate is
+cleared, verify the kit. On the match card, open the relationship label and choose **Select
+relationship**, or use the pencil beside the relationship on desktop or on
+**Review DNA Match** [S66 @2026-11-22], [S67 @2026-11-22]. Choose the documented relationship
+from the list and select the family side if established, then click **Save relationship**.
+If the supported relationship is absent from the list, retain it in the packet. If MyHeritage
+instead asks a direct parent, child or full-sibling question, choose **Yes** only when you
+have established that relationship [S67 @2026-11-22].
+
+Read the blue checkmark on the match card, **Review DNA Match** or in **Shared DNA Matches**
+as a relationship entered by the user for their own view. Record it as a user assertion and
+keep its supporting evidence separately. If only a family side was entered, the underlying
+relationship label remains an estimate. Review any Theory of Family Relativity separately
+[S66 @2026-11-22], [S67 @2026-11-22].
+
 **Output:** label key, dated match notes, and a follow-up queue.
 
 ## 4. Turn shared matches into specific comparison candidates
@@ -277,6 +316,15 @@ strongest matches. Choose DNA shared with the focal kit when looking for the tes
 matches. The default ranks by the sum of both amounts. Record which pair drove each pass
 [S47 @2026-11-20], [S48 @2026-11-20].
 
+Compare focal–B and A–B for the same shared match [S65 @2026-11-22]. When A–B is much stronger,
+start by tracing the connection between A and B, then look for where the tester might join
+their pedigree. Keep the three pair measurements distinct and test the proposed branch with
+workflow 5 [S68 @2026-11-22].
+
+On an unplaced match's shared-match rows, look for recurring documented branch labels.
+Use a recurring label to choose a pedigree to inspect. If labels point to more than one
+branch, record each as a candidate and test the connections separately [S71].
+
 Place documented shared matches in the tester’s tree. In the published case, their lines converged on the tester’s great-grandparents, giving the family a couple whose descendants they could trace [S34], [S35]. Record how the unplaced match might descend from the couple, and leave that connection provisional until documents support it. Use workflow 5 to investigate the segment.
 
 **Sort by side in one direction only when your anchor is on one side.** If a known relative on one
@@ -287,6 +335,14 @@ Genealogy, 2023-07-28 [S20]; Legacy Tree, 2019-06-04 [S21]), and two sisters can
 same position (Perl, DNA Painter blog, 2021-07-28 [S22]). Move an unassigned cluster to the other
 side only through an anchor from that side. Workflow 5's provisional other-side group is narrower:
 it holds matches that overlap the anchor's own shared segment.
+
+Test both parental sides when a new close match appears during a search for one parent. In one
+paternity search, a half-sibling match belonged to the maternal line [S73].
+
+When a second-cousin estimate leads to the two grandfathers, trace both men to their parents.
+Check whether they shared one parent or two before assigning a side or a full-cousin
+relationship. In one case the match's grandfather was a half-brother of the tester's maternal
+grandfather, despite the initial paternal placement [S74].
 
 ### Record cM Explainer predictions in their direction and full range
 
@@ -299,6 +355,11 @@ match card opens every estimated relationship with its probability, while Review
 Possible relationships lists only the top four until you click Show more relationships plus
 diagram, which adds the less likely ones and their paths [S26 @2026-11-16], [S28 @2026-11-16].
 Open the full list before recording that a relationship is not among the predictions.
+
+For a niece or half-niece lead, check which of the match's parents connects to the tester and
+whether that parent and the tester share one parent or two. Keep an unidentified half-sibling
+among the possibilities [S76]. In one account the match labeled **Niece** was the daughter
+of a half-brother [S75].
 
 Before adding or comparing probabilities in the diagram, set its top-right drop-down to all
 relationships: only then do the probabilities total 100%, and a full-only or half-only view hides
@@ -315,6 +376,11 @@ wrong date of birth, a kit assigned to the wrong profile, or a wrong gender on a
 the wrong label, show both "Father" and "Son", or swap aunt and uncle or mother and father labels
 [S28 @2026-11-16]. Record which ages were used. When one is missing or doubtful, record the whole
 list rather than the top label, and check the tester's own profile as in workflow 1.
+
+When comparing saved low-cM predictions across April 2023, check the dates against the model
+revision. MyHeritage reported that its revision moved some predictions toward more distant
+relationships and introduced **Estimated relationship** for matches at 100 cM or less.
+Compare the recorded DNA amounts independently of the labels [S29].
 
 Read the probabilities as estimates for a single line of descent. MyHeritage's 2023 introduction
 says cM Explainer assumes neither endogamy nor pedigree collapse, though DNA shared through several
@@ -446,6 +512,10 @@ the last 30 days carry a NEW badge, and the Has Theory of Family Relativity opti
 Tree details filter (All tree details in some views) lists the matches that have one
 [S10 @2026-11-12], [S13 @2026-11-12], [S12 @2026-11-12], [S19 @2026-11-12].
 
+Use a new-theory email as a cue to recheck the relevant kit and reopen unresolved matches.
+Theory emails depend on notification preferences, so use the in-account theory list after a
+later run even if no email arrived [S12 @2026-11-22], [S79 @2026-11-22].
+
 Compare a visible theory with the saved path before recording it as revised. The June 2022 run
 added theories without revising earlier ones [S11].
 
@@ -482,6 +552,17 @@ Match** if that panel is visible. Use a shared group to choose a place to invest
 against the pedigrees. Keep the branch unassigned until you have evidence for it
 [S43 @2026-11-20], [S45 @2026-11-20].
 
+When none of the surnames in the match's tree are familiar, make a pass for ancestors who
+lived in the target locality at the relevant time. Keep candidates from that pass even if the
+match lives abroad. In one case the productive locality lead was in an overseas match's tree
+under an unfamiliar surname [S72].
+
+When matches placed on a side give no usable lead to an expected great-grandparent's family,
+compare their accessible trees for a recurring ancestor, including unfamiliar names. Verify
+that the repeated profiles describe the same person and trace how each match descends from
+that person. Keep the genetic connection to the expected line open while testing the new
+candidate [S80].
+
 If the target surname is missing from the match names, search the match's accessible tree and
 any relevant tree already available from the kit manager. Include the target ancestor's birth
 surname. Record where it occurs and which connecting people remain to be found [S56], [S57].
@@ -509,6 +590,11 @@ between family trees and labels those who are DNA matches [S17 @2026-11-12]. Est
 ## 8. Send a message the match or manager can answer
 
 **Use when:** a particular pedigree detail could resolve the next investigation step.
+
+When an unsolicited message claims a DNA relationship, sign in to MyHeritage directly and look
+in the correct kit's DNA Matches and the account's Inbox for the claimed match and any earlier
+thread. Compare the displayed pair with the claim and record what you can corroborate before
+replying [S77 @2026-11-22], [S78 @2026-11-22], [S82 @2026-11-22].
 
 Before the first approved message to a close match, preserve its minimal visible basis in the
 private `selected_matches` packet: kit/match identifiers, observation date, and the relevant
@@ -551,6 +637,16 @@ Use the approved first-message procedure for an unclustered match when you have 
 4. Match observations across sessions using stable match links/identifiers where available.
    Record additions, changes and unavailable observations. A disappeared row under changed
    filters or access is not evidence that shared DNA became zero.
+
+If an expected tester is missing after clearing the filters, check whether you have evidence
+their kit is in the MyHeritage database [S42 @2026-11-22], [S83 @2026-11-22]. Check whether
+DNA Matching is enabled for the kit you manage. Leave the other person's participation unknown unless established. Opting out can
+keep an eligible kit off the match list [S69 @2026-11-22], [S70 @2026-11-22].
+
+If the pedigrees point to third cousins and both kits are eligible for matching, keep the
+documented relationship under consideration when the match is missing. Even tested cousins
+can share too little DNA to be reported. Keep the pedigree evidence and the negative list
+result together in the packet [S84], [S85].
 
 If a retained MyHeritage match-list export contains labels, use those values to reconstruct
 the groupings as of the export date. Check the match's live labels before treating the old
