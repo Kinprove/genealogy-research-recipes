@@ -4708,5 +4708,17 @@
   "kind": "request",
   "action": "Ask the Santo Domingo archdiocese about older parish entries",
   "checkpoint": "A request for a Santo Domingo parish entry sends the named person's identifying details"
+ },
+ {
+  "recipe": "institutional-patient-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search for the deceased patient in MyHeritage's",
+  "checkpoint": "Patient index searches send the"
+ },
+ {
+  "recipe": "institutional-patient-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "For a deceased patient's 1902–1925 admission",
+  "checkpoint": "Patient index searches send the"
  }
 ]
