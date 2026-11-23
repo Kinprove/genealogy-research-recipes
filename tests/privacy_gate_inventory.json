@@ -5800,5 +5800,11 @@
   "kind": "upload",
   "action": "Import only the Memories cleared for Storied",
   "checkpoint": "A direct transfer sends relatives' tree data and any imported Memories"
+ },
+ {
+  "recipe": "finnish-provincial-notice-recovery.md",
+  "kind": "request",
+  "action": "place a bibliographic order for the historical volume",
+  "checkpoint": "sends the ordering researcher's account or contact details"
  }
 ]
