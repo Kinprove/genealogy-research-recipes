@@ -43,6 +43,28 @@ The order of steps (jurisdiction first, then whole-volume reading with a coverag
 
 - **S26:** [American Ancestors, Collecting published accounts](https://vitabrevis.americanancestors.org/2015/06/collecting-published-accounts?hs_amp=true). Published account of using the Torrey source list read 2026-11-19. The author locates the bibliography in the 2011 edition, vol. 3, pp. 1739–1830.
 
+- **S27:** Family Tree Magazine / David Fryxell, [Finding Your U.S. Colonial Ancestors – An Interview with David Fryxell](https://www.youtube.com/watch?v=gAtM_M1ewgU), published 2023-07-25. Supplied transcript excerpts read in full on 2026-11-22. The watch page did not load. Fryxell suggests checking American Ancestors, Ancestry and FamilySearch for colonial town vital records. The Massachusetts collection choices are checked separately in S28–S30.
+
+- **S28:** American Ancestors, [New citation resource for Massachusetts: Vital Records, 1620-1850](https://dbnews.americanancestors.org/2019/10/18/new-citation-resource-for-massachusetts-vital-records-1620-1850/), published 2019-10-18. Provider’s article about the database read 2026-11-22. Used for the mixed sources behind the compiled database and its incomplete coverage of Massachusetts towns. The database search screen and individual images were not inspected.
+
+- **S29:** FamilySearch, [Massachusetts, Town and Vital Records, 1626–2001](https://www.familysearch.org/en/search/collection/2061550), collection 2061550. Public collection description read 2026-11-22. Used for identification of the collection and its image-browsing route. No signed-in image access was checked.
+
+- **S30:** David Allen Lambert, American Ancestors, [Researching in New England Town Records: 17th through 19th Centuries, class 2 handout](https://www.americanancestors.org/sites/default/files/2025-12/Class%202%20Handout%20-%20New%20England%20Town%20Records.pdf). Massachusetts collection descriptions on pages 1–2 read 2026-11-22. Used for the three catalogued Massachusetts paths, including the identification of Ancestry collection 2495 as digitized Holbrook microfiche. Ancestry’s collection page returned HTTP 403, and no image access was checked there.
+
+- **S31:** [Genealogy as Pastime and Profession - Chapter VIII - To Become a Professional](https://www.youtube.com/watch?v=odyze--Nzks), published 2023-12-22, reading from Donald Lines Jacobus. Supplied transcript excerpts read in full on 2026-11-22. The watch page did not load. Jacobus recalls seeing the first vital-record volume at the registrar’s office and being shown the first colony volume at the town clerk’s office. These visits are historical leads. S32–S35 supply the publication, film and archival locators.
+
+- **S32:** Connecticut Society of the Order of the Founders and Patriots of America, [Vital Records of New Haven, 1649–1850, Part I](https://ldsgenealogy.com/CT/Vital-records-of-New-Haven-1649-1850-part-I.htm), 1917. The contents and opening editorial note for volume I read in the digitized text on 2026-11-22. Used for the printed start page, the editors’ reconstruction of the likely chronological sequence and their use of brackets for details from the alphabetical copy.
+
+- **S33:** Connecticut State Library, [Connecticut Town Guides, New Haven entry](https://cdm15019.contentdm.oclc.org/digital/api/collection/p128501coll2/id/458942/download). New Haven town vital records section read 2026-11-22. Used for the 1649–1750 film locators, CSL 2487 and LDS 1405830. The film itself was not inspected.
+
+- **S34:** Connecticut State Library, [Colonial Records & Topics](https://libguides.ctstatelibrary.org/hg/colonialresearch). Digitized records and published transcriptions sections read 2026-11-22. Used for the State Archives’ manuscript-series locator and the linked 1857 printed transcription. The guide provides distinct routes to the original records and to the edition.
+
+- **S35:** Connecticut State Library, [Huzzah! The New Haven Colony Record Books are Online!](https://libguides.ctstatelibrary.org/blogs/hg/home/16032/huzzah-the-new-haven-colony-record-books-are-online), published 2026-03-27. Library announcement read 2026-11-22. Used for the volume 1A designation, its 1639–1649 span and the library’s report of a missing 1649–1653 volume. The linked volume images did not load during the check.
+
+- **S36:** Just Genealogy / Craig R. Scott, [Genealogy Book Sunday #11 - New at Heritage Books and The Triangle - JG0096](https://www.youtube.com/watch?v=LBlDBf8BXkw), published 2022-06-12. Supplied transcript excerpts read in full on 2026-11-22. The watch page returned a cache miss. Scott suggests the Heritage Books reprints of the first two Providence volumes for land records. S37 corrects the implied series size and the 1650–1670 limit for volume I.
+
+- **S37:** Richard LeBaron Bowen, [Index to The Early Records of the Town of Providence, volumes I–XXI](https://ldsgenealogy.com/RI/Index-to-The-early-records-of-the-town-of-Providence-v-I-XXI-containing-also-a-summary-of-the-volumes-1633-1735.htm), 1949. Index preface and summaries of volumes I–V read in the digitized text on 2026-11-22. Used for the consolidated index and its date table, the first two volumes’ titles, dates outside 1650–1670 in volume I, and the similar nicknames of the second and third town books.
+
 ## Credits
 
 - Torrey’s published front matter as transcribed at Mattocks Family Heritage Resources, Newberry Library, and Ohio Genealogical Society and American Ancestors (S23–S26) — Notation and bibliographic descriptions paraphrased (adapted)
@@ -51,3 +73,4 @@ The order of steps (jurisdiction first, then whole-volume reading with a coverag
 - Clarence Almon Torrey's notation key as quoted in the FamilySearch Wiki article Torrey's New England Marriages Prior to 1700 — Factual conventions paraphrased with attribution; source text not relicensed (adapted)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
 - Kinprove’s Boston lookup and coverage instructions paraphrase the community transcript excerpts and independently checked library and municipal sources listed above — FSL-1.1-MIT (kinprove-original)
+- The Fryxell interview, Jacobus reading and Scott presentation (S27, S31, S36) motivated the collection and volume locators, which draw on the independently checked bibliography — Factual descriptions paraphrased with attribution and source text retains its existing rights (adapted)
