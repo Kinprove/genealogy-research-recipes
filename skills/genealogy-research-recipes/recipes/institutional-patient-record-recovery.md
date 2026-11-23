@@ -10,7 +10,7 @@ guardrails: [{"id": "INSTITUTIONAL-PATIENT-RECORD-RECOVERY-01", "text": "Never t
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 203}
 ---
 
@@ -88,6 +88,42 @@ a diagnosis or admission, and the supplement may name no institution. [S7]
 - These thresholds are the Pennsylvania State Archives' own. Do not carry them to another
   custodian.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Patient index searches send the
+deceased patient's name and any search dates or places to MyHeritage or Scottish Indexes.
+Answer the privacy gate in `SKILL.md` before searching. Keep case papers and details about
+anyone who may be living local.
+
+**Scotland.** Search for the deceased patient in MyHeritage's *Scotland, Mental Health Records,
+1858–1921* or the Scottish Indexes *Mental Health Records* index. Record the admission date,
+asylum and location, and any birth or in-asylum death date shown.
+[S15 @2026-11-22] [S16 @2026-11-22] [S17 @2026-11-22] [S18 @2026-11-22] [S21 @2026-11-22]
+
+Use the admission date and asylum to locate the entry in the National Records of Scotland's
+*General Register of Lunatics in Asylum* (MC7). Save the volume and entry number. Check the
+register's outcome columns before reading a date as a death. If no death date is given, leave
+it open and seek a death registration or other independent death record.
+[S17 @2026-11-22] [S19 @2026-11-22] [S21 @2026-11-22]
+
+For a possible pre-1858 admission, search the opening entries of MC7/1 for people already
+resident on 1 January 1858. If the search misses, look for surviving records of the individual
+asylum and the relevant sheriff court. A patient who left before that date falls outside the
+opening list.
+[S15] [S16] [S17] [S20] [S21]
+
+**Adelaide.** For a deceased patient's 1902–1925 admission, search MyHeritage's *Australia,
+South Australia, Royal Adelaide Hospital Admissions*. Record admission date, residence, birth
+year and birthplace, and any discharge date, death date or arrival ship shown.
+[S22 @2026-11-22] [S23 @2026-11-22]
+
+Check State Records of South Australia's GRG 78/49 admission registers for the underlying
+entry and for dates outside the MyHeritage index. Use the volume, year and admission number
+from the archive's index to locate the entry. If the online index misses the patient, check
+the original indexes in GRG 78/46. [S24 @2026-11-22]
+
+If the entry gives a length of residence in South Australia, count back from admission to
+estimate an arrival window. Search passenger lists by the recorded ship name and likely year.
+Compare the passenger entry with the admission details before identifying the traveler. [S25] [S26]
+
 ## 2. Ask for the complete file and record what actually came back
 
 - **Privacy gate:** <!-- privacy-gate: request --> Asking for a complete patient file, or for
@@ -101,6 +137,14 @@ a diagnosis or admission, and the supplement may name no institution. [S7]
 - Transcribe the record group, file and roll from the archive’s packet so you can locate or cite each item again [S3], [S4]. Keep a separate entry for each relative.
 - Ask whether other relatives were patients too. Norwich staff identified three additional relatives whose files Mangin subsequently obtained [S2]. Apply the checkpoint above to each separate request.
 - Check dated visits and correspondence against the family account. The family said a husband had abandoned his wife; her Norwich file recorded his visits and letters to the superintendent after her 1908 admission [S2]. Those entries document contact. His motives remain unknown.
+
+Check the case papers, including loose sheets, and admission forms for sibling and child counts. Preserve the
+field wording, especially when it counts only living children. Use differences between the
+recorded counts and the working family group to look for missing relatives. [S27]
+
+Use a child's stated age at death to narrow the death-record search. If the age survives as
+an uncertain recollection, as in the account from the available excerpt [S28], carry forward
+the possible ages until the case papers or a death record resolves them.
 
 ## 3. Search the committing court and newspaper court recaps
 
