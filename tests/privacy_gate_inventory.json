@@ -4618,5 +4618,11 @@
   "kind": "third-party-tool",
   "action": "Enter one match's sourced total in the Shared cM Project's total-cM field",
   "checkpoint": "The Shared cM Project lookup sends living testers' pairwise shared cM amounts to DNA Painter"
+ },
+ {
+  "recipe": "family-papers-and-bible-register-dating.md",
+  "kind": "contact",
+  "action": "ask a relative whether they remember it and which branch last had it",
+  "checkpoint": "A question about a missing family Bible may disclose the ancestor's name and family connection to the relative asked"
  }
 ]
