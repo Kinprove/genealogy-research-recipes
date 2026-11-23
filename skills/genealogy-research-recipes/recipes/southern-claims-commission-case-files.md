@@ -41,3 +41,5 @@ According to the presenter’s advice, check Fold3 for both paid and unpaid clai
 According to the presenter, the witness statements are the place to look for accounts of Union sympathies and wartime events, and a claim file may omit the claimant’s Quaker affiliation. [S1†]
 
 Start with each deposition or testimony heading. Record the speaker, their relationship to the claimant if given, and what they say they saw or knew. Compare each account with the petition, exhibits and final recommendation. Keep religious affiliation open if the testimony does not state it. [S2]
+
+According to Robyn Smith’s advice, include witnesses who gave testimony outside the main hearing. [S6†] Look in the case file for depositions taken by a local special commissioner. [S7] Use the completed certification to record the place, date and officer. A form headed Washington, D.C., can record a hearing held in Mobile, Alabama. [S8]
