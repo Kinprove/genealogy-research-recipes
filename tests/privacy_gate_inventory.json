@@ -5008,5 +5008,11 @@
   "kind": "third-party-tool",
   "action": "Use the Public Libraries of Saginaw Obituary Index",
   "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "romanian-chamber-of-labour-personnel-files.md",
+  "kind": "request",
+  "action": "Request the identified personnel file",
+  "checkpoint": "the worker's name, file reference and any eligibility evidence"
  }
 ]
