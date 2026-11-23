@@ -4606,5 +4606,11 @@
   "kind": "contact",
   "action": "ask the relative whether they hold notes, Bible entries or captioned photographs",
   "checkpoint": "Before contacting the relative, clear the gate for the family-history question"
+ },
+ {
+  "recipe": "dna-comparison-controls.md",
+  "kind": "upload",
+  "action": "uploading the tester's raw DNA file",
+  "checkpoint": "A raw DNA transfer sends the tester's genotype file"
  }
 ]
