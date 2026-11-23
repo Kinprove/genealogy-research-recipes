@@ -4804,5 +4804,209 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage's district indexes by name",
   "checkpoint": "A name search sends the subject's name"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "For a U.S. issue lookup on OldNews.com",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Check Chronicling America for the U.S. title and issue date",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "contact",
+  "action": "After answering the privacy gate in `SKILL.md`, request an obituary lookup",
+  "checkpoint": "The request sends the deceased person's public name"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the Huntsville-Madison County Public Library Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Berkeley Public Library's *Berkeley Daily Gazette* obituary index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the Mesa County Libraries catalog's obituary results",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "For a *Sarasota Herald-Tribune* notice, use the library's text archive to locate a dated issue when it covers the period",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Oak Lawn Public Library's Local History Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Kankakee Public Library's Regional Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use MyHeritage's *Indiana, LaPorte County Obituaries* index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the JoCoHistory Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Topeka & Shawnee County Public Library's Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Boyd County Public Library's obituary index to find the dated *Ashland Daily Independent* issue",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Ouachita Parish Public Library's Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use MyHeritage's *Michigan Obituaries, 1850–2006*",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Mount Clemens Public Library's Macomb County Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the Monroe County Library System's Obituary Search",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Duluth Public Library's obituary index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Concord Public Library's *Concord Monitor* obituary index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Rochester Public Library's Life Records death",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the Johnston County Heritage Center obituary index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Toledo Lucas County Public Library's Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Dayton Metro Library's Dayton Obituary",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the library's linked searchable archive for 1984 onward",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the *Centre Daily Times* obituaries database linked by Penn State University Libraries",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Knox County Public Library's later Knoxville obituary index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Spokane Public Library's obituary search",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "For Appleton papers, use Appleton Public Library's partial index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "use Allen County Public Library's *Evangelical Messenger Obituary Index*",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Monroe County Public Library's index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Vigo County Public Library's Wabash Valley obituary index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Henderson County Public Library's *Henderson Gleaner* obituary index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use Butler Area Public Library's newspaper index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Use the Public Libraries of Saginaw Obituary Index",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
  }
 ]
