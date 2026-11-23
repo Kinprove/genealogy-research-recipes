@@ -55,6 +55,28 @@ as the presenters reported them. No AI transcription method is adopted here.
 
 - **S31:** [*United States v. The Amistad*, 40 U.S. (15 Pet.) 518 (1841), pp. 524 and 538](https://tile.loc.gov/storage-services/service/ll/usrep/usrep040/usrep040518/usrep040518.pdf), Library of Congress copy. Cited pages of the official report read 2026-11-20. Page 524 summarizes Pedro Montez’s name lists, and page 538 reproduces James Covey’s account of what the captives told him, including where they said they sailed from.
 
+- **S32:** Katharine Andrew, [Angel Island Immigration: A Genealogist’s Guide](https://familytreemagazine.com/records/immigration/angel-island-immigration-a-genealogists-guide/), published 2026-06-17. Community article read 2026-11-22. Andrew suggests Ancestry and FamilySearch as routes to the federal court register. The article gives the Ancestry label as A331. S35 identifies the publication as A3381, and the selectable options within the Ancestry account were not inspected.
+
+- **S33:** FamilySearch, [California, San Francisco, Register of Chinese Immigrant Court Cases and Foreign Seamen Tax Cards, 1883–1924](https://www.familysearch.org/en/search/collection/2443318). Public collection page read 2026-11-22. The court cards cover 1883–1916 and are organized by court case number. The tax cards cover 1921–1924. The collection identifies microfilm A3381.
+
+- **S34:** Ancestry, [U.S., Chinese Immigration Exclusion Act Case Files, 1883–1944](https://www.ancestry.com/search/collections/1242). Public collection page read 2026-11-22. It describes the San Francisco court index cards, distinguishes the court case number from the immigration case number and shows an NAID browse selector. The option labels and account-level behavior were not inspected.
+
+- **S35:** National Archives, [Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners). Digitization table read 2026-11-22. The San Francisco register and seamen's tax cards are listed under RG 85, publication A3381 and National Archives Identifier 4477273, with Ancestry collection 1242 and FamilySearch as partners.
+
+- **S36:** National Archives, [Chinese Immigration and the Chinese in the United States](https://www.archives.gov/research/chinese-americans/guide). Record guide read 2026-11-22. It distinguishes district and circuit court files in RG 21 from INS files in RG 85 and explains the cross-references between them.
+
+- **S37:** Family Tree Magazine and Lisa Louise Cooke, [Exploring the National Archives with Lisa Louise Cooke | Best Websites](https://www.youtube.com/watch?v=nQsKH1exswY), published 2025-08-15. Supplied transcript excerpt read 2026-11-22. The excerpt highlights the Fort Smith criminal case files and dates their coverage to 1866–1900. The live video did not open during review. S38 and S39 establish the lookup and coverage.
+
+- **S38:** National Archives at Kansas City, [Research Guide to the Criminal Case Files of Fort Smith, Arkansas, 1860–1896](https://www.archives.gov/kansas-city/finding-aids/fort-smith-case-files). Finding aid read 2026-11-22. It identifies the 1866–1900 jacket series as distinct from the dates in the guide title, links Catalog identifier 201532, explains the jurisdiction in Indian Territory and the multi-defendant jackets, and provides a separate victim index.
+
+- **S39:** Ancestry, [Fort Smith, Arkansas, U.S., Criminal Case Files, 1866–1900](https://www.ancestry.com/search/collections/2117). Public collection page read 2026-11-22. It links the images to RG 21 and Catalog identifier 201532 and describes the jacket-number browse option.
+
+- **S40:** Craig R. Scott, Just Genealogy, [Should Genealogists Use Census Substitutes or Not? - JG0065](https://www.youtube.com/watch?v=SgevQHoYtjA), published 2022-05-12. Supplied transcript excerpt read 2026-11-22. Scott points out the federal criminal case files on Ancestry while discussing the Maryland section of William Dollarhide’s guide. The live video did not open during review. S41 and S42 establish the Maryland dates and arrangement.
+
+- **S41:** Ancestry, [U.S., Circuit Court Criminal Case Files, 1790–1871](https://www.ancestry.com/search/collections/1248). Public collection page read 2026-11-22. It identifies Maryland’s portion as 1795–1860, RG 21, microfilm M1010, and describes browsing by state and year range.
+
+- **S42:** National Archives, [Federal Court Records: Part 04](https://www.archives.gov/publications/microfilm-catalogs/fed-courts/part-04.html). Microfilm catalog read 2026-11-22. The M1010 entry gives the Maryland roll ranges and specifies arrangement by court term, then defendant surname.
+
 ## Credits
 
 - National Archives, Federal Judicial Center, U.S. Statutes at Large and Genealogy Gems (S20–S27) — Retrieval guidance, period law, show notes and reproduced court papers paraphrased with attribution (adapted)
@@ -67,3 +89,7 @@ as the presenters reported them. No AI transcription method is adopted here.
 - California Office of the Attorney General, press release of 2026-10-14, cited as S19 — Public state government press release; paraphrase with attribution (adapted)
 - David Ridd, MyHeritage Blog, cited as S28 — Third-party article; paraphrase with attribution (adapted)
 - National Archives guides and U.S. Reports, cited as S29–S31 — U.S. federal government publications paraphrased with attribution (adapted)
+- Family Tree Magazine, Katharine Andrew and Lisa Louise Cooke, cited as S32 and S37 — Third-party article and video content paraphrased with attribution (adapted)
+- FamilySearch and Ancestry collection descriptions, cited as S33, S34, S39 and S41 — Third-party collection descriptions paraphrased with attribution (adapted)
+- U.S. National Archives guides, cited as S35, S36, S38 and S42 — U.S. federal government publications paraphrased with attribution (adapted)
+- Craig R. Scott, Just Genealogy, cited as S40 — Third-party video content paraphrased with attribution (adapted)
