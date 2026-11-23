@@ -465,6 +465,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-imperial-observance-records.md` — Identify a Finnish imperial observance from a diary, memoir or newspaper and check its local date against official instructions.
 - `recipes/finnish-imperial-observance-recovery.md` — Match a Grand Duchy parish thanksgiving, bell ringing or public celebration to its dated order and evidence of local observance.
 - `recipes/finnish-parish-residence-and-moves.md` — Distinguish a Finnish parish transfer from physical relocation by comparing moving certificates, communion books, population rolls and dated address directories.
+- `recipes/finnish-royal-marriage-permission-recovery.md` — Follow a Finnish parish marriage clue to the Crown’s decision, its supporting papers and the actual wedding.
 
 ### United States: people, vital and church records
 
