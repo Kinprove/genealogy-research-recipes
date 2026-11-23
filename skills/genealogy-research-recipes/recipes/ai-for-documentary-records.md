@@ -10,7 +10,7 @@ guardrails: [{"id": "AI-FOR-DOCUMENTARY-RECORDS-01", "text": "**Every AI output 
 handoff: ["research-documentation", "russian-household-list-transcription-audit"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": [], "local_script": ["generated plotting script"], "extensions": [], "data_transfer": ["export", "publish", "third-party-tool"], "contact": []}
+capabilities: {"browse": [], "local_script": ["generated plotting script"], "extensions": [], "data_transfer": ["export", "publish", "third-party-tool", "link"], "contact": []}
 router: {"section": "Research method", "group": "AI and long projects", "order": 5}
 ---
 
@@ -78,12 +78,65 @@ Upload a multi-page document as one PDF rather than as separate images: Scribe A
 one unit, typically up to about 15 pages, with a 10 MB file limit [S1 @2026-11-12],
 [S2 @2026-11-12].
 
+For a local scan, clear the Scribe AI upload gate above, then open [Scribe
+AI](https://www.myheritage.com/scribe-ai) and choose **Upload image** [S62 @2026-11-22],
+[S63 @2026-11-22]. Expand the full transcription for the source-language reading and the
+extracted-details section for names, dates and places [S61 @2026-11-22], [S62 @2026-11-22]. Set
+the site language to the intended translation language before running the analysis. When the
+report supplies a translation, compare it with the checked source-language reading
+[S61 @2026-11-22], [S62 @2026-11-22].
+
+Trace each fact from Scribe AI’s **Historical context** to the image or to an independently
+verified source. In the provider’s death-record example, the tool added the subject’s father’s
+occupation in the context section [S62]. Keep details found only in that section as research
+leads until sourced.
+
+For a gravestone report in Scribe AI, check **Inscription** against the photo and retain the
+literal wording. Check **Translation** against that reading and use **Inscription highlights**
+to locate names and dates [S62 @2026-11-23]. In **Iconography & symbolism**, check the full
+photo for each suggested feature and record whether it is carved on the stone or on a separate
+object beside it. Test proposed meanings against a period reference [S61 @2026-11-23],
+[S62 @2026-11-23], [S89 @2026-11-23]. If the inscription gives no cemetery, log each
+**Location context** candidate with the clue behind it [S61 @2026-11-23], [S62 @2026-11-23].
+Use the verified name and dates to look for a matching cemetery register or plot entry. Leave
+the location open until corroborated and cite the photo and burial record separately.
+
+To reopen a report for an image uploaded through Scribe AI on the web, go to **My Photos →
+Scribe AI**, open the analyzed image and select its insights button [S62 @2026-11-22].
+
+**Privacy gate:** <!-- privacy-gate: export --> Copying a Scribe AI transcription exports the names, relationships and other details of anyone mentioned, including living or possibly living people, from MyHeritage to a local editor. Answer the privacy gate in `SKILL.md` before copying.
+
+Copy a working transcript into a local editor using the whole-transcription or section copy
+control. Keep its image locator and mark any corrections after comparing it with the image
+[S61 @2026-11-22], [S62 @2026-11-22].
+
+In the MyHeritage app, open **Photos → Scribe AI** from the grid menu to choose an image. For
+one already in the gallery, open it and use the three-dot menu’s Scribe AI option. Clear the
+upload gate before submitting an image from the device. Scroll down and expand the relevant
+sections. To recover a saved report, reopen the photo and look for **Scribe AI: View insights**
+at the lower left of the photo view [S64 @2026-11-22].
+
+**Privacy gate:** <!-- privacy-gate: link --> The Scribe AI report link can expose the analysis and details about anyone shown or named, including living or possibly living people, to the recipient and anyone with access to the link. Answer the privacy gate in `SKILL.md` before sending it.
+
+When a reviewer needs the same Scribe AI analysis, check what the report link exposes. Use the
+link control under the report and send the source locator with the link so the reviewer can
+identify the record [S62 @2026-11-22].
+
 For Swedish court books (*domböcker*), use ArkivDigital’s **Machine-Transcribed Text**
 (*Maskinell texttolkning*) to search the text of volumes listed as covered [S36 @2026-11-20],
 [S37 @2026-11-20], [S38 @2026-11-20]. Filter by court, volume type and date. Start with one
 Swedish search term per query because a multiword query requires the terms on the same image
 [S38 @2026-11-20]. Open each hit and cite the court, volume and page or image. If the volume is
 outside coverage or repeated queries miss, browse the volume by date.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A query sent through the connected assistant sends the names, places and other identifiers in the query to its provider and Riksarkivet. If the query identifies anyone living or possibly living, answer the privacy gate in `SKILL.md` first.
+
+If the user already has the Riksarkivet beta connected, ask it to search the archive inventories
+and available machine-transcribed documents, including some from the 1600s. Give a historical
+surname, locality and record type. Narrow promising leads with a follow-up that names the court,
+series or period. Open the linked original and confirm its archival reference and wording. Check
+collection coverage and use the ordinary catalogue or browse the volumes when the assistant
+finds nothing [S83 @2026-11-22], [S84 @2026-11-22].
 
 **Privacy gate:** <!-- privacy-gate: publish --> A BillionGraves contribution sends images and names or other details of anyone shown or mentioned, including living relatives, to BillionGraves for use in its public database. Answer the privacy gate in `SKILL.md` before contributing.
 
@@ -138,6 +191,41 @@ article [S43 @2026-11-20], [S44 @2026-11-20], [S45 @2026-11-20].
 Check the user’s account for MyHeritage Omni or OldNews Pro access to the full page on
 OldNews.com [S46 @2026-11-20], [S47 @2026-11-20]. If access stops at the index, use the
 newspaper title, issue date and place to find the page in another archive.
+
+For an indexed newspaper date, read the notice and the issue date before filing it [S65]. If the
+notice gives only a relative day such as “last Thursday,” record the wording and the issue date
+and label any calendar day you calculate. Check whether the item was reprinted or carries its
+own dateline before choosing the reference date. If the notice gives only an age, keep the age
+and allow for whether the birthday had passed when estimating a birth year [S65], [S66].
+
+When a Names & Stories result supplies full OCR, use it to find the rest of the passage around
+the snippet. Treat both as machine text and transcribe wording from the scanned page
+[S67 @2026-11-22], [S68 @2026-11-22], [S69 @2026-11-22]. On a MyHeritage **Marriages from
+Newspapers** entry, use **View full newspaper page** to check the story in context and recover
+details omitted from the extracted fields [S70 @2026-11-22].
+
+When an OCR search misses, check whether the host carries the exact newspaper issue and repeat
+the same name and place query on a second host. If the second search finds the item, use its
+issue and page to check the first host’s copy. Log a search miss when the first host has the
+page. In a reported comparison, one host retrieved an article that other hosts carrying the same
+issue failed to return [S71]. Differences in machine text can affect retrieval [S72].
+
+For a MyHeritage **United States Consolidated Federal Censuses** hit, open **See variations from
+sources** and follow the links to the individual census records. Check each household and the
+identifying details on that year’s image before accepting the proposed link across years
+[S73 @2026-11-22].
+
+If a name is missing from MyHeritage’s initial 1950 census AI index, search the underlying
+schedules by enumeration district. MyHeritage filtered suspect machine readings out of that
+index [S74]. Use the address and enumeration district maps or descriptions to choose which
+district images to inspect [S75].
+
+**Privacy gate:** <!-- privacy-gate: publish --> A name suggestion sends the corrected name and its association with the newspaper item to MyHeritage and can make it searchable by other users. Answer the privacy gate in `SKILL.md` first if the suggestion identifies anyone living or possibly living.
+
+For a misread name in a MyHeritage newspaper result, verify the name on the scanned page. If the
+result offers a correction control, submit an alternative name only after clearing the gate
+above. The original indexed name and the searchable member contribution can coexist. Cite the
+issue and page for your reading [S65 @2026-11-22], [S85 @2026-11-22].
 
 ## Prompt-craft that practitioners found works (the reusable core)
 
@@ -250,6 +338,23 @@ Before guessing, look for other renderings and reading keys:
 
 Record which document supplied each reading. Keep keys in a separate comparison block, transcribe each entry as written, and label key-assisted readings. A clerk's copy may carry its own error, and a key pulls you toward the words you expect. Boilerplate never supplies the target's names, amounts or boundaries. Agreement is support, not proof. ([Tanner probate](https://www.youtube.com/watch?v=FA2iXKr09Lo), [Brady](https://www.youtube.com/watch?v=OU2cYqgN-lw), [Tanner town records](https://www.youtube.com/watch?v=bhpOk-A5CeA), [Obee](https://www.youtube.com/watch?v=D-eqV-ZS5UY))
 
+### Check candidate words in Spanish
+
+For a doubtful Spanish word, keep the letters you can read and use that partial reading to
+generate alternatives. Compare each candidate with the visible letters and use a dictionary such
+as the RAE’s to check whether the meaning fits the passage and period [S76], [S77].
+
+Check an apparently ordinary surname against every visible letter: in a reported Spanish-record
+reading, the model rendered *Portier* as *Cortés* [S76].
+
+### Check historical Finnish against parallel Swedish
+
+When a modern gloss fails for a nineteenth-century Finnish word, search *Den Lilla Swenska och
+Finska Tolken* (Project Gutenberg eBook 63472) for the period spelling and read across to the
+paired Swedish entry [S93], [S95]. For a phrase, compare the whole exchange in the bilingual
+dialogues [S94], [S95]. Test the suggested sense against the record sentence, retain the Finnish
+as written, and cite the glossary section or dialogue used.
+
 ### Assemble a whole-letter reading copy
 
 After checking each page against its image, assemble a separate transcript in source-page
@@ -272,6 +377,14 @@ Keep documented fact, tradition, AI-supplied context and conjecture visibly sepa
 - Label theory ('it is believed', 'I envision') in the text or a footnote. If the story needs invention, call it fiction.
 
 Markers only separate the layers; they verify nothing. ([Sorensen](https://www.youtube.com/watch?v=CoxXz-C754c), [theory labelling](https://www.youtube.com/watch?v=YsWgVd8-mUs), [Allen's outline prompts](https://www.youtube.com/watch?v=M3nAWOP9v8Y), [holiday scene](https://www.youtube.com/watch?v=1qeAV90uQNY), [reported speech](https://www.youtube.com/watch?v=TlZ88OEjHqY); these sources do not show how to weigh a family story as evidence.)
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> AI Biographer can send the subject’s and named relatives’ biographical details, including details of living or possibly living people, to OpenAI through MyHeritage. MyHeritage saves the result as a family-site media item visible to site members [S90 @2026-11-23], [S91 @2026-11-23]. Answer the privacy gate in `SKILL.md` before generating the biography.
+
+In MyHeritage AI Biographer, choose **Standard** to draft from the tree profile alone. Use
+**Enhanced** to look for leads from matching historical records, other family trees and web
+material [S89 @2026-11-23], [S90 @2026-11-23]. Follow the biography’s source links, check the
+original records for each claim and keep unsourced additions out of the verified narrative
+[S92 @2026-11-23].
 
 ### Read Latin register entries by their formula
 
@@ -315,6 +428,28 @@ can be saved as before.
 - **Surname variants.** Group documented spellings by record, date, language and locality. Turn recurring changes, such as final vowels or K/C, into search variants. Keep the original spelling beside its citation and test whether the records describe the same person [B25].
 - **Conflicting death dates.** Compare the proposed death with later census, land, probate and tax entries in one timeline. For each apparent later appearance, check whether it refers to the same person, an estate or a namesake [B23].
 
+If a FamilySearch Full-Text Search reading shows a vertical bar or an apparent break in the
+text, check whether it lines up with a printed margin before using it to split the entry. In one
+reported transcription, a ruled margin appeared as a vertical bar [S78].
+
+In a death register, read a marginal correction as its own statement. Record its date, issuing
+authority and the wording it corrects. Check whether the original words are physically struck
+out: in one published Scribe AI example, the output marked intact register text as crossed out
+[S61]. Keep a cause of death open when the correction gives only the circumstances of discovery.
+Use the named authority and correction date to look for a court or police file that could
+establish the cause [S61].
+
+For a compound occupation on a German gravestone, inspect any dash in the inscription and test
+whether the second word supplies the ending of the first. Search the expanded occupations
+separately. In a reported case the tool retained the church-painting description and missed the
+history-painting component (*Historienmaler*), an occupation supported independently by a period
+artist catalogue [S61], [S87].
+
+When using a translated wanted notice to distinguish people, audit each identifying adjective in
+two passes. Compare the color and nationality readings with the printed letters, then compare
+their translations with the verified words. In one reported notice the color was misread, and
+the translation rendered the transcribed *Svensk* as *suomalainen* [S88].
+
 ## Image restoration, colorization & generation — protecting evidentiary trust
 
 Treat any AI-altered image as a **derived, non-documentary** artifact and keep it out of the evidence chain:
@@ -351,6 +486,20 @@ Check the original before using the color wheel in Reimagine. The same control c
 a black-and-white original and restores a faded color original. If the original colors are
 intact, the result can look unchanged. Compare both versions before labeling the result
 [S12 @2026-11-21], [S58 @2026-11-21].
+
+In MyHeritage’s web **My Photos** gallery, open a faded scan originally taken in color and
+select **Restore colors** on the color wheel [S80 @2026-11-22]. Use the before-and-after slider
+on a restored or enhanced photo to locate details that changed, then read those details on the
+unedited scan [S79 @2026-11-22], [S80 @2026-11-22], [S81 @2026-11-22].
+
+Check each building and its position in the unedited scan before mapping a scene: in one
+reported Gemini colorization, a recognizable barracks remained while the surrounding streetscape
+changed [S82].
+
+When the web restoration settings offer more than one model, open the cogwheel on the processed
+photo, choose a model and select **Preview**. Press and hold the photo to compare the preview
+with the previous edit. Save or cancel after comparing, and use the unedited scan for a
+comparison with the source [S80 @2026-11-22], [S86 @2026-11-22].
 
 **Privacy gate:** <!-- privacy-gate: publish --> Sharing from Reimagine sends the selected photo or comparison, with details of anyone shown, including living or possibly living people, to the chosen service and audience. Answer the privacy gate in `SKILL.md` before sharing.
 
