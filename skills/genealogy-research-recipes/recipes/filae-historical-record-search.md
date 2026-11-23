@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing", "french-belgian-civil-act-extrac
 checked: "2026-11-22"
 checked_basis: "read 2026-11-22"
 capabilities: {"browse": ["Filae search forms, source descriptions and historical images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 49}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 50}
 ---
 
 # Find and verify a French historical record in Filae

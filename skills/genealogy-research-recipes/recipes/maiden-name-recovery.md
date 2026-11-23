@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "newspapers-com-search-recovery", "usa-immi
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["civil-registration indexes, locality guides, historical divorce files, census images, newspapers, probate and land records, Social Security indexes, First Families rosters, historical military pension files, parish and burial registers, published local and family histories"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Research method", "group": "Search coverage and name searches", "order": 9}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 10}
 ---
 
 # Recover a woman's maiden name behind her married name

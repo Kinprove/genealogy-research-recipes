@@ -240,6 +240,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/genealogy-standards-audit.md` — Audit a report, proof or documented tree against professional standards by tracing each claim to examined sources and reasoning.
 - `recipes/source-citation.md` — Write citations that let a reader retrieve the source and see which evidence each citation supports.
 - `recipes/research-documentation.md` — Keep a log and report of searches, results and analysis so an investigation can resume.
+- `recipes/finnish-commemorative-plaque-evidence.md` — Use Finnish installation reports, inscriptions and dated building records to identify the person, event and site commemorated by a wall plaque.
 
 ### AI and long projects
 

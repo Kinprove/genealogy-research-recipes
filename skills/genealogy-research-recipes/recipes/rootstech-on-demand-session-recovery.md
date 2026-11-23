@@ -11,7 +11,7 @@ handoff: ["research-documentation", "source-citation"]
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 46}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 47}
 ---
 
 # Recover a RootsTech session or its handout

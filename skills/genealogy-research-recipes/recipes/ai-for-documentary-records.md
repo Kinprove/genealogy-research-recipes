@@ -11,7 +11,7 @@ handoff: ["research-documentation", "russian-household-list-transcription-audit"
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": [], "local_script": ["generated plotting script"], "extensions": [], "data_transfer": ["export", "publish", "third-party-tool", "link"], "contact": []}
-router: {"section": "Research method", "group": "AI and long projects", "order": 5}
+router: {"section": "Research method", "group": "AI and long projects", "order": 6}
 ---
 
 # Recipe: Using AI reliably in documentary & records genealogy research

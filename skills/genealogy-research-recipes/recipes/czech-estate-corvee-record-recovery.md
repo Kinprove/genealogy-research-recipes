@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing","historical-place-name-resolu
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 71}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 72}
 ---
 
 # Recover a Czech holding’s corvée obligation

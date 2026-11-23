@@ -11,7 +11,7 @@ handoff: ["polish-parish-and-civil-register-routing","polish-index-original-reco
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 70}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 71}
 ---
 
 # Use the Cmolas estate inventory to test family links
