@@ -240,7 +240,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [gedmatch-practical-dna-workflows](skills/genealogy-research-recipes/recipes/gedmatch-practical-dna-workflows.md) | gedmatch | — | — | export, link, third-party-tool, upload | — | required |
 | [genealogical-numbering-systems](skills/genealogy-research-recipes/recipes/genealogical-numbering-systems.md) | — | — | — | — | — | — |
 | [genealogy-standards-audit](skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md) | — | — | — | — | — | — |
-| [geni-practical-research-workflows](skills/genealogy-research-recipes/recipes/geni-practical-research-workflows.md) | geni | — | — | export, publish, upload | contact | required |
+| [geni-practical-research-workflows](skills/genealogy-research-recipes/recipes/geni-practical-research-workflows.md) | geni | — | — | export, publish, third-party-tool, upload | contact | required |
 | [georgia-texas-state-land-grant-recovery](skills/genealogy-research-recipes/recipes/georgia-texas-state-land-grant-recovery.md) | state archive and land office pages, databases and file images | — | — | — | — | — |
 | [german-compensation-file-recovery](skills/genealogy-research-recipes/recipes/german-compensation-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [german-emigrant-origin-sources](skills/genealogy-research-recipes/recipes/german-emigrant-origin-sources.md) | record catalogues and original images | — | — | — | — | — |
