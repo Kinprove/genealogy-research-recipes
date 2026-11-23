@@ -5632,5 +5632,41 @@
   "kind": "link",
   "action": "use **Add speaker** for the narrator or **Add person**",
   "checkpoint": "Tagging someone gives the recording a second location"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "open an undated image already in that app",
+  "checkpoint": "With PhotoDater enabled, opening an eligible undated image lets MyHeritage process the image"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "tapping **Save** on an independently corroborated estimate",
+  "checkpoint": "Saving or editing the year records dating information about the photographed people"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "use the date field for an independently supported date",
+  "checkpoint": "Saving or editing the year records dating information about the photographed people"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "choose **Upload image** in [Scribe AI]",
+  "checkpoint": "Scribe AI sends the selected photograph"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "go to **Photos → Scribe AI → Choose image**",
+  "checkpoint": "Scribe AI sends the selected photograph"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "choose **Get Scribe AI insights** after clearing the same processing gate",
+  "checkpoint": "Scribe AI sends the selected photograph"
  }
 ]
