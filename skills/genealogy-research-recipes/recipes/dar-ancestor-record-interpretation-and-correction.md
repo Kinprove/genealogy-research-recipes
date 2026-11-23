@@ -10,7 +10,7 @@ guardrails: [{"id": "DAR-ANCESTOR-RECORD-INTERPRETATION-AND-CORRECTION-01", "tex
 handoff: ["evidence-proof-judgment", "us-military-pension-file-recovery"]
 checked: null
 checked_basis: null
-capabilities: {"browse": ["DAR Genealogical Research System Ancestor records", "DAR Genealogical Research System Descendants index", "FamilySearch Revolutionary War rolls"], "local_script": [], "extensions": [], "data_transfer": ["upload", "request"], "contact": ["contact"]}
+capabilities: {"browse": ["DAR Genealogical Research System Ancestor records", "DAR Genealogical Research System Descendants index", "DAR Genealogical Research System Member records", "DAR Library Catalog", "FamilySearch Revolutionary War rolls"], "local_script": [], "extensions": [], "data_transfer": ["upload", "request"], "contact": ["contact"]}
 router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 152}
 ---
 
@@ -53,17 +53,27 @@ For a military lead, use the listed service dates and any company or regiment nu
 
 Open the full Ancestor records when several patriots share a name. The **Pension Number** field, when present, can refer to a pension granted to the patriot or the spouse [S8 @2026-11-18], [S9 @2026-11-18]. In the verified application and supplemental listings, look for the patriot's child through whom each applicant descended and that child's spouse [S8 @2026-11-18], [S10 @2026-11-18].
 
+Compare the likely place and period of service from independent records with the service description and wartime residence in each full Ancestor record [S8 @2026-11-22]. Use the fit to rank same-name candidates, following the method reported in the case-study excerpts [S21† @2026-11-22]. Keep candidates open when the source evidence cannot distinguish them.
+
+When the record lists several residences, build a timeline and test each residence against the dated evidence for the relevant service episode. For Virginia entries naming Fincastle and Montgomery, test Fincastle against Lord Dunmore's War records and Montgomery against Revolutionary militia records, following the suggestion reported in the case-study excerpts [S21†]. Check whether the county names could refer to the same place because Montgomery was formed from part of Fincastle [S24]. Leave the residence open when the service record only places the person on duty.
+
 When other evidence points to a pension, use the pension references and associated families to narrow the same-name candidates, following the advice reported in the livestream excerpts [S7†]. Keep candidates with a blank pension field in play until other evidence rules them out. Once you identify the patriot, use the listed children and their spouses as leads for sibling and collateral research. Allow for children whose lines never appear in an application.
 
 Treat gaps in recent generations of the public Descendants index as possible privacy restrictions. Leave the link unresolved if it is hidden. An older record copy already in hand may name the applicant. Apply the Living people rule when a generation is restricted. [S17 @2026-11-20], [S10 @2026-11-20]
 
+When a Descendants search for a deceased ancestor returns same-name candidates, compare the known child's name with the child shown in each accessible lineage. Use a matching branch to pick out earlier generations and surnames to investigate, following the advice reported in the case-study excerpts [S26† @2026-11-22]. Check the related full Ancestor record for notices and corroborate each new link before using it [S17 @2026-11-22].
+
 Use the free GRS listings to compare the patriot's children against the user's tree before selecting an application or supplemental. Favor a paper through the target child that covers the most relevant shared generations. Check its notices (§§2–3) before ordering. [S8 @2026-11-20], [S10 @2026-11-20], [S17 @2026-11-20]
+
+If a deceased relative's admission paper follows a different branch, check the verified supplementals for the target branch, which appeared on a supplemental in the case reported in the video excerpts [S25† @2026-11-22]. Use the deceased member's National Number from records already in hand to search the public Member tab, then check the linked Descendant Listings [S18 @2026-11-22], [S17 @2026-11-22]. Keep any supplemental Add Volume alongside the National Number when recording the paper locator [S29 @2026-11-22]. If the number is missing or the member may be living, use supplied papers or search the Descendants tab for a known deceased person in the target branch.
 
 **Privacy gate:** <!-- privacy-gate: request --> Before requesting a DAR paper or supporting documentation that may name a living person, identify the paper number and any requester or subject details that would go to the DAR Library, who at DAR can see them, and whose living-person data the records may contain. Check DAR's access rules and obtain the required permissions. Keep the request local and unsent until the gate is answered.
 
 Request the selected DAR record copy to examine the applicant's direct line, service description and source citations. DAR charges for the online copy and lets readers inspect the complete record copy in the Library before purchasing. Follow the citations for the specific links you need, and request any available supporting documents separately if the citations alone do not resolve them. DAR restricts supporting documents under 100 years old when they are vital records or other sensitive material. [S10 @2026-11-20], [S15 @2026-11-20]
 
 When a North Carolina service citation gives “Clark” with a volume and page, test Walter Clark's edition of *The State Records of North Carolina* [S11]. The livestream advice reported in the excerpts suggests reading the surname and numbers as a single possible reference [S7†]. Confirm that the cited page supports the named patriot and service before expanding the citation in your notes.
+
+When an Ancestor citation abbreviates a journal title, look up the title words in the DAR Library Catalog [S22 @2026-11-22]. For “DAR Magazine,” test the historical title *Daughters of the American Revolution Magazine* against the cited volume [S23 @2026-11-22]. Open the issue at the cited volume and printed page and identify which claim the passage supports, following the advice reported in the case-study excerpts [S21† @2026-11-22]. A mention of the patriot alone leaves the service or biographical claim open.
 
 ## 2. Read a red notice as a rule for the next application
 
@@ -80,6 +90,8 @@ The 2014 edition of DAR's Genealogy Guidelines (partially read) describes the me
 ## 3. Keep the notice to its scope
 
 Record the paper's approval date and check which links the evidence actually supports. Some older papers used DAR's short form, which can omit intermediate generations even on a verified application. Mark omitted or unsupported links for evidence review. [S10 @2026-11-20]
+
+Inspect the space above a marriage date on the record copy, following the advice reported in the livestream excerpts [S27†]. Based on the inspected section of SAR's application guide, read a check or slash directly above the date as a mark of verification for that date and a center check over “married” as an indication of earlier verification [S28]. Follow the supporting citation or earlier paper as appropriate, and leave an omitted place unresolved.
 
 A lineage notice reports a lineage error; do not read it as a finding about the patriot's service. The same tutorial notes that the general notice "Problems Have Been Discovered With At Least One Previously Verified Paper" may or may not apply to the user's lineage [S5 @2026-11-16]. Compare the papers named in the comments and the paper numbers marked "EL" with the paper the user's own line rests on [S2 @2026-11-16]. Record the result as applies, does not apply, or not yet known.
 
