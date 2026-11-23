@@ -11,7 +11,7 @@ handoff: ["australia-nz-record-routing", "archival-image-coverage-verification",
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and documentation"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 230}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 231}
 ---
 
 # Trace Australian First World War service from embarkation
