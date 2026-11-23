@@ -97,6 +97,10 @@ The tester's DNA did not change between versions; the vendor's method did. Ask f
 - **Do not rank two versions by their white-paper accuracy numbers.** The statistics, floors and simulation sets differ [S3], [S4], [S10].
 - **A region can keep its continent and change its panel rule.** Ancestry builds its Americas panels from Indigenous-inherited segments only. In 2025 most of these panels required both copies to carry an Indigenous assignment; Cuba and Haiti & Dominican Republic instead combined single Indigenous-assigned chromosomes from different people. In 2026 the rule uses one or both copies [S4 pp. 6–7], [S3 p. 5].
 
+**Compare regional percentages across the 2025 AncestryDNA update.** Keep Ancestral Journeys out of the regional change table and log any Journey changes separately by capture date [S38, from the available excerpt], [S39], [S25].
+
+**Record how AncestryDNA expanded the 2025 reference panel.** Ancestry supplemented testers with documented roots by adding genetically close testers with similar Origins results, including testers without linked trees [S38, from the available excerpt], [S39], [S4 section 2.2]. Record this in the 2025 method row when explaining changed percentages for the same kit.
+
 **Compare MyHeritage Genetic Groups by group name.** The v0.95-to-v2.5 release revised the Ethnicity Estimate and carried over the Genetic Groups algorithm [S32]. Use group membership as a separate geographic clue. The ethnicity heading a group sits under can change between versions [S5].
 
 **Compare MyHeritage Ancient Origins reports in their own log.** Match the report and time period for the same kit and record each capture date. Before interpreting a change, check for additions to the sample database or research updates that may have affected the report [S36 @2026-11-20], [S37 @2026-11-20].
@@ -114,6 +118,8 @@ The tester's DNA did not change between versions; the vendor's method did. Ask f
 If v0.95 shows **Scandinavian**, add the **Swedish**, **Norwegian** and **Danish** percentages shown for the same kit in v2.5 and compare that subtotal with the old Scandinavian share [S32].
 
 ## 5. Sort every change into a known update effect before calling it new
+
+**Check for a newly available reference population.** If the new label fits a documented family location, check both releases’ reference-panel lists and maps for a new panel covering that place [S40, from the available excerpt], [S25]. AncestryDNA’s 2025 panel list had no separate Belgium entry, and its Southeastern England & Northwestern Europe map covered Belgium [S4 table 2.1 and fig. 4.2]. The 2026 panel list includes Belgium [S3 table 2.1]. In the same kit’s results, check whether the new region gained share as overlapping older regions lost it. Record added panel coverage as a possible explanation for that shift.
 
 Work from the broadest level down. Stop at the first pattern that explains the change [S11].
 
