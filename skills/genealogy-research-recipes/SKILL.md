@@ -309,6 +309,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/familysearch-research-wiki-locality-routing.md` — Use FamilySearch Research Wiki jurisdiction and record-type pages to locate online and offline holdings before running a name search.
 - `recipes/rootstech-on-demand-session-recovery.md` — Find a relevant RootsTech session across location, language and speaker filters and check for a recording or downloadable handout.
 - `recipes/rootsweb-broken-link-recovery.md` — Recover a vanished RootsWeb publication, society page or tree lead through archived URLs and successor hosts.
+- `recipes/elephind-historical-newspaper-search.md` — Choose Elephind’s keyword or semantic search, check the indexed newspaper title and verify the article at its host.
 
 ### Books, periodicals and manuscripts
 
