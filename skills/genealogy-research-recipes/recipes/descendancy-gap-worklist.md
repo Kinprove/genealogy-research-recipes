@@ -10,7 +10,7 @@ guardrails: [{"id": "DESCENDANCY-GAP-WORKLIST-01", "text": "An empty field leave
 handoff: ["gedcom-research-export"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": ["contact"]}
 router: {"section": "Research method", "group": "Family trees and research planning", "order": 14}
 ---
 
@@ -22,7 +22,11 @@ Use this recipe when you are researching downward from an ancestor who is alread
 
 Turn an empty spouse, death or children field into an open research question. An adult with no recorded marriage may have a spouse or children missing from this tree. Add the marriage or household search to the worklist [S1]. Describe a person as never married or childless only when a source supports it or the search satisfies the negative-evidence gate in the closing section. Cite the evidence for that conclusion.
 
+Keep a recent branch open when it stops at the edge of a public tree. A tree can withhold living profiles from public view, as FamilySearch's public user trees do [S18 @2026-11-22] [S19 @2026-11-22]. Record where the visible line stops and use only the user's supplied materials for anyone who may be living, under the [Living people rule](../SKILL.md#living-people).
+
 ## Flag the three gap patterns
+
+For a paper review, have the user print a descendant chart on their own printer and mark each gap beside the person or couple it belongs to [S17]. Turn each mark into a worklist row with a specific record target.
 
 Go through the whole descendancy view and flag every person who fits one of these patterns [S1], [S2]:
 
@@ -38,6 +42,8 @@ Check each flagged person's source count before you start research. Do the peopl
 
 For each person on the list, record: person ID, gap type, source count, lifespan or birth-to-last-known span, the records that span crosses, and the first targets to check.
 
+When a historical death notice gives a grandchild count, group the known grandchildren by their parents and match them against the heirs named in the probate file. Count each grandchild once. Check whom the notice counts and what role each person has in the probate record before comparing totals [S8, S25]. A probate list may name a surviving child while leaving that child's own children unnamed [S8, S24]. If the notice's total still exceeds the number accounted for, rank branches with incomplete child lists higher and search their birth, baptism or household records. Keep the discrepancy open until you can explain it [S24].
+
 ## Tie each gap to the records its span crosses
 
 From each lifespan, list every census taken while the person was alive. Then mark each one as name-level, head-only, or largely lost. The name-level censuses that survive are the first targets [S1]. In the U.S., the censuses from 1790 to 1840 name only heads of household, so anyone else appears only as an unnamed tally in the household where they were counted [S4]. The 1890 population schedule was mostly destroyed after the January 1921 Commerce Department fire. Check the surviving fragments, but expect a gap between 1880 and 1900.
@@ -50,6 +56,8 @@ Build a census timeline from the person’s dates and jurisdiction:
 Work out the list from each person's own dates and jurisdiction. Do not reuse these lists as fixed defaults. The presenter calls people in this period comparatively accessible because these censuses exist, and treats that as a factor in choosing whom to research first [S1]. Rank them accordingly.
 
 If a cousin branch stalls and the child list comes from nineteenth-century census households, add the intervals between enumerations to the worklist. Search birth and baptism records by the parents' names, and check death and burial records for children who could have been born and died between counts [S13, S14]. For a possible U.S. death in the year before the 1850, 1860, 1870 or 1880 census, check that census's mortality schedule too [S15].
+
+When a historical child list comes from family accounts, search the birth or baptism registers under both parents' names for every year of the couple's documented residence, including years the family account assigns to no child [S21, S22]. Use the parish or civil district for each residence and log gaps in register coverage [S23].
 
 Censuses are not the only targets. Lineage-society applications can carry documented descendant lines. For example, Sons of the American Revolution membership applications require the applicant to prove direct descent from a Patriot [S3]. Use the documents an application cites as leads for each generation of the descendant line.
 
@@ -69,6 +77,12 @@ For the 10 Million Names Patriots of Color study, start the sweep from the patri
 ## Close, open or correct each family
 
 In the final review of each cousin branch, check for omitted divorces and remarriages. For deceased people, check marriage records and use newspaper divorce notices as leads to court records [S13, S14]. Log the documented events and reconcile the child lists across the unions. Record the earlier and later surnames at each documented marriage-related name change and carry both into the branch's search targets [S13, S14]. For anyone who may be living, follow the [Living people rule](../SKILL.md#living-people) and work from materials the user supplied.
+
+If the records leave a couple's child list incomplete, follow each spouse's historical sibling lines to see which branches might have inherited family papers. Check the materials the user already supplied for notes, Bible entries or photo captions that name children. Add each name as a lead to verify in the records [S18, S20]. For a parentage question, use the user's supplied materials to identify whether a newly documented child line offers a possible DNA comparison [S20]. Evaluate that comparison with [unknown-parentage analysis](unknown-parentage-wato.md).
+
+**Privacy gate:** <!-- privacy-gate: contact --> Before contacting the relative, clear the gate for the family-history question and any identifying details sent to that relative. Limit the first message to the question about the deceased household and any necessary details about the recipient.
+
+Ask the relative whether they hold notes, Bible entries or captioned photographs about the historical household [S18, S20]. Use a route permitted by the [Living people rule](../SKILL.md#living-people). Stage the message and log it using the consent and disclosure rules in [DNA match outreach staging](dna-match-outreach-staging.md).
 
 Give every family in the sweep log one status:
 
