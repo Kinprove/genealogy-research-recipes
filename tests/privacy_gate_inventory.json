@@ -5806,5 +5806,17 @@
   "kind": "request",
   "action": "place a bibliographic order for the historical volume",
   "checkpoint": "sends the ordering researcher's account or contact details"
+ },
+ {
+  "recipe": "finnish-newspaper-serial-recovery.md",
+  "kind": "third-party-tool",
+  "action": "try the title and the signature in separate queries",
+  "checkpoint": "A search with a signature, pen name or other identifying term sends it to the Digi digitized publications service."
+ },
+ {
+  "recipe": "finnish-newspaper-serial-recovery.md",
+  "kind": "third-party-tool",
+  "action": "try the same signature plus the dispatch locality",
+  "checkpoint": "A search across other newspapers sends the signature and dispatch locality to the Digi digitized publications service if you use those terms."
  }
 ]

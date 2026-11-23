@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery", "swedish-military-record-routin
 checked: null
 checked_basis: null
 capabilities: {"browse": ["catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 176}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 177}
 ---
 
 # Trace a royal marriage permission in Swedish-era Finland
