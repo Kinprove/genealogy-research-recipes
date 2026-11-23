@@ -311,6 +311,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/rootsweb-broken-link-recovery.md` — Recover a vanished RootsWeb publication, society page or tree lead through archived URLs and successor hosts.
 - `recipes/elephind-historical-newspaper-search.md` — Choose Elephind’s keyword or semantic search, check the indexed newspaper title and verify the article at its host.
 - `recipes/filae-historical-record-search.md` — Choose the Filae collection that covers a French event, narrow by relatives and carry the result to the underlying record.
+- `recipes/finland-astia-creator-and-material-search.md` — Find a Finnish National Archives holding by separating the record creator from the material description and checking the resulting archive hierarchy.
 
 ### Books, periodicals and manuscripts
 
