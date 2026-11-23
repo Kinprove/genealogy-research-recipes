@@ -4630,5 +4630,41 @@
   "kind": "request",
   "action": "Request the undigitized act from the holding BAnQ centre",
   "checkpoint": "Before sending the parties’ names or the act locator to the holding BAnQ centre"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "For 1896 in present-day Seine-Saint-Denis, search the dedicated MyHeritage collection",
+  "checkpoint": "A census name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "If needed, search the separate FamilySearch collection for 1896",
+  "checkpoint": "A census name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the city-specific Paris census index for 1926, 1931 or 1936",
+  "checkpoint": "A census name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Try the Archives de Paris index by name or historical address",
+  "checkpoint": "A census name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the Calvados or Rhône Military Registration Cards for the recruitment place",
+  "checkpoint": "A recruitment name search sends the recruit's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the free France, Military Death Index, 1914–1961 on MyHeritage",
+  "checkpoint": "A military death index query sends the deceased candidate's name"
  }
 ]
