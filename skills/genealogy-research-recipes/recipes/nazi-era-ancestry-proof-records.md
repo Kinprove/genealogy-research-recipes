@@ -16,7 +16,7 @@ router: {"section": "Records by country and region", "group": "Germany", "order"
 
 # Find and read a Nazi-era ancestry proof as a certified copy of register entries
 
-Use this recipe when a German family holds an Ahnenpass, an Ahnentafel or a 1930s certified register extract, or when an ancestor of 1933–1945 was a teacher, civil servant, farmer on an Erbhof, NSDAP, SA or SS member, SS bride, or member of the Reich Chamber of Culture. It also applies when an image, card or index you use was made by a Nazi-era Sippenamt project. These documents were produced to enforce racist law. Their racial categories are the regime's classifications and are never evidence of anything about a person. Their entries were copied from parish and civil registers and must be checked against those registers. The recipe prevents these failures:
+Use this recipe when a German family holds an Ahnenpass, an Ahnentafel or a 1930s certified register extract, or when an ancestor of 1933–1945 was a teacher, civil servant, farmer on an Erbhof, NSDAP, SA or SS member, SS bride, or member of the Reich Chamber of Culture. Also use it for an applicant to the Allgemeine SS, for a family-held set of birth certificates issued in the Protectorate of Bohemia and Moravia, or when an image, card or index you use was made by a Nazi-era Sippenamt project. These documents were produced to enforce racist law. Their racial categories are the regime's classifications and are never evidence of anything about a person. Their entries were copied from parish and civil registers and must be checked against those registers. The recipe prevents these failures:
 
 - asking an archive for "the Ariernachweis", which no central archive ever held
 - searching the Berlin Document Center holdings under an ancestor's name instead of the applicant's
@@ -103,6 +103,10 @@ Link out for the shared steps:
 - **Farmer on an Erbhof.** The proof reached 1800, for the spouse too [S9]. Ask the state archive that holds the local Amtsgericht's records for the Anerbengericht's Erbhof files, for example a 1934–1944 series of Erbhofregisterakten [S22].
 - **Doubtful case.** The Reichssippenamt holding, R 1509, contains few individual cases; the office gave assessments [S1]. Look for the Abstammungsbescheid in the family's papers and in the person's personnel file.
 - **Jewish household in 1939.** The Bundesarchiv holds the census supplementary cards on descent and education of 17 May 1939 [S1], [S2].
+
+**Allgemeine SS applicant.** Use the applicant search in section 6 to locate the RuSHA file. Check it for an SS-Aufnahmegesuch (admission application) and any accompanying Ahnentafel even if you have no evidence of a marriage [S47], [S48]. For applications from December 1937, look for the kleine Ahnentafel documenting the applicant's line through the grandparents [S49]. Verify admission separately using evidence such as an SS membership card [S49].
+
+**Family certificates from the Protectorate of Bohemia and Moravia.** If the family holds birth certificates from several generations that were all issued during the Protectorate, keep them together as a possible ancestry-proof packet [S50], [S51]. Look among the accompanying papers for a matching *Prohlášení o rodovém původu* (declaration of ancestry). For a public employee, check the personnel file for that declaration. The 1940 instructions directed offices to file the declaration with the personnel papers and return the supporting certificates to the employee [S51]. Record the purpose of the bundle only when its paperwork identifies it.
 
 ## 6. Search the Berlin Document Center holdings by the applicant only
 

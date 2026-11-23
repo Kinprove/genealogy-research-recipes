@@ -54,6 +54,17 @@ The decision order, the applicant-only search rule as a search plan, the certifi
 
 - **S46:** Sächsisches Staatsarchiv, [Bestand 22310, collection history](https://www.archiv.sachsen.de/archiv/bestand.jsp?bestandid=22310&oid=13.01&syg_id=243013). Saxon State Archives collection history read 2026-11-19.
 
+- **S47:** Stephen Wendt, [A Guide to German Genealogy Research](https://familytreemagazine.com/heritage/german/a-guide-to-german-genealogy-research/), Family Tree Magazine (first posted December 2024). Community article read 2026-11-22. The section on records from Nazi Germany points readers to ancestry charts submitted by applicants. Its broad description of the organisation and of application contents is scoped against S48 and S49.
+
+- **S48:** Berlin Document Center, [The Holdings of the Berlin Document Center: A Guide to the Collections](https://www.academia.edu/628956/The_Holdings_of_the_Berlin_Document_Center_A_Guide_to_the_Collections) (1994), pp. 53–54. RuSHA file description read 2026-11-22 in the hosted text. The guide lists admission applications, ancestry charts and marriage applications among the documents found in RuSHA files. It describes the contents of the historical collection.
+
+- **S49:** Bastian Hein, [Himmlers Orden. Das Auslese- und Beitrittsverfahren der Allgemeinen SS](https://www.ifz-muenchen.de/heftarchiv/2011_2_4_hein.pdf), *Vierteljahrshefte für Zeitgeschichte* 59, no. 2 (2011), pp. 277–279. Published article text on selection and admission read 2026-11-22. Used for the December 1937 rule on the small chart through the grandparents and the distinction between application and admission.
+
+- **S50:** Předcůvky, [Jak začít pátrat po předcích, 1. díl](https://predcuvky.opinio.cz/jak-zacit-patrat-po-predcich-1-dil), 2024-02-10. Community post read 2026-11-22. The post points readers to sets of Protectorate-era birth certificates kept in family papers for ancestry proof. It gives no individual packet or test for determining why a specific set was assembled.
+
+- **S51:** Protectorate Ministry of the Interior, [Circular B-3393-1/8-40-3 of 13 August 1940](https://old.eustory.cz/files/files/ARCHIV_PRACI/04_Ortova_o.pdf), reproduced in the appendix to Nikola Ortová's *Osud rodiny Neumannovy na pozadí antisemitského Kralupska*. Circular sections III.1–2 and III.5 read 2026-11-22. Used for birth, baptism and marriage records as supporting paperwork, the declaration of ancestry, its filing with public employees' personnel papers and the return of submitted certificates.
+
 ## Credits
 
 - Kinprove original procedural synthesis, drawn from German genealogical society blog posts, forum threads and recorded talks (S24 to S41) and checked against a Bundesarchiv information sheet and published article, Bundesarchiv holdings and request pages, the Bundesarchiv law, NARA pages on the Berlin Document Center films and datasets, state-archive catalogue entries, Archion, EHRI, JewishGen, a 1938 document edition of the Dokumentationsarchiv des österreichischen Widerstandes, a database project page and German Wikipedia articles, cited as S1 to S23, and against the Bavarian Archives Act, cited as S42 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis for Allgemeine SS applications and family-held Protectorate certificates, prompted by Family Tree Magazine and Předcůvky and checked against the Berlin Document Center guide, Bastian Hein's archival research and the Protectorate Ministry of the Interior circular (S47 to S51) — FSL-1.1-MIT (kinprove-original)
