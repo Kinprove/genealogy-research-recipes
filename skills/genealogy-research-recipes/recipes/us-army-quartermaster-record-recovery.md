@@ -24,6 +24,8 @@ According to the presenter, use §92.1 of the Guide to Federal Records to identi
 
 According to the presenter, search the supply and accounting records by the date, place, goods or service and contractor name [S1† @2026-11-20]. Use the series descriptions for contracts, fiscal records and correspondence to find the transaction, and keep any supply order separate from a record of delivery or payment [S2 @2026-11-20].
 
+According to the presenter, check RG 92 for an expedition supply lead [S15† @2026-11-22]. Search entries 189 and 190 for supply correspondence, telegrams and related papers for a proposed expedition during the Mexican Revolution [S16 @2026-11-22]. For the 1916–1917 Mexican Punitive Expedition, check the indexed headquarters correspondence and the telegrams in RG 395 (§395.7.1) [S17 @2026-11-22].
+
 According to the presenter, a hospital lead in these records should first be treated as a facilities question [S1† @2026-11-20]. Search the construction, repair or supply series by installation and dates. For an officer, use the separate personnel and correspondence series [S2 @2026-11-20].
 
 According to the presenter, check the main series of letters sent by the Office of the Quartermaster General on microfilm M745 [S1† @2026-11-20]. Use the calendar date and office to narrow the volume, and carry any recipient and subject into the correspondence search [S2 @2026-11-20].
