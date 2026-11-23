@@ -5512,5 +5512,11 @@
   "kind": "contact",
   "action": "In a cleared first message to a possible birth parent, limit the tester's birth date to the year",
   "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "durham-home-guard-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s England, Durham Home Guard index",
+  "checkpoint": "sends the volunteer’s details to MyHeritage or Discovery"
  }
 ]

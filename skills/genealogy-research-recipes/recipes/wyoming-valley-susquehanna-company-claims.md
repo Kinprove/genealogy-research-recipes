@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "deed-content-relationship-clues", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 187}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 188}
 ---
 
 # Trace a Wyoming Valley settler or claimant through the Susquehanna Company
