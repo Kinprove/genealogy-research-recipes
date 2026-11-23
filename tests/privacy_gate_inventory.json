@@ -5134,5 +5134,11 @@
   "kind": "third-party-tool",
   "action": "search the BT 27 outward passenger lists",
   "checkpoint": "A British outward-list query sends the passenger’s name"
+ },
+ {
+  "recipe": "xdna-phasing-judgment.md",
+  "kind": "contact",
+  "action": "If a new test would resolve a specific gap, stage a private request to test",
+  "checkpoint": "A private test request goes to the prospective tester and discloses the sender's identity and the recipient's own possible relationship"
  }
 ]
