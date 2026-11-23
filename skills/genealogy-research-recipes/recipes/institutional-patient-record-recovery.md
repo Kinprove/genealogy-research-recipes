@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 238}
+router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 239}
 ---
 
 # Recover an asylum or state-hospital patient through custodians, courts and newspapers
