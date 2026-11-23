@@ -91,6 +91,13 @@ person's ethnicity from the administrative boundary.
 
 Search town, uezd and guberniya inventories, including the treasury chamber. Check whether an uezd list includes its principal town before recording a negative. A forum source raises that question for the 1874 Vitebsk guberniya lists of Jewish men [B1]. In another discussion a researcher reports that a file catalogued simply as an undated Gomel uezd revision may contain lists of Jewish men [B2]. Record the title as written and inspect the pages. Also copy the exact registration society from the person’s record. A burgher designation alone establishes neither a separate Jewish society nor residence in the place of registration.
 
+For revision lists from Kremenets district, Volhynia guberniya, use present-day Ternopil Oblast
+as a lookup lead [B9 @2026-11-22]. Search for `Кременецького повіту` in the State Archive of
+Ternopil Oblast's Kremenets City Magistrate inventory, fond 37, opys 2 [B10 @2026-11-22].
+For 1858, also check the two Zhytomyr cases indexed as Jewish revision lists, fond 118,
+opys 14, cases 142 and 144 [B11 @2026-11-22]. Keep the historical district in the search and
+check the locality and year of each candidate before using it.
+
 Search Jewish-society metrical-book inventories by society, year and event. The Streshin discussion lists separate 1880 marriage and death books under fond 2412, inventory 1, files 88 and 89, and identifies the rabbi of the second district (*stan*) of Rogachev uezd [B2]. Check Streshin alongside Rogachev, Zhlobin and Karpilovka in that district, then verify the locality and person in each entry. An inventory title alone cannot establish either.
 
 For 1941–44, also check occupation-administration creators, such as a district Gebietskommissariat
