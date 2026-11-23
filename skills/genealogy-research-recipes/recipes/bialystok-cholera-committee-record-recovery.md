@@ -11,7 +11,7 @@ handoff: ["polish-parish-and-civil-register-routing", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 73}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 74}
 ---
 
 # Trace Białystok households through the 1831 cholera committee papers

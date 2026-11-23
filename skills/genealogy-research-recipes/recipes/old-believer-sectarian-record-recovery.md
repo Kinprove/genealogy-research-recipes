@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 90}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 91}
 ---
 
 # Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds

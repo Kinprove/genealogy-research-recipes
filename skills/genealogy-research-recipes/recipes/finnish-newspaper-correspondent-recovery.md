@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "periodical-index-search-retrie
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 63}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 64}
 ---
 
 # Trace a Finnish newspaper correspondent across signatures

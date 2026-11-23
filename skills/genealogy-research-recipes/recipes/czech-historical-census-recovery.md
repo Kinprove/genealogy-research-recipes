@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing","historical-place-name-resolu
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":["request"],"contact":[]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 76}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 77}
 ---
 
 # Find and read historical Czech census schedules

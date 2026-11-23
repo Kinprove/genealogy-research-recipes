@@ -11,7 +11,7 @@ handoff: ["newspapers-com-search-recovery", "us-obituary-search-and-interpretati
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 57}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 58}
 ---
 
 # Search historical newspaper sections for family evidence

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 128}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 129}
 ---
 
 # Read Irish valuation, tithe and estate-rental lists as dated occupancy series

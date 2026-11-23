@@ -5752,5 +5752,17 @@
   "kind": "third-party-tool",
   "action": "Run a separate text search in the digitized issues",
   "checkpoint": "The queries send a deceased writer's name, pen name or dispatch locality to the Finnish newspaper or Translocalis service."
+ },
+ {
+  "recipe": "finnish-online-news-version-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the exact public URL",
+  "checkpoint": "A capture lookup sends the article URL"
+ },
+ {
+  "recipe": "finnish-online-news-version-recovery.md",
+  "kind": "publish",
+  "action": "Submit the verified public article URL",
+  "checkpoint": "A public web capture sends the URL"
  }
 ]
