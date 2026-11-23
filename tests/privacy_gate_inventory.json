@@ -5194,5 +5194,17 @@
   "kind": "third-party-tool",
   "action": "In MyHeritage AI Biographer, choose **Standard**",
   "checkpoint": "AI Biographer can send the subject’s and named relatives’ biographical details"
+ },
+ {
+  "recipe": "arolsen-confiscated-effects-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the Arolsen Archives’ effects collection, DE ITS 1.2.9,",
+  "checkpoint": "The historical prisoner’s name or recorded nationality goes to the Arolsen Archives search."
+ },
+ {
+  "recipe": "arolsen-confiscated-effects-recovery.md",
+  "kind": "contact",
+  "action": "Contact the Arolsen Archives restitution team before starting a",
+  "checkpoint": "The item reference, historical prisoner’s details and any consenting claimant’s details go to the Arolsen Archives restitution staff."
  }
 ]
