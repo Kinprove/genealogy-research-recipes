@@ -13,7 +13,7 @@
 - **S11:** Lisa Louise Cooke's Genealogy Gems, YouTube, [Native American Genealogy](https://www.youtube.com/watch?v=b2RjrHfuOx8), published 2021-10-28, read 2026-11-13. Used for: rolls as a point in time; ancestors who hid from agents.
 - **S12:** US National Archives, YouTube, [2025 Genealogy Series – Researching Native American Veterans in the National Archives, 1881–1966](https://www.youtube.com/watch?v=eTHBZc9X0bc), published 2025-05-21, read 2026-11-13. Used for: Fort Belknap agency records at NARA Denver; allotments in tract books.
 - **S13:** Mary Stevens Hunt, Vita Brevis (NEHGS), [Investigating My Family's Osage Headright](https://vitabrevis.americanancestors.org/investigating-my-familys-osage-headright), published 2024-11-01, read 2026-11-13. Used for: asking the agency early; a headright share as an asset, not proof of descent.
-- **S14:** National Archives, [Dawes Rolls](https://www.archives.gov/research/native-americans/dawes), publication date not shown, read 2026-11-13. Used for: application dates, categories, residence rule, custody, cards against applications, Freedmen definition.
+- **S14:** National Archives, [Dawes Rolls](https://www.archives.gov/research/native-americans/dawes), publication date not shown, read 2026-11-13. Used for: application dates, categories, residence rule, custody, cards against applications, Freedmen definition. Roll, census card and enrollment application sections reread 2026-11-22. These sections distinguish approved roll entries from census cards documenting households and applicants with other outcomes. The guide describes the Catalog search and how doubtful and rejected cards are arranged.
 - **S15:** National Archives, [Dawes enrollment records](https://www.archives.gov/research/native-americans/dawes/dawes-enrollment.html), publication date not shown, read 2026-11-13. Used for: D and R cards; rejected applicants without allotment jackets; earlier-roll notes and "1896 Case"; T529; the roll (enrollment) number and the census card number as separate Final Rolls columns; allotment jackets filed by enrollment number; Catalog search of the cards by name, tribe and card number.
 - **S16:** National Archives, [Guion Miller Roll](https://www.archives.gov/research/native-americans/guion-miller), publication date not shown, read 2026-11-13. Used for: the 28 May 1906 date, deadline, counts, late-receipt rejections, M1104 and M685.
 - **S17:** National Archives, [Indian Census Rolls, 1885-1940](https://www.archives.gov/research/census/native-americans/1885-1940.html), publication date not shown, read 2026-11-13. Used for: who is listed, gaps, supplemental years, 1930 content.
@@ -29,7 +29,7 @@
 
 The roll-selection table, the order of steps and the finding row are authored synthesis. The sources supply the rules, dates, counts and examples.
 
-### Sources S27–S42
+### Sources S27–S44
 
 - **S27:** the-family-history-guide-blog, [Access – The Real Genealogical Challenge](https://www.thefhguide.com/blog/access-the-real-genealogical-challenge/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 
@@ -63,7 +63,12 @@ The roll-selection table, the order of steps and the finding row are authored sy
 
 - **S42:** National Archives, [Indian Census Rolls](https://www.archives.gov/research/native-americans/census/research-indian-census.html). Access guide read 2026-11-20. Lists the Catalog and partner routes for M595 under the standard 1885–1940 title. Partner image access and account entitlements were outside the scope of this check.
 
+- **S43:** MyHeritage Blog (community), [MyHeritage Publishes 65 Million Records in November and December 2022](https://blog.myheritage.com/2023/01/myheritage-publishes-65-million-records-in-november-and-december-2022/), published 2023-01-17. Dawes collection entry read 2026-11-22. The announcement introduces an approved-enrollee index and describes the fields it typically returns.
+
+- **S44:** MyHeritage, [Oklahoma Dawes Rolls, 1898-1914](https://www.myheritage.com/research/collection-20311/oklahoma-dawes-rolls-1898-1914). Public collection description and search form read 2026-11-22. The description limits the collection to approved enrollees of the Five Tribes and lists age, blood degree, tribe and household members among the typical fields. Individual results and account access were outside this check.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on Ancestry videos, BlackProGen LIVE episodes by Nicka Smith, Legacy Tree Genealogists, a 2013 text by Johni Cerny reposted by Price Genealogy, posts by Roberta Estes, Family Locket podcast posts, a Genealogy Gems video, a National Archives video and a Vita Brevis post by Mary Stevens Hunt (S1 to S13); rolls, eligibility rules, custody and counts checked against National Archives, Bureau of Indian Affairs, Cherokee Nation, Eastern Band of Cherokee Indians, United Keetoowah Band and Choctaw Nation pages and one secondary site (S14 to S24) — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
+- Kinprove original index lookup and application follow-up drawing on the MyHeritage Blog announcement (S43), the MyHeritage collection page (S44) and the National Archives Dawes guide (S14) — FSL-1.1-MIT (kinprove-original)
