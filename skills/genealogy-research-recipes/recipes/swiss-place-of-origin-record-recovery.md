@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "catholic-parish-diocesan-record-r
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 153}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 154}
 ---
 
 # Trace a Swiss family through its place of origin

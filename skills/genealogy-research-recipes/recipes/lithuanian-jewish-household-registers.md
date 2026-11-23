@@ -11,7 +11,7 @@ handoff: ["jewishgen-search-family-reconstruction"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 107}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 108}
 ---
 
 # Recover Lithuanian-Jewish household and residence register evidence

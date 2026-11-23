@@ -11,7 +11,7 @@ handoff: ["british-army-first-world-war-service-records", "evidence-proof-judgme
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 138}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 139}
 ---
 
 # Recover a County Durham Home Guard enrolment record

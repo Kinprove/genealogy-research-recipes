@@ -11,7 +11,7 @@ handoff: ["published-book-catalogue-and-full-text-discovery", "land-index-book-s
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 187}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 188}
 ---
 
 # Test an Ark or Dove passenger claim in early Maryland records
