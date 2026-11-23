@@ -11,7 +11,7 @@ handoff: ["canadian-provincial-record-routing", "evidence-proof-judgment"]
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 195}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 196}
 ---
 
 # Find a cross-border enlistment in the Canadian Great War Project
