@@ -441,6 +441,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/french-succession-and-absence-tables.md` — Use a French registration-office index to distinguish a recorded death from declared absence and retrieve the referenced succession declaration.
 - `recipes/swiss-place-of-origin-record-recovery.md` — Distinguish Swiss communal citizenship from birthplace and residence, then choose the municipal, cantonal or parish record for the question.
 - `recipes/danish-census-household-recovery.md` — Find Danish census households by name or historical address and read household position and occupation against the schedule for each census year.
+- `recipes/finnish-astia-archival-image-recovery.md` — Find a Finnish register image after an Astia miss by checking the series tree, contributor indexes and item access separately.
 
 ### United States: people, vital and church records
 
