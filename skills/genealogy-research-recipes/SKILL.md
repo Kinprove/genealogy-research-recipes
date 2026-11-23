@@ -494,6 +494,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-social-security-application-recovery.md` — Choose between a Social Security death index, Numident extract and original SS-5 when researching a deceased person’s birth or parents.
 - `recipes/us-historical-passport-application-recovery.md` — Find U.S. passport applications through March 1925 and separate recorded identity, companions and planned travel from the journey itself.
 - `recipes/declaration-signer-descendant-records.md` — Find lineage leads for a named Declaration signer in the Leach manuscripts and the indexed society application files.
+- `recipes/great-miami-hurricane-family-records.md` — Test a reported death, injury or displacement after the 1926 Great Miami Hurricane through named casualty lists, vital records and later households.
 
 ### United States: military, land, courts and law
 

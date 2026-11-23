@@ -11,7 +11,7 @@ handoff: ["family-photograph-attribution-and-dating", "family-collection-intake-
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 275}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 276}
 ---
 
 # Organize historical photo scans by date evidence in Mylio Photos
