@@ -4432,5 +4432,11 @@
   "kind": "contact",
   "action": "Report a suspected scan omission to the archive",
   "checkpoint": "A scan-gap report sends record locators"
+ },
+ {
+  "recipe": "canadian-arrival-record-routing.md",
+  "kind": "request",
+  "action": "request the arrival record from Immigration, Refugees and Citizenship Canada",
+  "checkpoint": "IRCC receives the immigrant's identifying details, arrival information and any required consent or eligibility documents"
  }
 ]
