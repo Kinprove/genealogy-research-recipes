@@ -5326,5 +5326,11 @@
   "kind": "contact",
   "action": "sign the request for ABMC to review",
   "checkpoint": "A family marker correction request shares the deceased service member’s grave locator"
+ },
+ {
+  "recipe": "cemetery-survey-and-transcription.md",
+  "kind": "publish",
+  "action": "deposit the finished survey with a local genealogy society or library",
+  "checkpoint": "can make the inscription index, maps and images available to readers"
  }
 ]
