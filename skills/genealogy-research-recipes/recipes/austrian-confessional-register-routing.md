@@ -10,7 +10,7 @@ guardrails: [{"id": "AUSTRIAN-CONFESSIONAL-REGISTER-ROUTING-01", "text": "**Do n
 handoff: ["archival-image-coverage-verification", "burial-evidence-packet", "catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historic-hungary-record-routing", "historical-place-name-resolution", "jewish-genealogy-conditional-hypotheses"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images", "MyHeritage Opava indexes"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage Opava and Vienna indexes"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 60}
 ---
 
@@ -63,6 +63,8 @@ This step does not cover Burgenland, which was Hungarian until 1921. Burgenland 
 
 **Date a register's legal standing by confession.** A diocesan archive guide gives these dates. Protestant pastors were allowed registers from 1782, at first without public standing and with duplicates sent to the Catholic parish priest; they kept independent registers from 1830, and extracts from them were declared legally valid in 1849. Jews were required to keep the three registers by the patent of 20 February 1784, and their registers were given legal evidentiary force in 1868 [S13]. For a Protestant event before 1830, check the Catholic parish as well.
 
+**Browse Matricula's Austrian fonds after an empty place search.** Enter the event locality in *Search for Places* [S49 @2026-11-22]. According to Katherine Schober's interview, a place-search miss is a reason to try *Fonds* [S47† @2026-11-22]. Open *Fonds* → *Österreich*, choose the archive or diocese for the region and confession, then open the parish listing and check its book types and dates [S48 @2026-11-22], [S50 @2026-11-22], [S51 @2026-11-22].
+
 ## 2. In Vienna, fix the address before choosing the parish
 
 - **Do not search every Vienna parish.** Catholic parishes cover street-defined territories, so the district does not fix the parish. Take the address for the event year, then place it in the parish that covered that street. Check the parish against the event date with the Catholic recipe.
@@ -75,6 +77,10 @@ This step does not cover Burgenland, which was Hungarian until 1921. Burgenland 
 - **Look for a separate index volume on Matricula.** Vienna Catholic registers on Matricula include index volumes next to the year books; Döbling B-01, for example, is an "Index Trauungen" (marriage index) for 1783–1850 [S6]. Open the parish's volume list and search an index before you turn pages.
 - **Search GenTeam's Vienna databases.** GenTeam is free with a registered login. Its Vienna databases include Catholic baptisms (Katholische Taufen) and Jewish registers (Jüdische Matriken), with separate Catholic, Protestant and Jewish index groups [S7].
 - **Treat every index hit as a pointer.** Open the register image it points to and read the entry there before you record the event.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before sending names, dates or places of a subject or relative who may be living to MyHeritage's Vienna search, answer the privacy gate in `SKILL.md`.
+
+**Search the MyHeritage Vienna indexes by event.** For church marriages in 1850–1920, use *Austria, Vienna Church Marriages* (20425). Capture the wedding date and place, then compare the spouses' birth dates, ages and parents where indexed [S43 @2026-11-22], [S44 @2026-11-22]. For Catholic burials in 1850–1930, use *Austria, Vienna Catholic Church Burials* (21012). Look for the death date and burial place, then compare the birth date, age at death and names of parents or spouse where indexed [S45 @2026-11-22], [S46 @2026-11-22]. Use a hit to find the parish register entry. If the index comes up empty, continue with the address and parish route.
 
 ## 4. Search a Viennese withdrawal from Judaism in both communities
 
@@ -106,6 +112,8 @@ This step does not cover Burgenland, which was Hungarian until 1921. Burgenland 
 - **Use the archive's own viewer.** The Moravian Provincial Archive in Brno (Moravský zemský archiv, MZA) publishes the registers it holds in Acta Publica, filterable by church originator (Roman Catholic, Evangelical and others) and by civil registry office [S12]. Search the regional archive's online registers before you write to a parish.
 - **Read the volume type.** Czech register catalogues sort volumes by event: N (narození, births or baptisms), O (oddaní, marriages), Z (zemřelí, deaths) [S20]. Acta Publica writes the types out in full (Narození, Oddaní, Zemřelí), gives each index its own field (index narození, index oddaní, index zemřelí) and uses the letters in its notes, as in N+O [S19]. Open the index before paging through a year book. Search a woman's surname with the feminine -ová ending as well as the masculine form [S15].
 
+**Find Czech Jewish registers through the National Archives' [Jewish registers page](https://na.gov.cz/verejnost/badatelna/digitalni-badatelna/zidovske-matriky)** [S64 @2026-11-23]. Open the HBMa inventory (finding aid 1646) in [Archivní VadeMeCum](https://vademecum.nacr.cz/vademecum/permalink?xid=f86bf41ed11ae5f01740720eed9e0dbb) and choose *Listování v pomůcce* (*Browse this aid*) [S65 @2026-11-23]. Look for a volume that matches the community, event type and year. Use this route when a guide points to Badatelna [S63 @2026-11-23].
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Before you send MyHeritage names, dates or places of any subject or relative who may be living, answer the privacy gate in `SKILL.md`.
 
 **Search the MyHeritage Opava indexes by event type** [S38 @2026-11-21]. Search under the event locality. All three collections include some places now in Poland [S39 @2026-11-21], [S40 @2026-11-21], [S41 @2026-11-21].
@@ -115,6 +123,12 @@ This step does not cover Burgenland, which was Hungarian until 1921. Burgenland 
 - **Marriages, 1800–1945.** Search civil and church marriages. Compare both spouses' names and birth dates, the marriage date and place, and parents' names where indexed [S41 @2026-11-21].
 
 Use the event locality and date to locate the register even when the index search comes up empty. For volumes held by the Provincial Archive in Opava, search *Matriky* in Digitální badatelna and check whether the volume has scans [S42 @2026-11-21]. Verify any index hit in the register entry.
+
+**Follow the confession and place named for each ceremony in a church-periodical report.** For a mixed-confession marriage, start with the church named for the wedding and work back from the report date when it gives a relative date. Treat a proposed second ceremony as a separate lead. If the report names the child's baptismal confession but gives only the settlement, identify the parish of that confession serving the settlement before searching. Use the reported ceremony to choose the first register even when a parent belonged to another confession [S52].
+
+**Check both the Evangelical and Catholic death registers for an Evangelical death during the period of parallel recording before 1849.** Look in the Catholic parish that served the locality even if you already have an Evangelical entry, and look for the Evangelical book even if you already have a Catholic entry. Compare the details and log which series survives for the locality and date. The Chleby comparison shows that the two entries can give different accounts, and the Bystřice nad Olší comparison found some Evangelical deaths only in the Catholic books [S53], [S54].
+
+**Use the Acta Publica originator to check village coverage.** When a marriage note gives what appears to be a parish seat, search *Vyhledávání podle původce* for that parish and click the number in the *Obce* column of the candidate marriage book to see all localities it covers [S56 @2026-11-22]. Use the village named for the bride as the first section to check when the book is arranged by village. Keep the parish-seat section and other covered villages as alternatives [S55 @2026-11-22].
 
 These steps cover a portal's limits on automated reading, an entry that is still closed, how a volume is arranged, later notes on an entry, and sources outside or older than the registers.
 
@@ -126,13 +140,31 @@ These steps cover a portal's limits on automated reading, an entry that is still
 
 - **Find out how a volume is arranged before you jump by year.** A volume can hold several villages and record types in separate stretches, and you usually have to page through the images to find where each one begins [S27]. Porta fontium's volume page gives the order of the records and often the pages in each section [S27]; other portals may not. A jump by year can land in another village's stretch, so log which stretches you read. A "not found" covers only those.
 
+- **Search both parishes for a baptism near the start of a separate register series.** For a Bošilec-area baptism around 1675–1676, check both Bošilec and Veselí nad Lužnicí [S66]. In the Třeboň archive, start with Bošilec register 1 (births 1675–1707). Veselí nad Lužnicí index 22 points to that Bošilec book [S67], [S68]. For the other original register, read Veselí nad Lužnicí book 1 (births 1641–1679) for the event village [S68]. Log both searches before treating the baptism as missing.
+
 - **Follow a marriage note from the baptism entry.** A note beginning *Getraut*, *Oddán* or *Cop.* records a marriage [S22]. Copy it word for word, decide from its wording and dates whose marriage it records, and open the marriage entry it points to. Use [Catholic baptism–marriage cross-notations](catholic-sacramental-cross-notations.md) to weigh it.
+
+- **Route the parent's birth from the children's entries and the parents' marriage.** Compare any birth dates and villages those entries supply for the parent. A village may have its own section under a different parish name. Use the parent's birth village and year to select the parish birth register [S55].
+
+- **Use a death annotation in a birth entry to find the death register.** Take the date and locality from the annotation and route the death through the parish covering that locality at the death date. Keep the birth annotation and the death entry as separate observations [S57].
+
+- **Keep the birth and baptism dates separate.** Read the event label or column heading in a Czech parish book, including in books kept as public records after the 1784 reforms. When the entry gives only a baptism date, log it as baptism and leave the birth date open [S58], [S59].
+
+- **Check the burial narrative for the cause of death in pre-1784 books.** Read the whole entry, including when the book has no separate cause-of-death column. The Mýto 02 burial entries for 1738–1741 start at page 530 and include an account of a death that would be missed by looking only for a dedicated field [S60], [S62].
+
+- **Look for the parish's loose death reports in district archive finding aids.** If the death entry points to a supporting paper or leaves a material detail unclear, search the parish-office fonds by parish name and look under *úmrtní lístky* (death slips). Record the fonds and inventory number separately from the register locator [S60], [S61].
 
 - **Keep a legitimation note separate from the original entry.** A Czech legal dictionary cites a decision of 7 June 1877: a completed legitimation must be noted in the birth register, with the father's name entered and the parents' marriage mentioned [S23]. Record the entry as first written and the later note as two observations, then find the marriage.
 
+- **Follow an authorised surname change from the birth-register note.** Record both surnames for the same person. Use the original surname for records before the decision and the authorised surname for later records, checking both forms around the change. Copy the issuing authority, decision date and decree number from the note and use them to look for the decision in the authority's records [S69]. Keep the dated note and any decision you recover as separate observations.
+
 - **Do not read the mother's father as the child's father.** The father's name is normally missing from the entry of a child born outside marriage [S24], but the mother's column can still name her own parents, as *Tochter des* (daughter of) [S22]. A man named there is the child's maternal grandfather.
 
+- **Match a foundling's baptism and death by given names and abandonment details.** Compare all given names, the dates and the recorded abandonment place across both entries. In Mýto 02 (scans 133 and 251, 18 and 29 July 1733), the published transcriptions match on both given names and the window where the child was left, although the death entry omits the baptismal surname [S62], [S70]. Read *k opatrování* in a magistrate's placement order as an assignment of care. Record the appointed caregiver or wet nurse in that role and read the abandonment clause separately for what it says about the mother [S70].
+
 - **For Prague in 1850–1918, get birth details from the police registration sheets.** The National Archives' [conscriptions database](https://na.gov.cz/en/for-public/research-room/digital-research-room-archival-records-on-line/conscriptions-1850-1918) holds 664,651 sheets indexing 2,054,852 person records [S25 @2026-11-09]. A sheet gives the year and place of birth, religion, a married woman's maiden name and the household [S25 @2026-11-09]. Use the birthplace to choose the parish. Names are transcribed as written, so search variants such as Čapek, Czapek and Tschapek; a move to another Prague quarter made a new sheet, and sheets can disagree [S25 @2026-11-09]. The archive's list of covered areas includes Karlín and Smíchov but not Žižkov or Vinohrady [S25 @2026-11-09], so a miss for someone living in either says nothing.
+
+- **For a deceased Prague resident, check the municipal population register when a police sheet is missing or disagrees.** The two series ran in parallel [S73 @2026-11-23]. Open the Prague City Archives' [Soupis pražského obyvatelstva guide](https://www.ahmp.cz/index.html/povstani/povstani/eng/index.html?mid=83) and follow its link to the *Archivní katalog* [S72 @2026-11-23]. Search the digitised cards in the older series (1830–1910) under the surname of the person with domicile rights. A wife or child may appear on the husband's or father's card [S72 @2026-11-23]. Open the card, list the household members shown there and compare the birth details or house numbers with any police sheet [S71 @2026-11-23], [S72 @2026-11-23]. Use the birth details to narrow the register search when the police sheet is missing.
 
 - **For a soldier, get birth details from the Military Central Archive's databases.** Its [Databáze VHA](https://www.vuapraha.cz/databaze-vha/) page searches by surname, first name, place and date of birth across legionnaires, the dead of both world wars, members of Czechoslovak units abroad in the Second World War and the Czechoslovak home guard in Italy [S26 @2026-11-09]. Treat a hit as a pointer and confirm the birth in the register.
 
@@ -145,6 +177,8 @@ These steps cover a portal's limits on automated reading, an entry that is still
 - **In Moravia and Silesia, use their own cadastres; the 1651 list and the tax roll are Bohemian sources, and not every Bohemian region has a surviving 1651 list.** Moravia's counterpart to the tax roll is the lánové rejstříky (lán registers). They were revised in 1669–1679; the first version survives only in fragments, so the first complete Moravian cadastre is the so-called second lánové rejstříky. Silesia's is the Carolingian cadastre of 1721–1729, revised 1733–1739 [S29]. Inside Bohemia, check that the 1651 list survives for the region: the lists cover most of the Loket, Beroun, Rakovník, Čáslav, Hradec, Bydžov and Chrudim regions, and none survive in the central fond for the Slaný, Prácheň and Litoměřice regions, Kladsko or the Cheb region [S29]. A miss for a region without lists says nothing.
 
 - **To link generations, read the land books.** SOA Plzeň has published almost all its estate land books (pozemkové or gruntovní knihy) on Porta fontium: 6,083 volumes from 161 estate fonds, mainly for the Plzeň and Karlovy Vary regions, the oldest from 1558 [S30 @2026-11-09]. They name owners and often the relatives paid inheritance shares, and they record transfers, mortgages and marriage contracts [S30 @2026-11-09]. Elsewhere, check what the regional archive has put online.
+
+- **Pair the estate's subject list and land book when a Bohemian cottage-holder's origin is unclear.** For Nová Ves (Temešvár), check the 1717–1718 subject list (inventory 97, frame 27) [S75] and the village land book in the Chřešťovice estate fonds (inventory 51, V AU 1/8, frame 3) [S76], [S77]. Keep an estate name as an estate-level lead and leave an omitted origin open [S74].
 
 ## Close with a routing packet
 
