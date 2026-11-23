@@ -4324,5 +4324,35 @@
   "kind": "third-party-tool",
   "action": "Check MyHeritage for an approved enrollee.",
   "checkpoint": "A name query sends the deceased ancestor’s name to MyHeritage or the NARA Catalog."
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "link",
+  "action": "Enter that ID in the appropriate parent or spouse field",
+  "checkpoint": "The relatives’ memorial IDs and the asserted relationship go to Find a Grave"
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "link",
+  "action": "enter the parent’s ID on each child’s memorial",
+  "checkpoint": "The relatives’ memorial IDs and the asserted relationship go to Find a Grave"
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "upload",
+  "action": "open **Add Photos** on the memorial",
+  "checkpoint": "The document image, any caption and the contributor’s profile name go to Find a Grave"
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "publish",
+  "action": "enable **Messages** under **Account Settings → Notifications**",
+  "checkpoint": "Profile messaging exposes a contact button to other Find a Grave members."
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "publish",
+  "action": "turn on **Display my Email** in **Edit Profile**",
+  "checkpoint": "Profile messaging exposes a contact button to other Find a Grave members."
  }
 ]
