@@ -3,7 +3,7 @@ id: "state-archives-county-records-guides"
 title: "Inventory a U.S. county's records through the state archives' county guide"
 summary: "Read a state archives' county-records guide to see which series it holds for a U.S. county, as originals or microfilm, and choose how to retrieve each."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Virginia county records at the Library of Virginia", "North Carolina county records at the State Archives", "Pennsylvania county records and the State Archives", "records from before a county was formed", "printed guides to county records"]}
+scope: {"platforms": [], "tasks": ["Virginia county records at the Library of Virginia", "North Carolina county records at the State Archives", "Pennsylvania county records and the State Archives", "Illinois county records in IRAD", "records from before a county was formed", "printed guides to county records"]}
 privacy: "none"
 gates: []
 guardrails: [{"id": "STATE-ARCHIVES-COUNTY-RECORDS-GUIDES-01", "text": "A guide lists what that archives holds. It is not a list of what survives."}, {"id": "STATE-ARCHIVES-COUNTY-RECORDS-GUIDES-02", "text": "For an event before that date, search the parent county"}, {"id": "STATE-ARCHIVES-COUNTY-RECORDS-GUIDES-03", "text": "Check first whether the originals have been digitized since the guide appeared."}]
@@ -16,7 +16,7 @@ router: {"section": "Records by country and region", "group": "United States: mi
 
 # Inventory a U.S. county's records through the state archives' county guide
 
-Use this recipe at the start of research in a Virginia, North Carolina or Pennsylvania county, before you search its deeds, wills, court orders or marriage bonds, and again when an online search of the county finds nothing. Read the state archives' guide to its county holdings first [S2 @2026-11-16], [S10 @2026-11-16], [S14 @2026-11-16]. Build a table of the series it lists for the county, with the format of each, and let that format choose the retrieval route for each series.
+Use this recipe at the start of county research in the states covered in step 1, before you search deeds, wills, court orders or marriage bonds, and again when an online search of the county finds nothing. Read the state archives' guide to its county holdings first [S2 @2026-11-16], [S10 @2026-11-16], [S14 @2026-11-16]. Build a table of the series it lists for the county, with the format of each, and let that format choose the retrieval route for each series.
 
 ## Contents
 
@@ -45,9 +45,15 @@ Use the archives' current online guide first, and its printed edition for detail
 
 **Pennsylvania.** The State Archives does not have copies of all county records, and county records are in general still held by the counties [S13 @2026-11-16]. Its Digitized County Records Guide lists, county by county in PDF files, the digitized county records viewable in its public search room [S14 @2026-11-16]. Humphrey's guide is *Pennsylvania Research: County and Township Records* (PA Genealogy Books, 2006); only its catalogue record was checked, not its contents [S15 @2026-11-16].
 
+**Illinois.** Start with the Illinois State Archives for probate, military, vital and land research [S17 @2026-11-22]. For county series, select the county in the Illinois Regional Archives Depository (IRAD) Local Government Records Database. Leave **Title** blank for a county inventory or narrow it with a series term such as `PROBATE` [S18 @2026-11-22]. Try `birth`, `death` or `marriage` for local vital series [S21 @2026-11-22]. Copy the series title, accession number, date span and holding depository into the table [S19 @2026-11-22]. If the entry gives no format, mark it unknown and check in step 4.
+
+On the Illinois State Archives' Databases page, choose a military collection by conflict or open a statewide death or marriage index [S20 @2026-11-22]. For an initial public-land sale, use the Public Domain Land Tract Sales Database [S20 @2026-11-22], [S21 @2026-11-22]. For a later transfer, search IRAD for `deed` in the county and add the county recorder's deed holdings to the plan if IRAD lacks the relevant series [S21 @2026-11-22].
+
 ## 2. Fix the formation date and parent counties
 
 Take the county's formation date and parent counties from the guide before choosing records. For an event before that date, search the parent county: in Virginia the records for a new locality's area stayed with the parent locality [S2 @2026-11-16]. Highland County, for example, was formed in 1847 from Bath County and from Pendleton County, now in West Virginia [S3 @2026-11-16], so a family there before 1847 belongs in Bath or Pendleton records.
+
+For Illinois, open the county under **County Fact Sheets** on the IRAD regional map [S22 @2026-11-22].
 
 ## 3. Build the series table
 
