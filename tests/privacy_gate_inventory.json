@@ -4756,5 +4756,29 @@
   "kind": "publish",
   "action": "After confirming a Smart Match in the mobile app, save only supported information",
   "checkpoint": "The source facts and selected family relationships become available in the MyHeritage tree according to its visibility settings. Apply the [privacy gate](../SKILL.md#privacy-gate) before saving any data about people who may be living."
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search that surname with the townland on each headstone",
+  "checkpoint": "The deceased family members' surname and the locality terms in the query go to Newspapers.com."
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search its destination papers with the same surname and the Irish townland or county as keywords",
+  "checkpoint": "The deceased family members' surname and the locality terms in the query go to Newspapers.com."
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the family surname with `\"family reunion\"`",
+  "checkpoint": "The deceased ancestor's or veteran's name and any identifying search terms go to Newspapers.com."
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the veteran's name in issues around documented local commemorations",
+  "checkpoint": "The deceased ancestor's or veteran's name and any identifying search terms go to Newspapers.com."
  }
 ]
