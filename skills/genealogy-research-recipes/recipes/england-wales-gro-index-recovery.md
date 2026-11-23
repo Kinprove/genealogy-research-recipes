@@ -40,6 +40,12 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 
 ## Map the parish to its district for the period
 
+Civil registration in England and Wales began on 1 July 1837 [S56], [S58]. For an earlier birth,
+marriage or death, search parish registers for a baptism, marriage or burial [S57], [S58]. In
+Wales, check nonconformist chapel registers as well. For most marriages from 1754 to the start
+of civil registration, start with the established parish register even if the family attended a
+chapel [S57], [S59].
+
 1. Before searching, find the registration district that covered the parish or residence *at
    the event date*. A dated parish-to-district list such as UKBMD's shows each parish's district
    and the years it belonged there. Search older place forms too: Grimsby is listed as Great
@@ -148,6 +154,14 @@ wrong; the father named is not always the biological father [S43], [S47].
     unmarried [S21 @2026-11-19], [S22 @2026-11-19], [S14 @2026-11-19], [S19 @2026-11-19]. GRO's guide does not say this, so treat it as a lead,
     not proof. One presenter warns that the parents' surnames can coincidentally be the same
     [S22 @2026-11-19]. Confirm from the entry before attaching the child [S21 @2026-11-19].
+
+3. Search for the child separately under the possible mother's maiden surname and each other
+    surname she used [S60]. If a workhouse record supplies a plausible birth, use the name
+    and birth date it gives to search the workhouse's registration district in the birth
+    quarter and the next [S60], [S61], [S62]. Use the
+    [certificate workflow](#order-the-certificate-and-close-the-packet) to compare the civil
+    entry's birth date, birthplace and mother's names with the workhouse lead. Keep the link
+    provisional when names or dates disagree [S60], [S62].
 
 ## Treat a marriage page as a candidate list
 
