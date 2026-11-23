@@ -519,6 +519,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/tax-roll-observation-workflow.md` — Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type.
 - `recipes/marks-and-brands-record-recovery.md` — Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
 - `recipes/probate-case-document-inventory.md` — Recover every document behind a probate index, will or bond and list them as a case inventory with open leads.
+- `recipes/cemetery-survey-and-transcription.md` — Map and number a whole cemetery survey so another researcher can match each transcription, image or recording to its marker.
 
 ### Births outside marriage and institutions
 
