@@ -5764,5 +5764,11 @@
   "kind": "publish",
   "action": "Submit the verified public article URL",
   "checkpoint": "A public web capture sends the URL"
+ },
+ {
+  "recipe": "galicia-bukovina-habsburg-record-routing.md",
+  "kind": "request",
+  "action": "Request a copy or extract from the Suceava County Branch",
+  "checkpoint": "A copy or extract request to the Suceava County Branch can disclose the record subject's name"
  }
 ]
