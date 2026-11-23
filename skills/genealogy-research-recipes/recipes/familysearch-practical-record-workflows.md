@@ -23,6 +23,7 @@ router: {"section": "Record websites, libraries and maps", "group": "Record webs
 - Before starting
 - Nineteen workflows
 - Find user-contributed Memories
+- Organize and write Memories
 - Find and maintain Family Tree profiles
 - Common working table
 - Hand off interpretation
@@ -167,6 +168,14 @@ record type and access before adding it to the coverage ledger. A subject headin
 catalogued material; it does not show that an ancestor appears in it. A search with no useful
 result does not exhaust the holdings.
 
+For a book or an onsite holding, open **Browse the Library Catalog** on **Search > Catalog**.
+Search the separate Salt Lake City Library Catalog alongside the main Catalog. Record the physical
+copy’s locator and any Digital Library link for the edition you need [S158 @2026-11-22], [S159 @2026-11-22].
+
+In a Catalog entry’s **Notes**, follow any link to the digitized book or searchable Records
+collection. Check which volumes and years that link actually reaches before marking the filmed
+series searchable [S158 @2026-11-22], [S160 @2026-11-22].
+
 For a digital-book lead, use Books search when available and record the title/edition of the volume
 you actually open. Search within that volume; distinguish next-book/result navigation from page
 navigation. Confirm the volume and printed page before saving a passage and attaching its citation
@@ -205,6 +214,10 @@ on collection results or **Refine Search** on image-group results [S137 @2026-11
 When the period must stay fixed, keep the date range and rerun the search for the surrounding
 jurisdiction. Inspect each candidate group's actual creator and locality [S137 @2026-11-20],
 [S138 @2026-11-20].
+
+When revisiting a locality after a previous search, open **Search > Images > View recently added
+images**, then use **Refine Search** for the target place, dates and series. Record the newly
+listed groups you actually inspected [S169 @2026-11-22], [S168 @2026-11-22].
 
 When a broad jurisdiction returns too many groups, choose a smaller place under
 **Refine Search > Places Within**. Under **Show Advanced Search**, try a keyword that describes
@@ -300,6 +313,14 @@ The Catalog's restricted icon (a camera with an alert sign; older pages describe
 text only flag a restriction [S87]; plan a visit from the image message, not from the icon. Before a
 trip to an affiliate library, check that the image message names affiliate libraries: by contract, FamilySearch cannot share every image with them [S88].
 
+Once the image message identifies the permitted facility type, use FamilySearch’s center and
+affiliate locator to identify a matching site. Check the listing’s facility type before planning a
+visit [S161 @2026-11-22], [S162 @2026-11-22], [S167 @2026-11-22].
+
+For physical film, confirm the copy by film number with the specific holder’s inventory. Plan
+to view it where the copy is held. The FamilySearch microfilm circulation service has ended
+[S163 @2026-11-22], [S164 @2026-11-22], [S165 @2026-11-22].
+
 If the Catalog entry offers a WorldCat link for other copy locations, follow it and retain
 the matching title, creator, edition/volume and listed institutions as retrieval leads.
 Check the prospective holder's own catalog or item-specific response for the needed volume,
@@ -307,6 +328,9 @@ dates and permitted access before planning a visit or request. Keep an unverifie
 separate from confirmed holdings and an inspected copy. The [Catalog demonstration](https://www.youtube.com/watch?v=0mxyz1mPVpQ)
 shows this alternate-copy route; it does not establish that another institution can supply
 the particular record or remove the original item's restrictions. [S56]
+
+If the entry has no WorldCat link, search WorldCat directly by title and creator. Match the
+edition and volume and confirm local access before travelling [S158], [S160].
 
 **Artifact:** An access packet: Catalog URL, identifiers, restriction message, attempted location, permitted route and outcome.
 
@@ -365,6 +389,11 @@ dates, place and exact-match settings across the two routes. Use an accessible r
 in the same collection and index as a control query. If the routes still disagree or one cannot
 apply a needed filter, log the coverage you verified on each route.
 
+When a patronymic is unreliable but a given name is distinctive, run a given-name-only search
+within the indexed film for the reported home parish. Verify that the film search control is
+offered in the user’s account. If it is absent or the index misses, browse the parish volume
+so the later parish’s results do not stand in for a search of the childhood household [S177].
+
 For a plausible hit, use the paper icon to open the indexed details and citation. Use the camera
 icon when available to inspect the linked image for fields the index omits. Record which view
 supplied each fact [S143 @2026-11-21], [S144 @2026-11-21].
@@ -406,6 +435,10 @@ For a couple’s children, search indexed Records with the principal name blank.
 4. Test exclusions and wildcard variants separately, such as `-Ohio` or `Jens?n`; keep wildcards outside quotation marks.
 5. After each change, inspect representative hits and record what the syntax actually required.
 
+When a word may end several ways, put an unquoted `*` after its stable beginning and compare
+the hits with the plain query. Read the matching passages to see whether the broader endings
+added relevant records [S175 @2026-11-22], [S176 @2026-11-22].
+
 **Artifact:** An operator comparison table: exact syntax, counts, sample image links and observed behavior.
 
 **Check:** Compare a single required word with every intended term prefixed individually. In Cross’s demonstration, a search for George Stephenson with only `+Mary` returned records mentioning Mary alone [S01]. Sorensen demonstrated a separate plus for each required term [S07]. Inspect matching text beyond the first hits and record what the quoted and unquoted versions returned.
@@ -421,6 +454,20 @@ For a couple’s children, search indexed Records with the principal name blank.
 3. Mark the document's start/end and distinguish separate transactions on the same page.
 4. Compare material names, dates and legal roles in the AI transcript with the image; preserve uncertain readings.
 5. Build any summary from the corrected reading of that document.
+
+Open the result and scroll the transcript pane to the highlighted passage. Use the viewer’s
+translation or summary, when offered, to locate a passage for closer reading. Check names,
+dates and legal roles against the original image, including the adjoining page where the
+passage continues [S172 @2026-11-22], [S175 @2026-11-22], [S176 @2026-11-22].
+
+**Privacy gate:** <!-- privacy-gate: export --> Saving a transcript copies names, dates and relationships that may concern living people from FamilySearch to the user’s device. Answer the privacy gate in `SKILL.md` before taking a local copy.
+
+Use the transcript’s own copy or download control to save an unedited working copy on the
+user’s device. Label it machine-generated and keep it with the matching image locator [S175 @2026-11-22], [S176 @2026-11-22].
+
+Open plausible text hits even when the displayed record types omit the document you seek, as in
+Kaisa Kyläkoski’s February 2025 account of an insurer’s deceased-customer list filed under
+*North Carolina Supreme Court Case Files* [S178].
 
 Check whether the two sides of a spread were filmed in separate runs. In a baptism-register discussion, a contributor paired image 412 with images 293 and 294 for the pages before and after it. The contributor could not view the baptism itself on FamilySearch and suggested checking Archion [S55]. Use headings, written page numbers and entry sequence to verify each join. Cite each image used.
 
@@ -440,6 +487,20 @@ Check whether the two sides of a spread were filmed in separate runs. In a bapti
 4. Expand into historically relevant adjoining jurisdictions or migration destinations.
 5. Keep each person's exact role and pursue separate documents for a proposed relationship.
 
+When Latin American parish records leave a gap, search **protocolos** by the person’s name and
+the relevant locality. Check that Full Text covers the notarial series before querying. For
+example, the *Mexico, Protocolos Notariales, 1600–1909* collection includes wills, guardianship
+records and mortgages from several states. Check the locality and years in the series you open
+[S172 @2026-11-22], [S173 @2026-11-22].
+
+For a document copied into a notarial volume, search the person or place without enforcing the
+original event’s year on the host volume. Cite the host volume and record the date stated on
+the enclosed document separately [S172].
+
+When an emigrant’s surname yields no usable hit, search the documented home locality as a keyword
+in the destination’s available naturalization or court records. Use the destination as the search
+scope and inspect the pages to see whose origin the place names [S178], [S174].
+
 **Artifact:** A role/FAN table: person, documentary wording, role, date, jurisdiction, image link and next research question.
 
 **Check:** Association is not automatically kinship. Keep stated relationships separate from inferred ones.
@@ -455,6 +516,10 @@ Check whether the two sides of a spread were filmed in separate runs. In a bapti
 3. For excessive results, add one relevant detail or apply a record-type filter.
 4. For sparse results, remove detail; for irrelevant results, revise the query to match the document.
 5. Try historical vocabulary explicitly when semantic matching fails, such as cordwainer alongside shoemaker.
+
+If a Simple Search still misses the expected record, switch to **Advanced Search** and enter
+the known name, place and year range in their own fields. Compare the two runs before adding
+a collection or record-type filter [S172 @2026-11-22], [S174 @2026-11-22].
 
 **Artifact:** Query versions, filters, retained image links and a table separating same-named candidates.
 
@@ -474,6 +539,11 @@ Check whether the two sides of a spread were filmed in separate runs. In a bapti
 
 Full Text covers only part of FamilySearch's image collections, and more are added over time. For step 1,
 use the tool's Find a Collection field or Browse all collections option [S89], [S90].
+
+On a revisit, check **Search > Records > Browse all collections** and sort **Last Updated**
+newest first. On a narrow screen, open the combined **Records & Last Updated** control first.
+Filter for the target area and series. Inspect actual coverage before rerunning the saved
+query, because the list’s update date applies to a collection [S166 @2026-11-22], [S167 @2026-11-22], [S168 @2026-11-22].
 
 Where Full Text offers an option to include limited-access content, record its displayed
 label and state with the query. The [July 2026 demonstration](https://www.youtube.com/watch?v=gX-d5Szg9XY)
@@ -617,6 +687,11 @@ image, copy the microfilm number from the record details and search it in the Ca
 underlying register and its locator if you can inspect it [S155 @2026-11-21], [S156 @2026-11-21],
 [S157 @2026-11-21].
 
+In an indexed IGI result, expand **Document Information** and record the **Indexing Batch**
+number if present. Follow the number if linked or run the collection’s **Batch Number** search
+to look for relatives or associates indexed in that batch. Identify the underlying register
+before treating a neighboring hit as part of the same family [S170 @2026-11-22], [S171 @2026-11-22].
+
 **Privacy gate:** <!-- privacy-gate: export, upload --> Exporting a GEDCOM from Ancestry or MyHeritage
 and uploading it to FamilySearch moves everyone in the tree, including anyone who may be living;
 answer the privacy gate in `SKILL.md` first and record the tree's Settings visibility.
@@ -635,6 +710,11 @@ Tree in bulk [S79]. [S77]
 Do not use the Help Center's GEDCOM upload route (Search > Genealogies > Upload Your Individual
 Tree) for this tree: it adds the file to the Pedigree Resource File, where all FamilySearch users
 can search and view it and others cannot change it [S91 @2026-11-12].
+
+If the signed-in home page offers an **AI Research Assistant** suggestion, open its review
+and read the record it uses. Compare dates, places and relatives with the established
+person. Verify any proposed relationship in the record before sending it to the attachment
+workflow [S181 @2026-11-22], [S182 @2026-11-22].
 
 Do not enter tentative facts to generate hints. Hints match the data already on the profile, so a
 hint that agrees with a guess or a merged-in fact is circular confirmation. Give each reviewed hint an
@@ -830,6 +910,26 @@ intermediate parent or uncertain ancestral link unresolved rather than creating 
 parent to connect the profiles. The [Other Relationships example](https://familylocket.com/other-relationships-on-familysearch/)
 motivates the task; confirm the controls actually offered before any authorized Tree change.
 
+**Privacy gate:** <!-- privacy-gate: link, publish --> Saving a relationship or its supporting material sends the two identities, roles, facts, notes and sources to FamilySearch and the profiles’ audiences. Answer the privacy gate in `SKILL.md` before sharing anything that concerns living people.
+
+For a documented household association, open **Details > Other Relationships > Add Other
+Relationship** and choose **Household**. Compare the head and occupant roles with the record
+and use **Switch** if the roles are reversed. According to a January 2024 transcript excerpt, the demonstration switched them when starting
+from the occupant’s profile [S179† @2026-11-22]. Select a category that fits
+the evidence. Keep an association that has no fitting type in the working packet [S180 @2026-11-22].
+
+Open the saved link’s pencil editor to add its documented event, citation and any explanatory
+note to the relationship itself. According to the January 2024 transcript excerpt, the demonstration uses those fields for a
+household association [S179† @2026-11-22]. Enter the date and place justified by the record where the
+event fields are offered. Give separate notes distinct titles. Use the website to attach the source and recheck the evidence on the link
+[S180 @2026-11-22].
+
+Inspect the saved relationship’s own change history in its editor to trace a disputed link.
+According to the January 2024 transcript excerpt, the demonstration shows a relationship history and delete option [S179† @2026-11-22].
+For an established erroneous or duplicate link, review its events, sources and notes before
+using **Delete Relationship**. Record the reason and check both person pages after removal
+[S180 @2026-11-22].
+
 A parent–child link with no type set is reportedly treated as biological, but it is not a sourced
 claim. Where records state adoption, step, foster or guardianship, keep each documented parent set:
 add biological parents as a separate set rather than replacing adoptive ones. Set the type on each
@@ -876,6 +976,42 @@ Use **Search Topic Tags** for a category such as **Bible record** or **funeral p
 results before enabling **Search Only My Close Relatives**. If the aim is to search beyond the
 user’s own Tree lines, keep that filter off. Record the search mode, terms, filter state and
 Memory URL or linked PID for each lead [S143 @2026-11-21], [S152 @2026-11-21].
+
+## Organize and write Memories
+
+### Assemble a FamilySearch album
+
+**Privacy gate:** <!-- privacy-gate: link --> An album name and its item associations can disclose living people’s identities and relationships to FamilySearch and people who can reach the album. Answer the privacy gate in `SKILL.md` before creating the album or adding items.
+
+For a person, branch or topic, create a named album under **Memories > Gallery > Albums > New Album**
+and click **Save** [S183 @2026-11-23], [S184 @2026-11-23]. In the Gallery, click **Select**, then
+click the check mark on each photo you have reviewed for inclusion. Choose **Actions > Add to
+Album**, select the album and click **Add** [S185 @2026-11-23].
+
+For a photo contributed by someone else, use its existing Memory page. In the **Information**
+panel, choose the folder icon, then **Add to Album**. Select the album and click **Add**
+[S183 @2026-11-23], [S185 @2026-11-23], [S186 @2026-11-23]. Reopen the album and check that
+it contains the intended Memories.
+
+**Privacy gate:** <!-- privacy-gate: publish --> The album link can expose its title, photos and family associations involving living people to recipients and anyone they forward it to. Answer the privacy gate in `SKILL.md` for the sharing audience before sending the link.
+
+Before sharing, use authorized access to check which items the intended viewers can open and what
+they can reach from a single included Memory [S186 @2026-11-23]. If the audience is approved,
+open the album’s **Share** control and send the link [S187 @2026-11-23].
+
+### Write a story with photos
+
+**Privacy gate:** <!-- privacy-gate: upload, link, publish --> A story’s title, text and images can name or depict living people. They go to FamilySearch and can be visible to the selected audience. Answer the privacy gate in `SKILL.md` before entering the story or adding images.
+
+Open **Memories > Gallery > Add Memories > Write a Story**. Use **Add Image** to attach up to
+10 photos from your files or the Gallery. Enter a title and use the separate story field to
+record the documented people and places shown [S188 @2026-11-23], [S189 @2026-11-23]. Click
+**Next**, choose the visibility approved for the story, and finish with **Done**. For **Make Private**,
+use **Save Visibility** first [S189 @2026-11-23].
+
+Reopen the saved story and check **Visibility** in the **Information** panel [S190 @2026-11-23].
+Check which images the intended audience can see. A private photo attached to a public story
+stays hidden from viewers without access to the photo [S191 @2026-11-23].
 
 ## Find and maintain Family Tree profiles
 

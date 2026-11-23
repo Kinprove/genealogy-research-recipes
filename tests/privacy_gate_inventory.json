@@ -5668,5 +5668,65 @@
   "kind": "third-party-tool",
   "action": "choose **Get Scribe AI insights** after clearing the same processing gate",
   "checkpoint": "Scribe AI sends the selected photograph"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "export",
+  "action": "Use the transcript’s own copy or download control",
+  "checkpoint": "Saving a transcript copies names, dates and relationships"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "link",
+  "action": "For a documented household association, open",
+  "checkpoint": "Saving a relationship or its supporting material"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Open the saved link’s pencil editor to add",
+  "checkpoint": "Saving a relationship or its supporting material"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "using **Delete Relationship**. Record the reason",
+  "checkpoint": "Saving a relationship or its supporting material"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "link",
+  "action": "For a person, branch or topic, create a named album",
+  "checkpoint": "An album name and its item associations can disclose"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "link",
+  "action": "For a photo contributed by someone else, use its existing Memory page",
+  "checkpoint": "An album name and its item associations can disclose"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "open the album’s **Share** control and send the link",
+  "checkpoint": "The album link can expose its title, photos and family associations"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "upload",
+  "action": "Open **Memories > Gallery > Add Memories > Write a Story**",
+  "checkpoint": "A story’s title, text and images can name or depict living people"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "link",
+  "action": "Use **Add Image** to attach up to 10 photos from your files or the Gallery",
+  "checkpoint": "A story’s title, text and images can name or depict living people"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "choose the visibility approved for the story",
+  "checkpoint": "A story’s title, text and images can name or depict living people"
  }
 ]
