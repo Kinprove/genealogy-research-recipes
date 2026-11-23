@@ -341,6 +341,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/cmolas-estate-inventory-recovery.md` — Find the Cmolas estate inventory and compare its numbered entries, kinship terms and child counts with dated parish records.
 - `recipes/czech-estate-corvee-record-recovery.md` — Use Bohemian and Moravian estate records to separate the labor a holding owed from the work its occupants performed.
 - `recipes/czech-historical-census-recovery.md` — Find a Czech census schedule by year, historical district and house number, then interpret residence, home municipality and language in their own columns.
+- `recipes/czech-newspaper-criminal-case-recovery.md` — Recover Czech press coverage of an incident, trial, verdict and prison transfer, then carry the reported dates and court into the archival search.
 
 ### Russian Empire and Soviet Union
 
