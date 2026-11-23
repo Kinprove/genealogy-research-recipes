@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "historical-p
 checked: "2026-11-10"
 checked_basis: "opened 2026-11-10"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 74}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 75}
 ---
 
 # Audit a transcription of a Russian confession list or revision list against the images

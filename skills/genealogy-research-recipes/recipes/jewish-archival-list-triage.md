@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "corpus-seeded-name-search"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 98}
+router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 99}
 ---
 
 # Recipe: Finding Jewish genealogical lists behind archival catalogue titles

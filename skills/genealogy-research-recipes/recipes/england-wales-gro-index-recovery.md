@@ -11,7 +11,7 @@ handoff: ["uk-census-and-1939-register-interpretation"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 108}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 109}
 ---
 
 # Read England and Wales GRO and FreeBMD index entries as registration observations

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["MyHeritage collection search and list scans"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 94}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 95}
 ---
 
 # Search and read an entry in the Israel immigration lists (1919–1974)
