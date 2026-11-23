@@ -5056,5 +5056,29 @@
   "kind": "third-party-tool",
   "action": "If the collection opens, search MyHeritage by the deceased's name",
   "checkpoint": "This query sends the deceased's name to MyHeritage."
+ },
+ {
+  "recipe": "uk-census-and-1939-register-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "For a direct Register lookup, search the",
+  "checkpoint": "Before a 1939 Register search sends data to MyHeritage or Findmypast"
+ },
+ {
+  "recipe": "uk-census-and-1939-register-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "If the first index misses a deceased person, try the",
+  "checkpoint": "Before a 1939 Register search sends data to MyHeritage or Findmypast"
+ },
+ {
+  "recipe": "uk-census-and-1939-register-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "After a full-name miss, retry with the surname and birth date",
+  "checkpoint": "Before a 1939 Register search sends data to MyHeritage or Findmypast"
+ },
+ {
+  "recipe": "uk-census-and-1939-register-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "repeat the search after the provider releases more entries",
+  "checkpoint": "Before a 1939 Register search sends data to MyHeritage or Findmypast"
  }
 ]
