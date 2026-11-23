@@ -4720,5 +4720,17 @@
   "kind": "third-party-tool",
   "action": "For a deceased patient's 1902–1925 admission",
   "checkpoint": "Patient index searches send the"
+ },
+ {
+  "recipe": "lithuanian-jewish-household-registers.md",
+  "kind": "third-party-tool",
+  "action": "Use MyHeritage’s Lithuanian-Jewish Household Registers from LitvakSIG",
+  "checkpoint": "Submitting a query sends the research subject’s or relatives’ names"
+ },
+ {
+  "recipe": "lithuanian-jewish-household-registers.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s Lithuanian-Jewish Revision Lists from LitvakSIG",
+  "checkpoint": "Submitting a query sends the research subject’s or relatives’ names"
  }
 ]
