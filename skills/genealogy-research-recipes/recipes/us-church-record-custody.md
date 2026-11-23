@@ -41,6 +41,10 @@ Use this when a U.S. ancestor's baptism, marriage, burial or membership record i
 
 - **Union churches:** In Pennsylvania German research, identify every congregation that used a union church building. Lutheran and Reformed congregations could share the building and clergy while keeping separate books or separate sections in one book. Search each congregation’s records; a shared building is not one merged register or proof of one denomination. [S30], [S31], [S32]
 
+- **Chestnut Ridge Baptists.** Search for the Maryland congregation under both Sater’s Baptist Church and Chestnut Ridge. Record General Baptist as the branch named in the congregation’s 1742 deed. In Baptist histories, use Particular Baptist as a search term for Calvinistic Baptists. [S62], [S63], [S64]
+
+- **Census of Religious Bodies.** When a U.S. record says only “Baptist,” compare candidate bodies in the Census Bureau’s *Religious Bodies: 1916*, Part II, or the *Baptist Bodies* section of *Religious Bodies: 1936*. Compare the bodies’ histories, doctrine, organization and geographic statistics. Use a Baptist congregation’s observance of Saturday as the Sabbath as a lead to check the Seventh Day Baptist heading. Confirm an individual’s affiliation in congregation records. [S62], [S65], [S66], [S67], [S68]
+
 Use an ethnicity or immigrant origin only as a lead to the branch. Do not use it as proof of membership.
 
 ## Write down what that branch recorded
@@ -59,6 +63,14 @@ Before searching, list the record types you expect for each candidate congregati
 
 - **Old Kanawha Baptist Church.** For the congregation in Pratt, West Virginia, search Eugene Lincoln Peck and Regina Peck Andrus’s *Old Kanawha Baptist Church Minutes, Indexed, Plus Unpublished County Court Records of West Virginia*. Check the July 1796–August 1845 transcription for meetings, baptisms and member dismissals. Search the separate county-record section in the same book and cite each hit to the section it came from. [S55], [S56], [S57]
 
+- **First Alfred Seventh Day Baptists.** For Alfred, Allegany County, New York, search Ilou M. Sanford’s *First Alfred Seventh Day Baptist Church Membership Records* (1816–1886). Follow references to early Rhode Island families when tracing a move to Alfred and verify the connection in the Rhode Island records. [S65], [S69]
+
+- **Central New York Seventh Day Baptists.** Use the surname index in Sanford’s *Membership Records of Seventh Day Baptists of Central New York State, 1797–1940s*, then read the congregation group’s entries in order. Check Brookfield, DeRuyter, Scott, Verona or Adams Center as applicable. Read admissions, transfers out and any recorded origins or relationships. Treat a baptism as a believer’s baptism and establish age from a separately recorded birth date or other evidence. Distinguish the original entries from later typed lists where the compilation used them. [S65], [S70], [S67]
+
+- **Western Association Seventh Day Baptists.** Search Sanford’s *Membership Records of Seventh Day Baptist Churches in Western New York and Northwestern Pennsylvania, 1800–1900*. Use the surname index and identify the church and town before using an entry. Check the original church series for years or congregations outside the compilation. [S65], [S71]
+
+- **Newport Seventh Day Baptists.** Use Ilou M. and Don A. Sanford’s *Newport Seventh Day Baptist Trilogy*. Search the 1671–1884 membership section and check which entries came from the First Baptist Church before the congregations separated. Compare names across dated lists to develop leads, then verify identity and kinship before connecting entries. Use the church history and the separate Hubbard study for context. [S65], [S72]
+
 Membership lists are dated observations of presence. A first or last appearance brackets joining or leaving. It is not a birth or death. Where a body admitted members only at an older age, an admission is not a birth. [S1]
 
 ## Build a dated congregation candidate register
@@ -71,6 +83,8 @@ Do not pick the church nearest the census or directory address.
 - **Rural or remote families:** Lefler notes they might use whichever preacher came through, of any denomination. Widen the candidate list across denominations. [S3]
 
 - **Colonial Virginia:** For colonial Virginia, search the territorial Anglican parish’s birth/christening and death/burial registers even when the family belonged to another faith. Establish the parish boundary and surviving years first; a duty to report does not show that a particular event was entered or that its register survives. [S37], [S38]
+
+- **Early Connecticut.** For a Connecticut town before disestablishment in 1818, include the town’s Congregational church records when the family’s affiliation is uncertain. Use the town and period to choose registers. Treat a mention as evidence of the recorded event and look for an explicit membership entry before assigning membership. [S73], [S74], [S75]
 
 Sources for the list:
 
@@ -91,6 +105,8 @@ For each candidate, record: name, branch, place name as it changed, dates active
 - Compare an unclear officiant’s signature with relatives’ marriage returns [S17]. Two New York City certificates named the same parents and officiant. Searching their shared **347 East 74th Street** address led Starkey to the church office [S16]. Check the officiant and address in a directory from the marriage year.
 - Find his church through city directories or newspapers. [S17] Then ask that church for its own entry. It may include details the civil record leaves out, such as birthplace. [S16]
 - Search under the minister’s own name for a personal register. Presbyterian Historical Society archivists describe cataloguing pastoral registers this way and finding mostly successive appointments in the volumes they handled [S11]. List the dates served at each church and check possible overlaps.
+
+- **Western Pennsylvania United Brethren appointments.** For a United Brethren circuit minister, search the United Methodist Western Pennsylvania Conference’s *Historical Church Records* by district and congregation. Search the entries for the minister’s name and record each appointment and its years. Carry those places and dates into the search for the registers of the congregations served. [S76 @2026-11-22], [S77 @2026-11-22], [S78 @2026-11-22]
 
 ## Read circuit entries without moving the family
 
@@ -113,6 +129,12 @@ For each candidate, record: name, branch, place name as it changed, dates active
 
 **Catholic nuns and sisters.** For membership in a U.S. Catholic religious community, start with the archive of the specific congregation the nun or sister joined [S58 @2026-11-21], [S59 @2026-11-21]. If the custody path is unclear, look up the congregation by name or initials in *Women Religious History Sources: A Digital Guide to Repositories in North America* [S60 @2026-11-21]. Ask the archivist at the motherhouse if it holds the collection, or at the receiving repository if it was transferred, which series and years you can consult [S59 @2026-11-21], [S60 @2026-11-21], [S61 @2026-11-21].
 
+- **Swedish-American church books.** In ArkivDigital, look up the congregation in the U.S. archive listings and check the volumes and years individually. Include Swedish Free, Methodist and Baptist churches when the branch fits. Record the image as an ArkivDigital photograph of the church book when the volume is part of that photographed collection. If the congregation or years are absent, check the Swenson Center’s church-record listings for a microfilm copy. [S79 @2026-11-22], [S80 @2026-11-22], [S81 @2026-11-22], [S82 @2026-11-22]
+
+- **Seventh Day Baptist originals.** Use the Seventh Day Baptist Historical Library & Archives church index under the congregation’s name to trace the records used in Sanford’s membership compilations. Match the record series and years to the published entry. [S65 @2026-11-22], [S83 @2026-11-22], [S69 @2026-11-22], [S70 @2026-11-22], [S71 @2026-11-22], [S72 @2026-11-22]
+
+- **Membership books and newsletters.** Search the congregation’s name in catalogues of local libraries, historical societies and denominational or diocesan archives. Open the collection finding aid and check membership rolls and the congregation’s own newsletters as separate series, even when the catalogue title is just the name of the church. [S84], [S85], [S86]
+
 - **Latter-day Saints:** For Latter-day Saint membership evidence, use the Church History Library’s Record of members collection, 1836–1970, and search the catalogue by the ward or branch. The library’s guide says acquisitions after the 1960s–1970s microfilming project are catalogued separately, so the main collection is not the whole search. Record the particular series and its access conditions, without assuming an online image is available. [S46 @2026-11-16], [S47 @2026-11-16]
 
 - **Connecticut historical society holdings.** Look for published church records and for church-record abstracts in the genealogical manuscripts filed by town or family at the Connecticut Museum of Culture and History in Hartford, formerly the Connecticut Historical Society. Use a copy or abstract to identify the congregation and trace the register. [S48 @2026-11-20], [S51 @2026-11-20], [S52 @2026-11-20]
@@ -126,6 +148,10 @@ Keep four states separate: **never-created**, **unlocated** (custodian unknown),
 - An online index covers only what was scanned. Ancestry scanned and indexed many, but not all, of the Presbyterian Historical Society's congregational records, and the Society keeps no central index of names. [S12] A miss in an Ancestry or FamilySearch index is not proof of absence. Use [Ancestry search recovery](ancestry-record-search-recovery.md) or [FamilySearch workflows](familysearch-practical-record-workflows.md) for index diagnosis. Record Hall's Index's cutoff (about 2015) as part of its scope.
 - A county history's statement that records "no longer exist" is the author's view when the history was written. Allen treats such records as possibly held elsewhere. [S6], [S7]
 - Repository databases are updated from time to time without announcement. Date each check. [S8]
+
+- **German-American registers around World War I.** Search German- and English-language entries for the same congregation. Check adjacent volumes when the German entries end. In Cincinnati’s Third German Protestant Church, the Sunday-school ledger switched to English in 1918, while the collection’s ledgers changed over a longer period. Check the language of each series before bounding a negative. [S87], [S88]
+
+- **Dumbarton Methodist baptisms and marriages.** For Georgetown, now in Washington, D.C., search Jane Donovan’s *Records of Dumbarton United Methodist Church*, volume I. Use the alphabetical entries and the separate bride index for marriages. Bound a negative to the entries covered by the volume’s 1813–1991 span. [S89], [S90]
 
 - **Early Connecticut marriages.** Use Frederic W. Bailey’s *Early Connecticut Marriages as Found on Ancient Church Records Prior to 1800* to locate candidate entries. Use Scott Andrew Bartley’s annotated table of contents to identify the church, years and volume and page across the seven books. Check the original edition’s errata if the reprint omits them, and compare Bailey’s reading of each name with the church register. [S48], [S49], [S50]
 

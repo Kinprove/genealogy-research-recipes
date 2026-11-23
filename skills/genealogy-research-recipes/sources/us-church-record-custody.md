@@ -98,6 +98,64 @@ The four-state negative ledger, the candidate register fields, the order of step
 
 - **S61:** Sisters of Charity of Cincinnati Archives, [About](https://scarchives.omeka.net/about). Archive description and consultation instructions read 2026-11-21. The Sisters describe their own motherhouse archive and how to ask their archivist about consulting its collections.
 
+- **S62:** Just Genealogy / Craig R. Scott, [New Books at Heritage Books - Book Sunday - Maryland and Tennessee - JG0234](https://www.youtube.com/watch?v=0mzlALX6d4g), published 2022-10-30. Supplied transcript passages read 2026-11-22. Scott discusses the Chestnut Ridge name and General and Particular Baptist labels, and suggests comparing Baptist bodies in a federal religious census. The watch page could not be opened. The interview’s tentative date and count for the census and its proposed church founding year were not used.
+
+- **S63:** Maryland Historical Trust, [Sater’s Baptist Church, Maryland Inventory of Historic Properties BA-78](https://apps.mht.maryland.gov/medusa/PDF/BaltimoreCounty/BA-78.pdf). Inventory location and significance sections read 2026-11-22. The inventory places Sater’s Baptist Church on Chestnut Ridge and transcribes the General Baptist designation from the 1742 deed.
+
+- **S64:** Joe Harrod, Southern Baptist Theological Seminary, [A Confessing People: A Brief History of Baptist Confessions of Faith](https://equip.sbts.edu/publications/magazine/a-confessing-people-a-brief-history-of-baptist-confessions-of-faith/). Historical discussion of Particular and General Baptists read 2026-11-22. The historian distinguishes the Calvinistic Particular Baptists from the General Baptists.
+
+- **S65:** Just Genealogy / Craig R. Scott, [Religious Bodies - Seventh Day Baptists - Books for a Discount - JG2039](https://www.youtube.com/watch?v=lVpFmm9OMaw), published 2022-11-04. Supplied transcript passages read 2026-11-22. Scott demonstrates the 1936 Baptist report, describes the Saturday Sabbath, and introduces Sanford’s New York, Pennsylvania and Newport membership compilations. He suggests comparing membership lists across periods. The watch page could not be opened. The report and publisher descriptions establish the scope used here.
+
+- **S66:** U.S. Census Bureau, [Religious Bodies 1916](https://www.census.gov/library/publications/1919/demographics/religious-bodies-1916.html). Publication description and part listings read 2026-11-22. The Census Bureau identifies 1916 as the census year and describes the individual denominations’ profiles in Part II.
+
+- **S67:** U.S. Bureau of the Census, [Religious Bodies: 1936, vol. II, part 1, Baptist Bodies](https://www2.census.gov/prod2/decennial/documents/04125308p2ch2.pdf). Baptist Bodies contents, summary and Seventh Day Baptists profile read 2026-11-22. The report distinguishes Baptist bodies, compares aggregate statistics and describes the seventh-day Sabbath and believer’s baptism under Seventh Day Baptists.
+
+- **S68:** Seventh Day Baptist General Conference, [Sabbath Recorder, May 2015](https://seventhdaybaptist.org/wp-content/uploads/2015/04/may-2015.pdf). Issue’s opening summary of beliefs read 2026-11-22. The denomination’s magazine identifies the seventh-day Sabbath as Saturday.
+
+- **S69:** Heritage Books, [First Alfred Seventh Day Baptist Church Membership Records, Alfred \[Allegany County\], New York](https://heritagebooks.com/products/101-s0182). Publisher’s catalogue description read 2026-11-22. The description identifies Ilou M. Sanford’s transcription of the 1816–1886 register, its archival source and its leads to early Rhode Island families.
+
+- **S70:** Heritage Books, [Membership Records of Seventh Day Baptists of Central New York State, 1797–1940s](https://heritagebooks.com/products/101-s0015). Publisher’s catalogue description read 2026-11-22. The description identifies Sanford, the geographic groups including DeRuyter and the Adams Center area, the kinds of entries, and the surname index.
+
+- **S71:** Heritage Books, [Membership Records of Seventh Day Baptist Churches in Western New York and Northwestern Pennsylvania, 1800–1900](https://heritagebooks.com/products/101-s0462). Publisher’s catalogue description read 2026-11-22. The description identifies Sanford’s Western Association compilation, the society’s church records collection and the surname index. It distinguishes 24 western New York towns from 12 northwestern Pennsylvania towns.
+
+- **S72:** Heritage Books, [Newport \[Rhode Island\] Seventh Day Baptist Trilogy](https://heritagebooks.com/products/101-s0981). Publisher’s description of the three parts read 2026-11-22. The description identifies the 1671–1884 membership portion, the included First Baptist entries, records and genealogies from the Seventh Day Baptist Historical Society, and the Hubbard family study.
+
+- **S73:** Family Tree Magazine / David Fryxell, [Finding Your U.S. Colonial Ancestors – An Interview with David Fryxell](https://www.youtube.com/watch?v=gAtM_M1ewgU), published 2023-07-25. Supplied transcript passage read 2026-11-22. Fryxell points to Congregational records and tentatively dates disestablishment to 1818. The watch page could not be opened. The Connecticut State Library and Congregational Library & Archives support the historical context.
+
+- **S74:** Congregational Library & Archives, [New England’s Hidden Histories](https://congregationallibrary.org/nehh). Collection introduction read 2026-11-22. The archive describes town and colonial support of Congregational churches, the Connecticut endpoint of 1818 and the range of Congregational church records.
+
+- **S75:** Connecticut State Library, [The Public Records of the State of Connecticut](https://portal.ct.gov/csl/Departments/State-Archives/Collections/The-Public-Records-of-the-State-of-Connecticut). State Archives series overview read 2026-11-22. The overview associates Connecticut’s new constitution with the end of public financing of religion in 1818.
+
+- **S76:** Family Tree Magazine / Sunny Jane Morton, [How to Use the Internet Archive for Genealogy](https://www.youtube.com/watch?v=Ltc0EjJzB5k), published 2022-08-26. Supplied transcript passages read 2026-11-22. Morton demonstrates a search for one United Brethren circuit minister and describes finding appointments in a successor conference’s records. The watch page and exact Internet Archive copy could not be opened. The conference’s own guide supports the alternate route.
+
+- **S77:** Western Pennsylvania Conference of The United Methodist Church, [Conference Secretary](https://www.wpaumc.org/conferencesecretary). Historical Church Records guide read 2026-11-22. The conference lists church records by district and describes coverage of clergy appointments and United Brethren predecessor records. The separate 2024 pastoral-records download link returned 404.
+
+- **S78:** Western Pennsylvania Conference of The United Methodist Church, [Historical Records](https://www.wpaumc.org/historicalrecords). Historical Church Records description read 2026-11-22. The conference describes the compiled church histories, predecessor denominations and clergy appointments. The page is a route to the compilation rather than an inspection of an individual appointment.
+
+- **S79:** Family Tree Magazine / Kathy Meade, [Exploring ArkivDigital – An Interview with Kathy Meade | Best Websites](https://www.youtube.com/watch?v=UqSSCeyJLXM), published 2026-09-12. Supplied transcript passages read 2026-11-22. Meade describes the collection and its photographing of church books. The watch page could not be opened. The inconsistent Minnesota estimates and the suggested state completeness were omitted.
+
+- **S80:** ArkivDigital, [Product catalogue, U.S. section](https://resources.arkivdigital.se/productcatalog/arkivdigital-productcatalog.pdf). U.S. collection entry in the 2024-10-24 product catalogue read 2026-11-22. The dated product catalogue lists Swedish-American church books by state and cautions that volumes may be missing. Account access and individual volumes were not tested.
+
+- **S81:** Kathy Meade, ArkivDigital representative, via the Lake Region Public Library, [Swedish-American Parishes—Great Genealogical Source](https://devilslakendlibrary.com/wp-content/uploads/2019/03/Swedish-American-Parishes-Great-Genealogical-Source.pdf). ArkivDigital and microfilm sections of the handout read 2026-11-22. The provider representative describes Lutheran, Covenant, Free, Baptist and Methodist holdings and says ArkivDigital photographed original books. This describes the photographed collection, with no claim about later additions.
+
+- **S82:** Swenson Swedish Immigration Research Center, [Church Records](https://www.swensoncenter.org/churchrecords). Church-records guide and microfilm listing instructions read 2026-11-22. The center describes its church-record holdings, denominations and listing fields for finding copies by congregation and locality.
+
+- **S83:** Seventh Day Baptist Historical Library & Archives, [SDB Historical Library and Archives](https://sdbhistory.org/). Archive’s description of its church and surname index read 2026-11-22. The archive advertises a browsable index organized by churches or surnames. The individual catalogue entries were not inspected.
+
+- **S84:** Family Tree Magazine, [365 Genealogy Tasks: Your Day-by-Day 2026 Research Plan](https://familytreemagazine.com/strategies/genealogy-day-by-day/), published 2023-12-20. Church-record research task read 2026-11-22. The article suggests looking for both membership books and newsletters in libraries, historical societies and diocesan archives.
+
+- **S85:** Minnesota Historical Society, [Church Record Collections](https://libguides.mnhs.org/church/records). Catalogue search instructions and collection examples read 2026-11-22. The library suggests searching by congregation, church body or location and describes collections that include membership records and newsletters.
+
+- **S86:** Akron-Summit County Public Library, [High Street Christian Church Collection](https://www.akronlibrary.org/images/SpecCol/High-Street-Church-finding-Aid-.pdf). Collection finding aid and series inventory read 2026-11-22. The finding aid lists membership records and a separate church-newsletter subseries under a church-named collection.
+
+- **S87:** Family Tree Magazine, [A Guide to German Genealogy Research](https://familytreemagazine.com/heritage/german/a-guide-to-german-genealogy-research/), published 2024-12-20. World War I and language passage read 2026-11-22. The guide describes a shift to English church recording during the World War I era. The recipe uses it as a search prompt without assigning a single changeover year.
+
+- **S88:** University of Cincinnati Libraries, [Developing Future Access to Cincinnati’s Third Protestant Memorial Church Collection](https://libapps.libraries.uc.edu/liblog/2017/10/developing-future-access-to-cincinnatis-third-protestant-memorial-church-collection/). Ledger survey and illustrated June–July 1918 example read 2026-11-22. The researcher shows the Sunday-school ledger crossing from German into English in 1918 and describes the broader shift across the ledgers as occurring between 1918 and 1928.
+
+- **S89:** Just Genealogy / Craig R. Scott, [What Did They Mean By That? And More New Genealogy Books at Heritage Books - JG0300](https://www.youtube.com/watch?v=Dx4B6IzOgbs), published 2023-05-07. Supplied transcript passages read 2026-11-22. Scott describes an alphabetical baptism and marriage compilation. The transcript gives conflicting ending years and the watch page could not be opened. The publisher confirms 1991.
+
+- **S90:** Heritage Books, [Records of Dumbarton United Methodist Church, Volume I: Baptisms and Marriages, 1813–1991](https://heritagebooks.com/products/101-d0810). Publisher’s catalogue entry and arrangement description read 2026-11-22. The publisher confirms Jane Donovan, Georgetown, the volume’s title span, alphabetical arrangement and separate bride index. The transcribed registers were not inspected.
+
 ## Credits
 
 - Family History Fanatics, Genealogy Research: How to Research When Records Have Scanty information (2020-12-05) — Short quotation for attribution and commentary; source rights retained by the presenter (quoted)
@@ -108,3 +166,5 @@ The four-state negative ledger, the candidate register fields, the order of step
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
 - Donald Lines Jacobus as read by Craig R. Scott, and Craig R. Scott’s Just Genealogy episode (S48 and S55) — Research leads paraphrased with attribution, with source rights retained by the respective rights holders (adapted)
 - Sunny Jane Morton’s Family Tree Magazine interview (S58), the Archivists for Congregations of Women Religious guides (S59–S60) and the Sisters of Charity of Cincinnati Archives (S61) — Custody guidance paraphrased with attribution, with source rights retained by the respective rights holders (adapted)
+- Family Tree Magazine’s research guides and interviews and Craig R. Scott’s Just Genealogy episodes — Research methods paraphrased with attribution, with source rights retained by the respective rights holders (adapted)
+- Archive and library finding aids, publisher descriptions, and the Census Bureau’s historical reports — Research routes and coverage paraphrased with attribution, with applicable source rights retained (adapted)
