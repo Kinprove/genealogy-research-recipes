@@ -115,6 +115,26 @@ section image range, inspected range, abbreviation-key locator and result.
 **Check:** The year and locality come from the volume, not only its database label. Another
 repository's copy of that same volume supplies another access route, not another observation.
 
+### Regional finding aids
+
+For historic Belfast and Ulster, start with the Public Record Office of Northern Ireland's scanned street directories, 1819–1900 [S68 @2026-11-22], [S69 @2026-11-22]. In a Belfast volume, try the street list for an address and the alphabetical or trade list for a person or firm. For a provincial town, open its own section and check the lists of inhabitants and trades. The run has gaps and the provincial sections omit many residents [S69 @2026-11-22].
+
+For European address and telephone directories, check the Library of Congress's country guides for holdings and format [S70 @2026-11-22], [S71 @2026-11-22]. For example, the Belgium guide separately lists uncatalogued directories. Use its inventory alongside the catalogue and verify access for the specific edition [S72 @2026-11-22].
+
+For Central or Eastern Europe, try Genealogy Indexer for historical business, address and telephone directories [S70], [S73]. Check Kleinwaks's directory inventory for the locality. Use the edition's title and page for each observation [S73].
+
+For a Polish locality, check **Geography & Maps** on PolishRoots for leads to specific editions, including commercial and city directories [S70 @2026-11-22], [S74 @2026-11-22]. Check which places and years the linked edition actually covers.
+
+In MyHeritage's historical record catalogue, open **Directories, Guides & References** and narrow by region to find collections with different coverage [S76 @2026-11-22], [S77 @2026-11-22]. Check the individual collection description before using its date range on the coverage sheet.
+
+For Greek addresses and occupations, look for MyHeritage's *Greece, City Directories, 1901-1947* and check the list of selected business and resident directories before searching [S75], [S78]. Preserve the Greek text and its Latin-script transliteration separately, with the directory title and year [S75].
+
+In the National Library of Finland's Digi service, look under **Aikakauslehdet > Almanakat ja kalenterit**, using the collection selector and the place-of-publication filter. Check the collection name in your session and screen Helsinki results by title to remove university almanacs from the city-directory search [S83 @2026-11-22], [S85 @2026-11-22]. If the filter leaves gaps or the menu has changed, use the Genealogical Society of Finland's locality list to open the individual titles and supplements [S84 @2026-11-22].
+
+For a nineteenth-century Helsinki student, consult the term issue of *Suomen yliopiston luettelo* for the student's reported address [S85], [S86], [S87]. Keep the term of the first address found separate from matriculation. Compare it with the street and number a relative reported in the general directories, recording the term or edition year for each row. Search across the overlapping series *Adressbok och yrkeskalender för Helsingfors* and *Adresskalender för Helsingfors stad* when the title you started with skips a year [S84], [S86].
+
+For a historical Paris firm, look up the appropriate year of *Annuaire-almanach du commerce* through the Bibliothèque nationale de France's catalogue link to Gallica. Search the Paris listings for the firm. Record the printed partners and their roles with the edition and page before looking for separate evidence of when the partnership began or ended [S89 @2026-11-22], [S90 @2026-11-22].
+
 ## 2. Extract comparable rows without importing the index's mistakes
 
 1. Locate the surname group or candidate entry using the volume's actual arrangement.
@@ -147,6 +167,10 @@ repository's copy of that same volume supplies another access route, not another
 5. Check the first and last imported entries, remove repeated headers or interface text, and
    confirm that each row still has its year and locator. Manual extraction uses the same schema.
    [S1, S3]
+
+If the entry date matters and the volume gives no canvass dates, search contemporary newspapers for the publisher's calls for submissions and publication announcements. Apply each notice only to the main volume or supplement it describes. Use the notices to bound when the address could have been supplied, and corroborate occupancy before dating the move [S88].
+
+Give residence, business premises and other stated address roles separate fields. Where a historical Finnish listing gives a shop address or calls someone a property owner, compare the address with the same-period *henkikirja* (population and tax roll). Record the home, shop, property owned and tenancy separately when the records distinguish them [S92], [S93], [S95], [S99]. If only a contact address is given, keep residence open and compare independent records that place the person or household, such as an appointment or a record of a family event [S100].
 
 **Artifact:** An observation table with these columns:
 
@@ -252,6 +276,22 @@ can be incomplete, so a single listing does not prove there was no other employe
 
 When an entry names the employer, look the firm up in the same edition: in the business section or commercial register, often at the back and arranged by category, and among the advertisements [S34], [S35]. Copy the firm's printed address and trade with their page locators beside the employee's row.
 
+### Address and business follow-ups
+
+For a dated address of a deceased person in MyHeritage's U.S. city directories, open the record in your account and look for **See who else lived at this address**. If present, open the address results and verify the address, unit and overlapping edition years on the underlying listings. Use a printed street list or the bounded page search in section 2 when the control is absent. Keep co-residence and kinship provisional [S79 @2026-11-22], [S80 @2026-11-22].
+
+Use a directory address near the census date to look for the same person on the census schedule. For a U.S. urban census with street-based enumeration districts, use the historical street and number to find the district for that census year, then inspect its pages [S81], [S82].
+
+For a historical Helsinki ownership claim, use the city archives' property cards in Sinetti. Search for *kiinteistökortisto*, open the district and use its map to match the block and lot before opening the card's PDF. Compare the card's dated evidence with the directory wording and follow any linked land records if title is still in question [S89 @2026-11-22], [S91 @2026-11-22].
+
+When tracking a firm's size or possible succession, tabulate distinct listed premises by edition. Keep the count tied to the inspected sections and preserve a comparable coverage row. A personal occupational title and the last firm listing are separate observations. If the listings disappear and a former employee is a plausible successor, search the same year for that employee's firm under any independently known later surname. Compare the trade and premises, then seek independent evidence of a transfer [S94], [S95]. Track the household address independently through the same editions [S99].
+
+If a personal listing gives a title such as house owner and the person's role at an institution is in question, inspect the institution's listing in the same edition for staff names and roles [S93]. Compare the institution's listings over time, keeping each department's address and public hours with its own edition [S97]. For an old police station, use the directory's police listing to identify the branch and copy its printed street address before comparing it with other records [S101]. In the 1861 Helsinki calendar, try *Fabriker och Manufakturinrättningar* for a factory. In the 1872 calendar, look under general addresses for an address office (*adresskontor*) and compare following editions for its listed operator [S102], [S103].
+
+Check staff contact addresses and public premises separately, and use dated notices or an institutional history to establish when the public was admitted. The 1912 Helsinki directory placed caretakers at the National Museum site four years before the museum's 1916 public opening [S97], [S98].
+
+Treat a school's printed term dates or an institution's hours as its published schedule. Look for dated notices of actual activity before using those dates to extend its operating period [S93], [S96].
+
 ## 4. Describe gaps before assigning events to them
 
 1. For the first or last apparent appearance, return to the coverage sheet.
@@ -276,6 +316,10 @@ the intervening years [S48]. Keep the reported occupation with the edition that 
 Leave the earlier livelihood and the start date unknown unless other evidence establishes them.
 
 When no directory covers the town for the year you need, or the person is missing from the one that does, widen to other directories before you treat the year as empty. A small town can appear in a county directory, and some states had state directories: Delaware's early directories covered the whole state [S32], [S33]. Rural-route, farm, church, club and professional directories also place people in a time and place, often yearly [S32], [S33], [S36]. Newspaper classified ads can give the home or business address of someone the directory missed; search them as in the [Newspapers.com recipe](newspapers-com-search-recovery.md) [S46], [S47]. Give each such listing its own row with its title, year and locator.
+
+When successive listings leave a move undated, search the intervening newspaper issues for move notices. Save the stated street, building owner or lot and notice date. Compare later listings for the same building and any tenancy wording before joining the addresses [S89].
+
+If a tradesperson drops out of a directory while an independently known property or trade gives you a lead, search same-year newspaper reports of local licensing or workshop approvals. Record the occupation, lot, decision date and any conditions. Record an approval as authorization and leave the opening date and actual operation open [S93].
 
 ## Prompt pattern
 
