@@ -57,6 +57,25 @@ correct behavior for every other kit. If the expected positive is missing,
 investigate the query, selection and processing before interpreting an empty list.
 This control procedure is original methodological synthesis, not a vendor guarantee.
 
+If a surname search yields no lead or you can assign matches to only one parental side, check
+the tester's available match lists on another service [H52]. Repeat the surname search there or
+look for matches you can assign to the missing side. Record the service, kit, date and search
+scope for each list, and report a miss only within that scope.
+
+One researcher reported that only one of the services she tried surfaced the surname [H50], and
+another reported maternal-side leads in a later database after identifying matches on only her
+paternal side in two earlier tests [H51].
+
+**Privacy gate:** <!-- privacy-gate: upload --> A raw DNA transfer sends the tester's genotype file
+to the receiving matching service. Answer the privacy gate in `SKILL.md` before transfer or before
+sending the tester's sample to a new testing company.
+
+If the tester has no usable list on the second service, check whether it accepts the exact raw file
+version for matching before uploading the tester's raw DNA file. If transfer is unavailable, consider
+a separate test with that service under the privacy gate. FamilyTreeDNA lists supported file versions
+for transfers into Family Finder [H53 @2026-11-22]. MyHeritage has closed new uploads
+[H54 @2026-11-22]. An eligible prior upload can still provide a match list [H55 @2026-11-22].
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Running known-unrelated pairs through a
 comparison tool moves the genetic data of those testers, who may be living, into that tool;
 answer the privacy gate in `SKILL.md` first.
