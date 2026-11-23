@@ -120,6 +120,8 @@ Gather these before searching:
 - **Read what an entry gives:** date of death and domicile, the surviving or predeceased spouse in tables opened from about the late 1880s, and the date of the succession declaration, with its number in later tables [S7]. Entries are not always complete [S8].
 - **Follow the declaration date into the registre des mutations par décès (register of transfers on death)** of the same office [S7], then order the death act from the commune the domicile points to.
 
+**Start with the commune of death when it is known.** Search its civil death register for the act, even if the succession table gives a different domicile [S93 @2026-11-22], [S94 @2026-11-22]. If you find the entry in the last domicile's register, check whether it is a transcription of an act drawn up elsewhere. Article 80 provides for that transcription, with an exception when the two places are different arrondissements of the same city [S95 @2026-11-22].
+
 **For a death before 1825, search the older tables.** The Finistère guide says the table des successions et absences was kept from 1 January 1825 and brought together the information of five tables abolished on that day: the tables of deaths, of seals placed and lifted (*appositions et levées de scellés*), of post-mortem inventories, of guardianships and curatorships (*tutelles et curatelles*), and of succession duties paid (*successions acquittées*) [S7]. Look for those five tables among the same registration office's records.
 
 ### A 1902 Saint-Pierre victim-index or family lead
@@ -146,13 +148,19 @@ judgments registered at the Fort-de-France court [S44]. These are two record tar
 
 ### Check whether a name index covers the commune and year
 
-**Privacy gate:** <!-- privacy-gate: third-party-tool --> A census name search sends the subject's name and any birth or residence filters entered to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting a query.
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A census name search sends the subject's name and any birth or residence filters entered to MyHeritage or FamilySearch. A search in the Archives de Paris index sends the subject's name or historical address entered to the Archives de Paris. Answer the privacy gate in `SKILL.md` before submitting a query.
 
 **Search a year-specific census index when it covers the place.** MyHeritage's *1872 France Census* and *1906 France Census* each list the départements covered. In *1901 France Census*, check the eight listed départements: Charente, Creuse, Dordogne, Eure-et-Loir, Indre, Marne, Orne and Vienne [S71 @2026-11-20], [S80 @2026-11-20], [S81 @2026-11-20], [S82 @2026-11-20]. Check for gaps at commune level before interpreting a miss.
 
 **Search the corresponding MyHeritage census collection for 1911, 1921 or 1931.** Each indexes selected départements and has associated images [S72 @2026-11-20], [S83 @2026-11-20], [S84 @2026-11-20], [S85 @2026-11-20]. From a hit, open the image and read the whole household. Record its commune, street or hamlet, page or image locator, and the birth years, birthplaces and relationships the list actually gives. Keep household membership distinct from kinship inferred by the index.
 
 **Try the département-specific census collection for its own years.** Use *France, Census of Corrèze, 1911* for Corrèze in 1911, *France, Hérault Censuses, 1836–1936* for Hérault, or *France, Côtes-d’Armor Censuses, 1872–1906* for Côtes-d’Armor [S71 @2026-11-20], [S86 @2026-11-20], [S87 @2026-11-20], [S88 @2026-11-20]. Check the exact enumeration and commune within a multi-year range. If coverage is unclear or the index gives no hit, browse the departmental list below.
+
+**For 1896 in present-day Seine-Saint-Denis, search the dedicated MyHeritage collection.** Check the commune and read the household image for ages, residence and stated relationships [S96 @2026-11-22], [S97 @2026-11-22]. If needed, search the separate FamilySearch collection for 1896, which identifies the Archives départementales de la Seine-Saint-Denis as the source [S98 @2026-11-22]. Use the archive and list's own commune, cote and image locator when citing the entry.
+
+**Search the city-specific Paris census index for 1926, 1931 or 1936.** Use the corresponding *France, Paris Census* on MyHeritage and check the arrondissement and quartier on the household image. In 1931 select the Paris collection explicitly [S99 @2026-11-22], [S100 @2026-11-22], [S101 @2026-11-22], [S102 @2026-11-22], [S103 @2026-11-22]. Read the whole household for residence, stated relationships and birth years and places.
+
+**Try the Archives de Paris index by name or historical address.** For 1926, 1931 and 1936, use the street and house number when the name transcription misses. Open the register image to verify the household and record its cote and page. If the index gives no usable result, browse by arrondissement and quartier [S104 @2026-11-22].
 
 ### Browse the departmental lists
 
@@ -188,13 +196,21 @@ Read the matricule’s successive-address section after identifying the recruit.
 
 Continue through the reserve and later annotations rather than ending at discharge from active service. A matricule can add later residence and family-status information, including a reported number of children. Date the observation by its annotation and preserve exactly what it states: a child count does not identify the children, establish their birth dates or mean they were born during active service. [S69], [S70]
 
-### Check the Nord and former Seine military indexes
+### Check military indexes by recruitment jurisdiction
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> A recruitment name search sends the recruit's name and any birth or enlistment filters entered to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting a query.
 
 **Search the military index for the recruitment place.** For enlistment or conscription in Nord, use MyHeritage's *France, Military Enlistees and Conscripts of Nord*. Carry the date and place of enlistment or conscription from a hit into the appropriate recruitment series [S71 @2026-11-20], [S89 @2026-11-20]. For conscription in the former Seine from 1887 to 1921, use *France, Military Conscripts of Seine*. Take the bureau and matricule from the hit to the register image and confirm the classe there [S71 @2026-11-20], [S90 @2026-11-20]. Use the historical recruitment jurisdiction when choosing the index. After a miss, continue with the classe and bureau or the earlier recruitment stages below.
 
+**Search the Calvados or Rhône Military Registration Cards for the recruitment place.** MyHeritage lists both collections by département [S97 @2026-11-22]. Use 1867–1921 for Calvados and 1865–1932 for Rhône as leads to recruitment classes. Begin with birth year plus 20 and leave the birth filter open when the birth year is uncertain [S107 @2026-11-22], [S108 @2026-11-22], [S109 @2026-11-22]. Compare the birth date and place, residence and parents on a hit. Carry the registration place and date and any source number to the departmental finding aid for the bureau, classe and matricule. After a miss, check the departmental tables for the recruit's actual bureau and classe [S105 @2026-11-22], [S106 @2026-11-22], [S109 @2026-11-22].
+
 **Read the full Seine matricule.** Copy the occupation from *État civil* and the physical description from *Signalement* [S91], [S92]. Read *Détail des services et mutations diverses* with *Corps d’affectation* and record the mobilization date, each regiment and its assignment date when given, and the date and wording of any discharge [S91], [S92]. Record transfer to the reserve and final discharge as separate events. Cite the register cote and the image that supplies each detail [S92].
+
+### Find a death connected to a conflict
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A military death index query sends the deceased candidate's name and any birth, death or relative filters entered to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting a query.
+
+**Search the free France, Military Death Index, 1914–1961 on MyHeritage** for a conflict-related death, particularly in the First World War. It uses MémorialGenWeb data and can also include civilians killed in France and members of foreign armed forces killed fighting there [S111 @2026-11-22], [S112 @2026-11-22]. Compare the conflict, unit, death place and burial place when given. Use the index as a lead to a military death record or civil death act [S110 @2026-11-22], [S111 @2026-11-22]. Keep a miss limited to the coverage of the index.
 
 ### Before classe 1867: follow the local recruitment stages
 
@@ -471,6 +487,8 @@ the five-volume *Fastes de la Légion d’honneur* (1845) for early promotions, 
    award, and a nomination does not by itself establish receipt of the decoration.
 
 ### A French resident under an overseas consular post
+
+**Search civil marriage and death registers at the supported overseas destination.** A miss in the French birth commune leaves the destination search open. For an event in California before July 1905, select the county of the event [S114 @2026-11-22]. In the reported Breton case, a birth-commune search found neither event, and the researcher traced the marriage to Monterey [S113 @2026-11-22]. Follow any French consular lead separately.
 
 Fix the consulate or consular section and residence period first. The official guide
 routes immatriculation through the post fonds' *chancellerie*, distinguishes civil and
