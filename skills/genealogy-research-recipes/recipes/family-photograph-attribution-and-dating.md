@@ -49,6 +49,12 @@ Use this when an image has a caption, inherited identification or new informatio
 
    On FamilySearch, albums belong to Memories, and the uploader sets each memory as public or as viewable only by themselves [S59 @2026-11-16]. FamilySearch's Content Submission Agreement says uploaded content may be displayed and available for others to search and view, and that photographs of living people, other than the uploader's own minor children, must not be posted without their consent [S58 @2026-11-16]. MyHeritage's Photo Tagger groups the faces it believes belong to one person and suggests names of deceased people from the tree [S62 @2026-11-16]; MyHeritage's 2022 announcement calls it facial recognition and says that, once enabled, it scans newly uploaded photos automatically [S61 @2026-11-16].
 
+**Ambiguous labels.** When a reverse label on a mother-and-child portrait gives one name without assigning it to a figure, carry both readings into the attribution register. Test each against the independently supported sitting window and the documented relationship [S111].
+
+**Faint writing.** Inspect lettering inside the image as well as writing on the mount or reverse. Record its position, estimated length, legible letter groups and alternative readings before testing possible names or places [S111].
+
+**Captions on reproductions.** Attach the caption to the copy you actually read. Record when that copy was received, and keep its receipt date separate from the sitting estimate [S112].
+
 **Embedded captions.** Read names in a digital copy's IPTC Description/Caption and Keywords fields as attributions. Record the field and file version, and the contributor and their basis when known [S77], [S83].
 
 **Handwriting on a caption.** Record a relative's recognition of the writer as an attributed claim. Compare the writing with independently attributed letters or cards when available. Keep the proposed writer and the caption's identification of the sitter as separate claims [S88], [S89].
@@ -75,6 +81,8 @@ For a candidate historical streetscape, open Google Street View at the location 
 
 Keep similar views as leads to the location. Check the vantage point and the arrangement of fixed features against the uncropped photograph, and corroborate the place with an independently located view [S73].
 
+**Uncertain background buildings.** Search historical photograph collections by place or landmark for a later view from nearly the same camera position. Use a fixed landmark to orient both images. Compare where buildings stand relative to it, allowing for changes in their outlines. A similar apparent size alone leaves a match provisional [S142] [S143]. If the building is still uncertain, find a dated elevated view that shows both the landmark and the candidate. Trace the original camera's sightline past the landmark toward each candidate in that view. Keep the identification provisional if several positions fit or the sightline remains unclear [S142].
+
 To seek other prints:
 
 1. **Privacy gate:** <!-- privacy-gate: contact --> Asking distant branches or heirs about the photograph contacts people who may be living and may not know the user; answer the privacy gate in `SKILL.md` before any message goes out. Ask distant and collateral branches, heirs of the relevant household goods and lines present at a photographed event [S8], [S9].
@@ -84,6 +92,10 @@ To seek other prints:
 5. Another copy's caption is its source's attribution. Count matching captions across trees, books and sites as one attribution until someone shows an independent basis: wrong identifications are copied quickly. The earliest upload points to a holder, not a maker or sitter [S12]. A place found for one album item is a lead for its neighbours, not a finding. These are leads to ask, never resemblance matches.
 
 The commissioner rule in step 4 did not end with Britain's 1911 Act. Under the Copyright Act 1956, a person who commissioned a photograph or a portrait, and paid or agreed to pay for it, was entitled to its copyright, unless an agreement excluded that [S54]. The Copyright, Designs and Patents Act 1988 gives first ownership to the author, or to the employer for work an employee made in the course of employment unless they agreed otherwise [S55]. The law in force when a work was made decides who first owned it, except that a commission given before the 1988 Act took effect keeps the earlier rule for a work made under it after that date [S56].
+
+**A possible wedding occasion.** If bouquets, boutonnieres or formal dress suggest a wedding-related gathering, search marriage notices and records within the independently supported sitting window. Keep a shower, another formal occasion and no identified occasion open. A marriage that fits the window gives you an event to investigate and leaves the identity of each sitter open [S111] [S112].
+
+**Missing album photographs.** Check for cutouts or other signs that prints were removed before using an absence as evidence. A MyHeritage account describes an album whose photographs of one family member had reportedly been cut out [S133].
 
 **Photographs linking branches.** Use the named parent and kinship in a reverse caption to choose which branch's collection to check. Test a place attached to a person's name separately from the place of the sitting [S85].
 
@@ -96,6 +108,10 @@ The commissioner rule in step 4 did not end with Britain's 1911 Act. Under the C
 **Occasion clues across photographs.** If separate attributions place the same people in two group photographs, compare distinctive clothing and other scene details for a possible shared occasion. Record the occasion as a hypothesis and test it against records of the event [S90].
 
 **Keepsake copies.** **Privacy gate:** <!-- privacy-gate: contact --> These questions go to relatives and heirs who may be living; answer the privacy gate in `SKILL.md` before any message goes out, as in step 1. When you ask for other prints, ask also about small portraits set into lockets and brooches. Victorian families kept photographs of their dead in such keepsakes, including portraits taken after death [S63], [S64], [S65]. Record a keepsake portrait as another copy, and transcribe the jewel's own inscription literally as a separate caption: one Royal Collection locket pairs a Camille Silvy photograph of Prince Albert with a lock of hair and is inscribed "December 14/1861" [S67]. An inscribed date marks the keepsake or the event it commemorates, not the sitting. A mourning setting does not make the portrait post-mortem: a mourning brooch of about 1885 at The Henry Ford holds a tintype of the deceased taken while still alive [S66]. Record a portrait as taken after death only on an inscription or an attributed account, never from pose or appearance. Such a sitting follows the documented death: take the death date as its earliest bound, and in the documented-lifetime test treat a sitting after the death as expected, not as a misattachment.
+
+**Possible death portraits.** If a sitter is shown in a casket, check the reverse, album and funeral records for the deceased, date and occasion. Keep a posed death portrait and a photograph of a wake or funeral distinct. For a reclining portrait in the “last sleep” style or a lifelike mourning tableau, keep the classification open until an inscription or attributed account connects it to a death. Open eyes, support, a toy or healthy-looking color can appear in death portraits. Check for added tint and leave illness, death and identity unresolved from appearance alone [S115] [S116] [S117] [S139] [S140].
+
+Keep funeral photography in consideration for a dated twentieth-century print. Gorr illustrates a family casket photograph dated about 1930 [S115].
 
 **Dead Fred.** The submission form specifies photographs taken before 1965 of people who are all deceased [S102 @2026-11-21]. The FAQ gives a cutoff of before 1960 [S103 @2026-11-21]. Keep a local draft when a photo dates to 1960–1964 or its eligibility is uncertain.
 
@@ -110,6 +126,12 @@ The commissioner rule in step 4 did not end with Britain's 1911 Act. Under the C
 5. When a mount names only the photographer, other photographs from the same studio can supply its address. Match the repeated studio set (props such as a column or flower stand) against an addressed comparison card, and record which card and which features were compared. The comparison card's address applies to that card's period; a studio may have moved or reused its set elsewhere. Keep the recovered address as studio context. Nearness to barracks or an institution is a hypothesis about the sitter's affiliation, not an identification [S21].
 6. Compare a supported studio place and date with documented residences to shortlist candidate lines [S15].
 7. For a relative's review, copy the scans rather than moving the files into imprint-town folders, so the album order stays intact [S16].
+
+**Studio credit.** When the imprint names the firm, record the firm as the credit and leave the individual camera operator open. For a Finnish studio, look up the firm in the Finnish Museum of Photography's *Kuka kuvasi* directory and look for staff in the candidate year. Keep staff as candidates until a record links one to the sitting. Charles Riis's name appears on a catalogued 1876 exhibition view, and Daniel Nyblin also worked for Riis [S127] [S128] [S129].
+
+**Series mounts and advertisements.** Compare the series wording and layout on an undated stereograph with an independently dated view from the same firm. Put a mount match in the table as a provisional clue. For Riis's Helsinki views, compare the mount with the 1876 General Exhibition view catalogued as *Yleisen suomalaisen teollisuusnäyttelyn välisali* [S127] [S128]. Check *Helsingfors Dagblad* for 23 July and 23 December 1876 for the offers Kyläkoski cites. Record the advertised subject, offer date and any stated format. An offer bounds the exposure only if it identifies that view, and a listing silent about format leaves it open [S127].
+
+**Langhans branches.** For a portrait attributed to Langhans at an established studio location, use 1876 as the earliest year for the Jindřichův Hradec studio and 1880 for the Vodičkova Street studio in Prague. Use the branch named on the mount or established in studio records before applying either date [S130] [S131].
 
 Read the result as a bound on the studio's use of that imprint. An original print on the studio's own mount falls inside the working span; a reproduction or a successor's print can fall later. Keep studio observations apart from what they imply for the original exposure, a later print or reproduction, the mount stock and the annotation [S17]. A studio town is not the sitter's residence [S15]. Never infer the sitter, an event or the photographed place from the business mark alone. Shared imprints show no kinship; never group by resemblance. When the records do not establish a bound, keep the window unresolved.
 
@@ -133,15 +155,29 @@ Name the object class before using any format clue: a cased image (a daguerreoty
 
 **Small card portraits.** Measure the card mount and the print separately. An intact carte de visite typically measures about 2½ × 4 inches (6.4 × 10 cm) overall. Check the mount and imprint together and allow for trimming before applying the format's date range [S77], [S80].
 
+**Cabinet cards.** Measure the whole mount as well as the print. About 4¼ × 6½ inches (10.8 × 16.5 cm) on heavier card stock is consistent with a cabinet card. Allow for other sizes and check the imprint and mount before applying the format's range. The dimensions alone leave the decade open [S112] [S113].
+
+**Glass negatives.** Check how the image-bearing layer reaches the plate edges and look for signs of hand coating. Compare an irregular coating with a wet-collodion reference and a uniformly coated plate with a manufactured gelatin dry-plate reference. Glass thickness alone leaves the process open. Apply the process dates only once the observations support a process, and check whether the negative copied an earlier exposure [S134] [S135].
+
+**Kodak Disc negatives.** Look for 15 small frames arranged around a circular hub. Use Kodak's 1982 launch as the earliest year for ordinary consumer exposures on confirmed Kodak Disc film. If it records a copy of an earlier photograph, apply the bound to the negative [S134] [S136] [S137].
+
 **Crayon portraits.** For a portrait that looks drawn, check for hand-applied media over a photographic enlargement [S77], [S81]. Record the enlargement separately and seek the source photograph. Apply the enlargement's date clues to the enlargement.
 
 **Digital dates.** Inspect the EXIF fields locally on the earliest available file. Distinguish `DateTimeOriginal` (capture) from `DateTimeDigitized` (digitization). Establish what the device captured before using either timestamp or the GPS coordinates. For a scan or a photograph of a print, metadata generated by the copying device describes the digital copy. Look for a date or place for the sitting on the physical photograph or in its provenance [S77], [S82].
 
 **Publication dates.** Record the issue date separately from the sitting. Use the issue as a latest bound once you establish it reproduces that exposure. One contributor dated a race photograph to 1954 and its appearance in a cycling magazine to 1979 [S88].
 
+**Buildings with a removal date.** If an identified building is still standing in the photograph, look for the address in dated auction and demolition notices. Record the auction, stated deadline and documented removal as separate events. A proposed deadline gives a provisional latest date. Use actual removal as a firmer latest bound and leave the earliest date open unless the image shows a separately dated change [S132].
+
 **Album order.** Check the dated images on both sides and test whether dates in that part of the album run in order. Use the neighbours as a provisional range only where the sequence holds. If the pages are arranged by family or theme, use the neighbours as context [S86], [S87].
 
 **Seasons and stays.** Use seasonal clothing as a soft clue and record an approximate season and year when the year has separate support. If the sitting is tied to a temporary household residence, use the documented years of the stay as a conditional window [S86].
+
+**Clothing comparisons.** Compare distinctive hat shapes with dated Sears catalog issues by year and season. Check the brim and crown separately from the trim, and date garments separately when their silhouettes differ. On a seated sitter, inspect the fabric beside the chair before ruling out a bustle. Use period garment names as search terms and record the comparison issue and page. A match dates an advertised style and leaves room for later wear [S111] [S112] [S114] [S126] [S138].
+
+**U.S. flags.** Use the clearest flag in the image. Record the star count, arrangement and number of stripes, and keep each plausible count if a fold or crop hides stars. For example, carry the official 30-star (1848–1851), 31-star (1851–1858) and 32-star (1858–1859) windows separately. The 1818 act restored 13 stripes after the 15-stripe design introduced in 1795 and set changes for the July 4 after a state's admission. Use the official table for exact dates, including when the preceding design still applied in an admission year. Keep seceded states in the Civil War count. West Virginia's 35th star took effect in July 1863 and Nevada's 36th in July 1865 [S106] [S107] [S108].
+
+**Flag layout and use.** Compare the layout with dated examples and verify the count even when the pattern looks familiar. Allow for layout variation before the 1912 standard. An official interval dates the design's status and leaves the flag's manufacture and later display open. A 33-star flag was used at Lincoln's bier in 1865, years after that design was superseded [S106] [S107] [S109]. For a distinctive mourning or commemorative design, check inscriptions, event notices or a dated image of the occasion before narrowing the date. Half-staff display, uniforms and the venue can help choose which occasion to check [S106] [S110].
 
 **Vehicles.** If a car's design is visible, record the features that distinguish the make, model or variant. Check manufacturer literature or collection records for when that design first appeared. Use a supported introduction date as the earliest bound and leave the latest date open [S77], [S84]. In a 2012 Indiana Historical Society post, a then-recent photograph shows a boy beside a 1970s car [S84].
 
@@ -151,13 +187,27 @@ Treat an AI date estimate, such as MyHeritage's PhotoDater, as a rough range to 
 
 On MyHeritage desktop, open the thumbnail of a photo already on the site to trigger PhotoDater on its Photo Page [S52 @2026-11-21] [S92 @2026-11-21]. If there is no estimate, check for a date already stored in the site's metadata and whether the image is a photograph containing people [S52 @2026-11-21].
 
+On the user's phone, look for **Photos** in MyHeritage or **Gallery** in Reimagine. Once the PhotoDater processing gate is clear, open an undated image already in that app and give the first estimate a few seconds to appear below it. Tap a displayed estimate to inspect the histogram and other possible decades. If the estimate stays absent, leave the date open [S118 @2026-11-22] [S52 @2026-11-22].
+
 For a batch, look in the user's desktop **List View → Year range** for **Missing date** and apply the filter. Open each undated image to request its estimate, whether you found it with the filter or directly. A decade filter can also return saved estimates. Inspect each result's date field for an estimate marker before using its year [S92 @2026-11-21] [S94 @2026-11-21].
 
 Click the estimate and choose **More details** to record the reported confidence, average error and other decades the histogram suggests. Use them to prioritize what to check. Keep the average error out of the date-bound table [S52 @2026-11-21] [S92 @2026-11-21].
 
 **Privacy gate:** <!-- privacy-gate: publish --> Saving or editing the year records dating information about the photographed people in MyHeritage for viewers admitted by the photo's settings. Clear the gate in `SKILL.md` before changing the site's metadata. Use **Save** on a corroborated estimate. Read the saved GEDCOM-formatted year as an estimate and label it that way in the research log. Dismiss unsupported suggestions. Replace a saved estimate when the sitting's date is established and retain the prior estimate in your log [S92 @2026-11-21] [S93 @2026-11-21].
 
+On the phone, apply the same metadata gate before tapping **Save** on an independently corroborated estimate. Dismiss unsupported estimates. Confirm that the saved date remains marked as estimated [S118 @2026-11-22].
+
+In MyHeritage **Photos → List View**, use the date field for an independently supported date. Enter the supported day, month, year or range at the precision the evidence permits [S94 @2026-11-22].
+
 To turn off PhotoDater estimates, uncheck **PhotoDater** under **My Privacy → Content** in the family site's settings [S52 @2026-11-21] [S92 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Scribe AI sends the selected photograph, including people and visible details that may identify living people, to MyHeritage for analysis. Answer the privacy gate in `SKILL.md` and get the user's explicit permission for this service before submitting an image. On the web, choose **Upload image** in [Scribe AI](https://www.myheritage.com/scribe-ai) and select the approved historical image. Check the user's site settings if Scribe AI is unavailable. The help page specifies the PhotoDater setting as a prerequisite, so check the scope of consent before enabling it [S119 @2026-11-22] [S120 @2026-11-22] [S122 @2026-11-22] [S123 @2026-11-22].
+
+In the MyHeritage mobile app, go to **Photos → Scribe AI → Choose image** to select a cleared historical photograph. For a photo already in MyHeritage, open its menu and choose **Get Scribe AI insights** after clearing the same processing gate [S121 @2026-11-22].
+
+In the report, open **Estimated date**, **Estimated location** and **Visual clues** where present. Reinspect the photograph for the specific features cited, such as a garment's cut and how it is worn or the spacing of buildings. Verify the features against dated sources or independently located views. Record the tool's estimates as leads alongside the observations you can verify [S119 @2026-11-22] [S120 @2026-11-22] [S124 @2026-11-22] [S125 @2026-11-22].
+
+For a reported insignia, business sign or plate fragment, check the report's reading against the visible detail before following a service-archive or locality lead. Verify a named unit in insignia references before using it to choose service records. Compare a plate fragment with independently dated examples from candidate jurisdictions [S125] [S141].
 
 If the occasion is independently identified and an attributed account or record gives the person's age at it, subtract that age from the estimated occasion window to plan a birth-record search. Carry both uncertainties into the search and keep the result provisional [S92].
 
