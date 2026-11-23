@@ -13,6 +13,7 @@ list came from reading every recipe; a new step needs a checkpoint and an entry.
 import json
 import re
 import unittest
+from functools import lru_cache
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -83,11 +84,9 @@ def blank_fences(text):
     return "\n".join(lines)
 
 
-def find_once(text, needle):
-    """Return the offset in `text` where `needle` starts; it must occur exactly once.
-
-    Case, line breaks and runs of spaces are ignored, so a rewrapped line still matches.
-    """
+@lru_cache(maxsize=1)
+def folded_with_offsets(text):
+    """Keep the current recipe's index for successive inventory lookups."""
     folded, origin = [], []
     for index, char in enumerate(text):
         if char.isspace():
@@ -97,7 +96,15 @@ def find_once(text, needle):
         for part in char.casefold():  # one character can fold to several ("ß" -> "ss")
             folded.append(part)
             origin.append(index)
-    folded = "".join(folded)
+    return "".join(folded), origin
+
+
+def find_once(text, needle):
+    """Return the offset in `text` where `needle` starts; it must occur exactly once.
+
+    Case, line breaks and runs of spaces are ignored, so a rewrapped line still matches.
+    """
+    folded, origin = folded_with_offsets(text)
     target = re.sub(r"\s+", " ", needle.strip()).casefold()
     count = folded.count(target)
     if count != 1:
@@ -220,7 +227,7 @@ class InventoryTests(unittest.TestCase):
                 self.assertTrue((RECIPES / entry["recipe"]).is_file())
 
     def test_each_listed_step_has_its_checkpoint(self):
-        for entry in INVENTORY:
+        for entry in sorted(INVENTORY, key=lambda item: item["recipe"]):
             with self.subTest(recipe=entry["recipe"], action=entry["action"]):
                 text = (RECIPES / entry["recipe"]).read_text(encoding="utf-8")
                 check_entry(text, entry["kind"], entry["action"], entry["checkpoint"])

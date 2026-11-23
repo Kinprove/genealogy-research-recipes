@@ -68,6 +68,19 @@ class StaticEvaluationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "is not an excerpt of the recipe body"):
             static_checks(self.skill)
 
+    def test_guardrail_line_is_the_last_body_match_after_whitespace_folding(self):
+        with tempfile.TemporaryDirectory() as directory:
+            recipes = Path(directory) / "recipes"
+            recipes.mkdir()
+            rules = [{"id": "wrapped", "text": "A repeated quote"}, {"id": "absent", "text": "Header only"}]
+            metadata = {"id": "example", "guardrails": rules}
+            body = "# Example\n\nA repeated quote.\n\n\n  A\nrepeated\u00a0quote.\n\n"
+            text = emit_recipe(metadata, body)
+            (recipes / "example.md").write_text(text, encoding="utf-8")
+            found = guardrails(directory)
+            self.assertEqual(found["wrapped"]["line"], text.splitlines().index("  A") + 1)
+            self.assertIsNone(found["absent"]["line"])
+
     def test_duplicate_guardrail_id_is_rejected(self):
         path = self.skill / "recipes/burial-evidence-packet.md"
         path.write_text(path.read_text(encoding="utf-8").replace('"BUR-01"', '"CM-01"'), encoding="utf-8")

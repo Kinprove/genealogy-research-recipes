@@ -89,7 +89,11 @@ jobs:
           python -B scripts/build_dist.py --check-links "$RUNNER_TEMP"/openai-plugin/*.zip
 
   hermes:
-    name: Hermes native plugin
+    name: ${{ matrix.check }}
+    strategy:
+      fail-fast: false
+      matrix:
+        check: [Hermes native plugin, Hermes catalog distribution]
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -115,18 +119,21 @@ jobs:
       # `validate` passes with warnings, but a security-scan caution makes every
       # Hermes catalog install and update ask the user to confirm, so any warning fails.
       - name: Validate native plugin and real registration
+        if: matrix.check == 'Hermes native plugin'
         run: |
           set -o pipefail
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate . --json | tee "$RUNNER_TEMP/validate-root.json"
           jq -e 'has("warnings") and (.warnings | length == 0)' "$RUNNER_TEMP/validate-root.json" > /dev/null || { echo "::error::hermes plugins validate reported warnings"; exit 1; }
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins doctor . --ci
       - name: Validate the Hermes catalog distribution with the pinned runtime
+        if: matrix.check == 'Hermes catalog distribution'
         run: |
           set -o pipefail
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev python -B scripts/build_dist.py --target hermes-catalog --source HEAD --out "$RUNNER_TEMP/hermes-catalog"
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate "$RUNNER_TEMP/hermes-catalog" --json | tee "$RUNNER_TEMP/validate-dist.json"
           jq -e 'has("warnings") and (.warnings | length == 0)' "$RUNNER_TEMP/validate-dist.json" > /dev/null || { echo "::error::hermes plugins validate reported warnings on the catalog distribution"; exit 1; }
       - name: Exercise namespaced skill and recipe access in an isolated profile
+        if: matrix.check == 'Hermes native plugin'
         env:
           PYTHONDONTWRITEBYTECODE: "1"
           PYTHONPATH: ${{ runner.temp }}/hermes-runtime
