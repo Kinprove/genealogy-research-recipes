@@ -11,7 +11,7 @@ handoff: ["us-vital-registration-coverage", "missing-marriage-jurisdiction-searc
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 181}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 182}
 ---
 
 # Read New York City Clerk marriage packets and historical birth certificates
