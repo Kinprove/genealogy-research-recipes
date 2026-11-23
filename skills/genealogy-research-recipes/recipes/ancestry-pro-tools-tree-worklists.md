@@ -11,7 +11,7 @@ handoff: ["research-documentation", "evidence-proof-judgment"]
 checked: "2026-11-22"
 checked_basis: "Read 2026-11-22"
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 16}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 17}
 ---
 
 # Build and verify an Ancestry Pro Tools tree worklist

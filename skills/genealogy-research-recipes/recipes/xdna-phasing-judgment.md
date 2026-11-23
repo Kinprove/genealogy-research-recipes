@@ -11,7 +11,7 @@ handoff: ["dna-comparison-controls", "dna-match-outreach-staging"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 23}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 24}
 ---
 
 # Recipe: X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong

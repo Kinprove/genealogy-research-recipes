@@ -11,7 +11,7 @@ handoff: ["published-book-catalogue-and-full-text-discovery", "ydna-mtdna-interp
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 15}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 16}
 ---
 
 # Decode Ahnentafel, Henry, Register and NGSQ numbers in charts and compiled genealogies
