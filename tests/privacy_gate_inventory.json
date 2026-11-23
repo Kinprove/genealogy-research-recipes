@@ -5254,5 +5254,17 @@
   "kind": "request",
   "action": "Request a search through RedCrest-Probate",
   "checkpoint": "before sending the requester’s details, the application number"
+ },
+ {
+  "recipe": "australian-wartime-internment-record-recovery.md",
+  "kind": "request",
+  "action": "Apply for access to the identified record",
+  "checkpoint": "supporting documents sent to the NAA"
+ },
+ {
+  "recipe": "australian-wartime-internment-record-recovery.md",
+  "kind": "request",
+  "action": "Submit a Red Cross detention inquiry",
+  "checkpoint": "detainee and requester details sent to the International Committee of the Red Cross"
  }
 ]
