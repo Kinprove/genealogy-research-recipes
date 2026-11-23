@@ -4738,5 +4738,23 @@
   "kind": "third-party-tool",
   "action": "On the match card, open the relationship label and choose",
   "checkpoint": "Saving a confirmed DNA relationship sends the"
+ },
+ {
+  "recipe": "myheritage-profile-hint-extraction.md",
+  "kind": "publish",
+  "action": "add missing profiles for the deceased target",
+  "checkpoint": "The target’s and relatives’ names and relationships go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-profile-hint-extraction.md",
+  "kind": "link",
+  "action": "In the mobile app, tap **Confirm** on a verified Smart Match or Record Match",
+  "checkpoint": "The association between the online profile and the source or matching tree would be recorded on MyHeritage. Apply the [privacy gate](../SKILL.md#privacy-gate) before linking if either side identifies a person who may be living."
+ },
+ {
+  "recipe": "myheritage-profile-hint-extraction.md",
+  "kind": "publish",
+  "action": "After confirming a Smart Match in the mobile app, save only supported information",
+  "checkpoint": "The source facts and selected family relationships become available in the MyHeritage tree according to its visibility settings. Apply the [privacy gate](../SKILL.md#privacy-gate) before saving any data about people who may be living."
  }
 ]
