@@ -91,6 +91,8 @@ For a person born before 1855 whose parents are unknown, search for a Scottish d
 
 **Search the selected Scottish births and baptisms index.** For a missing Scottish birth or baptism, search MyHeritage’s *Scotland, Selected Births & Baptisms, c. 1640 - c. 1860* (collection 10321), listed as free, and open plausible matches [S46 @2026-11-21], [S47 @2026-11-21]. Use any parish and event details to locate the underlying church record. Continue searching the relevant parish and denominational registers after a miss.
 
+**Use children’s baptisms to trace a census household before 1855.** Record any stated abode separately from the parish of baptism [S49]. Compare the parents named in the baptism entries with the names and relationships in the census before linking the records [S48], [S49]. If the family drops out of the parish registers, search church registers in places where relatives are documented and in nearby industrial communities that fit the family’s work history [S48].
+
 ## Follow corrections and church-court records as later sources
 
 - **Check for an RCE stamp.** Follow the marginal reference from the statutory entry to the Register of Corrected Entries, and cite the later entry separately. Brady describes a marriage correction with a summary of a bigamy case and a related divorce [S4 @2026-11-19]. Scotland’s People says birth corrections may add a father after a paternity case or subsequent marriage; its statutory birth guide says the link to the RCE page is free to view [S44 @2026-11-19].
