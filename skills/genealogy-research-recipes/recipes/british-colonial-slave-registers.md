@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "family-interviews-and-oral-tradition", "hi
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 118}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 119}
 ---
 
 # Trace an enslaved ancestor through the British colonial slave registers and compensation records
