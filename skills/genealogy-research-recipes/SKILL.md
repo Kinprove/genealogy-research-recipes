@@ -340,6 +340,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/bialystok-cholera-committee-record-recovery.md` — Find a named household in Białystok county's 1831 cholera reports, tally and orphan records, then reconcile the dated statements.
 - `recipes/cmolas-estate-inventory-recovery.md` — Find the Cmolas estate inventory and compare its numbered entries, kinship terms and child counts with dated parish records.
 - `recipes/czech-estate-corvee-record-recovery.md` — Use Bohemian and Moravian estate records to separate the labor a holding owed from the work its occupants performed.
+- `recipes/czech-historical-census-recovery.md` — Find a Czech census schedule by year, historical district and house number, then interpret residence, home municipality and language in their own columns.
 
 ### Russian Empire and Soviet Union
 

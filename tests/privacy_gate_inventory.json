@@ -5434,5 +5434,11 @@
   "kind": "third-party-tool",
   "action": "Search the portal's *Montana State Prison Records*",
   "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "czech-historical-census-recovery.md",
+  "kind": "request",
+  "action": "Prepare a request for a 1930 census copy",
+  "checkpoint": "The Czech National Archives can receive"
  }
 ]
