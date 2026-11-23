@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "upload", "link", "export", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 244}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 245}
 ---
 
 # Take in, capture and hand over an inherited family collection
