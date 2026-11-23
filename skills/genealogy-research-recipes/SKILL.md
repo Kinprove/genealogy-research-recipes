@@ -450,6 +450,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-crown-farm-purchase-recovery.md` — Use Finnish land-register annotations to find a Crown farm’s hereditary purchase in Swedish or Finnish records.
 - `recipes/finnish-fire-insurance-record-recovery.md` — Trace Finnish properties through Swedish-era and Finnish insurers’ notices, policies, appraisals, plans and payout reports to document buildings and fire damage.
 - `recipes/finnish-folk-poetry-informant-recovery.md` — Trace a historical folk-poetry informant through SKVR entries, collection notes and the collector’s published accounts.
+- `recipes/finnish-great-northern-war-refugee-recovery.md` — Trace a family displaced from Finland through wartime relief lists and Swedish parish evidence, then check for a documented return.
 
 ### United States: people, vital and church records
 
