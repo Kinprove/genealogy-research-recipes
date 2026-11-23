@@ -49,9 +49,17 @@ Most town books are the clerk's running minutes [S3]. Treat such a book as a con
 
 For Connecticut’s Barbour Collection, copy the town, volume and page locator and establish what it points to before retrieving an original. The statewide slips and bound town volumes are transcriptions or abstracts; bound volumes standardise surname spellings and can add another copying stage. Some towns’ slips were made from published compilations, so their page references lead to the printed book rather than a manuscript. Use the town volume’s introduction and abbreviation key, then inspect the identified source for context and transcription accuracy. [S15], [S16]
 
+For the first New Haven vital register, start at printed page 1 of Part I of *Vital Records of New Haven, 1649–1850*. Treat the printed sequence as the editors’ reconstruction and attribute details they supplied in brackets to the alphabetical copy. To look for the register page, check the town guide’s *Births, Marriages, Deaths, 1649–1750* film (CSL 2487, FamilySearch film 1405830). [S31], [S32], [S33]
+
+For New Haven Colony proceedings, use the Connecticut State Library’s *Colonial Records & Topics* guide to locate the State Archives’ manuscript series and open volume 1A (1639–1649). If you cannot access the manuscript images, use the linked 1857 transcription, *Records of the Colony and Plantation of New Haven from 1638 to 1649*, and cite the printed edition. Flag the reported missing 1649–1653 volume in the coverage log. [S31 @2026-11-22], [S34 @2026-11-22], [S35 @2026-11-22]
+
 Treat Massachusetts Vital Records to 1850, the Tan Books, as compiled evidence drawn from town, church and private records, gravestones and newspapers. Decode the source label for the particular entry and seek that underlying record. Do not describe every Tan Book entry as a transcription of a town clerk’s original, or add a family Bible to its provenance unless the volume identifies one. [S15], [S17]
 
+For colonial Massachusetts vital events, use American Ancestors’ *Massachusetts: Vital Records, 1620–1850* to look for a compiled entry. To locate the town book, check FamilySearch’s *Massachusetts, Town and Vital Records, 1626–2001* (collection 2061550) and Ancestry’s *Massachusetts, U.S., Town and Vital Records, 1620–1988* (collection 2495). Log the town, volume and range actually covered instead of using the dates in a collection title as coverage. [S27 @2026-11-22], [S28 @2026-11-22], [S29 @2026-11-22], [S30 @2026-11-22]
+
 For Massachusetts land, separate the town’s original allotment from the later conveyance record. Search town records for the distribution, then use the county or land district’s Registry of Deeds for recorded transfers. Select the registry that covers the town, rather than assuming the town clerk’s book contains the whole title chain. [S15], [S18]
+
+For seventeenth-century Providence land, start with volumes I (*Long Old Book with Parchment Cover*) and II (*Town Old Book*) of *The Early Records of the Town of Providence*. Use Bowen’s consolidated index and its date table to identify other volumes and to keep volume I in scope for dates outside 1650–1670. Cite the printed volume and page. Record the volume number with any book nickname because *Book with Brass Clasps* can refer to either the second or the third book. [S36], [S37]
 
 ## Use early Boston compilations
 
