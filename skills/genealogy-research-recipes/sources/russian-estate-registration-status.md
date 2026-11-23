@@ -73,7 +73,7 @@ Searching a redemption inventory by landowner and village, reading the part of t
 
 - **S53:** FEEFHS, [The Russian Hereditary Nobility System](https://feefhs.org/node/430). Passage read 2026-11-16. Used for: Provincial Noble Assemblies and Heraldry confirmation files, and the guide’s reported RGIA fond 1343 inventory 51 noble registers. The archive’s current inventory and access were not independently checked.
 
-### Sources S54–S61
+### Sources S54–S63
 
 - **S54:** [Brockhaus and Efron, «Евреи», section IV on the Pale of Settlement](https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%95%D0%B2%D1%80%D0%B5%D0%B8). Period account of the 1859 guild transition and residential qualification read 2026-11-19.
 - **S55:** [Jewish Encyclopedia, “Pale of Settlement”](https://jewishencyclopedia.com/articles/11862-pale-of-settlement). Period account of guild residence rights and the Moscow exception read 2026-11-19.
@@ -83,9 +83,13 @@ Searching a redemption inventory by landowner and village, reading the part of t
 - **S59:** [RGIA, f. 1343, Third Department of the Senate](https://fgurgia.ru/object/439271). Fond description grouping op. 47 with hereditary grants and describing op. 41 as 1890–1917 read 2026-11-19.
 - **S60:** [RGIA, f. 1343, op. 47](https://fgurgia.ru/object/2849287). Inventory heading and sample file titles, 1897–1917, read 2026-11-19.
 - **S61:** [Великія описи, GASO f. 6, op. 9](https://inv.velikie.org/archive/gaso-ural/6/9/). Inventory transcription for d. 860, Yekaterinburg Holy Trinity registers, 1891–1895, read 2026-11-19.
+- **S62:** Daniel Paczkowski, [Rodzina Szczerbaczewiczów (prababci Agaty) - stan po kwerendzie](https://danielpaczkowski.blogspot.com/2023/07/rodzina-szczerbaczewiczow-prababci.html), community genealogy post, 2023-07-30. Post read 2026-11-22 UTC. Paczkowski reports that the 29 September 1891 Orthodox marriage entry in Leszcze describes both spouses as Pińsk townspeople. He records an unresolved family tradition of Russified Polish noble ancestry on the groom’s side. The original marriage entry was not inspected.
+- **S63:** [Руководство для сельских пастырей](https://azbyka.ru/otechnik/pravoslavnye-zhurnaly/rukovodstvo-dlja-selskih-pastyrej-1880-t-2-18-35/), 1880, vol. 2, no. 21, pp. 106–108, «Частные правила, которыми должно руководствоваться при метрических записях о бракосочетавшихся». Marriage-register guidance read 2026-11-22 UTC. The period clergy journal directs priests to enter each spouse’s status and to copy merchant or townsperson status from the corresponding board’s certificate for marriage.
 
 ## Credits
 
+- Daniel Paczkowski’s community genealogy post (S62) — Copyright of the author. Paraphrased with attribution (adapted)
+- Руководство для сельских пастырей (S63) — Public-domain period guidance, paraphrased (adapted)
 - Brockhaus and Efron and the Jewish Encyclopedia (S54–S55) — Historical reference articles, paraphrased with attribution (adapted)
 - RGIA and Великія описи (S56–S61) — Archival descriptions, paraphrased with attribution (adapted)
 - Central State Archive of Kirov Oblast, revision-list guide — Official archive page; revision dates and later-file caveat paraphrased (adapted)
