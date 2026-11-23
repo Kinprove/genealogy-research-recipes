@@ -5050,5 +5050,11 @@
   "kind": "export",
   "action": "Use **More** → **Print** to print the visible part",
   "checkpoint": "The selected branch’s names, events and relationships would leave Ancestry for the user’s device. Apply the [privacy gate](../SKILL.md#privacy-gate), including the retention rule."
+ },
+ {
+  "recipe": "irish-probate-and-deed-recovery.md",
+  "kind": "third-party-tool",
+  "action": "If the collection opens, search MyHeritage by the deceased's name",
+  "checkpoint": "This query sends the deceased's name to MyHeritage."
  }
 ]
