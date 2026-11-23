@@ -4780,5 +4780,11 @@
   "kind": "third-party-tool",
   "action": "search the veteran's name in issues around documented local commemorations",
   "checkpoint": "The deceased ancestor's or veteran's name and any identifying search terms go to Newspapers.com."
+ },
+ {
+  "recipe": "old-german-handwriting-comparison.md",
+  "kind": "publish",
+  "action": "post a focused request in the Genealogie forum’s Čtení starých materiálů section",
+  "checkpoint": "The scan link and partial transcription can reveal people named on the page. Apply the [privacy gate](../SKILL.md#privacy-gate) before sharing either with readers of the Genealogie forum."
  }
 ]
