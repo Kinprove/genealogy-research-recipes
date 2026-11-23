@@ -197,7 +197,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [buenos-aires-passenger-arrival-recovery](skills/genealogy-research-recipes/recipes/buenos-aires-passenger-arrival-recovery.md) | record catalogues and documentation | — | — | request | — | required |
 | [burial-evidence-packet](skills/genealogy-research-recipes/recipes/burial-evidence-packet.md) | record catalogues and original images | — | — | link, publish, third-party-tool, upload | contact | required |
 | [canadian-arrival-record-routing](skills/genealogy-research-recipes/recipes/canadian-arrival-record-routing.md) | record catalogues and original images | — | — | third-party-tool, request | — | required |
-| [canadian-census-interpretation](skills/genealogy-research-recipes/recipes/canadian-census-interpretation.md) | record catalogues and original images | — | — | — | — | — |
+| [canadian-census-interpretation](skills/genealogy-research-recipes/recipes/canadian-census-interpretation.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [canadian-great-war-project-cross-border-enlistment](skills/genealogy-research-recipes/recipes/canadian-great-war-project-cross-border-enlistment.md) | source guides, catalogues and the relevant record or session | — | — | — | — | — |
 | [canadian-provincial-record-routing](skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
