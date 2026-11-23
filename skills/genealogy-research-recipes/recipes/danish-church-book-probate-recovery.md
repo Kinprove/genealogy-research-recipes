@@ -10,7 +10,7 @@ guardrails: [{"id": "DANISH-CHURCH-BOOK-PROBATE-RECOVERY-01", "text": "Choose th
 handoff: ["scandinavian-patronymic-farm-name-record-recovery", "evidence-proof-judgment"]
 checked: "2026-11-18"
 checked_basis: "Read 2026-11-18"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 126}
 ---
 
@@ -28,6 +28,7 @@ Related recipes:
 
 - Find the parish and the authority for the date
 - Read the church book for the period
+- Trace a historical cause of death
 - Check civil marriages before calling a marriage missing
 - South Jutland: follow the period's register
 - Route a probate by status and date
@@ -65,6 +66,20 @@ Some parishes kept lists of people moving in and out (af- og tilgangslister) in 
 Use the other entries to link people. A baptism names the child, the parents and their residence; the godparents were often relatives of the parents. A confirmation names the confirmand, the parents or the master (husbond) and their residence, often says whether a parent was dead, and in older books gives grades. A marriage names the couple and their residence, may name their parents, and names the sureties (forlovere), normally close male relatives. A newer burial entry may name the parents and spouse and the couple's last common residence. A confirmand described as the child of a late ("afdøde") parent dates that parent's death before the confirmation, so search the burials backwards from it. [S2]
 
 Church books after 1925 can contain CPR (personal identity) numbers and fall under a 100-year access period. In the books on Arkivalieronline, CPR numbers are blurred, and from 1892 the remarks column of the birth lists is blurred. [S1 @2026-11-18] A blurred field is withheld and an unscanned book is offline; neither is missing, so do not record either as a nil.
+
+## Trace a historical cause of death
+
+Take the death date and any recorded residence or place of death to Rigsarkivet's death-certificate guide. Use the residence at death to identify the medical district, then search Dødsattester under the creator the guide specifies. For a sudden or unexplained death, check the medico-legal certificates. The guide routes rural medico-legal certificates from 1871 to Sundhedsstyrelsen and lists South Jutland separately, with no surviving certificates noted for 1864–1920 and Sundhedsstyrelsen coverage from 1921. [S17 @2026-11-22]
+
+Use the place of death or discovery and the date to identify the local police or judicial authority that could have investigated. In the catalogue, look for series under that creator using dødfundne personer or selvmord, and check its forhørsprotokol (inquiry register) or politiprotokol where applicable. [S16 @2026-11-22], [S18 @2026-11-22], [S19 @2026-11-22]
+
+For a suspected suicide, also search Danmarks Statistik's Rapporter over selvmord by year and open the exact bundle, using the region or journal-number range where listed. [S20 @2026-11-22], [S24 @2026-11-22] Check the bundle's access in the catalogue. The Arkivalieronline list headed 1895–1924 ends at 1904, and Daisy lists the 1905–1924 bundles for ordering. [S21 @2026-11-22], [S22 @2026-11-22]
+
+Compare the statistical return with the underlying local investigation and the death certificate. Identify each by record type and locator, and use published aggregate tables for context only. [S16], [S23]
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for a death certificate, investigation file or individual statistical return can disclose the deceased's identity and sensitive death information, names of relatives or witnesses who may be living, and the requester's kinship evidence to Rigsarkivet. Apply the record-request gate in `SKILL.md` before sending the request.
+
+For a relevant unit with no scan, check the series' access rules and use Rigsarkivet's reading-room order route for that exact unit. Death certificates have a 75-year access period. [S17 @2026-11-22], [S19 @2026-11-22], [S22 @2026-11-22]
 
 ## Check civil marriages before calling a marriage missing
 
@@ -139,12 +154,22 @@ Some groups had their own probate authority:
 - **Navy crews, their spouses and children, 1659–1771:** the Underadmiralitetsretten, whose oldest surviving probates are from 1659. Its probate books and their registers are scanned; its other series are seen in the reading room. After 1771 navy probates were handled like other citizens'. [S7 @2026-11-18]
 - **Jewish citizens before 1814:** Det Mosaiske Troessamfund. Its probates survive from 1760, without finding aids, in four series kept in date order. [S8 @2026-11-18]
 
+### Use a Gazette notice to locate a probate
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A search of the National Gazette index sends the deceased's name to MyHeritage. Apply the third-party tool gate before sending the query and leave relatives' details out.
+
+For a death from 1918 onward, search the deceased's name in MyHeritage's *Denmark, Deaths Published in National Gazette* index to Statstidende. Record the birth date or year, residence, death date, publication date and spouse as given. Use only the deceased's details in the search. [S11 @2026-11-22], [S12 @2026-11-22]
+
+Use the publication date to locate and read the original notice. Record its issue and page or notice number when available. For a print issue, check the Statstidende holdings at Det Kgl. Bibliotek by that date. [S15 @2026-11-22]
+
+Read a dødsbo notice (proklama) as a call for claims against the estate. [S13 @2026-11-22] When the notice names an estate contact or a bobestyrer, record the role as printed. [S11 @2026-11-22], [S14 @2026-11-22] A private estate's contact may be a relative. [S14 @2026-11-22] Use any named court or case reference to follow the probate route above. If the index is empty, continue with the death register or the relevant probate series. Danmarks Domstole gives boudlæg, a way to settle small estates, as an example where no proklama is published. [S13 @2026-11-22]
+
 ## Combine the sources into one household
 
 1. Start from the census that shows the household, and note each person's age, birthplace and position in it. For census coverage and transcriptions, use [Denmark: go beyond the church books](scandinavian-patronymic-farm-name-record-recovery.md#denmark-go-beyond-the-church-books).
-2. Take each birth, marriage and death to the register that its place, date and event type require, using the church-book, civil-marriage and South Jutland sections above. When an entry is missing, damaged or unreadable in one copy, read the other copy. Use confirmations to tie a child to a later adult, and burials to close each life.
+2. Take each birth, marriage and death to the register that its place, date and event type require, using the church-book, civil-marriage and South Jutland sections above. When an entry is missing, damaged or unreadable in one copy, read the other copy. Use confirmations to tie a child to a later adult, and burials to close each life. Follow the [cause-of-death route](#trace-a-historical-cause-of-death) when the death entry raises that question.
 3. For a man between censuses, follow the levying rolls in [Denmark: go beyond the church books](scandinavian-patronymic-farm-name-record-recovery.md#denmark-go-beyond-the-church-books).
-4. For each death, establish the deceased's status, residence and date, and route the probate with the section above. Use the heirs it names to confirm the children, their spouses and their places.
+4. For each death, establish the deceased's status, residence and date, and route the probate with the section above. Use the [Gazette route](#use-a-gazette-notice-to-locate-a-probate) for a death or probate lead within the index period. Use the heirs named in the probate to confirm the children, their spouses and their places.
 5. When a person leaves the parish, check the moves lists where the parish kept them, the next census's birthplace and the probate heirs' residences before you call the person lost.
 
 ## Close with a household packet
