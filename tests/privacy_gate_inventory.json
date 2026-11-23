@@ -5302,5 +5302,29 @@
   "kind": "request",
   "action": "Submit a migration record request",
   "checkpoint": "passenger and requester details and proofs"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "link",
+  "action": "save the memorials to a Virtual Cemetery",
+  "checkpoint": "sends the memorial IDs and the user’s list name"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "third-party-tool",
+  "action": "select and confirm Claim",
+  "checkpoint": "sends the user’s account and chosen memorial request"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "third-party-tool",
+  "action": "Submit only those three fields",
+  "checkpoint": "Calendar conversion sends the deceased’s transcribed Hebrew date to JewishGen"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "contact",
+  "action": "sign the request for ABMC to review",
+  "checkpoint": "A family marker correction request shares the deceased service member’s grave locator"
  }
 ]
