@@ -122,6 +122,10 @@ Keep three locators separate and linked: the abstract page, the film, archive or
 
 If the American surname gives no reliable Swedish origin, copy the stated birth parish and birth date from the Swedish-American congregation’s membership register. ArkivDigital’s 2022 demonstration used those fields to search for a Swedish household under the emigrant’s given name [S7]. Compare the household with the U.S. evidence before linking the people.
 
+For a candidate Swedish-American Lutheran congregation, open Ancestry’s ELCA [*Swedish American Church Records*](https://www.ancestry.com/search/collections/61584/) and check for membership volumes covering that church and the relevant years [S21 @2026-11-22], [S22 @2026-11-22].
+
+In the membership image, look for a Swedish birth parish and the stated year of arrival in America [S20], [S21], [S23]. Record the arrival year separately from the church admission date. If the entry gives an arrival year and no parish, use the year to narrow the passenger-list search and keep the parish unresolved.
+
 If you cannot access a candidate Swedish-American register online, check the Swenson Swedish American Research Center’s church-record microfilm catalogue by state, town and congregation, including California congregations when the immigrant lived there [S17 @2026-11-21]. Match the register type and years, then copy the film number and any reel number.
 
 **Privacy gate:** <!-- privacy-gate: request --> Apply the [record-request rules](../SKILL.md#record-requests) before sharing the immigrant’s or named relatives’ names, dates and places, the immigrant’s church affiliation, or the requester’s contact and payment details with Swenson Center staff. Keep the request as an unsent draft until the gate is cleared.
