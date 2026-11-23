@@ -45,6 +45,10 @@ To find the compiled genealogy or periodical article, use [published book catalo
 
 Find the compiler's key or introduction and name the system before decoding a single number. Ahnentafel numbers ancestors upward from one subject; Henry, d'Aboville, Register and NGSQ number descendants downward from a progenitor. [S2] Register and NGSQ look alike on the page but differ in which children receive Arabic numbers (§4, §5). [S2] Record the system and the page of its key in the extraction, and decode by that key rather than by the system's name, because the schemes handle large families differently (§3).
 
+When drafting a descendant genealogy for publication, follow the editor’s or commissioning client’s numbering instructions before assigning person numbers. When the choice is yours, consider Register (§4) or NGSQ (§5), according to the Just Genealogy presenter’s advice [S12†], [S13†].
+
+For a draft aimed at *NGS Quarterly*, use NGSQ numbering as directed in the journal’s writer guidelines [S14 @2026-11-22]. For a draft aimed at *The New England Historical and Genealogical Register*, use Register numbering and consult the Register-style template under the journal’s Writing Guidelines [S15 @2026-11-22].
+
 ## 2. Ahnentafel: parents, child, generation and direct lines
 
 - Person 1 is the subject, male or female. For any person n, the father is 2n and the mother is 2n + 1. [S3], [S6], [S2]
