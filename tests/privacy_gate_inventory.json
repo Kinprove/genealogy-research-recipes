@@ -5332,5 +5332,11 @@
   "kind": "publish",
   "action": "deposit the finished survey with a local genealogy society or library",
   "checkpoint": "can make the inscription index, maps and images available to readers"
+ },
+ {
+  "recipe": "coroner-death-investigation-record-recovery.md",
+  "kind": "request",
+  "action": "Request the specific report from the custodian",
+  "checkpoint": "The request can disclose the applicant’s contact and relationship details"
  }
 ]
