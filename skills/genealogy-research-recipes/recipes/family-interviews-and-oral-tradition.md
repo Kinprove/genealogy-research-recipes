@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "request", "upload"], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 251}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 252}
 ---
 
 # Record a family interview or inherited account with its speaker, prompter and chain
