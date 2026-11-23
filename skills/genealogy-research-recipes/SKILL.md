@@ -457,6 +457,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-heraldica-estate-ownership.md` — Resolve a Finnish estate named in Europeana Heraldica to the individual holding before assigning an owner or dating a transfer.
 - `recipes/finnish-heritage-agency-archive-recovery.md` — Recover a Finnish Heritage Agency building study or ethnographic manuscript through its archival series and check access at item level.
 - `recipes/finnish-historical-passport-recovery.md` — Choose the passport records for a Finnish traveler or crew member by the period issuer, passport type and route.
+- `recipes/finnish-historical-population-table-recovery.md` — Recover Finnish parish or municipal population tables and read the observation date, geography and population categories before comparing figures.
 
 ### United States: people, vital and church records
 

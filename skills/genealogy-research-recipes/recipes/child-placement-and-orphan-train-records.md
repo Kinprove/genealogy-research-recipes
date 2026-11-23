@@ -11,7 +11,7 @@ handoff: ["illegitimacy-record-recovery", "us-guardianship-records", "us-census-
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 252}
+router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 253}
 ---
 
 # Trace a child through institutional care and placement
