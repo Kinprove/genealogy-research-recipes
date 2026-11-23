@@ -5278,5 +5278,23 @@
   "kind": "third-party-tool",
   "action": "Enter the permitted pedigree and pairwise cM",
   "checkpoint": "relationship paths, labels and pairwise shared cM sent to BanyanDNA"
+ },
+ {
+  "recipe": "british-army-wwii-casualty-lists.md",
+  "kind": "third-party-tool",
+  "action": "searching the soldier’s name in MyHeritage",
+  "checkpoint": "MyHeritage or Findmypast receives the soldier’s name or service number when used in that site’s search."
+ },
+ {
+  "recipe": "british-army-wwii-casualty-lists.md",
+  "kind": "third-party-tool",
+  "action": "search by the soldier’s name or service number there",
+  "checkpoint": "MyHeritage or Findmypast receives the soldier’s name or service number when used in that site’s search."
+ },
+ {
+  "recipe": "british-army-wwii-casualty-lists.md",
+  "kind": "third-party-tool",
+  "action": "Repeat the search by service number",
+  "checkpoint": "MyHeritage or Findmypast receives the soldier’s service number in the follow-up search."
  }
 ]
