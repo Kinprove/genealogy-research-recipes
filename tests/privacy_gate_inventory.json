@@ -5818,5 +5818,29 @@
   "kind": "third-party-tool",
   "action": "try the same signature plus the dispatch locality",
   "checkpoint": "A search across other newspapers sends the signature and dispatch locality to the Digi digitized publications service if you use those terms."
+ },
+ {
+  "recipe": "finnish-pseudonymous-author-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Run the printed signature as a search term",
+  "checkpoint": "The signature search sends the printed name or initials to the Digi digitized publications service."
+ },
+ {
+  "recipe": "finnish-pseudonymous-author-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search Kanto (National Agent Data) for the name",
+  "checkpoint": "The authority and biographical searches send the pen name to Kanto and the preferred name to the biographical service you choose."
+ },
+ {
+  "recipe": "finnish-pseudonymous-author-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Carry the preferred name into an independent biographical search",
+  "checkpoint": "The authority and biographical searches send the pen name to Kanto and the preferred name to the biographical service you choose."
+ },
+ {
+  "recipe": "finnish-pseudonymous-author-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Try the known first and last letters of the surname",
+  "checkpoint": "The education search sends the surname pattern and any given-name initials you enter to Akatemiasampo."
  }
 ]
