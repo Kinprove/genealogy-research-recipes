@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 221}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 222}
 ---
 
 # Recover a livestock mark or brand registration
