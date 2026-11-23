@@ -337,6 +337,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/polish-index-original-record-recovery.md` — Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or document the retrieval gap.
 - `recipes/polish-parish-and-civil-register-routing.md` — Identify the relevant Polish registration district by date and confession, then locate the parish, civil or archival copy.
 - `recipes/romanian-chamber-of-labour-personnel-files.md` — Find a Romanian artisan’s or apprentice’s file through the Chamber of Labour office, its credential series and its name index.
+- `recipes/bialystok-cholera-committee-record-recovery.md` — Find a named household in Białystok county's 1831 cholera reports, tally and orphan records, then reconcile the dated statements.
 
 ### Russian Empire and Soviet Union
 

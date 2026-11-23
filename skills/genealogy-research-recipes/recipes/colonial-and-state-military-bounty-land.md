@@ -11,7 +11,7 @@ handoff: ["us-federal-land-entry-file-recovery", "us-military-service-type-recor
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 171}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 172}
 ---
 
 # Identify the issuer of a colonial or state military bounty grant
