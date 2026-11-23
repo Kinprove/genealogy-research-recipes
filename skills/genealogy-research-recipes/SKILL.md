@@ -459,6 +459,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-historical-passport-recovery.md` — Choose the passport records for a Finnish traveler or crew member by the period issuer, passport type and route.
 - `recipes/finnish-historical-population-table-recovery.md` — Recover Finnish parish or municipal population tables and read the observation date, geography and population categories before comparing figures.
 - `recipes/finnish-imperial-award-records.md` — Trace an imperial medal or other award in Finland through contemporary notices, presentation reports and the Governor-General’s Chancellery.
+- `recipes/finnish-imperial-observance-records.md` — Identify a Finnish imperial observance from a diary, memoir or newspaper and check its local date against official instructions.
 
 ### United States: people, vital and church records
 
