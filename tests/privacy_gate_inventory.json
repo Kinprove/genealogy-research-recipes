@@ -4696,5 +4696,17 @@
   "kind": "third-party-tool",
   "action": "Search the Berlin civil death index",
   "checkpoint": "The Berlin birth or death query sends"
+ },
+ {
+  "recipe": "hispanic-catholic-register-recovery.md",
+  "kind": "request",
+  "action": "Request a Dominican civil act through an Oficialía del Estado Civil",
+  "checkpoint": "A request for a Dominican civil act sends the named person's identifying details"
+ },
+ {
+  "recipe": "hispanic-catholic-register-recovery.md",
+  "kind": "request",
+  "action": "Ask the Santo Domingo archdiocese about older parish entries",
+  "checkpoint": "A request for a Santo Domingo parish entry sends the named person's identifying details"
  }
 ]
