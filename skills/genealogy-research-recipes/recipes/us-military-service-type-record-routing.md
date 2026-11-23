@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 166}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 167}
 ---
 
 # Route pre-1900 U.S. military service by service type before searching or ruling it out
