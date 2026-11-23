@@ -5770,5 +5770,35 @@
   "kind": "request",
   "action": "Request a copy or extract from the Suceava County Branch",
   "checkpoint": "A copy or extract request to the Suceava County Branch can disclose the record subject's name"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "export",
+  "action": "save the file locally.",
+  "checkpoint": "Downloading missing media copies photos and record images"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "upload",
+  "action": "For an online destination, upload only the recovered files",
+  "checkpoint": "Reattaching recovered media online sends photos or record images"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "link",
+  "action": "Have the account holder authorize the connection",
+  "checkpoint": "Connecting FamilySearch to Storied gives Storied access"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "upload",
+  "action": "For the direct tree transfer, choose",
+  "checkpoint": "A direct transfer sends relatives' tree data and any imported Memories"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "upload",
+  "action": "Import only the Memories cleared for Storied",
+  "checkpoint": "A direct transfer sends relatives' tree data and any imported Memories"
  }
 ]

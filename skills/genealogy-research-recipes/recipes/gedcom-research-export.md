@@ -10,7 +10,7 @@ guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "The recipe prevents se
 handoff: ["descendancy-gap-worklist", "evidence-proof-judgment", "familysearch-practical-record-workflows", "geni-practical-research-workflows", "research-documentation", "rootsmagic-tree-reconciliation-workflow", "source-citation"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "upload"], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "upload", "link"], "contact": []}
 router: {"section": "Research method", "group": "Family trees and research planning", "order": 14}
 ---
 
@@ -119,6 +119,42 @@ A supplied `QUAY 3` and a source title or research note saying "unverified" are 
 - **List every custom tag, attachment and media link that was not carried over,** and carry its meaning in a standard NOTE where you can.
 - **Media files do not travel inside a `.ged` file.** A 5.5.1 `OBJE` `FILE` value is a local or remote file reference [S4]. A path on the sender's computer, such as the migration guide's `d:\Media\…` example [S12], breaks after transfer when that path is not available on the receiving computer. 7.0 defines GEDZIP: a `.gdz` zip archive that holds the dataset as `gedcom.ged` together with the local media files it references [S1]. Write a GEDZIP only when the destination imports it; otherwise hand the media files over separately and list them.
 - **Do not call a conversion lossless, or an import into another program successful, until you have checked it in that program.** For transfers between RootsMagic, Ancestry and FamilySearch, use the RootsMagic recipe's destination check.
+
+**Privacy gate:** <!-- privacy-gate: export --> Downloading missing media copies photos and record images that may concern living or possibly living people from the source provider to the user's own device. Answer the privacy gate in `SKILL.md` before downloading and keep the files local.
+
+**Recover missing photos and record images after import.** Compare the attachments in the
+destination with those in the sending tree. Look for the missing files in the user's local
+copies. If the sending service offers a download the user can access, save the file locally.
+In a local destination, manually reattach each recovered file to the corresponding person,
+event or citation and open it there to verify the attachment. List unrecovered files in the
+export packet [S30], [S31], [S32].
+
+**Privacy gate:** <!-- privacy-gate: upload --> Reattaching recovered media online sends photos or record images, which may concern living or possibly living people, from the user's device to the online tree service the user chose. Answer the privacy gate in `SKILL.md` and apply section 8's living-person rules to the files and their captions before uploading.
+
+For an online destination, upload only the recovered files cleared for that destination and
+audience. Restore each attachment to its corresponding entry and open it there to verify it.
+
+**Plan a direct FamilySearch transfer to Storied.** For a standard Storied account, the tree
+import is free and importing FamilySearch Memories requires a paid subscription [S34 @2026-11-23].
+On a linked Storied Latter-day Saint account, eligible Memories transfer automatically with
+relatives, and great-great-grandparents' Memories stay on FamilySearch [S35 @2026-11-23].
+Check which account and import scope apply before starting.
+
+**Privacy gate:** <!-- privacy-gate: link --> Connecting FamilySearch to Storied gives Storied access to the account holder's FamilySearch account data within the authorization scope. Answer the privacy gate in `SKILL.md` before granting access, including for any automatic transfer.
+
+**Privacy gate:** <!-- privacy-gate: upload --> A direct transfer sends relatives' tree data and any imported Memories, such as stories, photos, documents and recordings, from FamilySearch to the user's chosen Storied account. They may include living or possibly living people. Answer the privacy gate in `SKILL.md` and apply section 8 to both the tree and the Memories before starting. Skip a transfer that cannot exclude data without permission.
+
+For the direct tree transfer, choose **Import from FamilySearch** in Storied [S36 @2026-11-23].
+Have the account holder authorize the connection only after reviewing the access scope and
+clearing both gates for the tree and anything that may transfer automatically.
+
+For a standard Storied account, check **Hints** on the person's Storied profile for available
+FamilySearch Memories [S34 @2026-11-23]. Import only the Memories cleared for Storied and
+its audience.
+
+Before reusing FamilySearch stories and photos in a family history, an option suggested in
+the sponsor segment (based on the available excerpt [S33]), open each intended item in
+Storied and check its attachment. List missing items in the export packet.
 
 ## 7. Bring a supplied tree into existing research
 
