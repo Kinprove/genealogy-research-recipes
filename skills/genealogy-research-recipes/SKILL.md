@@ -451,6 +451,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-fire-insurance-record-recovery.md` — Trace Finnish properties through Swedish-era and Finnish insurers’ notices, policies, appraisals, plans and payout reports to document buildings and fire damage.
 - `recipes/finnish-folk-poetry-informant-recovery.md` — Trace a historical folk-poetry informant through SKVR entries, collection notes and the collector’s published accounts.
 - `recipes/finnish-great-northern-war-refugee-recovery.md` — Trace a family displaced from Finland through wartime relief lists and Swedish parish evidence, then check for a documented return.
+- `recipes/finnish-henkikirja-record-recovery.md` — Find a Finnish henkikirja by historical parish, district, year and volume signum, and distinguish index gaps from missing roll entries.
 
 ### United States: people, vital and church records
 
