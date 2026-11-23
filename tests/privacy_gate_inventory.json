@@ -5734,5 +5734,11 @@
   "kind": "third-party-tool",
   "action": "Run a Filae person search",
   "checkpoint": "Target and relative names and any date or place filters go to Filae"
+ },
+ {
+  "recipe": "finnish-astia-archival-unit-recovery.md",
+  "kind": "request",
+  "action": "submit the Astia request",
+  "checkpoint": "An Astia record request sends the user's account details"
  }
 ]

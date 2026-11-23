@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "austrian-confessional-registe
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 63}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 64}
 ---
 
 # Route a record from historic Hungary by county, successor state and record type

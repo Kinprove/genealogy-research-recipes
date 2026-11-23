@@ -312,6 +312,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/elephind-historical-newspaper-search.md` — Choose Elephind’s keyword or semantic search, check the indexed newspaper title and verify the article at its host.
 - `recipes/filae-historical-record-search.md` — Choose the Filae collection that covers a French event, narrow by relatives and carry the result to the underlying record.
 - `recipes/finland-astia-creator-and-material-search.md` — Find a Finnish National Archives holding by separating the record creator from the material description and checking the resulting archive hierarchy.
+- `recipes/finnish-astia-archival-unit-recovery.md` — Find a Finnish archival unit from its call number, series or creator and determine how to consult it when Astia search or images fail.
 
 ### Books, periodicals and manuscripts
 

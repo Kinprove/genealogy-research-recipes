@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 52}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 53}
 ---
 
 # Search a genealogical periodical index and retrieve the article
