@@ -4414,5 +4414,11 @@
   "kind": "third-party-tool",
   "action": "search the portal by surname alone",
   "checkpoint": "The research subject's surname alone goes to the Russian First World War portal"
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "ask the cousin for their deceased grandparents' names, birth years and birthplaces",
+  "checkpoint": "A message to the target's living cousin carries the sender's identity"
  }
 ]
