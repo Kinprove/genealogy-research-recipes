@@ -34,6 +34,21 @@ Read candidate-bearing passages in the available corpus before fixing the search
 
 Keep observed spellings, dictionary forms and generated possibilities in separate columns. A remembered list is a starting set, not an exhaustive inventory; corpus discovery is also not a guarantee of completeness. Review matched surface forms with context before interpreting counts. Short stems can match ordinary words, place names and unrelated surnames.
 
+Carry spellings between record types. Use each form attested on census pages as a separate query
+in vital records and obituaries, then feed forms from those records back into stalled searches
+[S70, S71]. For a missed marriage, try the mother's maiden surname as written in her children's
+birth entries alongside the forms already known for the bride [S72].
+
+Use a newspaper hit to find other coverage of the same event by date and place. Compare names
+across issues and titles, then check the contemporary parish register for another attested form
+to search [S73]. Keep each spelling tied to the source that printed or recorded it.
+
+For historical newspaper contributors, seed queries with the full byline, attested short
+signatures and documented pen names. Test the colon, hyphen and spacing as printed in each
+signature [S74]. When a punctuated alias fails in OCR, try another documented alias and browse
+the printed bylines in the relevant issues or serial installments [S75, S76]. Keep authorship
+tentative when a short signature could belong to more than one writer [S74].
+
 In historical English-language records, search a written name abbreviation and its supported
 expansion separately. For `Wm.` or `Wm`, try the written form and `William` [S64, S66]. Keep the
 abbreviation as written in the attestation inventory.
@@ -212,6 +227,10 @@ When searching for the given name Rose in records from medieval England, test Ro
 separately [S64, S67]. In Latin records from the same period and place, also test Roesia and Rosa
 [S68].
 
+For William in Irish church records, test the Irish `Uilliam` and the Latin `Gulielmus` alongside
+`William` [S77, S78]. When tracing a Bridget across Irish records, also try `Bedelia` and `Delia`
+[S77, S79]. Use the rest of the entry to test the match before linking records.
+
 ## Retrieve through another recorded participant
 
 When the target name may be misread, try an independently known co-listed household member
@@ -221,11 +240,31 @@ query, then return to the full entry and image to read the target. The [co-liste
 supplies a retrieval tactic; co-occurrence corrects neither transcription nor kinship by itself.
 Use only syntax supported by the actual field, without transferring another database's controls.
 
+If a surname search for a deceased person yields nothing, use a form attested in a sibling's
+historical record as a separate query. The sibling need not appear in the sought record. Keep
+the spelling attributed to the sibling's record until you can read it on a record for the target
+[S80].
+
 ## Calibrate the actual field
 
 For a recorded surname prefix, test the joined, spaced and punctuation forms relevant to that name: IrishGenealogy lists O’Brien, O Brien and Obrien [S47]. Check whether a Dutch index files under the surname root or provides a separate prefix field; Hoitink explains the Raalte/van Raalte arrangement and discusses joined forms [S48]. Log each query and keep the literal record spelling rather than permanently stripping prefixes from the attestation inventory [S51] [S52].
 
+For an Irish surname with an `O’` prefix, also test the surname with the prefix omitted, as in
+`O’Sullivan` and `Sullivan`. A joined or punctuation-free spelling still contains the prefix
+[S81, S82].
+
+When an exact given name blocks a U.S. census search, keep the surname, place and year fixed and
+try the first initial alone [S83, S84]. Where the form allows it, run a separate query with the
+given-name field empty so an initials-only or blank entry can qualify [S84].
+
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
+
+In handwritten-text search, test attested single- and double-letter forms separately. A 2022
+Stockholm search retrieved a probate proceeding in Justitiekollegiet och Förmyndarkammaren A1
+a2:65 with `Hiellman` after `Hielman` missed it [S85].
+
+For Stockholm, open Transkriberade handskrifter from the city archive's database listing. Before
+repeating the trial, check the target volume and a known hit in your own search [S86 @2026-11-22].
 
 **Check damaged text in saved HTML.** When Cyrillic displays as garbled text or replacement
 characters, preserve the original bytes. Use a byte-order mark, the saved HTTP `Content-Type`
