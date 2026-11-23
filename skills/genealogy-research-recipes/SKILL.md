@@ -492,6 +492,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/canadian-great-war-project-cross-border-enlistment.md` — Search for a possibly U.S.-born Canadian Expeditionary Force volunteer and confirm the candidate in the original service file.
 - `recipes/india-great-famine-household-record-recovery.md` — Follow a household across famine-era district, relief, land and migration records without assigning a cause from disappearance alone.
 - `recipes/american-revolutionary-loyalist-record-recovery.md` — Trace wartime allegiance, evacuation and resettlement through British, Canadian and colonial records for American Revolutionary Loyalists.
+- `recipes/australian-first-world-war-embarkation-recovery.md` — Use an Australian Imperial Force embarkation roll to identify a land-service member and trace later units, casualty records and honours.
 
 ## Recipes: Record types in any country
 
