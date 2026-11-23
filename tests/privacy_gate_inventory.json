@@ -5110,5 +5110,29 @@
   "kind": "third-party-tool",
   "action": "check Reclaim The Records’ *Missouri Death Index*",
   "checkpoint": "Before using either Missouri index with identifying data,"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Use MyHeritage’s Louisiana, New Orleans, Passenger Lists",
+  "checkpoint": "A regional passenger or crew query sends the traveler's name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Use MyHeritage’s California, San Diego Passenger Lists",
+  "checkpoint": "A regional passenger or crew query sends the traveler's name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the Riverside series in the NARA Catalog",
+  "checkpoint": "A Riverside catalog query sends the traveler’s name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the BT 27 outward passenger lists",
+  "checkpoint": "A British outward-list query sends the passenger’s name"
  }
 ]
