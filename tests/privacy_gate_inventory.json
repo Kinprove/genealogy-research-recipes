@@ -4498,5 +4498,107 @@
   "kind": "request",
   "action": "request an intake-register lookup or case file",
   "checkpoint": "the child's names, estimated dates and placement clues"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Check the civil case index for debt actions",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Broaden a court index's date range",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "use the file-date filter for the initial filing date",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "check for a digitized county equity docket or its index",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "use the Maryland State Archives' Civil, Equity, Law, & Divorce Docket index",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Check the court's county and state archive finding aids",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "look up the plaintiff or defendant",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Indiana Court Cases by name",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's court registrations from 1837 onward",
+  "checkpoint": "A court index query sends the party's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the MyHeritage Maine Divorces index",
+  "checkpoint": "A Maine or Virginia divorce index query sends a spouse's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Follow the Ancestry index lead",
+  "checkpoint": "A Maine or Virginia divorce index query sends a spouse's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search FamilySearch's 1918–1988 collection",
+  "checkpoint": "A Maine or Virginia divorce index query sends a spouse's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "request the corresponding license application",
+  "checkpoint": "A remarriage application request can send both applicants' names"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "ask the clerk or archive for an available redacted copy",
+  "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "request the file through the County Clerk's Archives Department",
+  "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the filing county's newspapers for notice",
+  "checkpoint": "A name search on an online newspaper"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's United States, Index of Court Cases",
+  "checkpoint": "A MyHeritage case-law index query sends a party's name"
  }
 ]
