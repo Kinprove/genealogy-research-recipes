@@ -5530,5 +5530,89 @@
   "kind": "third-party-tool",
   "action": "Search Ancestry’s J 77 collection",
   "checkpoint": "Party names, dates or case identifiers go to Ancestry"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "choose **Document** for a loose multipage item",
+  "checkpoint": "Saving an Adobe Scan PDF sends the captured pages, including records about people who may still be living, to Adobe cloud storage"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "third-party-tool",
+  "action": "use Google PhotoScan’s glare removal",
+  "checkpoint": "The Google PhotoScan workflow gives the Google app the captured photos of people who may still be living"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "third-party-tool",
+  "action": "try a Photomyne batch on a safely supported page",
+  "checkpoint": "Photomyne receives the captured prints and page context or negatives, including images of people who may still be living, with possible backup to the Photomyne cloud"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "use **+ > Scan photo** in the OneDrive mobile app",
+  "checkpoint": "Saving a scan in OneDrive sends the captured photos or paperwork about people who may still be living to the selected OneDrive account and folder"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "tap **+ > Scan photos to this album**",
+  "checkpoint": "Batch scanning sends album-page images, including photographs and inscriptions about people who may still be living, to MyHeritage"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "export",
+  "action": "tap the Save Photo button beside the photo",
+  "checkpoint": "Saving a Messages attachment copies the sender’s image or video, possibly depicting people who may still be living, to the user’s Photos library and any configured sync destinations"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "export",
+  "action": "request Instagram’s own download",
+  "checkpoint": "An Instagram export writes selected posts, photos and associated details about people who may still be living to the user’s device"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "save a tag only when a documented identification supports it",
+  "checkpoint": "Saving a person tag links a name and pictured person"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "third-party-tool",
+  "action": "use **Negatives** mode on sound film",
+  "checkpoint": "Photomyne receives the captured prints and page context or negatives, including images of people who may still be living, with possible backup to the Photomyne cloud"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "Check both page edges and their order before saving the split pages",
+  "checkpoint": "Saving an Adobe Scan PDF sends the captured pages, including records about people who may still be living, to Adobe cloud storage"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "third-party-tool",
+  "action": "For a printed StoriedBook, scan the story’s QR code",
+  "checkpoint": "Opening the printed QR link sends the story locator to Storied"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "third-party-tool",
+  "action": "To add a recollection to VoiceGift Play",
+  "checkpoint": "Recording a recollection stores the speaker’s voice and details about people who may still be living on the user’s VoiceGift Play recorder"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "export",
+  "action": "Connect the VoiceGift Play recorder to the user’s computer by USB",
+  "checkpoint": "A VoiceGift Play backup copies voices and recollections about people who may still be living from the recorder to the user’s computer"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "export",
+  "action": "Copy only the cleared recordings to the recipient’s Play device",
+  "checkpoint": "Copying clips onto a recipient’s Play device gives that named recipient and anyone with access to the device the speakers’ voices and recollections"
  }
 ]
