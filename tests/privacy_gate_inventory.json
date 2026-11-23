@@ -4600,5 +4600,11 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage's United States, Index of Court Cases",
   "checkpoint": "A MyHeritage case-law index query sends a party's name"
+ },
+ {
+  "recipe": "descendancy-gap-worklist.md",
+  "kind": "contact",
+  "action": "ask the relative whether they hold notes, Bible entries or captioned photographs",
+  "checkpoint": "Before contacting the relative, clear the gate for the family-history question"
  }
 ]

@@ -209,7 +209,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [danish-church-book-probate-recovery](skills/genealogy-research-recipes/recipes/danish-church-book-probate-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [dar-ancestor-record-interpretation-and-correction](skills/genealogy-research-recipes/recipes/dar-ancestor-record-interpretation-and-correction.md) | DAR Genealogical Research System Ancestor records, DAR Genealogical Research System Descendants index, DAR Genealogical Research System Member records, DAR Library Catalog, FamilySearch Revolutionary War rolls | — | — | upload, request | contact | required |
 | [deed-content-relationship-clues](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md) | record catalogues and original images | — | — | — | — | — |
-| [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | — | required |
+| [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | contact | required |
 | [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool, upload | — | required |
 | [dna-match-outreach-staging](skills/genealogy-research-recipes/recipes/dna-match-outreach-staging.md) | — | — | — | export, publish | contact | required |
 | [dnapainter-practical-dna-workflows](skills/genealogy-research-recipes/recipes/dnapainter-practical-dna-workflows.md) | dna-painter | — | — | export, link, publish, third-party-tool, upload | — | required |
