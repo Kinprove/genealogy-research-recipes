@@ -5740,5 +5740,11 @@
   "kind": "request",
   "action": "submit the Astia request",
   "checkpoint": "An Astia record request sends the user's account details"
+ },
+ {
+  "recipe": "finnish-astia-archival-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Have the user complete Astia's sign-in and purpose declaration",
+  "checkpoint": "Astia receives the researcher's verified identity, declared purpose and any personal search terms"
  }
 ]
