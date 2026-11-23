@@ -90,6 +90,10 @@ Every parish-year has two possible copies: the parish copy stayed at the church,
 - **Consistory copy.** Search the consistory fond of the see for the event year and trace any transferred files [S10].
 - **Parish copy.** Trace the church fond through ZAGS and district or oblast archives. Inventory transfer notes can name the receiving district ZAGS [S8], [S10].
 
+- **Late nineteenth-century Orthodox Pińsk.** Start from a known cathedral baptism. Use the parents’ recorded names to search for siblings in the births and deaths parts and to look for the parents’ wedding [S195 @2026-11-22]. At the National Historical Archive of Belarus in Minsk (НИАБ), check f. 968 for the St Theodore Cathedral (Пинский Федоровский собор), f. 598 for the Leszcze Dormition parish (Лещенская Успенская церковь) and f. 136 for the Minsk Orthodox Consistory [S196 @2026-11-22], [S197 @2026-11-22]. Verify each parish, year and record part in the inventories before choosing a file.
+
+- **Check the Minsk archive’s request status.** The archive suspended intake for genealogical and thematic research on 2 April 2026 [S198 @2026-11-22]. Check the archive’s Requests and Services page for reopening. While intake is suspended, identify files in the inventories and plan a reading-room search.
+
 - **Books after 1917.** The decree of 18 (31) December 1917 recognised only civil marriage, set up civil registration offices and ordered church registers sent to the city, uezd and volost zemstvo boards. From the decree of 20 January (2 February) 1918, only civil offices kept acts of civil status. [S38], [S39] Church books continued in places: the Irkutsk archive holds Orthodox metrical books of Irkutsk diocese for 1911–1922, and a 1924 circular dealt with church marriages concluded after 20 December 1917 in territory held by the Whites. [S41], [S42] Give a post-1917 parish-year three rows: the ZAGS archive, the oblast archive (consistory and church fonds), and any transfer the inventory notes.
 
   ZAGS act books stay with ZAGS for 100 years from each entry and then go to the state archive (Federal Law 143-FZ, art. 77). [S40 @2026-11-07] A book's place can still differ from what that term predicts: the Irkutsk archive received the 1911–1922 church books from the oblast ZAGS archive in 2008. [S42 @2026-11-07] Search all three rows whatever the book's age.
@@ -156,6 +160,8 @@ Search the following records for the marriage [S1].
 5. Officials' personal service files, which can record a marriage.
 6. A repeat marriage certificate issued in the Soviet period, for example for an inheritance or a property sale.
 
+**Pińsk and Leszcze.** For a late nineteenth-century Orthodox wedding missing from the Pińsk cathedral books, search the register of the Dormition parish at the former Leszcze monastery church [S199]. A reported wedding of two people recorded as Pińsk townspeople took place in the Leszcze parish on 29 September 1891 [S195].
+
 **Check the catalogue for marriage-inquiry books (брачные обыски).** A reported Dalmatovo book from 1927–1929 (Ф. 330 Оп. 11 Д. 11) counters the claim that all such books were destroyed [S1]. The Omsk archive guide lists 1834–1845 обыски in ИАОО f. 16 op. 9 d. 1, leaves 1–157 [S191].
 
 **Read the обыск and the papers filed with it.** They often say more than the marriage entry.
@@ -203,6 +209,8 @@ Apply each reading literally, then test it against the rest of the entry.
 - **Death-entry columns.** The last column of the death part, «Кто совершал погребение, и где погребены», gives the officiant and the burial place [S137], [S79]. «Не исповедан и не приобщен», with a cause such as «по внезапной смерти», or a blank «кто исповедовал и приобщал» column marks a death without the last rites, usually a sudden one [S138], [S80]. Read the wording against the deceased’s age [S138]. A note of the стан police officer (пристав) in that column, or a pristav's certificate filed with the entry, means the police examined the death, and burial could then come well after the usual two days [S80], [S129]. Follow it to the police file.
 
 - **«Погружен бабкой».** In danger a midwife could baptise the newborn, and the priest completed the rites if the child lived [S136]. Read бабка here as the midwife who baptised the child and check the following days for a burial [S176].
+
+- **Test for an earlier wife.** Work back from the known wedding and look for children whose baptisms name the same father with a different mother. Compare their death entries with the baptisms and check whether the candidate wife’s death preceded the known wedding [S195]. Use an earlier marriage entry or the later entry’s marriage-count or widowhood wording to test the sequence.
 
 - **Deaths under the head of household.** Search a wife’s or child’s death under the husband’s or father’s name, including in indexes. Check which column names the deceased [S177], [S178].
 
@@ -277,6 +285,10 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
 - **One full name in several roles.** If the same name repeats for different participants, check for a clerical slip and a later correction. Verify each role in other entries [S99], [S139].
 
 - **Follow godparents and marriage guarantors.** Copy the names of baptismal sponsors (восприемники), marriage guarantors (поручители) and any separately listed witnesses. Preserve each role and any rank, title or office the entry gives [S192], [S193]. Use a recorded noble title to check the relevant guberniya’s nobility registers, or a named civil office to check that institution’s service lists (формулярные списки) [S194]. Require separate evidence before claiming kinship or descent.
+
+- **Read and compare godparent descriptions.** Copy explicit kinship beside the godparent’s name. Use a stated paternal uncle, father’s sister or mother’s sister to search for that sibling in the corresponding parent’s family [S195]. Across sibling baptisms, compare a godmother’s given name and her father’s given name when the surnames differ. If both given names agree, keep both surnames as leads and check a marriage or another record for a link before merging the entries [S195].
+
+- **Test a mother’s -owa form against a property notice.** When the ending could mark a patronymic or a surname, search under the family’s recorded surname variants. Look for a notice that gives the seller’s surname and spells out her father’s given name [S200]. Match the seller to the mother using other details before adopting the patronymic reading.
 
 ## 10. Use machine-read full-text search for leads, never for a negative
 
