@@ -5206,5 +5206,53 @@
   "kind": "contact",
   "action": "Contact the Arolsen Archives restitution team before starting a",
   "checkpoint": "The item reference, historical prisoner’s details and any consenting claimant’s details go to the Arolsen Archives restitution staff."
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s Tasmanian birth and death indexes as a second pass",
+  "checkpoint": "before sending the subject’s name and any event year or place to MyHeritage"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s Queensland birth and marriage indexes as a second pass",
+  "checkpoint": "before sending the subject’s name and any event year or place to MyHeritage"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s British Assisted Passengers to Victoria index",
+  "checkpoint": "before sending passengers’ names and any voyage dates or ports to MyHeritage"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s Queensland Nominated Immigrants index",
+  "checkpoint": "before sending passengers’ names and any voyage dates or ports to MyHeritage"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "request",
+  "action": "Request a copy or research-centre viewing",
+  "checkpoint": "before sending the requester’s contact details, the item identifier"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "request",
+  "action": "Submit an access application for an item marked",
+  "checkpoint": "before sending the requester’s contact details, the item identifier"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s New South Wales Gaol Inmates & Photos collection",
+  "checkpoint": "before sending the inmate’s name and any birth details or gaol name to MyHeritage"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "request",
+  "action": "Request a search through RedCrest-Probate",
+  "checkpoint": "before sending the requester’s details, the application number"
  }
 ]
