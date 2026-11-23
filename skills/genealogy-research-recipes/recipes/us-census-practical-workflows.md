@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "land-index-book-series-recovery", "us-mili
 checked: "2026-10-20"
 checked_basis: "checked 2026-10-20"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 153}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 154}
 ---
 
 # Practical U.S. census workflows

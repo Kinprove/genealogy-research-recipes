@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 223}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 224}
 ---
 
 # Find an immigrant's hometown in U.S. congregation records
