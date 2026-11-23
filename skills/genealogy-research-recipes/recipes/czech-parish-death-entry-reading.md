@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing","burial-evidence-packet","evi
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 77}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 78}
 ---
 
 # Read a Czech parish death or burial narrative
