@@ -134,7 +134,7 @@ S77 is a community magazine article. S78–S81 are the wiki operator's blog post
 
 - **S84:** [FamilySearch, Neue historische Aufzeichnungen, Juli 2026](https://www.familysearch.org/de/blog/neue-historische-aufzeichnungen-juli-2026). Collection update read 2026-11-19. The German table identifies the Brandenburg and Posen church-book duplicates as collection 1491272. The table does not establish book-level coverage or current access.
 
-- **S85:** [Meyers Gazetteer, Kührsdorf, Plön, Schleswig-Holstein, volume 1, page 1081](https://www.meyersgaz.org/place/11081051). Gazetteer entry read 2026-11-19. The ecclesiastical field lists Preetz Stadt as the Protestant parish. The baptism at Wankendorf is a separate participant’s report (S31).
+- **S85:** [Meyers Gazetteer, Kührsdorf, Plön, Schleswig-Holstein, volume 1, page 1081](https://www.meyersgaz.org/place/11081051). Gazetteer entry read 2026-11-19. The ecclesiastical field lists Preetz Stadt as the Protestant parish. The baptism at Wankendorf is a separate participant’s report (S31). Gazetteer entry reopened 2026-11-22. The nearby-church table gives approximate distances in miles.
 
 - **S86:** [German Roots, Places to Find German Genealogy Records and Databases Online](https://germanroots.com/germandata.html). Geographical list read 2026-11-19. The list identifies the regional Lutheran collections for Württemberg and Hesse. Its links are collection locators; current image coverage must be checked for the book.
 
@@ -160,8 +160,70 @@ S77 is a community magazine article. S78–S81 are the wiki operator's blog post
 
 - **S97:** Landesarchiv NRW, [Familienforschung digital](https://www.archive.nrw.de/landesarchiv-nrw/geschichte-erfahren/familienforschung/familienforschung-digital). Page read 2026-11-21. Used for the digitised marriage duplicates and the route to the archive's volumes. The listing establishes how to look for a volume; coverage at a particular office and year should be checked in its finding aid.
 
+- **S98:** Stephen Wendt / Family Tree Magazine, [A Guide to German Genealogy Research](https://familytreemagazine.com/heritage/german/a-guide-to-german-genealogy-research/), 2024-12-20. Article read 2026-11-22. The page shows a 2025-09-24 update. Used for the parish and place search advice and the historic civil-form reading cues. The archive and portal sources establish the scope.
+
+- **S99:** Archion, [Research](https://www.archion.de/en/help-contact/research). Help page read 2026-11-22. Describes Location Search and the archive-to-parish browse hierarchy. The help page also lists demo books that can be viewed without signing in.
+
+- **S100:** Archion, [Text Recognition](https://www.archion.de/en/discover-archion/text-recognition). Help page read 2026-11-22. Describes reading existing machine transcriptions in the viewer for selected books found by place. No account-specific feature or on-demand action is adopted.
+
+- **S101:** Family Tree Magazine / Katherine Schober, [Finding Church Registers with Matricula – An Interview with Katherine Schober](https://www.youtube.com/watch?v=wZtF_hOQMM0), 2025-11-21. Packaged transcript passages read 2026-11-22. The public video description was opened. Schober suggests browsing country fonds, leaving the date filter wide initially, using the camera link, checking volume ends for indexes and looking for Protestant holdings. Her inferences about colour, digitisation and custody are outside the verified scope.
+
+- **S102:** Matricula Online, [Search for Places](https://data.matricula-online.eu/en/suchen/). Search form read 2026-11-22. The search form takes a place, diocese and optional date range. It has no person-name field.
+
+- **S103:** Erzbistumsarchiv Paderborn / Matricula Online, [Hellefeld, St. Martinus](https://data.matricula-online.eu/en/deutschland/paderborn/DE_EBAP_64307/). Parish listing read 2026-11-22. Shows Fonds breadcrumbs, date and register-type filters, pagination, Show all and separate Namensregister entries with their own identifiers. The viewer accessibility of individual entries and icon colours were outside this inspection.
+
+- **S104:** Matricula Online, [General Information](https://data.matricula-online.eu/en/allgemeine-infos/). Index guidance read 2026-11-22. Describes surname indexes and how they lead to the printed page or folio. Only the register-index guidance is used.
+
+- **S105:** Archiv der Evangelischen Kirche im Rheinland / Matricula Online, [Rheinland, ev. Archiv - Archivstelle Boppard](https://data.matricula-online.eu/en/deutschland/ekir/). Fonds listing read 2026-11-22. Lists Protestant military church books for the Koblenz and Cologne garrisons. It does not establish general Protestant or Orthodox coverage.
+
+- **S106:** Family Tree Magazine / James Beidler, [Meyers Gazetteer – An Interview with James Beidler](https://www.youtube.com/watch?v=XQC1Q_Dska8), 2023-10-13. Packaged transcript passages read 2026-11-22. The public video description was opened. Beidler suggests plotting churches by denomination and widening the search in 5 km passes after a local miss. The public gazetteer table displays approximate miles.
+
+- **S107:** Meyers Gazetteer, [Help](https://www.meyersgaz.org/help/help.html). Help page read 2026-11-22. Describes the separate ecclesiastical parish and nearby-church fields and the Catholic and Protestant pins under the Map controls.
+
+- **S108:** Deutsches Reich, [Bekanntmachung, betreffend Vorschriften zur Ausführung des Gesetzes über die Beurkundung des Personenstandes und die Eheschließung](https://de.wikisource.org/wiki/Bekanntmachung,_betreffend_Vorschriften_zur_Ausf%C3%BChrung_des_Gesetzes_%C3%BCber_die_Beurkundung_des_Personenstandes_und_die_Eheschlie%C3%9Fung), 1899-03-25. Historical text read 2026-11-22. Section 1 assigns forms A, B and C to birth, marriage and death and specifies two facing pages for a marriage entry. Used for historical form recognition.
+
+- **S109:** Hessisches Landesarchiv, [Allgemeine Informationen](https://landesarchiv.hessen.de/ueber-uns/personenstandsarchiv-hessen/psta-bestaende). Register field guide read 2026-11-22. Used for the identity, occupation and residence of reporters and principals, the event and recording fields, witness fields and notes linking register entries.
+
+- **S110:** Stadtarchiv Koblenz, [Zivil- und Personenstandsregister](https://www.koblenz.de/leben-in-koblenz/kultur/stadtarchiv/bestaende/zivil-und-personenstandsregister/). Register guide read 2026-11-22. Describes birth and parent details, age or birth date on death entries, marriage witnesses, qualifications by period and marginal references such as a spouse’s death.
+
+- **S111:** MyHeritage Blog, [MyHeritage Publishes 11 Million German Historical Records](https://blog.myheritage.com/2022/05/myheritage-publishes-11-million-german-historical-records/), 2022-05-24. Update post read 2026-11-22. Identifies Detmold in the NRW death collection and distinguishes registration and death dates. Release counts and current coverage projections are outside scope.
+
+- **S112:** MyHeritage Blog, [MyHeritage Updates Germany, North Rhine Westphalia, Death Index 1874–1938 with 9 Million Records](https://blog.myheritage.com/2022/11/myheritage-updates-germany-north-rhine-westphalia-death-index-1874-1938-with-9-million-records/), 2022-11-21. Update post read 2026-11-22. Describes the joint Düsseldorf–Köln group arranged by Standesamt and the difference between an explicit birth date and an inferred birth year in its examples. The release’s A–R limit, coverage percentages and subscription terms are outside scope.
+
+- **S113:** MyHeritage Blog, [MyHeritage Publishes 23 Collections and 14 Million Historical Records in October 2022](https://blog.myheritage.com/2022/12/myheritage-publishes-23-collections-and-14-million-historical-records-in-october-2022/), 2022-12-08. Update post read 2026-11-22. Describes civil death fields, including the reporter’s name and occupation, the deceased’s birth or maiden name, and possible spouse and parent details. Its release totals are outside scope.
+
+- **S114:** MyHeritage, [Deutschland, Nordrhein-Westfalen, Sterberegister 1874-1938](https://www.myheritage.de/research/collection-10864/germany-north-rhine-westphalia-deaths-1874-1938). German collection description read 2026-11-22. Collection 10864 states that it includes the Arnsberg, Detmold and Münster districts, distinguishes death from registration and lists the transcription fields. Its surviving March 2023 projection gives no office-by-office completion guarantee.
+
+- **S115:** Landesarchiv NRW, Abteilung Rheinland, [Personenstandsregister Sterbefälle (PA 3103), introduction to the digitised presentation](https://www.archive.nrw.de/sites/default/files/media/files/PA3103_EinleitungDigitalisatpr%C3%A4sentationSept22_0.pdf). Finding-aid introduction read 2026-11-22. Describes the alphabetical grouping of registry offices, filing some closed offices under successor Standesämter, and the Nachträge for volumes outside that sequence.
+
+- **S116:** Esther Shuman / MyHeritage Blog, [MyHeritage Publishes Millions of Exclusive Marriage Records From North Rhine-Westphalia](https://blog.myheritage.com/2023/12/myheritage-publishes-millions-of-exclusive-marriage-records-from-north-rhine-westphalia/), 2023-12-12. Post read 2026-11-22. Describes occupations and addresses and the witnesses’ names and signatures. It describes a death annotation at the upper right of an 1896 Herzebrock-Clarholz marriage entry. The linked full original and signed-in access were outside the check.
+
+- **S117:** MyHeritage Blog, [Historical Record Collections Added in April and May 2022](https://blog.myheritage.com/2022/06/historical-record-collections-added-in-april-and-may-2022/), 2022-06-16. Update post read 2026-11-22. Identifies the Hesse death index and images for selected communities and describes the Detmold addition to the NRW collection. Only those retrieval routes and the Hesse field description are used.
+
+- **S118:** MyHeritage, [Germany, Hesse, Deaths](https://www.myheritage.com/research/collection-11007/germany-hesse-deaths). Collection description read 2026-11-22. Collection 11007 lists selected present-day Hessian communities for 1848–1990 and describes the birth, death and parent fields. Coverage by office and signed-in viewing were outside scope.
+
+- **S119:** Esther Shuman / MyHeritage Blog, [MyHeritage Adds 163 Million Historical Records in October 2026](https://blog.myheritage.com/2026/11/myheritage-adds-163-million-historical-records-in-october-2026/), 2026-11-03. Update post read 2026-11-22. Used for the Berlin birth and death and South Baden birth, marriage and death indexes. The dedicated Berlin marriage search page did not give readable content. The post’s release counts are outside scope.
+
+- **S120:** MyHeritage, [Germany, Berlin Civil Birth Index, 1874-1915](https://www.myheritage.com/research/collection-21095/germany-berlin-civil-birth-index-1874-1915?tr_country=US&tr_creative=Oct26&tr_funnel=complete&utm_campaign=complete&utm_content=Oct26&utm_medium=blog&utm_source=organic_blog). Collection description read 2026-11-22. Verifies collection 21095 and the registration date and Standesamt fields when supplied. The linked form was readable with the blog’s full URL. Signed-in image access was outside scope.
+
+- **S121:** MyHeritage, [Germany, Berlin Civil Death Index, 1874-1994](https://www.myheritage.com/research/collection-21124/germany-berlin-civil-death-index-1874-1994?tr_country=US&tr_creative=Oct26&tr_funnel=complete&utm_campaign=complete&utm_content=Oct26&utm_medium=blog&utm_source=organic_blog). Collection description read 2026-11-22. Verifies collection 21124, the singular Index title and the birth, death and registry-office fields. The linked form was readable with the blog’s full URL. Signed-in image access was outside scope.
+
+- **S122:** Landesarchiv Berlin, [Standesamtsabfrage: Hilfe](https://content.landesarchiv-berlin.de/labsa/show/help.php). Search help read 2026-11-22. Explains how to select a Standesamt and register type, then browse the office’s scanned name lists. The lists can be organised by year or by the initial letter of a surname.
+
+- **S123:** MyHeritage, [Germany, South Baden, Church Register Duplicate Births, 1810-1870](https://www.myheritage.com/research/collection-21126/germany-south-baden-church-register-duplicate-births-1810-1870). Collection description read 2026-11-22. Verifies collection 21126, the region, date range, place of baptism and other indexed fields. Coverage by parish and signed-in image access were outside scope.
+
+- **S124:** MyHeritage, [Deutschland, Südbaden, Kirchenbuch-Sterbefälle, 1810-1870](https://www.myheritage.de/research/collection-21128/germany-south-baden-church-register-duplicate-deaths-1810-1870). German collection description read 2026-11-22. Verifies collection 21128, the region, date range and death and burial fields. Coverage by parish and signed-in image access were outside scope.
+
+- **S125:** MyHeritage, [Germany, South Baden, Church Register Duplicate Marriages, 1810-1870](https://www.myheritage.com/research/collection-21127/germany-south-baden-church-register-duplicate-marriages-1810-1870). Collection description read 2026-11-22. Verifies collection 21127, the region, date range and fields for each spouse. Coverage by parish and signed-in image access were outside scope.
+
+- **S126:** Katherine Schober / FamilySearch RootsTech, [Finding German Records with Archion and Matricula](https://cms-z-assets.familysearch.org/f1/2d/ab71110549e18ddefd356b9fa07e/finding-german-records-with-archion-and-matricula.pdf). Demonstration handout read 2026-11-22. Documents Matricula’s optional date filter, the Fonds route, the register-list filters and the camera link. It does not establish what a disabled camera means.
+
 ## Credits
 
+- Stephen Wendt, Family Tree Magazine and its interviews with Katherine Schober and James Beidler, and Schober's RootsTech handout (S98, S101, S106, S126) — Third-party works paraphrased with attribution, all rights reserved by their holders (adapted)
+- Archion, Matricula, Erzbistumsarchiv Paderborn, Archiv der Evangelischen Kirche im Rheinland and Meyers Gazetteer (S99–S100, S102–S105, S107) — Portal instructions and catalogue descriptions paraphrased with attribution (adapted)
+- Deutsches Reich, Hessisches Landesarchiv, Stadtarchiv Koblenz, Landesarchiv NRW and Landesarchiv Berlin (S108–S110, S115, S122) — Historical form rules and archive guidance paraphrased with attribution (adapted)
+- MyHeritage catalogue and MyHeritage Blog (S111–S114, S116–S121, S123–S125) — Collection descriptions and update examples paraphrased with attribution (adapted)
 - Esther Shuman and MyHeritage (S93–S95) — Collection descriptions and updates paraphrased with attribution (adapted)
 - Landesarchiv NRW (S96–S97) — Archive guide and finding-aid information paraphrased with attribution (adapted)
 - MyHeritage Blog and MyHeritage collection catalogue (S87–S90) — Collection details and one contributor's account paraphrased with attribution (adapted)
