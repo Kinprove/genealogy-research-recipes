@@ -24,6 +24,8 @@ According to the episode’s genealogy adviser, allow for adoption of a differen
 
 The 1849 Clavería decree and accompanying *Catálogo alfabético de apellidos* can explain a surname change. Compare neighbouring baptism, marriage and burial entries for the same household and track names, relatives and places on either side of the change. Keep surname retention open. A catalogue match supplies a name lead to test within the locality. [S3], [S4], [S9]
 
+When a Philippine vital record gives a Spanish-sounding surname, test whether the household adopted it under the 1849 decree. Require records that link the generations and establish an ancestor’s origin independently of the surname before concluding Spanish ancestry. [S10], [S11]
+
 ## Find the register behind an index result or miss
 
 Check the town and its parish in both the FamilySearch Catholic church records and the appropriate civil registration collection. A name miss leaves unindexed images and parishes that the collection never acquired to be checked. For colonial-period civil returns, check the parish register separately. [S5 @2026-11-18], [S6 @2026-11-18], [S9 @2026-11-18]
@@ -35,3 +37,7 @@ Follow the access message for the specific image group. For restricted digital i
 **Privacy gate:** <!-- privacy-gate: contact --> The sender’s details and any family facts in the inquiry would go to the parish. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending and keep requests for records about anyone who may be living in draft until access and consent are established.
 
 Ask the parish that served the town about the historical register series and years still held locally. Start with the denomination, town, record type and year range. [S9]
+
+**Privacy gate:** <!-- privacy-gate: contact --> The requester’s contact details and the town, year range and record type would go to the archive’s Reference Service Unit. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending the inquiry.
+
+After an online miss, ask the Reference Service Unit of the National Archives of the Philippines whether its birth, marriage, death or baptismal holdings cover the town and year range. Keep names and identifiers local during the holdings inquiry. [S10 @2026-11-22], [S12 @2026-11-22]

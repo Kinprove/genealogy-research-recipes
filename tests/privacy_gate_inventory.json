@@ -4792,5 +4792,11 @@
   "kind": "contact",
   "action": "send an article-copy request to the National Library of Finland",
   "checkpoint": "An article-copy request sends the user's name, contact details and article citation to the interlibrary borrowing service at Kansalliskirjasto in Finland"
+ },
+ {
+  "recipe": "philippine-surnames-and-registers.md",
+  "kind": "contact",
+  "action": "After an online miss, ask the Reference Service Unit",
+  "checkpoint": "The requester’s contact details and the town, year range and record type would go to the archive’s Reference Service Unit."
  }
 ]

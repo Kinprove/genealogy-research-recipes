@@ -18,6 +18,12 @@
 
 - **S9:** [Filipino Genealogy 101 syllabus, FamilySearch](https://cms-z-assets.familysearch.org/d2/bd/f25915764f2a96e231c3a5862b6a/syllabus-filipino-genealogy-101.pdf). Reviewed 2026-11-18, pdf, access read. Read 2026-11-18. Read the course’s list of church and civil sources and the discussion of tracing names across the decree.
 
+- **S10:** [Aíne Lagan, Being Filipino: Exploring Traditions and Family History](https://blog.myheritage.com/2025/08/being-filipino-exploring-traditions-and-family-history/), MyHeritage Blog, published 2025-08-09. Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. Lagan cautions against inferring Spanish ancestry from a surname and suggests checking the National Archives and local church records when online coverage is limited.
+
+- **S11:** [Luciano P.R. Santiago, The Art of Ancestor Hunting in the Philippines](https://nhcp-nmp-stg.beesites.net/nhcpmp/wp-content/uploads/2023/03/THE-ART-OF-ANCESTOR-HUNTING-IN-THE-PHILIPPINES-LUCIANO-P.R.-SANTIAGO.pdf), 1990. Reviewed 2026-11-22, pdf, access read. Read 2026-11-22. Appendix B reproduces the English translation of the 1849 decree, including surname allocation and retention in articles 1–4. The discussion of baptismal and marriage books describes the parent information used to link generations.
+
+- **S12:** [National Archives of the Philippines, 2025 Citizen’s Charter](https://nationalarchives.gov.ph/wp-content/uploads/2025/04/2025_NAP-Citizens-Charter-updated2.pdf). Reviewed 2026-11-22, pdf, access read. Read 2026-11-22. Reference Service entries 2 and 4 identify the Reference Service Unit for inquiries and list separate birth, marriage, death and baptismal forms. These entries do not specify coverage by town or year.
+
 ## Credits
 
 - Community advice and independent sources in S1 onward — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
