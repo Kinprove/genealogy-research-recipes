@@ -5080,5 +5080,35 @@
   "kind": "third-party-tool",
   "action": "repeat the search after the provider releases more entries",
   "checkpoint": "Before a 1939 Register search sends data to MyHeritage or Findmypast"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "For an early Arkansas death, search",
+  "checkpoint": "Before entering names in the Arkansas or Orleans Parish indexes,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "For an Orleans Parish birth, give",
+  "checkpoint": "Before entering names in the Arkansas or Orleans Parish indexes,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "also check Reclaim The Records’ public",
+  "checkpoint": "Before entering a New York death-index query at Reclaim The Records,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "use the *Missouri Births* index",
+  "checkpoint": "Before using either Missouri index with identifying data,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "check Reclaim The Records’ *Missouri Death Index*",
+  "checkpoint": "Before using either Missouri index with identifying data,"
  }
 ]
