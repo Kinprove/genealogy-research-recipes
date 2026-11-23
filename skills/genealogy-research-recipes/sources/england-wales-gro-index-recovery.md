@@ -90,8 +90,24 @@ ordering prices" above.
 
 - **S55:** LostCousins, [Newsletter, 29 September 2021](https://www.lostcousins.com/newsletters2/latesep21news.htm). Contemporary article and its update read 2026-11-19 for the removed and reinstated surname search option.
 
+- **S56:** MyHeritage Blog, [8 Types of Historical Documents You Can Use to Find Ancestors](https://blog.myheritage.com/2024/12/types-of-historical-documents-you-can-use-to-find-ancestors/), 2024-12-07. Community post's birth and death section read 2026-11-22 UTC. The post gives 1837 for Britain. The exact date and jurisdiction come from S58.
+
+- **S57:** MyHeritage Blog, [Being Welsh: Traditions and Genealogy](https://blog.myheritage.com/2025/09/being-welsh-traditions-and-genealogy/), 2025-09-01. Community post's Welsh research steps read 2026-11-22 UTC for its advice to check parish and chapel registers. S58 supplies the civil-registration cutoff and S59 qualifies the marriage search by period and denomination.
+
+- **S58:** General Register Office, [Discover your family history (accessible)](https://www.gov.uk/government/publications/discover-your-family-history/discover-your-family-history-accessible-version), updated 2025-09-13. Guidance on start date and earlier parish records read 2026-11-22 UTC for 1 July 1837 in England and Wales and the use of baptisms, marriages and burials in parish registers.
+
+- **S59:** National Library of Wales, [Nonconformist Records](https://www.library.wales/catalogues-searching/help-to-search/family-history-help/records/nonconformist-records), undated. The chapel-register guidance read 2026-11-22 UTC lists baptism, marriage and burial registers and explains the established-church requirement for most marriages from 1754 to civil registration, with Quaker and Jewish exceptions.
+
+- **S60:** MyHeritage Blog, [We Solved the Mystery of Our Ancestor’s Parentage — and Uncovered a Shocking Secret Along the Way](https://blog.myheritage.com/2023/01/we-solved-the-mystery-of-our-ancestors-parentage-and-uncovered-a-shocking-secret-along-the-way/), 2023-01-30. The account of the workhouse birth and civil registration read 2026-11-22 UTC describes a missing birth registration and a plausible 1893 Paddington workhouse birth under another surname used by the possible mother. The researchers describe a week’s difference in birth dates and unexpected maternal names in the civil entry. The identification was initially uncertain. The underlying entries were not independently inspected.
+
+- **S61:** William Golden Lumley, [Master and Matron of the Workhouse](https://upload.wikimedia.org/wikipedia/commons/8/8a/Master_and_Matron_of_the_Workhouse_%28IA_masterandmatron00lumlgoog%29.pdf), second ed., 1869, p. 140. The prescribed workhouse birth-register form read 2026-11-22 UTC gives fields for the birth date, parent or mother and baptismal name when recorded.
+
+- **S62:** General Register Office, [Guide to Birth certificates](https://www.gro.gov.uk/gro/content/certificates/images/Birth%20Cert%20PDF.pdf), September 2025. The index-reference, birth certificate and missing-birth guidance read 2026-11-22 UTC covers quarter and district, date and place of birth, the mother's names and the advice to search later quarters.
+
 ## Credits
 
+- MyHeritage Blog (S56, S57, S60) — Rights remain with the respective rights holders. Community advice and the historical example are paraphrased with attribution (adapted)
+- Kinprove original wording of the routing and search steps, with the General Register Office, National Library of Wales and Poor Law Board sources cited (S58, S59, S61, S62) — FSL-1.1-MIT (kinprove-original)
 - LostCousins (S55) — Contemporaneous search observations paraphrased with attribution (adapted)
 - UKBMD and FreeBMD (S52–S54) — District tables and index help cited with attribution (adapted)
 - Search-form option names and collection or quarter labels as reported by presenters S4, S5, S6, S13 and S15 — Third-party interface and collection labels as reported by the cited presenters; short quotation with attribution, not relicensed (quoted)
