@@ -296,7 +296,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [ftdna-practical-dna-workflows](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md) | familytreedna, myheritage | — | — | export, link, publish, upload | — | required |
 | [ftm-research-workflows](skills/genealogy-research-recipes/recipes/ftm-research-workflows.md) | familytreemaker, ancestry, familysearch | — | — | link, publish, upload | contact | required |
 | [galicia-bukovina-habsburg-record-routing](skills/genealogy-research-recipes/recipes/galicia-bukovina-habsburg-record-routing.md) | record catalogues and original images | — | — | request | — | required |
-| [gedcom-research-export](skills/genealogy-research-recipes/recipes/gedcom-research-export.md) | — | — | — | export, upload | — | required |
+| [gedcom-research-export](skills/genealogy-research-recipes/recipes/gedcom-research-export.md) | — | — | — | export, upload, link | — | required |
 | [gedmatch-practical-dna-workflows](skills/genealogy-research-recipes/recipes/gedmatch-practical-dna-workflows.md) | gedmatch | — | — | export, link, third-party-tool, upload | — | required |
 | [genealogical-numbering-systems](skills/genealogy-research-recipes/recipes/genealogical-numbering-systems.md) | — | — | — | — | — | — |
 | [genealogy-standards-audit](skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md) | — | — | — | — | — | — |
