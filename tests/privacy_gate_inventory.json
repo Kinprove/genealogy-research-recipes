@@ -5338,5 +5338,17 @@
   "kind": "request",
   "action": "Request the specific report from the custodian",
   "checkpoint": "The request can disclose the applicant’s contact and relationship details"
+ },
+ {
+  "recipe": "cousin-relationship-paths.md",
+  "kind": "export",
+  "action": "For a local copy, keep **Details** on **Basic**",
+  "checkpoint": "The chart's names, displayed birth and death details, and kinship paths"
+ },
+ {
+  "recipe": "cousin-relationship-paths.md",
+  "kind": "export",
+  "action": "To keep a local copy of the open Relationship Diagram",
+  "checkpoint": "The chart's names, displayed birth and death details, and kinship paths"
  }
 ]
