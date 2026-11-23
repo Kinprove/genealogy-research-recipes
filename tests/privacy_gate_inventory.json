@@ -4318,5 +4318,11 @@
   "kind": "third-party-tool",
   "action": "search MyHeritage’s",
   "checkpoint": "before sending either spouse’s name or the marriage year to MyHeritage"
+ },
+ {
+  "recipe": "us-tribal-enrollment-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Check MyHeritage for an approved enrollee.",
+  "checkpoint": "A name query sends the deceased ancestor’s name to MyHeritage or the NARA Catalog."
  }
 ]

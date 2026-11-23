@@ -10,7 +10,7 @@ guardrails: [{"id": "US-TRIBAL-ENROLLMENT-RECORD-RECOVERY-01", "text": "A reject
 handoff: ["ai-for-dna-research", "evidence-proof-judgment", "family-interviews-and-oral-tradition", "us-census-practical-workflows", "us-freedpeople-record-recovery", "us-period-law-record-reading", "ydna-mtdna-interpretation"]
 checked: "2026-11-13"
 checked_basis: "read 2026-11-13"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 138}
 ---
 # Find a claimed Native American ancestor on the right tribal roll, and read what the roll proves
@@ -104,6 +104,10 @@ Use `M0595` in NARA’s Digitized by Partners table to narrow the `1885` lookup 
 For Alaska series that cross 1931, search the creator history under both the Alaska Division of the Office of Education and the Bureau of Indian Affairs. The division transferred to the BIA on 14 March 1931 under Secretary’s Order 494. Record the creator and dates from the series description, then take the holding facility from the catalogue’s custody information. [S33], [S34]
 
 ## 4. Read a Dawes entry through the card and the application
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A name query sends the deceased ancestor’s name to MyHeritage or the NARA Catalog. Answer the privacy gate in `SKILL.md` before submitting the query.
+
+**Check MyHeritage for an approved enrollee.** Search the deceased ancestor’s name in MyHeritage’s Oklahoma Dawes Rolls, 1898–1914 [S43 @2026-11-22], [S44 @2026-11-22]. Use the indexed age, blood degree, tribe and any household names to identify a candidate [S44 @2026-11-22]. Confirm the entry on the Final Rolls and read the household relationships on the census card [S14 @2026-11-22]. The index covers approved enrollees, so a miss leaves the application question open [S44 @2026-11-22]. Search the National Archives Catalog’s Dawes census cards and enrollment applications directly after a miss. If the name search turns up no card, browse doubtful and rejected cards by tribe and enrollment category [S14 @2026-11-22].
 
 - **Go from the roll entry to the card.** The person's Final Rolls entry, under the tribe and the enrollment category, gives the roll (enrollment) number and, in its own column, the census card number. Use the card number to find the card; do not use the roll number as a card number, because the allotment jackets are the records filed by enrollment number [S15]. The National Archives Catalog also searches the cards by name, tribe and card number [S15]. One card can show three generations [S1].
 - **Read the stamps and notes.** An application may be marked refused and later accepted [S1]. Cards show whether a person appeared on an earlier tribal roll, and an 1896 application is noted as "1896 Case" with a number [S15]. For changes that the final roll hides, see [period law reading](us-period-law-record-reading.md).
