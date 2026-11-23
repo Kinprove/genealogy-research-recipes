@@ -66,6 +66,10 @@ Read the schedule's other 1921 answers as well. Ages are given in years and mont
 
 England and Wales censuses recorded everyone present on census night, wherever they were: visitors, guests at a sleepover, hotel guests, tourists, ships in port and institutions. Presenters report that some people were listed twice, at home and where they stayed, and some were missed because each household assumed the other would list them [S8], [S14]. Prisons and asylums often give initials only [S14].
 
+The example from the available excerpt concerns a 1921 household schedule that could list a person who spent census night there or arrived the next morning and had been counted nowhere else [S70], [S71]. Check the home and visiting schedules when both could describe the same person. Compare the piece and schedule references to distinguish two returns from two index hits for one return, then compare the names, ages and birthplaces on the images before recording a possible double enumeration.
+
+The 1921 instructions used "Visitor" even for a relative who was present and usually lived elsewhere [S71]. Record the address as their place of enumeration and search separately for their usual home and their spouse’s return. In one published example from the 1921 returns, a married visitor appears away from her husband [S62].
+
 When a person or household is missing from the expected address:
 
 1. Do not record death, separation or emigration. Record "not found at expected address on [census night]."
@@ -87,6 +91,12 @@ Add refusal and absence to the reasons for a miss. In 1911 suffragettes boycotte
   - **Fewer children than the counts:** set a target number of missing children. Look first in the gaps in birth order between the marriage and 1911 [S5]. Search civil birth indexes by surname and the mother's maiden surname for that window. Confirm each candidate with a baptism. For a child counted as died, also confirm a death registration before 1911 [S3]. Two births registered in the same quarter are only a twin hypothesis [S3].
   - **More children than the counts, or a marriage too recent for the older children:** suspect an earlier marriage and stepchildren. Keep one row per wife, check each wife's birthplace and age across the census years, and do not merge the children [S5].
 
+Use the clue from the available excerpt to read "D" in the marriage or orphanhood column on a 1921 household return for a person aged 15 or over as a report that their marriage was dissolved by divorce [S70], [S71]. Use the reported status to look for a divorce record before census day.
+
+**Reported marriage and widowhood.** Keep a census label such as "wife" or "husband" as the reported relationship to the head. A published 1891 case describes an unmarried couple appearing under one surname, with the man reported as her husband [S66]. Search the marriage index under the recorded surname and any other documented surname, then verify the event against the marriage entry [S67]. For an unexpected "widowed" entry, compare it with the condition in the known marriage entry and use it as a lead to look for an earlier marriage and a spouse’s death [S67], [S68]. Keep any earlier spouse or family tentative.
+
+**Birth windows from conflicting ages.** Calculate a birth window from each stated age and its census date. Use the windows to estimate the age at a documented marriage and reopen a birth search narrowed by an assumed marriage age. If the windows disagree, search both and widen the range if neither yields a match. Keep the birth year unresolved. In one published case two ages for the same person advanced by one year over a decade [S68].
+
 ## Read sex, occupation, status, health and origin from their columns
 
 **Sex.** In 1841 the age was written in one of two columns, for males or for females [S34], and the forms kept separate male and female age columns until 1921, the first census to ask for sex on its own [S35]. An entry whose forename is missing or unreadable still has a sex: take it from the column that holds the age [S36].
@@ -94,6 +104,8 @@ Add refusal and absence to the reasons for a miss. In 1911 suffragettes boycotte
 **Occupation shorthand.** Read abbreviations in the occupation column as census terms, not as initials or misreadings. FS and MS are female and male servant and FWK is framework knitter, all in 1841; Ag lab is agricultural labourer, Ap or App apprentice, J journeyman, and Ind or Independent of independent means [S16], [S37].
 
 **Employment status.** In 1891, take the status from which of three columns, Employer, Employed, or Neither employer nor employed, holds the cross, not from the occupation wording. Married women assisting their husbands in a trade or industry were to be returned as employed, and the columns cover only trades and industries, not domestic service [S38]. A wife or daughter entered as a shop assistant in the family business can therefore carry an employed mark of her own [S39]. In 1901 the choices are Employer, Worker or Own account [S16].
+
+**Work reported in 1921.** Copy the personal occupation as reported for 1921, even when earlier records give a different trade. Keep any "Retired" qualifier attached to the former occupation, and read the employer and workplace in their own columns [S73]. A published example shows a person known for writing returned as a farmer in 1921 [S62].
 
 **Health.** From 1851 a column asks whether each person was blind, or deaf and dumb [S16], [S41]. From 1871 it adds imbecile or idiot and lunatic, in 1911 it asks the age at which the condition began, and in 1921 it is gone [S16]. Record an entry there as the household's statement. Do not read a blank as proof of good health: householders were often reluctant to admit a disability in the family [S40].
 
@@ -104,6 +116,8 @@ Add refusal and absence to the reasons for a miss. In 1911 suffragettes boycotte
 If an 1851 or later transcript stops at the county, compare the birthplace with the image before choosing a register. An 1851 entry omitted the parish from the transcript, while the surviving enumeration book named St Giles, Cambridge [S4]. Keep both readings. This does not apply to 1841, when the birthplace column asked whether the person was born in the county and supplied no parish [S16].
 
 From 1851 the birthplace column asks for the parish and county for people born in England or Wales [S16]. Use a child's named parish to search for siblings who were born in the same place. An 1861 return specifying Norwich St Martin at Oak led to further children's baptisms in that parish even before its records were fully indexed [S45]. Browse the images and record the years and parish searched.
+
+On a 1921 household schedule, copy the county and town or parish for a United Kingdom birthplace. For a birthplace outside the United Kingdom, copy the country and any state, province or district given. Use the example from the available excerpt to preserve "At Sea" as the birthplace answer when written [S70], [S73]. Keep the narrower place when choosing the next register to search.
 
 ## Match an address by its neighbours, not its number
 
@@ -117,6 +131,16 @@ Open [The National Archives' 1939 Register research guide](https://www.nationala
 
 Use **RG 101** to locate digital copies of the enumerators' transcript books. If the person was outside England and Wales on registration day, record a coverage gap for this series [S59].
 
+The Register was used to issue identity cards and ration books [S60], [S69]. Use it to place registered individuals between the missing censuses. On a private-household entry, record the enumerator as the copyist and the householder as the person who completed the underlying schedule [S21], [S64]. Leave the informant for an individual value unknown unless other evidence identifies them.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before a 1939 Register search sends data to MyHeritage or Findmypast, answer the privacy gate in `SKILL.md` for that provider. Confirm the search subject is deceased and send only the name, birth date or historic address needed for the lookup. Apply the same check to any co-resident whose data you send.
+
+For a direct Register lookup, search the [1939 Register on Findmypast](https://search.findmypast.co.uk/search-world-Records/1939-register) for the entry and its image [S60 @2026-11-22], [S72 @2026-11-22]. The guidance from the available excerpt also points to Findmypast [S70 @2026-11-22].
+
+If the first index misses a deceased person, try the [1939 Register on MyHeritage](https://www.myheritage.com/research/collection-10678/1939-register-of-england-wales) as another finding aid [S64 @2026-11-22], [S65 @2026-11-22]. Use a candidate’s address and any register reference to locate it in the transcript book.
+
+After a full-name miss, retry with the surname and birth date, leaving middle names out. If that misses, search by the known 1939 address or a known co-resident and examine the whole schedule on the image [S21], [S64].
+
 If you find an entry in the FamilySearch index, follow its link to Findmypast for the image [S60 @2026-11-20]. Record any barrier to viewing the page as an access gap.
 
 - **Registration day.** 29 September 1939. Use it as the observation date.
@@ -127,6 +151,8 @@ If you find an entry in the FamilySearch index, follow its link to Findmypast fo
 - **Later annotations.** A crossed-out surname with another written above it, or a date in the margin, was added after 1939. The Register was updated for National Registration until 1952, and by the National Health Service (NHS), including deaths, from 1948 to 1991 [S1]. Record each annotation as a dated update event. A changed surname is a lead for a marriage search in the same district. The new surname is also a lead for a later death search matched on the stated birth date [S1], [S2]. **Do not record the margin date as the marriage date.** Search for a separately dated marriage registration under both surnames. A register entry can still say single beside a later surname, and a reported margin date differed from the marriage registration [S1], [S11]. Record the status at registration, the later annotation and any documented marriage as three observations.
 
 - **Closed entries.** Record a black bar as a withheld entry. The National Archives explains that Findmypast regularly opens entries as the recorded birth date reaches 100 years. A deceased person's entry can still be closed if the death went unrecorded. For a documented death, the Archives' guide describes the opening procedure [S57 @2026-11-19].
+
+When a name search misses, check for a closed line on the expected household image. Record the closure separately from the candidate identity and repeat the search after the provider releases more entries [S60 @2026-11-22], [S64 @2026-11-22].
 
 ## Check what the year covers before reading an absence
 
@@ -154,7 +180,7 @@ For each year, return:
 - the observation date: that year's census night (listed above; 19 June for 1921), or for 1939 the registration day, 29 September 1939;
 - the image type (copy or schedule) and the writer of each value;
 - literal values, with ages carried as ranges;
-- the place role: residence on the night, or birthplace;
+- the place role: place of enumeration, birthplace or workplace, with usual residence recorded separately when established;
 - annotations recorded as dated update leads;
 - locators: TNA piece, schedule and sub-number, plus viewer image;
 - access and coverage gaps;
