@@ -314,6 +314,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/filae-historical-record-search.md` — Choose the Filae collection that covers a French event, narrow by relatives and carry the result to the underlying record.
 - `recipes/finland-astia-creator-and-material-search.md` — Find a Finnish National Archives holding by separating the record creator from the material description and checking the resulting archive hierarchy.
 - `recipes/finnish-astia-archival-unit-recovery.md` — Find a Finnish archival unit from its call number, series or creator and determine how to consult it when Astia search or images fail.
+- `recipes/finnish-online-news-version-recovery.md` — Trace a missing or revised Finnish web article through dated captures and legal deposit access, keeping its print counterpart separate.
 
 ### Books, periodicals and manuscripts
 
