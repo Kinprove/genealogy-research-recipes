@@ -449,6 +449,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-farm-subdivision-record-recovery.md` — Find the survey map and minutes behind a named Finnish farm share and separate the recorded subdivision from any earlier inheritance division.
 - `recipes/finnish-crown-farm-purchase-recovery.md` — Use Finnish land-register annotations to find a Crown farm’s hereditary purchase in Swedish or Finnish records.
 - `recipes/finnish-fire-insurance-record-recovery.md` — Trace Finnish properties through Swedish-era and Finnish insurers’ notices, policies, appraisals, plans and payout reports to document buildings and fire damage.
+- `recipes/finnish-folk-poetry-informant-recovery.md` — Trace a historical folk-poetry informant through SKVR entries, collection notes and the collector’s published accounts.
 
 ### United States: people, vital and church records
 
