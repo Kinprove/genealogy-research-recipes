@@ -5044,5 +5044,11 @@
   "kind": "third-party-tool",
   "action": "For a death from 1918 onward, search the deceased's name in MyHeritage's",
   "checkpoint": "A search of the National Gazette index sends the deceased's name to MyHeritage."
+ },
+ {
+  "recipe": "ancestry-pro-tools-tree-worklists.md",
+  "kind": "export",
+  "action": "Use **More** → **Print** to print the visible part",
+  "checkpoint": "The selected branch’s names, events and relationships would leave Ancestry for the user’s device. Apply the [privacy gate](../SKILL.md#privacy-gate), including the retention rule."
  }
 ]
