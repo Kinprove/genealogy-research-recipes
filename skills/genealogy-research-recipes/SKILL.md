@@ -477,6 +477,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-marine-corps-muster-and-wwi-unit-records.md` — Recover a U.S. Marine’s dated unit from muster rolls, then trace First World War assignments and death records.
 - `recipes/us-postmaster-appointments-and-office-sites.md` — Find a U.S. postmaster by office and date, distinguish appointment from confirmation, and locate the office in site reports.
 - `recipes/wyoming-valley-susquehanna-company-claims.md` — Distinguish Wyoming Valley company share ownership, settlement and Pennsylvania title by following the relevant lists and tract papers.
+- `recipes/civil-war-published-medical-case-recovery.md` — Search the Civil War Medical and Surgical History by patient and injury, then match case narratives and table rows to service evidence.
 
 ### Canada, Latin America, Asia and Oceania
 
