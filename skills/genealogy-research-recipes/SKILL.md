@@ -469,6 +469,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-royal-marriage-permission-recovery.md` — Follow a Finnish parish marriage clue to the Crown’s decision, its supporting papers and the actual wedding.
 - `recipes/finnish-sailors-house-record-recovery.md` — Use Finnish sailors’ house indexes and original house records to distinguish enrollment from service on a vessel and identify voyages.
 - `recipes/french-maritime-registration-and-crew.md` — Use an inscription maritime entry and a French crew roll to test where a nineteenth-century sailor went or stayed ashore.
+- `recipes/finnish-provincial-notice-recovery.md` — Recover a missing person's trail in historical Finnish provincial proclamations and use the notice to choose follow-up records.
 
 ### United States: people, vital and church records
 
