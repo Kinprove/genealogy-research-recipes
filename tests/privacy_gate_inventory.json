@@ -4396,5 +4396,23 @@
   "kind": "export",
   "action": "use the Ancestry record viewer's tools menu and choose **Download**",
   "checkpoint": "TreeShare and record downloads copy Ancestry"
+ },
+ {
+  "recipe": "surname-distribution-locality-leads.md",
+  "kind": "third-party-tool",
+  "action": "search the surname in Virginia will indexes",
+  "checkpoint": "The research subject's surname alone goes to the Library of Virginia's online index"
+ },
+ {
+  "recipe": "surname-distribution-locality-leads.md",
+  "kind": "third-party-tool",
+  "action": "enter the given name alone in the “Forename only” search",
+  "checkpoint": "The research subject's given name alone goes to John Grenham's Irish Ancestors"
+ },
+ {
+  "recipe": "surname-distribution-locality-leads.md",
+  "kind": "third-party-tool",
+  "action": "search the portal by surname alone",
+  "checkpoint": "The research subject's surname alone goes to the Russian First World War portal"
  }
 ]
