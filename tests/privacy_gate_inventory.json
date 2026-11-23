@@ -4672,5 +4672,29 @@
   "kind": "third-party-tool",
   "action": "search the public web for the documented farm and village together",
   "checkpoint": "The search engine receives the historical farm and village names."
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s Hesse death index",
+  "checkpoint": "The Hesse death query sends"
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's South Baden duplicate indexes",
+  "checkpoint": "The South Baden query sends"
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Berlin civil birth index",
+  "checkpoint": "The Berlin birth or death query sends"
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the Berlin civil death index",
+  "checkpoint": "The Berlin birth or death query sends"
  }
 ]
