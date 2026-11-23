@@ -45,6 +45,22 @@ This recipe covers what these dates, places and hands establish, and how to reco
 3. **Check for missing pages before attributing a letter.** Three unsigned pages addressed to Mamie in 1910 appeared to fit William, whom she married later that year. The last page, folded into another family file, was signed Frank Sullivan [S3]. Keep the writer unresolved until a signature or other independent evidence identifies him.
 4. **If a separated page turns up, link it to the same item reference.** Record where it was found and the textual continuity supporting reunion [S3].
 
+**Use the letter's own heading when the envelope is missing.** Record the place as the stated writing place and cite the heading [S46], [S47]. Leave the mailing place unknown until there is evidence of sending. If the heading gives no place, mark any place inferred from the body as tentative and record the passage that supports it. A mention of studying a language supplies no location by itself [S46]. A question about going back to a place is a lead to the recipient's earlier connection with it. A soldier's writing place and described route from barracks give you a possible station to test in unit records [S46].
+
+**Keep the stated weekday and clock time with the writing date.** Preserve the precision the writer supplies [S49]. If the year is uncertain, test candidate years against the weekday in the calendar the writer used [S48].
+
+**Keep the issue date of a published letter separate from the letter's own dateline.** Use the writer's dated place as a lead to their presence there, and cite the issue as the copy read [S50], [S47]. For an extract that omits the exact writing date, record the season or tentative period the editor gives and identify any date supplied by a later researcher [S51], [S52].
+
+**Separate a routing instruction, arrival at an intermediary and receipt by the addressee.** Check the reply or the recipient's account for who handled the item and when it was collected or delivered [S53]. In one account, a note directed a letter to a cemetery, but the postman himself sent the reply [S54], [S55].
+
+**Calculate an earlier event's approximate date from the writing date and the elapsed time in the text.** Carry qualifiers such as “almost” into the estimate. A description of a recent acquaintance can help rank possible meeting periods bounded by other evidence. Leave the year open if the wording alone supplies no year [S46].
+
+**Enter a promised visit as a plan.** Check later correspondence or an attributed account for what happened. A wartime postcard promised a return on 2 January, but the blog author's recollection of the recipient's account says they did not meet [S46].
+
+**Check surviving letters for references to missing ones.** Log the referenced item as reported, with its stated or calculated date and a citation to the letter that mentions it [S46], [S56]. Distinguish writing, sending and receipt. Also check whether the writer explains a gap in the exchange, such as an inability to reach a post office [S57].
+
+**Keep both dates when a letter uses two calendar reckonings.** In a Finnish letter, *vanhaa lukua* means “by the old reckoning.” In the Turku letter excerpted in [S58], “tomorrow” after the 12 May 1818 dateline gives 13 May for the planned celebration, which the letter also calls 1 May by the old reckoning. Record both against the same planned event and check which calendar each date uses [S59].
+
 ### Address books and card lists
 
 1. **Transcribe each entry with its page position.** Include struck-through text, arrows and added names, dates or addresses in visible order. Treat them as layers of the keeper's updates rather than one dated snapshot [S4], [S6]. A card list may be a single sheet kept with the holiday cards [S4].
@@ -66,7 +82,17 @@ The presenter in [S32†] checks diary material for what it reports, whether it 
 
 ## Family books and Bible registers
 
+### Find and inspect the family's copy
+
+**Privacy gate:** <!-- privacy-gate: contact --> A question about a missing family Bible may disclose the ancestor's name and family connection to the relative asked, including a connection to a living person. Answer the privacy gate in `SKILL.md` before making contact and use an existing route under Living people.
+
+**If the family Bible has not turned up, ask a relative whether they remember it and which branch last had it.** Ask whether they saw it or heard about it and follow the attributed lead [S60], [S61].
+
 Begin with the book's stable item reference and received provenance from the Family collection intake and capture recipe. Distinguish this object from comparison copies and from transcriptions of it. Inspect every surface that can be viewed safely, including the endpapers and the back of the title page, on the object or on a supplied image; record any surface you cannot view as uninspected.
+
+**For an immigrant's birthplace, turn to the older generation's birth entries when the younger generation's page gives familiar details.** Record the place as written and check it against the parish that kept the birth record [S62], [S61].
+
+**Look between the leaves even when the printed register is blank.** Record where a loose insert was found and read it under its own item reference [S64], [S61]. For a church family listing like the one reported in [S63†], extract the marriage, the listed children and each name in the document's language. Keep those forms alongside any English or abbreviated names on a gravestone.
 
 ### Read the register entry by entry
 
@@ -110,7 +136,10 @@ Compare the imprint, title page and binding across copies. Effie Kelsey's copy o
   - the item reference
   - whether the envelope pairing was received or reconstructed
   - the postmark, return address and delivery address as separate fields
-  - the dates and places in the text
+  - the stated writing date, weekday, time and place, with the wording and basis for any inferred date or place
+  - the issue date for a published copy and both reckonings for a dual date
+  - the date and place of each delivery stage or reported event, with the supporting evidence
+  - any missing letter referred to in the text, its estimated date and the item that mentions it
   - whether pages, signature and date are present or missing
   - the author, as named on the item or marked unknown
   - any reunited page, with where it was found and the continuity supporting it
@@ -132,6 +161,7 @@ Compare the imprint, title page and binding across copies. Effie Kelsey's copy o
   - for a corrected date, the Bible date exactly as written, the supported date and the evidence for the change
   - any earlier register, recorded as documented (with the document) or not yet documented
   - every copy, with transcriber, sender, poster and holding branch
+  - each loose insert's item reference and location in the Bible
 - **For each family book:**
   - a short item-linked comparison: proposed claim, this object's observation, identified comparison copy, supported date or range, and remaining gap
   - the next missing surface, edition or provenance question
