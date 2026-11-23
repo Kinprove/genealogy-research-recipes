@@ -339,6 +339,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/romanian-chamber-of-labour-personnel-files.md` — Find a Romanian artisan’s or apprentice’s file through the Chamber of Labour office, its credential series and its name index.
 - `recipes/bialystok-cholera-committee-record-recovery.md` — Find a named household in Białystok county's 1831 cholera reports, tally and orphan records, then reconcile the dated statements.
 - `recipes/cmolas-estate-inventory-recovery.md` — Find the Cmolas estate inventory and compare its numbered entries, kinship terms and child counts with dated parish records.
+- `recipes/czech-estate-corvee-record-recovery.md` — Use Bohemian and Moravian estate records to separate the labor a holding owed from the work its occupants performed.
 
 ### Russian Empire and Soviet Union
 
