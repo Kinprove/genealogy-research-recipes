@@ -5842,5 +5842,11 @@
   "kind": "third-party-tool",
   "action": "Try the known first and last letters of the surname",
   "checkpoint": "The education search sends the surname pattern and any given-name initials you enter to Akatemiasampo."
+ },
+ {
+  "recipe": "haitian-historical-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the chosen index with the deceased subject’s name",
+  "checkpoint": "A civil-index query sends the deceased subject’s name"
  }
 ]
