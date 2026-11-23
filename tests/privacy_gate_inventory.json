@@ -5440,5 +5440,29 @@
   "kind": "request",
   "action": "Prepare a request for a 1930 census copy",
   "checkpoint": "The Czech National Archives can receive"
+ },
+ {
+  "recipe": "canadian-census-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "If the form is available, search for the deceased person by name",
+  "checkpoint": "This search sends the deceased person's name to MyHeritage."
+ },
+ {
+  "recipe": "canadian-census-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "For a deceased person's name lookup, open",
+  "checkpoint": "A name query in Census Search sends the person's name and any additional search fields to Library and Archives Canada."
+ },
+ {
+  "recipe": "canadian-census-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "If the 1931 LAC name search misses a deceased person, try the separate transcription",
+  "checkpoint": "The 1931 name query sends the deceased person's name to MyHeritage."
+ },
+ {
+  "recipe": "canadian-census-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "For the 1825 and 1831 Lower Canada and 1842 Canada East and West returns, search for a deceased household head by name",
+  "checkpoint": "This early census name query sends the deceased household head's name to Library and Archives Canada."
  }
 ]
