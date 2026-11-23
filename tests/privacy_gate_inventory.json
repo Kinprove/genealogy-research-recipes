@@ -4354,5 +4354,11 @@
   "kind": "publish",
   "action": "turn on **Display my Email** in **Edit Profile**",
   "checkpoint": "Profile messaging exposes a contact button to other Find a Grave members."
+ },
+ {
+  "recipe": "memorial-card-and-coffin-plate-evidence.md",
+  "kind": "third-party-tool",
+  "action": "Have the user sign in to GenTeam",
+  "checkpoint": "The user’s account details go to GenTeam"
  }
 ]
