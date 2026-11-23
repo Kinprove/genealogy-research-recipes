@@ -5350,5 +5350,89 @@
   "kind": "export",
   "action": "To keep a local copy of the open Relationship Diagram",
   "checkpoint": "The chart's names, displayed birth and death details, and kinship paths"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search MyHeritage's *Indiana, Incarcerations* index",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search MyHeritage's *Nebraska, Incarcerations*",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Use the Nebraska State Historical Society's General Index to Inmates",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's *Scotland, Prison Registers*",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "compare the prison and admission year with Scotland's People's coverage",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Look up the defendant in the MyHeritage index described for 1836–1889.",
+  "checkpoint": "A name search on a trial-report,"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the register for repeat convictions",
+  "checkpoint": "A name search on a trial-report,"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the Old Bailey Proceedings when the court and year fit.",
+  "checkpoint": "A name search on a trial-report,"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the name index described by MyHeritage when the prison is unknown",
+  "checkpoint": "A name search on a trial-report,"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search ArkivDigital's *Fängelserullor* name index across prisons",
+  "checkpoint": "A prison-roll lookup can send a name, dates of confinement and the alleged offence to ArkivDigital."
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Look for the hospital's patient list in the press.",
+  "checkpoint": "A prison-roll lookup can send a name, dates of confinement and the alleged offence to ArkivDigital."
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "use the Riksarkivet finding aid term *kortregistret högmålsbrott*",
+  "checkpoint": "A name lookup or file order can send identifying details and the alleged offence to ArkivDigital or Riksarkivet."
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "Request related *utslagshandlingar* separately",
+  "checkpoint": "A name lookup or file order can send identifying details and the alleged offence to ArkivDigital or Riksarkivet."
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the portal's *Montana State Prison Records*",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
  }
 ]
