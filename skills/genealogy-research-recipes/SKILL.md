@@ -285,6 +285,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-dna-match-investigation.md` — Investigate MyHeritage DNA matches: the right kit, filtered shortlists, shared-match values, triangulation and Theory of Family Relativity.
 - `recipes/dnapainter-practical-dna-workflows.md` — Use DNA Painter to map segments, combine phased maps, estimate missing intervals, plan tests and check shared-cM ranges.
 - `recipes/myheritage-kit-processing-and-downloads.md` — Identify how MyHeritage processed a kit, distinguish its raw autosomal file from CRAM, and check options for a legacy result.
+- `recipes/banyandna-complex-pedigree-analysis.md` — Test a pedigree with more than one relationship path using BanyanDNA validation and alternative placements with documented autosomal comparisons.
 
 ### Ethnicity, admixture and match outreach
 
