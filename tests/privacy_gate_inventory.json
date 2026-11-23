@@ -5140,5 +5140,59 @@
   "kind": "contact",
   "action": "If a new test would resolve a specific gap, stage a private request to test",
   "checkpoint": "A private test request goes to the prospective tester and discloses the sender's identity and the recipient's own possible relationship"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "export",
+  "action": "Copy a working transcript",
+  "checkpoint": "Copying a Scribe AI transcription exports the names, relationships and other details of anyone mentioned, including living or possibly living people, from MyHeritage to a local editor"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "link",
+  "action": "When a reviewer needs the same Scribe AI analysis",
+  "checkpoint": "The Scribe AI report link can expose the analysis and details about anyone shown or named, including living or possibly living people, to the recipient and anyone with access to the link"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "If the user already has the Riksarkivet beta connected",
+  "checkpoint": "A query sent through the connected assistant sends the names, places and other identifiers in the query to its provider and Riksarkivet"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "publish",
+  "action": "For a misread name in a MyHeritage newspaper result",
+  "checkpoint": "A name suggestion sends the corrected name and its association with the newspaper item to MyHeritage and can make it searchable by other users"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "For a local scan, clear the Scribe AI upload gate above",
+  "checkpoint": "A document uploaded to Scribe AI gives its contents"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "In the MyHeritage app, open",
+  "checkpoint": "A document uploaded to Scribe AI gives its contents"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "In MyHeritage’s web **My Photos** gallery",
+  "checkpoint": "Color restoration sends the scan"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "When the web restoration settings offer more than one model",
+  "checkpoint": "Color restoration sends the scan"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "In MyHeritage AI Biographer, choose **Standard**",
+  "checkpoint": "AI Biographer can send the subject’s and named relatives’ biographical details"
  }
 ]

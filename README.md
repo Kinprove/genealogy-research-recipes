@@ -170,7 +170,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [admixture-model-run-scope](skills/genealogy-research-recipes/recipes/admixture-model-run-scope.md) | — | — | — | third-party-tool | — | required |
 | [agent-research-project](skills/genealogy-research-recipes/recipes/agent-research-project.md) | — | — | — | publish, third-party-tool, upload | — | required |
 | [ai-for-dna-research](skills/genealogy-research-recipes/recipes/ai-for-dna-research.md) | — | — | — | export, third-party-tool | contact | required |
-| [ai-for-documentary-records](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) | — | generated plotting script | — | export, publish, third-party-tool | — | required |
+| [ai-for-documentary-records](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) | — | generated plotting script | — | export, publish, third-party-tool, link | — | required |
 | [american-voter-register-eligibility](skills/genealogy-research-recipes/recipes/american-voter-register-eligibility.md) | record catalogues and original images | — | — | — | — | — |
 | [amsterdam-archival-record-recovery](skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [ancestry-dna-match-investigation](skills/genealogy-research-recipes/recipes/ancestry-dna-match-investigation.md) | ancestrydna | — | browser extension view comparison (optional) | link, publish | contact | required |
