@@ -4378,5 +4378,23 @@
   "kind": "upload",
   "action": "use a new MyHeritage kit for the highest-priority consenting relative",
   "checkpoint": "The tester’s biological sample and kit identifiers would go to MyHeritage and its laboratory. Confirm the tester’s authorization and apply the [privacy gate](../SKILL.md#privacy-gate) before submission."
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "export",
+  "action": "Before membership access ends, bring the needed Ancestry citations and available media",
+  "checkpoint": "TreeShare and record downloads copy Ancestry"
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "export",
+  "action": "to download the tree into a new RootsMagic database on the user's device",
+  "checkpoint": "TreeShare and record downloads copy Ancestry"
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "export",
+  "action": "use the Ancestry record viewer's tools menu and choose **Download**",
+  "checkpoint": "TreeShare and record downloads copy Ancestry"
  }
 ]
