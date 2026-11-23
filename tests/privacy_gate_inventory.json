@@ -4798,5 +4798,11 @@
   "kind": "contact",
   "action": "After an online miss, ask the Reference Service Unit",
   "checkpoint": "The requester’s contact details and the town, year range and record type would go to the archive’s Reference Service Unit."
+ },
+ {
+  "recipe": "portuguese-parish-civil-register-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's district indexes by name",
+  "checkpoint": "A name search sends the subject's name"
  }
 ]
