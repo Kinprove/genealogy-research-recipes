@@ -5272,5 +5272,11 @@
   "kind": "third-party-tool",
   "action": "Search the MyHeritage Vienna indexes by event",
   "checkpoint": "Before sending names, dates or places of a subject or relative"
+ },
+ {
+  "recipe": "banyandna-complex-pedigree-analysis.md",
+  "kind": "third-party-tool",
+  "action": "Enter the permitted pedigree and pairwise cM",
+  "checkpoint": "relationship paths, labels and pairwise shared cM sent to BanyanDNA"
  }
 ]

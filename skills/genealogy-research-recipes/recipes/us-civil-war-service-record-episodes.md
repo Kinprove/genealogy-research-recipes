@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 151}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 152}
 ---
 
 # Read Civil War registration, service cards and unit events as separate episodes
