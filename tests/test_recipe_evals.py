@@ -122,6 +122,10 @@ class StaticEvaluationTests(unittest.TestCase):
 
 
 class BehaviouralHarnessTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.rules = guardrails()  # These harness tests all read the same unmodified skill.
+
     def setUp(self):
         self.case = next(case for case in load_cases() if case["id"] == "cm-relationship")
 
@@ -267,7 +271,7 @@ class BehaviouralHarnessTests(unittest.TestCase):
             material = (EVALS / "fixtures/matches.csv").read_text(encoding="utf-8")
             (original / "run.json").write_text(json.dumps({
                 "skill": str(old_skill), "skill_sha256": digest.hexdigest(), "cases": [case],
-                "guardrails": guardrails(), "materials": {"matches.csv": material, "unused.txt": "unused"},
+                "guardrails": self.rules, "materials": {"matches.csv": material, "unused.txt": "unused"},
             }), encoding="utf-8")
             for number in range(1, 4):
                 folder = original / case["id"] / str(number)
@@ -348,7 +352,7 @@ class BehaviouralHarnessTests(unittest.TestCase):
                     return answer, trace
 
                 with patch("run_evals.invoke", side_effect=transport), contextlib.redirect_stdout(io.StringIO()):
-                    rows.append(sample(case, number, args, guardrails()))
+                    rows.append(sample(case, number, args, self.rules))
         self.assertEqual([row["deterministic_failures"] for row in rows], [[], [], ["Strict rubric failed: Y-01"]])
         summary = aggregate([case], rows)[case["id"]]
         self.assertEqual((summary["routing_and_regex_passes"], summary["rubric_passes"]), (2, 2))
@@ -385,7 +389,7 @@ class BehaviouralHarnessTests(unittest.TestCase):
                 return "Keep living people private; redact before sharing. QUAY is not research status.", trace
 
             with patch("run_evals.invoke", side_effect=transport):
-                result = sample(case, 1, args, guardrails())
+                result = sample(case, 1, args, self.rules)
             self.assertEqual(result["deterministic_failures"], [])
             self.assertTrue(result["rubric_pass"])
             destination = args.output / case["id"] / "1"
@@ -407,7 +411,7 @@ class BehaviouralHarnessTests(unittest.TestCase):
 
                 printed = io.StringIO()
                 with patch("run_evals.invoke", side_effect=transport), contextlib.redirect_stdout(printed):
-                    rows.append(sample(case, number, args, guardrails()))
+                    rows.append(sample(case, number, args, self.rules))
             self.assertIsNone(rows[-1]["rubric_pass"])
             status = "PASS" if clarify else "FAIL"
             self.assertEqual(printed.getvalue(), f"{case['id']} [{number}/3]: {status}\n")

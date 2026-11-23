@@ -290,11 +290,14 @@ def sentence_boundaries(visible):
     return [0] + sorted(cuts) + [len(visible)]
 
 
+def context_text(anchor):
+    # All sentence and marker offsets belong to this same rendered text.
+    return re.sub(r'''["“”'‘’«»]''', ' ', visible_text(anchor))
+
+
 def marker_contexts(anchor, sid):
     """Each source marker's sentence, so a separate hedge cannot qualify a fact."""
-    visible = visible_text(anchor)
-    # All offsets below belong to the same rendered text, never the raw anchor.
-    visible = re.sub(r'''["“”'‘’«»]''', ' ', visible)
+    visible = context_text(anchor)
     boundaries = sentence_boundaries(visible)
     for match in MARKER.finditer(visible):
         if sid in markers(match[0]):
@@ -515,7 +518,19 @@ def run(root, mode, today):
     orphans = sorted({p.stem for p in ledger_dir.glob('*.yml')} - {p.stem for p in paths})
     require(not orphans, f'ledgers without a recipe: {orphans}')
     recipes = {path.name: (recipe_dir / path.name).read_text(encoding='utf-8') for path in paths}
-    prepare_visibility([block for text in recipes.values() for block in prose_blocks(text)])
+    corpus = {}
+    for path in paths:
+        ledger_path = ledger_dir / f'{path.stem}.yml'
+        if ledger_path.exists():
+            corpus[path.stem] = parse_ledger(ledger_path.read_text(encoding='utf-8'))
+
+    # Reviewed anchors may be smaller than prose blocks. Render both together,
+    # then batch the exact marker fragments that marker_contexts parses again.
+    anchors = {claim['anchor'] for ledger in corpus.values() for claim in ledger['claims']
+               if claim.get('review') == 'reviewed' and isinstance(claim.get('anchor'), str)}
+    blocks = [block for text in recipes.values() for block in prose_blocks(text)]
+    prepare_visibility([*blocks, *anchors])
+    prepare_visibility(match[0] for anchor in anchors for match in MARKER.finditer(context_text(anchor)))
     debt_path = root / DEBT
     if mode == 'import-legacy':
         require(not debt_path.exists(), 'legacy inventory already exists; normal commands cannot add exceptions')
@@ -523,13 +538,13 @@ def run(root, mode, today):
     else:
         exceptions = loads(debt_path.read_text(encoding='utf-8'))
         require(isinstance(exceptions, dict), 'legacy inventory must be an object')
-    corpus, outputs, active = {}, {}, {}
+    outputs, active = {}, {}
     for path in paths:
         slug = path.stem
         ledger_path = ledger_dir / f'{slug}.yml'
         source_text = path.read_text(encoding='utf-8')
         recipe_text = recipes[path.name]
-        ledger = parse_ledger(ledger_path.read_text(encoding='utf-8')) if ledger_path.exists() else None
+        ledger = corpus.get(slug)
         if mode == 'import-legacy':
             require(ledger is None, f'{slug}: refusing to replace an existing ledger')
             ledger = migrate(source_text, recipe_text)

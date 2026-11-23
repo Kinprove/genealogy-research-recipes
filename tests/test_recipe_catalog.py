@@ -20,9 +20,12 @@ SPEC.loader.exec_module(catalog)
 
 
 class RecipeCatalogTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.today = dt.date.today()
+        cls.items = catalog.load_catalog(today=cls.today)
+
     def setUp(self):
-        self.today = dt.date.today()
-        self.items = catalog.load_catalog(today=self.today)
         self.metadata, self.body = copy.deepcopy(self.items[0])
 
     def assert_invalid(self, metadata, message, body=None):

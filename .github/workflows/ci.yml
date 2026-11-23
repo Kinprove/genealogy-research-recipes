@@ -54,21 +54,18 @@ jobs:
       - name: Run repository unit tests
         env:
           PYTHONDONTWRITEBYTECODE: "1"
-        run: python -B -m unittest discover -s tests -p 'test_*.py' -v
-      - name: Check recipe headers and announce expiring platform checks
-        run: python -B scripts/recipe_catalog.py --check
-      - name: Check provenance ledgers, generated report and frozen legacy inventory
-        env:
           PUSH_BEFORE: ${{ github.event.before }}
-        # Compare with the base branch tip for a pull request, and with the commit
-        # main pointed to before the push (several commits back, if need be) for a push.
+        # The real-corpus test runs the provenance CLI once, including warnings
+        # and the inventory comparison. A push may include several commits.
         run: |
-          base=HEAD^1
+          export PROVENANCE_LEGACY_BASE=HEAD^1
           if [ "$GITHUB_EVENT_NAME" = push ]; then
             git fetch --no-tags --depth=1 origin "$PUSH_BEFORE"
-            base=$PUSH_BEFORE
+            export PROVENANCE_LEGACY_BASE="$PUSH_BEFORE"
           fi
-          python -B scripts/provenance.py --check --legacy-base "$base"
+          python -B -m unittest discover -s tests -p 'test_*.py' -v --durations 10
+      - name: Check recipe headers and announce expiring platform checks
+        run: python -B scripts/recipe_catalog.py --check
 
   distributions:
     name: Channel distribution builds
