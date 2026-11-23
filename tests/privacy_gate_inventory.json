@@ -4420,5 +4420,17 @@
   "kind": "contact",
   "action": "ask the cousin for their deceased grandparents' names, birth years and birthplaces",
   "checkpoint": "A message to the target's living cousin carries the sender's identity"
+ },
+ {
+  "recipe": "archival-image-coverage-verification.md",
+  "kind": "request",
+  "action": "Request access to the unfilmed material",
+  "checkpoint": "A request for further sheets of a case file"
+ },
+ {
+  "recipe": "archival-image-coverage-verification.md",
+  "kind": "contact",
+  "action": "Report a suspected scan omission to the archive",
+  "checkpoint": "A scan-gap report sends record locators"
  }
 ]

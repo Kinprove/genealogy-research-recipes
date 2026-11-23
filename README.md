@@ -176,7 +176,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [ancestry-dna-match-investigation](skills/genealogy-research-recipes/recipes/ancestry-dna-match-investigation.md) | ancestrydna | — | browser extension view comparison (optional) | link, publish | contact | required |
 | [ancestry-pro-tools-tree-worklists](skills/genealogy-research-recipes/recipes/ancestry-pro-tools-tree-worklists.md) | public catalogues, documentation and historical records | — | — | export | — | required |
 | [ancestry-record-search-recovery](skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) | ancestry | — | — | publish, request | — | required |
-| [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | request | — | required |
+| [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | request | contact | required |
 | [ark-and-dove-passenger-reconstruction](skills/genealogy-research-recipes/recipes/ark-and-dove-passenger-reconstruction.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [australia-nz-record-routing](skills/genealogy-research-recipes/recipes/australia-nz-record-routing.md) | record catalogues and original images, MyHeritage Victorian birth and death indexes | — | — | third-party-tool | — | required |
 | [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images, MyHeritage Opava indexes | — | — | request, third-party-tool | — | required |
