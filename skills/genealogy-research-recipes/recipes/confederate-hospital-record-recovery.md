@@ -11,7 +11,7 @@ handoff: ["us-civil-war-service-record-episodes"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 203}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 204}
 ---
 
 # Recover Confederate hospital records behind a Civil War service entry
