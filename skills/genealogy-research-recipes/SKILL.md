@@ -452,6 +452,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-folk-poetry-informant-recovery.md` — Trace a historical folk-poetry informant through SKVR entries, collection notes and the collector’s published accounts.
 - `recipes/finnish-great-northern-war-refugee-recovery.md` — Trace a family displaced from Finland through wartime relief lists and Swedish parish evidence, then check for a documented return.
 - `recipes/finnish-henkikirja-record-recovery.md` — Find a Finnish henkikirja by historical parish, district, year and volume signum, and distinguish index gaps from missing roll entries.
+- `recipes/finnish-crown-prison-record-recovery.md` — Reconstruct nineteenth-century Finnish custody and transfer using Procurator returns, institution records, prison parish books and Siberian exile references.
 
 ### United States: people, vital and church records
 
