@@ -4360,5 +4360,23 @@
   "kind": "third-party-tool",
   "action": "Have the user sign in to GenTeam",
   "checkpoint": "The user’s account details go to GenTeam"
+ },
+ {
+  "recipe": "myheritage-kit-processing-and-downloads.md",
+  "kind": "request",
+  "action": "select **Generate Y-DNA results**",
+  "checkpoint": "MyHeritage uses the kit’s Y-chromosome data and shares the tester’s anonymous haplogroup code with FamilyTreeDNA."
+ },
+ {
+  "recipe": "myheritage-kit-processing-and-downloads.md",
+  "kind": "upload",
+  "action": "retest with a new MyHeritage DNA kit",
+  "checkpoint": "The tester’s biological sample and kit identifiers would go to MyHeritage and its laboratory. Confirm the tester’s authorization and apply the [privacy gate](../SKILL.md#privacy-gate) before submission."
+ },
+ {
+  "recipe": "myheritage-kit-processing-and-downloads.md",
+  "kind": "upload",
+  "action": "use a new MyHeritage kit for the highest-priority consenting relative",
+  "checkpoint": "The tester’s biological sample and kit identifiers would go to MyHeritage and its laboratory. Confirm the tester’s authorization and apply the [privacy gate](../SKILL.md#privacy-gate) before submission."
  }
 ]

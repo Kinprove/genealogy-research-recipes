@@ -30,6 +30,22 @@
 
 - **S15:** [MyHeritage, What are the Advanced MyHeritage DNA Features?](https://www.myheritage.com/help/en/articles/12852419-what-are-the-advanced-myheritage-dna-features). Reviewed 2026-11-21, help-page, access read. Read 2026-11-21. Provider help lists the Chromosome Browser as an advanced tool and describes how the upload date, subscription and per-kit unlock affect access.
 
+- **S16:** Alex Findlay, [Getting the Most Out of Your DNA Results](https://blog.myheritage.com/2025/02/getting-the-most-out-of-your-dna-results/), published 2025-02-27. Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. The author describes matching on 22 autosomal pairs and the absence of a dedicated mtDNA test in February 2025. S17 supports the narrower claim about what the Chromosome Browser displays, S18 documents the results tabs, and S19 and S20 document the later, separate Y-DNA report.
+
+- **S17:** [MyHeritage, In the Chromosome browser, is it possible to distinguish between DNA segments which were inherited from the paternal and maternal side?](https://www.myheritage.com/help/en/articles/12852329-in-the-chromosome-browser-is-it-possible-to-distinguish-between-dna-segments-which-were-inherited-from-the-paternal-and-maternal-side), dated 2026-07-21. Reviewed 2026-11-22, help-page, access read. Read 2026-11-22. Provider help describes the 22 chromosome displays and explains why the X chromosome is absent from the browser.
+
+- **S18:** [MyHeritage, Where are my DNA results?](https://www.myheritage.com/help/en/articles/17596764-where-are-my-dna-results). Reviewed 2026-11-22, help-page, access read. Read 2026-11-22. The provider’s list of kit results tabs includes a Y-DNA tab for eligible kits and lists no mtDNA report. The list establishes the scope of the displayed results.
+
+- **S19:** Daniella Levy, [New on MyHeritage: Trace Your Paternal Line Back Thousands of Years with Y-DNA](https://blog.myheritage.com/2026/08/new-on-myheritage-trace-your-paternal-line-back-thousands-of-years-with-y-dna/), published 2026-08-17. Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. The launch post documents website access, generating a report with consent, the email link, and the fallback for a past upload with insufficient Y-chromosome data. S20 supersedes the launch post’s one-hour estimate, and S21 specifies the haplogroup code shared with FamilyTreeDNA.
+
+- **S20:** [MyHeritage, How do I access and use my Y-DNA results on MyHeritage?](https://www.myheritage.com/help/en/articles/16003432-how-do-i-access-and-use-my-y-dna-results-on-myheritage). Reviewed 2026-11-22, help-page, access read. Read 2026-11-22. Current provider help gives the navigation, kit selection, eligibility, consent and generation controls, access by role, approximately 24-hour turnaround, and separate statuses for pending processing and ineligible kits. It describes insufficient Y-chromosome data and incompatible chips as possible reasons for ineligibility.
+
+- **S21:** [MyHeritage, What is the Y-DNA feature on MyHeritage?](https://www.myheritage.com/help/en/articles/16002856-what-is-the-y-dna-feature-on-myheritage), dated 2026-08-26. Reviewed 2026-11-22, help-page, access read. Read 2026-11-22. Provider help explains that MyHeritage calculates the haplogroup from existing Y-chromosome data and shares only an anonymous haplogroup code with FamilyTreeDNA.
+
+- **S22:** Yan Sandler, [Who to Test First? A Budget-Smart Family DNA Testing Strategy](https://blog.myheritage.com/2025/11/who-to-test-first-a-budget-smart-family-dna-testing-strategy/), published 2025-11-13. Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. The author suggests checking upload policy before buying a kit and prioritizing the most informative relative if a new kit is necessary. S8 documents the closure of new uploads, and S23 confirms the current routes to DNA Matches.
+
+- **S23:** [MyHeritage, How do I get DNA Matches?](https://www.myheritage.com/help/en/articles/12851902-how-do-i-get-dna-matches), dated 2026-07-21. Reviewed 2026-11-22, help-page, access read. Read 2026-11-22. Current provider help identifies an existing MyHeritage DNA test or a supported past autosomal upload as routes to DNA Matches.
+
 ## Credits
 
 - Community advice and independent sources in S1 onward — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
