@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery", "evidence-proof-judgment",
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 210}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 211}
 ---
 
 # Recover a Brazilian ancestor in parish books, registry-office records and their substitutes
