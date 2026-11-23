@@ -4732,5 +4732,11 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage’s Lithuanian-Jewish Revision Lists from LitvakSIG",
   "checkpoint": "Submitting a query sends the research subject’s or relatives’ names"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "third-party-tool",
+  "action": "On the match card, open the relationship label and choose",
+  "checkpoint": "Saving a confirmed DNA relationship sends the"
  }
 ]
