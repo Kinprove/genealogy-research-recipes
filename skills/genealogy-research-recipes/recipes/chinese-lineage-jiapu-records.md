@@ -17,9 +17,10 @@ router: {"section": "Records by country and region", "group": "Canada, Latin Ame
 # Recover a Chinese emigrant's lineage from character-written names, village and jiapu
 
 Use when a Western record (manifest, obituary, census, family group sheet) names a Chinese
-emigrant only in romanization, and the goal is a lineage genealogy (jiapu/zupu). Recover the name
-and small ancestral village **in characters** first. Record every romanization, port, regional
-label, woman's name formula, generation-character match and computed date as its own labelled
+emigrant only in romanization or a Thai record gives only a Thai name, and the goal is a lineage
+genealogy (jiapu/zupu). Recover the name and small ancestral village **in characters** first.
+Record every romanization, port, regional label, woman's name formula, generation-character
+match and computed date as its own labelled
 observation. Do not merge them into an identity. For the general rule that a port of embarkation is not a birth
 town, see [arrival-record extraction](russian-empire-emigrant-origin-recovery.md).
 Route identity rulings to [evidence/proof judgment](evidence-proof-judgment.md)
@@ -95,6 +96,13 @@ confirms it.
 
 Give each source its own row: source, literal romanized form, literal character form (or
 "none"), and a role label. Never collapse rows into one "correct spelling".
+
+For a Thai-Chinese line, check ancestral tablets and family shrine inscriptions for the
+ancestor's name in Chinese characters. Compare the inscription with the name as written in Thai
+records and enter each form in its own source row [S16], [S17]. Test the sound correspondence
+in the family's dialect and check which form was transliterated. In Songkhla, the written given
+name 宣列 combined the generation character 宣 with a rendering of the Thai name Net [S17].
+Check dates and named relatives before using a proposed name match to link branches.
 
 In a traditional Chinese name written in characters, the surname usually takes one character
 and comes before a given name of one or two characters. [S13], [S14] Keep a compound surname
