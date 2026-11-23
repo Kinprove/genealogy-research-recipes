@@ -5464,5 +5464,53 @@
   "kind": "third-party-tool",
   "action": "For the 1825 and 1831 Lower Canada and 1842 Canada East and West returns, search for a deceased household head by name",
   "checkpoint": "This early census name query sends the deceased household head's name to Library and Archives Canada."
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "send one branch-specific question to the recurring manager",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask the match to put a narrow question to a willing parent",
+  "checkpoint": "An introduction or question to a witness can disclose the tester's case"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask whether that sibling would be willing to share what they remember",
+  "checkpoint": "An introduction or question to a witness can disclose the tester's case"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask where the match's parent lived or served during the relevant period",
+  "checkpoint": "An introduction or question to a witness can disclose the tester's case"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask about the relevant year before bringing up a nickname",
+  "checkpoint": "An introduction or question to a witness can disclose the tester's case"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Offer a cheek-swab kit when the relative says providing a saliva sample is a barrier",
+  "checkpoint": "The invitation, and any tree snapshot or family photos sent with it"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "stage a test invitation through a cleared route",
+  "checkpoint": "The invitation, and any tree snapshot or family photos sent with it"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "In a cleared first message to a possible birth parent, limit the tester's birth date to the year",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
  }
 ]
