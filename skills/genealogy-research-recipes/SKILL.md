@@ -326,6 +326,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/slavevoyages-person-and-voyage-linkage.md` — Choose the named-person dataset that fits the route, then trace the candidate through the underlying record and voyage.
 - `recipes/slavery-convention-territorial-record-recovery.md` — Find the records a jurisdiction created while accepting, excluding or implementing obligations under the 1926 Slavery Convention.
 - `recipes/finnish-historical-newspaper-issue-recovery.md` — Use publication language, title runs, topic indexes and dated follow-ups to recover a newspaper item about a historical event in Finland.
+- `recipes/finnish-newspaper-byline-attribution.md` — Identify a writer behind initials or a pen name by linking Finnish local letters, pseudonym indexes and explicit period attributions.
 
 ### Places and maps
 

@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "russian-empire-jewish-identity-att
 checked: "2026-10-26"
 checked_basis: "checked 26 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 172}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 173}
 ---
 
 # Recover U.S. immigration and naturalization records
