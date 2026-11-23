@@ -62,6 +62,11 @@ Assign each inspected record a local document number, such as `R1`. Record the c
 place/date coverage, exact query or browsing range, and the result. Link the entry to its
 [source citation](source-citation.md) and saved images when available.
 
+When browsing annual runs of a newspaper such as *Posttidningar*, log one row per inspected
+issue with its title, publication date, issue number if shown and copy locator [B51]. If a saved
+issue link stops opening, keep the row and use the title and issue date to check the provider's
+coverage and look for another digitization or a microfilm copy [B51], [B52].
+
 Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
@@ -137,6 +142,12 @@ Keep a locality guide bounded to the question and period: historical jurisdictio
 series and dates, known loss, present custodian, access and collection/finding-aid links.
 Include geography or administrative history when it changes where to search. A described
 collection remains uninspected until its contents have actually been examined.
+
+When using Finnish *henkikirjat* to bracket a move, list the register links and record each
+closing date from the notation at the end of the register [B56]. Keep the volume year and
+closing date separate from the date the household information represents. If the timing affects
+the bracket, check contemporary newspaper notices for the relevant district or block's
+enumeration date and keep the move interval as broad as the evidence requires [B56], [B57].
 
 For an initial U.S. county survey, search by place in the FamilySearch Catalog with availability set
 to Any. Check each relevant entry's access route, including physical holdings and restricted images
@@ -302,6 +313,13 @@ The [research-log views example](https://familylocket.com/rlp-258-saving-views-o
 demonstrates filtering next steps and grouping them by repository. These are companion
 views of the log, not replacement search results or a requirement to use Airtable.
 
+Keep a working bibliography of publication leads, including unread ones. When a secondary
+work's footnote supplies a lead, record the citing work and footnote locator, the cited work
+and the question you expect it to answer [B54]. For an online copy, note the URL that opened
+and the access you used, or record where a previously saved copy is kept. Track inspection
+separately from access [B54]. When a gap emerges in the report's citations, review the unread
+leads for that gap before rerunning the literature search [B55].
+
 Give each sent request its own dated correspondence entry. Retain the channel, the
 question asked and a private locator for the message. Link each reply to the request and
 record what the sender actually confirmed, including the scope they checked if stated.
@@ -421,6 +439,12 @@ Track updates to each destination tree separately using observed status: finishi
 does not establish that every tree was updated. The [project-tracking example](https://familylocket.com/rlp-223-tracking-research-projects-in-airtable/)
 supplies this handoff without requiring a particular database or treating custom status
 labels as proof grades.
+
+When revisiting a family account of schooling, retrieve any dated coursework that records it.
+Compare the institution name and chronology with your current recollection. Follow the
+coursework's citations and check surviving records to resolve discrepancies. In one case,
+a remembered one-year seminary course conflicted with an earlier assignment that distinguished
+admission from the start of instruction [B53].
 
 Before extending an earlier phase's log for a new phase, keep a dated copy of that log linked
 to the earlier report. Add later observations in a new working copy or as dated rows, so what

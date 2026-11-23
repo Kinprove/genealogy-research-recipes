@@ -228,6 +228,49 @@ are used.
   Saved transcript read 2026-11-22. Used for retaining each request, its message locator and
   the linked reply, and for distinguishing a sent request from information received. The
   recommended entry structure does not require the demonstrated software.
+- S51. (B51) Kaisa Kyläkoski, "Digihumppa-ti-ral-lal-laa", Sukututkijan loppuvuosi, 2022-01-18,
+  <https://sukututkijanloppuvuosi.blogspot.com/2022/01/digihumppa-ti-ral-lal-laa.html>.
+  Community post read 2026-11-22. Kyläkoski reports that her issue table identified the issue
+  she needed for a comparison even after she stopped finding the digitized run she had used.
+  She traced the difference to two digitizations of different holdings. Used for issue-level
+  logging and recovery, with the provider's 2022 access details treated as historical.
+- S52. (B52) Kungliga biblioteket, "Digitaliserade svenska dagstidningar", title coverage list,
+  <https://feedback.blogg.kb.se/files/2021/07/Digitaliserade-dagstidningar-1.pdf>.
+  Library coverage table read 2026-11-22. The Posttidningar row shows date bounds and flags
+  gaps inside them. Used for checking a target issue against coverage information. The table
+  does not establish availability of a specific issue today.
+- S53. (B53) Kaisa Kyläkoski, "Muistiin ja oletuksiin luottamisesta", Sukututkijan loppuvuosi,
+  2025-06-09,
+  <https://sukututkijanloppuvuosi.blogspot.com/2025/06/muistiin-ja-oletuksiin-luottamisesta.html>.
+  Community post read in the publisher's weekly archive on 2026-11-22. Kyläkoski reports
+  retrieving a 2010 family-history assignment that named the institution and distinguished
+  admission from the start of instruction. Her recollection had compressed it to a one-year
+  seminary course. The example supports retrieving the earlier write-up and its cited leads.
+- S54. (B54) Kaisa Kyläkoski, "Historiantutkimukseen oppia Ameriikasta (3/5)",
+  Sukututkijan loppuvuosi, 2022-12-15,
+  <https://sukututkijanloppuvuosi.blogspot.com/2022/12/historiantutkimukseen-oppia-ameriikasta_01075018915.html>.
+  Community post read 2026-11-22. Kyläkoski relays Zachary M. Schrag's advice in
+  *The Princeton Guide to Historical Research* to retain the originating footnote and the
+  purpose of the lookup. She describes her own practice of tracking the route and access
+  used for an online copy or noting that she already downloaded it.
+- S55. (B55) Kaisa Kyläkoski, "Väitöskirja googlailemalla?", Sukututkijan loppuvuosi, 2022-08-04,
+  <https://sukututkijanloppuvuosi.blogspot.com/2022/08/vaitoskirja-googlailemalla.html>.
+  Community post read 2026-11-22. Kyläkoski describes keeping a list of publication leads
+  beyond those already read, with the option of revisiting them if a gap in citation
+  coverage emerges.
+- S56. (B56) Kaisa Kyläkoski, "Henkikirjojen ajoitus eli tarkista, äläkä arvaa",
+  Sukututkijan loppuvuosi, 2023-11-15,
+  <https://sukututkijanloppuvuosi.blogspot.com/2023/11/henkikirjojen-ajoitus-eli-tarkista.html>.
+  Community post read 2026-11-22. Kyläkoski reports keeping a list of register links and
+  suggests recording each closing date as the link is added. She cautions that the closing
+  date cannot establish the exact date represented by an entry and suggests checking
+  Helsinki enumeration notices in newspapers.
+- S57. (B57) City of Helsinki, *Helsingin kaupungin kunnallisasetuskokoelma 1934*, no. 25,
+  section 3 of the amended enumeration decree,
+  <https://www.hel.fi/static/tieke/digitoidut_asiakirjat/helsingin_kaupungin_kunnalliset_asetuskokoelmat/pdf/Kunnallinen_asetuskokoelma_1934.pdf>.
+  Relevant decree section read 2026-11-22. It specifies local newspaper notices with
+  enumeration times by district and identifies which areas are scheduled on each day
+  when there are several. Used as historical support for looking for district schedules.
 - **H1.** Günter Junkers, "Backup für das kulturelle Erbe der Ukraine", Compgen-Blog,
   2022-03-15, <https://www.compgen.de/2022/03/backup-fuer-das-kulturelle-erbe-der-ukraine/>,
   read 2026-11-12. Used for: Wayback captures of Ukrainian museum and library sites mostly saving
@@ -262,3 +305,5 @@ are used.
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
 - Just Genealogy, FamilySearch and Ancestry (S36–S39) — Third-party guidance paraphrased with attribution (adapted)
 - Sunny Jane Morton, Family Tree Magazine, and MyHeritage Blog (S40–S42) — Third-party rights retained by their holders, guidance paraphrased with attribution (adapted)
+- Kaisa Kyläkoski and Zachary M. Schrag (S51, S53–S56) — Third-party rights retained by their holders. Methods and cases paraphrased with attribution (adapted)
+- Kungliga biblioteket and City of Helsinki (S52, S57) — Source publication rights retained by their holders where applicable. Coverage and enumeration guidance paraphrased with attribution (adapted)
