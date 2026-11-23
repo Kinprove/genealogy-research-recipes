@@ -5614,5 +5614,23 @@
   "kind": "export",
   "action": "Copy only the cleared recordings to the recipient’s Play device",
   "checkpoint": "Copying clips onto a recipient’s Play device gives that named recipient and anyone with access to the device the speakers’ voices and recollections"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "upload",
+  "action": "choose **Record audio** in **Add media**",
+  "checkpoint": "Saving interview audio sends the narrator's voice"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "upload",
+  "action": "select **Upload** beside **Camera roll**",
+  "checkpoint": "Saving interview audio sends the narrator's voice"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "link",
+  "action": "use **Add speaker** for the narrator or **Add person**",
+  "checkpoint": "Tagging someone gives the recording a second location"
  }
 ]

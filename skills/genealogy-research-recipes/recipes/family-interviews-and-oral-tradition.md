@@ -10,7 +10,7 @@ guardrails: [{"id": "FAMILY-INTERVIEWS-AND-ORAL-TRADITION-01", "text": "A correc
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "request", "upload"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "request", "upload"], "contact": []}
 router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 236}
 ---
 
@@ -55,11 +55,15 @@ If you doubt that the participant can understand who will hear the recording and
 
 For a supplied recording, record the consent, release and restrictions that are known. Record an unknown basis as unknown, and do not deposit or publish a recording whose basis is unknown.
 
+When a family gathering would be too tiring or difficult for the narrator, use a smaller visit for the interview. Set a scope the narrator can cover comfortably in that setting [S63].
+
 ## Choose a bounded prompt
 
 For a new recording, use a bounded prompt such as a photograph, object, recipe or experienced event. With a photograph, ask about the vehicles, buildings, place and season before asking who the people are, and never supply a desired identity [S2]. After an important question, stay silent and let the participant remember [S3], [S11]. Respect a decision not to discuss the topic. Relatives raised in one household can have experienced the same events differently: record each relative's version as that person's own account [S2].
 
 If the participant names someone in a photograph, record it as their identification, with the basis they give. Never compare faces or assign identity by appearance yourself. Resemblance is never evidence by itself.
+
+During an authorized interview already under way, ask the narrator to spell a deceased ancestor's name as they remember it and to give any other spellings they recall [S78], [S79]. Let the narrator supply the spellings before suggesting one. Keep each spelling as given in the statement record with the speaker and session. Use each form as a lead in historical record searches for that ancestor [S78]. Leave the spelling unresolved if the only support is the recollection.
 
 If no photograph has turned up and the participant knew the ancestor, ask what they remember about that person's appearance [S41], [S42]. Keep that firsthand description separate from claims about how a whole branch looked or which ancestor passed down a trait. Attribute those claims to the teller and flag them as generalizations that need corroboration [S41].
 
@@ -69,7 +73,17 @@ In an ongoing interview with a Samoan family elder, invite them to recount the f
 
 If a Swiss family's Heimatort (place of origin) is uncertain, ask during the interview what nicknames the family used, which farms they were associated with and where they moved [S43]. Use those clues to narrow candidate places in the *Family Surname Book of Switzerland* and check the candidate against records that identify the ancestor's place of origin [S44]. Keep a farm, birthplace or place of residence as a lead until a record identifies the Heimatort [S43], [S44].
 
+If a family cooking tradition is the subject, use a remembered childhood dish to prompt stories about it. When the narrator demonstrates the dish, record the ingredients, amounts and techniques they actually use [S64]. Identify which details came from the demonstration and which the narrator remembers from earlier cooks.
+
+Choose the interview's scope and any paper prompts before the session [S63]. When checking a tentative relationship in an interview already under way, hear the narrator's version first. Then show a working printout limited to deceased people and let the narrator mark additions and corrections directly on it [S75]. Keep the annotated copy with the session and identify the answers it prompted.
+
+In an ongoing interview about a Somali family's ancestry, ask for the paternal lineage in the narrator's own sequence and note where the recitation reaches a clan ancestor [S66], [S67]. Ask which poems the narrator associates with the family or clan and who composed or passed them on [S66], [S68]. Keep the recited sequence, poems and explanations distinct. Use the names, places and events as leads and leave individual links unresolved until supported.
+
+When an inherited San Francisco arrival story leaves the station unnamed, note any remembered island, repeated official questioning or demand for proof of kinship. If an interview is already under way, ask what the narrator remembers of the inspection before naming a station. Use those details to test Angel Island as a candidate against San Francisco passenger lists and immigration investigation case files [S59], [S62]. A San Francisco landing alone leaves the station unresolved [S59].
+
 ## Record the answers, not only the questions
+
+Choose video with the narrator's consent when later readers need to revisit gestures or see how something was demonstrated. Keep the recording available to replay those details alongside the words [S54].
 
 Make a short test recording of both voices and play it back before the interview [S23]. For a seated one-to-one interview indoors, clip a lapel (lavalier) microphone on the relative answering [S3], [S21], [S22]. Record the interviewer's questions and any cueing relative too: with a second microphone if the recorder takes one, or with the recorder placed between you, so that every question and cue can be heard later [S21], [S22], [S23]. Keep the recorder running for the whole session instead of stopping and restarting it, and watch the counter or level meter while it runs [S21], [S23]. A recorder that splits a long session into files of about an hour is fine [S23]. If you can, run a second device as a backup [S24]. In a 2022 demonstration of one family-history app, the presenter advised keeping recordings made in the app to a few minutes, even splitting an interview [S1]; that advice is for the app, not for an interview on a recorder. Check the file right after the session for audibility and completeness [S1], and copy it to a second place [S13]. If an answer was not recorded or cannot be heard, record that limitation; never reconstruct it from the question. For supplied recordings, mark inaudible or missing passages and keep any available session notes separate.
 
@@ -79,6 +93,12 @@ To record a story for a photo already in MyHeritage, check the photo's audience 
 
 For a photo already in Reimagine, check the album's audience, including members of any connected MyHeritage family site [S47 @2026-11-21]. Confirm the microphone at the lower right of the open photo in the user's app. Once the photo-story upload gate is cleared, use that microphone to record the story for the open photo [S45 @2026-11-21], [S46 @2026-11-21]. If the control or audience cannot be confirmed, record locally and note the photo's reference in the session register.
 
+**Privacy gate:** <!-- privacy-gate: upload --> Saving interview audio sends the narrator's voice, session details and any information about living people in the recording to Ancestry. Check the chosen tree's visibility and invitees. Its privacy settings govern who can hear the audio [S58 @2026-11-22]. Answer the privacy gate in `SKILL.md` before recording or uploading in the app.
+
+**Privacy gate:** <!-- privacy-gate: link --> Tagging someone gives the recording a second location in that person's Ancestry gallery [S58 @2026-11-22]. Check whose identity and testimony the link makes visible and to whom before applying a tag.
+
+To keep audio with an Ancestry profile, look under **Memories** → **Add media** in the user's app if the profile's camera icon offers no audio controls [S57 @2026-11-22], [S58 @2026-11-22]. After clearing the upload gate, choose **Record audio** in **Add media**, finish the recording and save it, or select **Upload** beside **Camera roll** and choose the existing file. After clearing the link gate, use **Add speaker** for the narrator or **Add person** for the person discussed, as appropriate [S58 @2026-11-22]. Confirm the audio plays in the intended gallery and retain a local master.
+
 ## Record who prompted each answer
 
 Record who prompted each answer. A familiar sibling or other close relative can help a participant with memory difficulties by cueing ("do you remember when…") [S11]. When that happens, note who was present, the cue's wording or recording offset and the response that followed. Settle consent with such a participant first, as described under "Get consent before recording and authorization before sharing". Details introduced only by the prompter remain the prompter's account. On revisits, record which session first supplied each detail. Flag details that appear only after repeated pressing as possibly reconstructed. Stop when the participant strains to be helpful, note that you stopped, and corroborate such details with documents [S10].
@@ -86,6 +106,10 @@ Record who prompted each answer. A familiar sibling or other close relative can 
 ## Record the chain of a relayed or inherited account
 
 For a relayed or inherited account, record its chain. Note the speaker, whom they heard it from, the occasion, their approximate age then and how that teller could know [S5]. Add any interviewer and date, and each later note, typescript, duplicate, photocopy or retyping, marking unseen links and the generation you hold [S6]. Asking about the oldest person remembered from childhood can draw out such accounts [S9].
+
+When looking for an earlier account about an ancestor, search the ancestral town's library for oral histories about the relevant neighbourhood, workplace or event. Browse the place or topic index for residents who could have known the ancestor, then check the transcript or recording for the specific mention. A surname search alone can miss an interview catalogued under its narrator [S55], [S56].
+
+For a possible Angel Island arrival, look for the immigrant's own account in the Angel Island Immigration Station Foundation's *Immigrant Voices* and in UC Davis Library's *Angel Island Oral History Collection*, D-455 [S59 @2026-11-22], [S60 @2026-11-22], [S61 @2026-11-22]. Identify whose words you have and whether you found an interview, a transcript or a later retelling.
 
 **Privacy gate:** <!-- privacy-gate: request --> A request to FamilySearch for earlier collected accounts names the family, clan or village, and the recordings, transcripts or pedigrees it returns can name living tellers and relatives; answer the privacy gate in `SKILL.md`, including its record-request rules, before sending the request.
 
@@ -99,6 +123,16 @@ A printed sketch can carry a family account too. Before treating a nineteenth-ce
 
 Keep the order in which a narrator tells events separate from the chronology you later reconstruct. A wrong sequence does not by itself discredit the remembered events. Preserve the original telling, mark each explicit before/after statement as the narrator’s claim, and test the sequence and each event separately against dated records and other accounts [S30], [S31].
 
+For a memoir or interview that spans generations, compare each episode's date with the narrator's lifetime and check separately whether an identified earlier teller could have witnessed it. If the event precedes the narrator's birth, mark it as outside firsthand experience and leave the route of transmission open until supported. Check its timing against the relevant register and look for signs the narrator used that same record before counting agreement as independent corroboration [S71], [S72].
+
+When a family account treats lost correspondence as a death, separate the last known contact, the unanswered letters and the inferred death. Ask an informant already being interviewed what the family actually knew. In a reported case, a second telling traced the asserted death to letters that went unanswered and left the person's fate unknown to the family [S65].
+
+When reconstructing a migration, use dated manifests, census entries or directories to test when the move took place. In the interview, ask how the narrator knows why the person moved. Attribute the motive even when the documents agree on the movement [S54].
+
+For childhood testimony about a famine or other regional event, note the narrator's age and role at the time, where the narrator was, and when the account was recorded. Keep what the narrator observed within that locality and distinguish it from statements about the wider region. Log each reported onset with its locality or claimed scope and the event the narrator associates with it [S69], [S70]. For the Greek villages of the North Azov region, footnote 574 in Hedo and Xenophontos identifies the year after the witness name as birth year and the ensuing locality as residence during the events [S70].
+
+When oral tradition names the approximate location of a lost site, retain the teller's place-name and any sketch or landmark, then compare them with historical maps and evidence from the site. Inuit accounts and an attributed sketch helped narrow the search area for the Franklin wrecks, with archaeological survey used to locate them [S73], [S74].
+
 When a family account from India with no firm date describes hunger, land loss, migration for work or being raised by relatives, keep the local terms, places, kin relationships, foods and occupations as told [S49]. Match those clues to a historical district and compare independently dated family events with the evidence for local scarcity. Use the famine map at British Library reference IOR/X/9113/10 for the 1876–1878 candidate and the 1880 Indian Famine Commission extracts to consider other episodes [S50], [S51]. Leave the cause unresolved if the only link to the Great Famine is an approximate date [S49].
 
 ## Keep the recording, transcript and interpretation apart
@@ -106,6 +140,8 @@ When a family account from India with no firm date describes hunger, land loss, 
 Retain the speaker, recording date and context when known, prompt or item reference and actual audio or video file. Distinguish spoken testimony from your transcript, paraphrase and later interpretation. Use recording offsets for quoted or uncertain passages so they can be replayed. Preserve the original alongside edited extracts; mark uncertain readings rather than polishing them into definite names or quotations.
 
 When a Polish family account gives a town or village name by sound, write down the pronunciation as heard and keep it separate from candidate spellings [S37]. Use the sound to find candidate places in a phonetic gazetteer. Compare the candidates with family documents and a historical map or period gazetteer before choosing a locality [S37], [S38].
+
+When using a supplied StoryFile replay, record the viewer's question separately from the clip. StoryFile selects from the narrator's prerecorded answers [S76 @2026-11-22], [S77 @2026-11-22]. Cite the clip and its original prompt if available. Treat a missing or mismatched reply as a limit of the retrieval, without inferring what the narrator knew or would have said.
 
 **Privacy gate:** <!-- privacy-gate: upload --> Recording in MyStories sends the storyteller's voice and any details about living people in the account to MyHeritage for transcription [S53 @2026-11-21]. For a gift membership, check the gift giver's access under **Manage account** [S53 @2026-11-21]. Answer the privacy gate in `SKILL.md` before recording there.
 
