@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 7 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 151}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 152}
 ---
 
 # Recipe: Recover and inventory a U.S. military pension file
