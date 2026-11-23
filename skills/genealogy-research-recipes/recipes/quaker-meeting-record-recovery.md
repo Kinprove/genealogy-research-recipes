@@ -40,6 +40,8 @@ For a colonial Mid-Atlantic family, include the minutes of monthly meetings that
 
 For Waterford families in Loudoun County, Virginia, check both spouses’ death notices in Patricia B. Duncan’s *Genealogical Abstracts from the Telephone, Loudoun County, Virginia* (1881–1896) [S41]. According to the supplied transcript excerpt, the presenter reads a statement of Society of Friends membership in one spouse’s notice and a Friends meetinghouse funeral in the other [S40†]. Attribute each clue to its own notice. Use a Waterford Friends meetinghouse reference to test Fairfax Monthly Meeting as a candidate [S42]. Keep the funeral venue separate from any claim about either spouse’s membership.
 
+For a Hopewell Monthly Meeting family in Frederick County, Virginia, with a gap during the French and Indian War, look for Jesse Pugh and Isaac Hollingsworth’s November 1757 relief list [S49]. Search the miscellaneous papers of Philadelphia Yearly Meeting’s Meeting for Sufferings [S51] and check its *Minutes, 1756–1775*, HC.PhY.040.01.001, for related entries [S50]. The 1757 list describes families already back home and families still away [S49]. Follow any documented destination into the meeting records for that place and check surviving Hopewell minutes for the family during and after the war. According to the supplied transcript excerpt, the presenter describes wartime departures and later returns [S48†].
+
 ## Check compiled-abstract coverage before trusting silence
 
 1. Record whether the target meeting falls within Hinshaw's *Encyclopedia of American Quaker Genealogy*. This is a six-volume work compiled by William Wade Hinshaw and published 1936–1950. A separate index volume followed in 1999. It covers mainly meetings east of the Mississippi River, not the whole United States [S1]. The printed volumes are North Carolina (v. 1), Pennsylvania and New Jersey (v. 2), New York (v. 3), Ohio (v. 4–5) and Virginia (v. 6). Indiana is not in the printed set; Willard Heiss abstracted Indiana separately.
@@ -85,6 +87,8 @@ In the Hinshaw collections, expand `exms` as “excused from military service”
 10. Keep a removal certificate’s issue and receipt dates separate from the physical move. Some families obtained the certificate after migrating. Bracket the physical move only if evidence establishes the person’s presence at both endpoints; do not assign the certificate date as an exact departure or arrival date. [S23], [S24]
 
 11. Browse the selected meeting’s books in addition to searching its name index. Guilford College’s Ancestry guide describes the state → county → meeting → book route and warns that the viewer image number can differ from the record page. List the record types and books actually inspected; an indexed surname miss does not search every image or a neighbouring meeting. [S25 @2026-11-16], [S26 @2026-11-16]
+
+For a deceased ancestor’s Irish vital event, search the *Ireland, Society of Friends (Quaker)* births, marriages or deaths collection on Findmypast [S43 @2026-11-22], [S44 @2026-11-22], [S45 @2026-11-22], [S46 @2026-11-22]. If the name search misses, use *Ireland, Society of Friends (Quaker) Browse* to inspect volumes that fit the target meeting and years [S47 @2026-11-22].
 
 ## Read disciplinary labels and emancipation instruments
 
