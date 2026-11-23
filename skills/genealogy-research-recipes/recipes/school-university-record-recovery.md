@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 82}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 83}
 ---
 
 # Recover a pupil or student through school, district, copy and later-file layers
