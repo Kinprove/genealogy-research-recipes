@@ -10,7 +10,7 @@ guardrails: [{"id": "PORTUGUESE-PARISH-CIVIL-REGISTER-RECOVERY-01", "text": "Use
 handoff: []
 checked: "2026-10-23"
 checked_basis: "checked on 2026-10-23"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage district indexes"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 123}
 ---
 
@@ -95,6 +95,19 @@ Gather these before searching:
 - **Read the holding archive on every row.** Some books are held by an archive outside their own district [S7 @2026-11-08], so one parish page can mix books from several archives. For example, a Braga-district parish lists its 1593–1911 books at the Braga archive and a second set of yearly books for 1886–1911 at the Viana do Castelo archive [S22 @2026-11-08]. Record each set as its own holding with its own locator. Then use the Catholic holdings recipe to compare them.
 - **Do not stop at FamilySearch.** Images appear first on the district archive's site and reach FamilySearch later, and tombo.pt links to books that FamilySearch does not have [S11 @2026-11-08]. The FamilySearch indexes (Portugal Baptisms 1570–1910, Marriages 1670–1910 [S23 @2026-11-08], Deaths 1640–1910) cover only some localities [S11 @2026-11-08]. Treat a miss in them as a possible coverage gap, not as proof that no record exists.
 - **If a book is on no online list,** check the national archive's 1993 two-volume *Inventário Colectivo dos Registos Paroquiais*. It names the holding archive for each parish's books (FamilySearch Library book 946.9 A3i) [S11 @2026-11-08].
+
+### Search the district indexes by name
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A name search sends the subject's name and any dates, places or relatives' names you enter to MyHeritage. Apply the privacy gate in `SKILL.md` before entering personal data.
+
+**Search MyHeritage's district indexes by name** when you know the district and need a parish or event date. Pick the collection by event type and historical district.
+
+- **Porto and Viana do Castelo baptisms (1535–1949).** Search *Portugal, Porto, Catholic Church Baptisms* for either district. Use the baptism date, place and parish to locate the book and compare the parents' names [S24 @2026-11-22], [S26 @2026-11-22].
+- **Setúbal baptisms and deaths (1555–1911).** Search *Portugal, Setúbal, Catholic Church Baptisms* for the baptism date and place and the parents' names, or *Portugal, Setúbal, Catholic Church Deaths* for the birth year and death date and place. Compare parents and spouse if listed in a death hit [S24 @2026-11-22], [S27 @2026-11-22], [S28 @2026-11-22].
+- **Portalegre baptisms (1859–1911).** Search *Portugal, Portalegre, Catholic Church Baptisms*. Record the child's birth year separately from the baptism date and place, and compare the parents' names [S25 @2026-11-22], [S29 @2026-11-22].
+- **Porto and Viana do Castelo deaths.** Search *Portugal, Porto, Catholic Church Deaths* for either district. Use the birth year and death date and place to distinguish candidates, and compare any parents or spouse listed [S25 @2026-11-22], [S30 @2026-11-22].
+
+**Return to the parish book.** Use the event place and date to find the book in the holding archive's catalogue. For hits in either Porto index, start with the Arquivo Distrital do Porto, including for entries from Viana do Castelo [S26 @2026-11-22], [S30 @2026-11-22]. Browse by parish and year in FamilySearch's district image collections for Porto and Viana do Castelo [S31 @2026-11-22], Setúbal [S32 @2026-11-22], or Portalegre [S33 @2026-11-22]. If a name search misses, check the parish books for the event year.
 
 ## 4. Search the marriage-process file and other series separately
 

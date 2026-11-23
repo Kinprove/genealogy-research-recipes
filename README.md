@@ -305,7 +305,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [piracy-and-privateering-records](skills/genealogy-research-recipes/recipes/piracy-and-privateering-records.md) | record catalogues and original images | — | — | — | — | — |
 | [polish-index-original-record-recovery](skills/genealogy-research-recipes/recipes/polish-index-original-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [polish-parish-and-civil-register-routing](skills/genealogy-research-recipes/recipes/polish-parish-and-civil-register-routing.md) | record catalogues and original images | — | — | — | — | — |
-| [portuguese-parish-civil-register-recovery](skills/genealogy-research-recipes/recipes/portuguese-parish-civil-register-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [portuguese-parish-civil-register-recovery](skills/genealogy-research-recipes/recipes/portuguese-parish-civil-register-recovery.md) | record catalogues and original images, MyHeritage district indexes | — | — | request, third-party-tool | — | required |
 | [probate-case-document-inventory](skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md) | record catalogues and original images | — | — | — | — | — |
 | [published-book-catalogue-and-full-text-discovery](skills/genealogy-research-recipes/recipes/published-book-catalogue-and-full-text-discovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [quaker-meeting-record-recovery](skills/genealogy-research-recipes/recipes/quaker-meeting-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
