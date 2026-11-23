@@ -18,6 +18,10 @@ router: {"section": "Records by country and region", "group": "Britain and Irela
 
 An account that calls someone a pirate or privateer leaves the status of the specific capture open. Use this route for a named vessel, sailor or seizure.
 
+## Find record leads
+
+If you have a possible pirate or privateer and no record location, browse Cyndi’s List under *Prisons, Prisoners & Outlaws* → *Pirates, Privateers & Buccaneers* [S6 @2026-11-22] [S7 @2026-11-22]. Use relevant listings to locate the underlying records before drawing a conclusion about the sailor or vessel.
+
 ## Trace a capture to its authority
 
 Record who wrote each account, the vessel and cargo, capture date and flag. Read *prize* as the vessel or goods taken. Compare any letter of marque with the capture date, issuing authority and status of the target. Keep labels from different governments attributed. Follow the case to the prize court’s decision before treating the capture or sale as lawful [S1] [S2].
