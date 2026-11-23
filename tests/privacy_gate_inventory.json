@@ -5746,5 +5746,11 @@
   "kind": "third-party-tool",
   "action": "Have the user complete Astia's sign-in and purpose declaration",
   "checkpoint": "Astia receives the researcher's verified identity, declared purpose and any personal search terms"
+ },
+ {
+  "recipe": "finnish-newspaper-correspondent-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Run a separate text search in the digitized issues",
+  "checkpoint": "The queries send a deceased writer's name, pen name or dispatch locality to the Finnish newspaper or Translocalis service."
  }
 ]
