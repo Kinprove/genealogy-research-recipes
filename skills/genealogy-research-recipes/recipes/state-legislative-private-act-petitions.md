@@ -62,6 +62,12 @@ Search the Library of Virginia website separately for “loyalist claims” and 
 
 For any other state, search its session laws and the legislature's own petition files (in Pennsylvania, the House files), and establish when that state's county courts began operating. Don't carry Tennessee's dates over.
 
+For a historical divorce, check the law in force in the state and year to determine whether to search session laws and legislative papers, court records, or both. Use the jurisdiction-first approach from the available excerpt [S29]. In Delaware, include the *Laws of the State of Delaware* for 1773–1897 and check court records for years when courts also had jurisdiction [S30]. Use the 1897 constitution's court-only rule to date the end of the legislative route [S31].
+
+For an Alabama divorce governed by the 1819 constitution, follow the two-record lead from the available excerpt [S29]. Match the chancery decree to the General Assembly's sanction. Article VI, section 13 required the sanction of two-thirds of both houses before the decree took effect [S32].
+
+For a suspected annulment, include private acts where the legislature had authority to void a marriage [S27], [S28]. Search the session laws under both spouses' names and title terms such as “annul the marriage contract.” Read the operative clause to determine what the act did [S28].
+
 ## Read the index entry and everything sharing its locator
 
 Search by surname and transcribe the printed headings. Tennessee’s acts index separates last name, first name, year, serial, chapter and section, and description [S6]. Record each field before opening the session laws.
@@ -81,6 +87,10 @@ Authored extension: Brady describes only the entries on the same index page. If 
 
 Treat the index as a finding aid only [S2]. Retrieve the act from the session laws. Then look for the underlying petition or application in the legislature's own files. The Pennsylvania example used the House files [S3], [S4].
 
+For a legislative divorce, follow the petition-first method from the available excerpt [S29]. Search the petition series even when the session laws contain no divorce act. Record the claimed marriage date and place, grounds, children mentioned, and any proposed division or restoration of property as statements or requests in the petition [S33]. Connecticut's *Lotteries and Divorces*, Second Series, indexes Margaret Waldo's denied petition (September 1806–May 1807, II:108) [S33].
+
+If a private divorce bill was introduced, follow the advice from the available excerpt [S29] and trace it through the published journals or proceedings of both chambers. Use the session and bill number or title to trace referrals, votes and the last recorded action. Capture any debate the volumes report and cite each chamber separately [S34].
+
 When a North Carolina land grant may have followed a legislative petition, follow the presenter's suggestion from the available excerpt [S16] and look for the authorizing act alongside the petition. Start with the grant year and follow references to earlier acts [S17]. For the 1784 session laws, open volume 24 of the *State Records of North Carolina* [S18]. Choose by record type as well as by year. The *Colonial Records* (volumes 1–10) extend through 1776, and the *State Records* (volumes 11–26) also include laws from 1715 through 1776 in volume 23 [S18].
 
 Keep a separate extraction for each document.
@@ -97,6 +107,10 @@ TSLA’s petitions guide indexes subjects and names in the petition text, exclud
 Transcribe the reason for relief separately from the service claimed in the application. McWilliams recalled broad Revolution or Indian Wars wording in the gratuity act and described the application as evidence of Whiskey Rebellion service from Chester County in 1794 [S3], [S4]. The two recordings reproduce the same interview. Cite each original when recovered and keep the discrepancy visible.
 
 Keep both readings, each with its locator. Don't correct the act silently. Treat a special act as relief granted to one person, whatever it says the grant was for.
+
+For a legislative divorce, use the sequence from the available excerpt [S29] to record the petition as a request and use the enacted text to establish the grant. Check how the bill became law under the rules in force that session, including the governor's approval where required. Pennsylvania's 1844 act annulling the Hamilton marriage (no. 1, p. 9) carries the clerks' certification that it became law without the governor's signature [S28].
+
+If a spouse returned and disputed a desertion divorce, use the lead from the available excerpt [S35] to search for a later petition to set the decree aside where the legislature could hear such a challenge. Record the original decree and the later disposition on their own dates. Require a disposition expressly setting aside the divorce before changing the family timeline. In Connecticut the Assembly granted a hearing on John Bird's second petition to set aside his divorce, then sustained the respondent's plea in abatement (*Lotteries and Divorces*, Second Series, I:30–37) [S33].
 
 Test a same-name identification against an independent residence, tax or service record. McWilliams knew of one John McWilliams in Erie County at the relevant time [S3], [S4]. That narrows the search but leaves the link to the Chester County applicant open. For a name change, extract the legal relationship the act establishes and assess biological kinship separately [S22].
 
@@ -117,9 +131,10 @@ Return the following:
 - the index name, year, locator values (with the index's column labels) and description exactly as shown;
 - the index sections inspected;
 - the list of co-indexed persons at that locator;
-- the act's citation and text, or an extract;
+- the act's citation and text or an extract, if found;
 - what you extracted from the petition or application (birth dates or years, the mother, the marriage date and place, the county and year of service), each with the document it came from;
 - a table of differences between the act and the application;
+- for a divorce or annulment, the petition and bill locators, the disposition and the record establishing it, and any required court decree or later disposition, each with its own date;
 - for a federal private bill, the Congress, session, bill or report number, the bill's fate, and what the committee papers contain;
 - the retrieval status: online image, index only, or needs an on-site visit or copy request.
 
