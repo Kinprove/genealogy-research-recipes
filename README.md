@@ -377,7 +377,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [wikitree-dna-tester-links](skills/genealogy-research-recipes/recipes/wikitree-dna-tester-links.md) | wikitree, familytreedna | — | — | link | — | required |
 | [world-war-two-us-navy-battle-records](skills/genealogy-research-recipes/recipes/world-war-two-us-navy-battle-records.md) | public catalogues, documentation and historical records | — | — | third-party-tool | — | required |
 | [wyoming-valley-susquehanna-company-claims](skills/genealogy-research-recipes/recipes/wyoming-valley-susquehanna-company-claims.md) | source guides, catalogues and the relevant record or session | — | — | — | — | — |
-| [xdna-phasing-judgment](skills/genealogy-research-recipes/recipes/xdna-phasing-judgment.md) | — | — | — | third-party-tool | — | required |
+| [xdna-phasing-judgment](skills/genealogy-research-recipes/recipes/xdna-phasing-judgment.md) | — | — | — | third-party-tool | contact | required |
 | [ydna-mtdna-interpretation](skills/genealogy-research-recipes/recipes/ydna-mtdna-interpretation.md) | — | — | — | third-party-tool, upload | contact | required |
 <!-- recipe-capabilities:end -->
 
