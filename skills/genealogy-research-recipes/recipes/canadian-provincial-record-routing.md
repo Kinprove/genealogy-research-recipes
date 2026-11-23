@@ -11,7 +11,7 @@ handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-rec
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 233}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 234}
 ---
 
 # Route a Canadian vital, estate, military or Indigenous-series record to its province, custodian and access category
