@@ -74,7 +74,7 @@ rests on the two March 2024 reports.
 
 - **S1:** Roberta Estes, DNAeXplained, [RootsTech 2024: DNA Academy and Ancestry Announcements](https://dna-explained.com/2024/03/14/rootstech-2024-dna-academy-and-ancestry-announcements/), published 2024-03-14, read 2026-11-12. Used for: Ancestry's RootsTech 2024 advice, as the author reports it, that the newspaper index records are not found by global search and that the Card Catalog leads to the collections. Its other collection names were not checked.
 - **S2:** Suzan Younger, Dallas Genealogical Society, [The Newspapers Stories and Events Index, Adding 16 Billion Records to Ancestry.com](https://dallasgenealogy.org/?p=33886), published 2024-03-25, read 2026-11-12. Used for: global search leaving the index out because of its size, and the Card Catalog title search for a state's collection.
-- **S3:** Andrew Koch, Family Tree Magazine, [Searching the Newspaper.com Indexes at Ancestry](https://familytreemagazine.com/websites/ancestry-help/newspapers-com-indexes-stories-events/), last updated 2026-05-04, read 2026-11-12. Used for: the Card Catalog title search for Newspapers.com, collections by state and country, and the Newspapers.com subscription needed to view a page. It does not discuss global search.
+- **S3:** Andrew Koch, Family Tree Magazine, [Searching the Newspaper.com Indexes at Ancestry](https://familytreemagazine.com/websites/ancestry-help/newspapers-com-indexes-stories-events/), last updated 2026-05-04, read 2026-11-12. Used for: the Card Catalog title search for Newspapers.com, collections by state and country, and the Newspapers.com subscription needed to view a page. It does not discuss global search. Community article rechecked 2026-11-22. The recheck covers event-specific collections, coverage notes, search fields, OCR limitations and the thumbnail route. Koch suggests omitting birth year, searching by publication details and trying the husband’s name. The article’s 1924 example names a mother in the index while the caption identifies her daughters as the people pictured.
 
 ### Platform recheck, 2026-11-12
 
@@ -125,7 +125,7 @@ its read earlier that day. Videos were not re-read. No live Ancestry search was 
 
 - **S13:** [GeneaVlogger, Building FDR’s Family Tree](https://www.youtube.com/watch?v=3FJKJFw0Bjo). The speaker compares global and U.S. Find a Grave index entries. Captured presentation transcript read 2026-11-19.
 
-- **S14:** [Ancestry Support, Using the Card Catalog](https://redir.ancestry.help/hc/en-us/articles/53933305954579-Using-the-Card-Catalog). Documents title and keyword fields, associated terms, filters and searching a selected collection. Ancestry Support article read 2026-11-19. Ancestry Support article rechecked 2026-11-21 for title-fragment searches.
+- **S14:** [Ancestry Support, Using the Card Catalog](https://redir.ancestry.help/hc/en-us/articles/53933305954579-Using-the-Card-Catalog). Documents title and keyword fields, associated terms, filters and searching a selected collection. Ancestry Support article read 2026-11-19. Ancestry Support article rechecked 2026-11-21 for title-fragment searches. Ancestry Support article rechecked 2026-11-22. The recheck confirms that multiple catalog filters can be combined and that sorting by date added and date updated serves different purposes.
 
 - **S15:** Gena Philibert-Ortega, Family Tree Magazine, [Finding Female Ancestors: Common Brick Walls and How to Solve Them](https://familytreemagazine.com/female-ancestors/brick-walls-women-genealogy/). Community article read 2026-11-20. The author suggests filtering existing Ancestry results by place. The recipe adopts this advice for the historical-record results view documented in S16.
 
@@ -145,9 +145,69 @@ its read earlier that day. Videos were not re-read. No live Ancestry search was 
 
 - **S23:** Craig R. Scott, Just Genealogy, [US Civil War Records: William A. Knilans and the Record and Pension Office Part I - JG0097](https://www.youtube.com/watch?v=ysc3ni3ovCc), published 2022-06-13. Supplied transcript excerpt read 2026-11-21. Scott describes browsing this collection because the general name search did not cover it in his demonstration. The opened YouTube page did not expose the demonstration or transcript. Current global search coverage and the signed-in browse controls were not tested.
 
-- **S24:** [National Archives, Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners). M686 row read 2026-11-21. Lists the 1889–1904 correspondence index and links to Ancestry collection 1268. The public Ancestry page opened without showing the collection controls.
+- **S24:** [National Archives, Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners). M686 row read 2026-11-21. Lists the 1889–1904 correspondence index and links to Ancestry collection 1268. The public Ancestry page opened without showing the collection controls. Regular Army returns rows rechecked 2026-11-22. The updated check also identifies M665 and the branch-specific M727, M728 and M744 links, all pointing to the institutional Ancestry collection 1225. Ancestry’s collection pages did not expose their controls for this check.
 
 - **S25:** [FamilySearch, United States, Index to General Correspondence of the Pension Office, 1889–1904](https://www.familysearch.org/en/search/collection/1834308). Collection description and search form read 2026-11-21. Identifies the images as M686 and shows name search for the index. No account search was run.
+
+- **S26:** Family Tree Magazine, [Roundup: AI Tools at Ancestry.com, FamilySearch and MyHeritage](https://familytreemagazine.com/websites/ai-tools-roundup-big-websites/). Community article read 2026-11-22. The article frames Full Text Search as a search over selected collections. S27 supplies the current handwriting-recognition and access scope.
+
+- **S27:** [Ancestry Support, Searching with Full Text Search](https://help.ancestry.ca/hc/en-ca/articles/53933331239443-Searching-with-Full-Text-Search). Ancestry Support article read 2026-11-22. The Canadian English page documents selected collections, handwriting recognition, transcription errors and variable account availability in the All Access beta. No signed-in search was run.
+
+- **S28:** Stephen Wendt, Family Tree Magazine, [A Guide to German Genealogy Research](https://familytreemagazine.com/heritage/german/a-guide-to-german-genealogy-research/). Community article read 2026-11-22. Wendt suggests trying the country where the locality lies today when filtering for historically German records.
+
+- **S29:** [Ancestry Support, All Places Ancestry Has Records From](https://help.ancestry.co.uk/hc/en-gb/articles/53933269513875-All-Places-Ancestry-Has-Records-From). Ancestry Support article read 2026-11-22. The UK page documents catalog location filters, discovery without a membership and the Explore by Location route to the locality pages and their Collections tabs.
+
+- **S30:** Family Tree Magazine, [6 Steps for Breaking Down Genealogy Brick Walls](https://familytreemagazine.com/strategies/genealogy-brick-walls/). Community article read 2026-11-22. The author suggests combining catalog filters and using Explore by Location as another route to a place’s collections.
+
+- **S31:** Family Tree Magazine, [5 Genealogy Activities for July: Stay Cool with Family History](https://familytreemagazine.com/projects/july-genealogy-activities/). Community article read 2026-11-22. The author suggests Date Added to find newly added collections.
+
+- **S32:** Lisa Louise Cooke, Family Tree Magazine, [Ancestry.com Card Catalog Walk-Through with Lisa Louise Cooke | Best Websites](https://www.youtube.com/watch?v=StJaByMhiTg). Supplied transcript excerpts read 2026-11-22. Cooke suggests resetting catalog filters, inspecting city-directory browse choices by locality and year, looking through advertisements and checking the repository named in the source citation. The video page did not open. S33–S35 corroborate the scope of those suggestions.
+
+- **S33:** [Ancestry, U.S. City Directories, collection 2469](https://www.ancestry.com.au/search/collections/2469). Australian collection page read 2026-11-22. The collection page identifies the directory title page as the source for publication details and cautions that the original source varies by directory. Editions can display different end years.
+
+- **S34:** [City Archives & Special Collections, How to Use City Directories](https://nolacityarchives.org/2025/11/05/how-to-use-city-directories/). City Archives guide read 2026-11-22. The guide describes browsing rather than relying on an unsuccessful keyword lookup and shows that advertisements can appear in business sections or among residential entries.
+
+- **S35:** [Ancestry Support, Source and Collection Information](https://help.ancestry.ca/hc/en-ca/articles/53933269983507-Source-and-Collection-Information). Ancestry Support article read 2026-11-22. The Canadian English page explains how to find the original repository from the collection’s Source section and what the About section can tell the researcher.
+
+- **S36:** [Ancestry, Newsworthy stories from Newspapers collections](https://www.ancestry.com/c/newspapers). Ancestry newspaper navigator read 2026-11-22. The navigator offers U.S. state and territory Stories and Events links and separate regional marriage and obituary indexes. No record results were opened.
+
+- **S37:** [Ancestry Support, Newspapers.com Collections FAQ](https://help.ancestry.ca/hc/en-ca/articles/53933301811859-Newspapers-com-Collections-FAQ). Ancestry Support article read 2026-11-22. The Canadian English page documents separate marriage and obituary indexes, the View Record and image-thumbnail route, and the effect of poor images on OCR.
+
+- **S38:** [Ancestry Support, Finding Information in Newspapers](https://help.ancestry.com/hc/en-us/articles/53933332190867-Finding-Information-in-Newspapers). Ancestry Support article read 2026-11-22. Ancestry recommends searching dates around an event and checking newspapers in other localities associated with the person.
+
+- **S39:** Family Tree Magazine, [Ancestry.com Subscriptions Explained](https://familytreemagazine.com/websites/ancestry-help/subscription-plans-explained/). Community article read 2026-11-22. The article distinguishes record memberships from tree access and describes the Preserve My Tree option. S40–S42 provide the current plan and account limits.
+
+- **S40:** [Ancestry Support, U.S. Discovery Membership](https://redir.ancestry.help/hc/en-us/articles/53933332017555-U-S-Discovery-Membership). Ancestry Support article read 2026-11-22. Distinguishes U.S. Discovery’s record scope from World Explorer and All Access and advises verifying the signed-in account.
+
+- **S41:** [Ancestry Support, Ancestry Accounts after Cancellation](https://redir.ancestry.help/hc/en-us/articles/53933300904083-Ancestry-Accounts-after-Cancellation). Ancestry Support article read 2026-11-22. A registered guest can retain a tree and find index hits without necessarily retaining access to attached premium records.
+
+- **S42:** [Ancestry Support, Preserve My Tree Membership](https://redir.ancestry.help/hc/en-us/articles/53933287962387-Preserve-My-Tree-Membership). Ancestry Support article read 2026-11-22. The membership test covers eligible Ancestry records attached to the member’s own trees and excludes shared trees, Shoebox saves and certain partner-site images.
+
+- **S43:** Family Tree Magazine, [How to Find Your Ancestors for Free | Family Tree Magazine](https://www.youtube.com/watch?v=KsweCpaepOw). Supplied transcript excerpt read 2026-11-22. The excerpt suggests running the Free Index Collections search or opening its list of collections. The video page did not open. S44 confirms both routes.
+
+- **S44:** [Ancestry, Free Index Collections](https://www.ancestry.com/search/categories/freeindexacom?language=en_US). Ancestry Free Index Collections page read 2026-11-22. Shows a category search and a link to the collections included in that search, with Free and Free Index labels.
+
+- **S45:** Craig R. Scott, Just Genealogy, [Where is the Artillery on Ancestry? - JG0228](https://www.youtube.com/watch?v=fdPo-iM1B3c). Supplied transcript excerpts read 2026-11-22. Scott shows the non-infantry title pivot after branch-name misses, selecting the unit on the collection page, and distinguishing M665 from other microfilm. The video page did not open. S24 corrects the transcript’s M665 start year and identifies the linked series; the numbered regiment list and current controls were not inspected.
+
+- **S46:** Family Tree Magazine, [Understanding Reclaim the Records – An Interview with Brooke Schreier-Ganz & Alec Ferretti | Ep. 208](https://www.youtube.com/watch?v=VvIY8fu4lao). Supplied interview excerpts read 2026-11-22. The interview describes obtaining a newer VA data release after an earlier release went to Ancestry. S47 identifies it as BIRLS.
+
+- **S47:** [Reclaim The Records, Beneficiary Identification Records Locator Subsystem (BIRLS) Death File](https://www.reclaimtherecords.org/records-request/20/). Reclaim The Records project history read 2026-11-22. The organisation identifies the older Ancestry version and the broader release it obtained. Its current search portal is S48.
+
+- **S48:** [Reclaim The Records, Search the BIRLS Database](https://www.birls.org/). BIRLS search page read 2026-11-22. The landing page identifies the service as an index about deceased veterans and exposes the query form. No person was searched and no file was requested.
+
+- **S49:** Craig R. Scott, Just Genealogy, [USS Constitution: How to find the sailors in Navy records - JG0054](https://www.youtube.com/watch?v=oI1Jkr8OrHs). Supplied transcript excerpt read 2026-11-22. The excerpt tests muster and pay-roll coverage across providers for early service. The video page did not open. S50 supplies the early federal finding aid. The reported provider misses are historical and were not reproduced.
+
+- **S50:** [National Archives, U.S. Navy Muster Rolls, 1798–1939](https://www.archives.gov/research/military/navy/muster-rolls). National Archives Navy muster-roll guide read 2026-11-22. The guide explains searching by vessel and service period and identifies microfilm T829 for pre-1860 pay rolls.
+
+- **S51:** Craig R. Scott, Just Genealogy, [Missing Friends - How the Irish found each other - JG0046](https://www.youtube.com/watch?v=P41LtviK6PY). Supplied transcript excerpt read 2026-11-22. The excerpt shows using Missing Friends as a catalog title fragment and browsing by volume when needed. The video page did not open.
+
+- **S52:** [Ancestry, Searching for Missing Friends: Irish Immigrant Advertisements Placed in The Boston Pilot, 1831–1920](https://www.ancestry.co.uk/search/collections/5060). UK collection description and name fields read 2026-11-22. The collection page confirms the name search, multivolume source and publication. No signed-in search was run.
+
+- **S53:** [How to Use the Ancestry Card Catalog](https://www.youtube.com/watch?v=1r7iwFWnsek). Supplied transcript excerpt read 2026-11-22. The supplied excerpt describes inspecting catalog descriptions while signed out and using them to decide where else to look. The video page did not open. S29 documents discovery without a membership but does not guarantee signed-out access in every account or site edition.
+
+- **S54:** David Fryxell, Family Tree Magazine, [Online Search Strategies for Genealogists – An Interview with David Fryxell | Episode 205](https://www.youtube.com/watch?v=ksjLI2xk16g). Supplied transcript excerpt read 2026-11-22. Fryxell suggests switching from general search to the immigration or passenger-list search to use dedicated event fields. The video page did not open. S55 confirms the Arrival field and the Passenger Lists subcategory.
+
+- **S55:** [Ancestry, Immigration & Travel](https://www.ancestry.com/search/categories/40?language=en_US). Ancestry Immigration & Travel page read 2026-11-22. The U.S. category page exposes an Arrival date and location search and links to Passenger Lists. No search was run.
 
 ## Credits
 
@@ -157,4 +217,6 @@ its read earlier that day. Videos were not re-read. No live Ancestry search was 
 - Community sources S7, S8, S9, S10 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Gena Philibert-Ortega, Family Tree Magazine, Finding Female Ancestors: Common Brick Walls and How to Solve Them, cited as S15 — Rights retained by their owners, with the advice paraphrased (adapted)
 - Craig R. Scott, Just Genealogy, episodes JG0027, JG0073 and JG0097, cited as S17, S19 and S23 — Rights retained by their owners, with the demonstrations paraphrased (adapted)
+- Family Tree Magazine contributors, cited as S26, S28, S30, S31, S32, S39, S43, S46, S53 and S54 — Rights retained by their owners, with the advice and observations paraphrased (adapted)
+- Craig R. Scott, Just Genealogy, cited as S45, S49 and S51 — Rights retained by their owners, with the instructions paraphrased (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

@@ -63,6 +63,8 @@ jurisdiction. Widening a filter alone does not repair a text query that still
 requires the locality word. Neither search is an exhaustive inventory of records
 concerning the place.
 
+For a historically German locality now in another country, also try the present country in the catalog’s place filter [S28 @2026-11-22] [S29 @2026-11-22]. To narrow a large collection list, combine the place, record type and decade filters before adding title terms [S30 @2026-11-22] [S14 @2026-11-22]. If the catalog route misses, use **Search → All Collections → Explore by Location**, select the place and inspect its **Collections** tab [S30 @2026-11-22] [S29 @2026-11-22]. Check each candidate’s actual place and date coverage.
+
 ### 3. Search catalog titles and keywords separately
 
 **Trigger:** the expected record category is missing from the catalog results.
@@ -87,6 +89,20 @@ Catalog title search for Newspapers.com, open the collection for the person's st
 country, and search it directly [S2 @2026-11-12], [S3 @2026-11-12]. A hit links to the page on
 Newspapers.com, which needs that site's own subscription to view [S3 @2026-11-12].
 
+When starting a different Card Catalog lookup, clear the previous place, record type and date filters before testing the new terms [S14 @2026-11-22]. Use the **Clear All** control from the available excerpt if the current account offers it, or remove the filters individually [S32 @2026-11-22].
+
+For U.S. Regular Army returns, start with the unit and the month of service. If an artillery or cavalry title search misses, use the Title term `non-infantry` from the available excerpt of the 2022 demonstration, then check the current collection’s browse choices for the unit [S45 @2026-11-22]. The National Archives links M727 for artillery regiments, M728 for field artillery batteries and regiments, M744 for cavalry regiments, and M665 for infantry to the same Ancestry collection (1225) [S24 @2026-11-22]. For infantry, also try the title fragment `Returns from Regular Army Infantry Regiments` from the available excerpt [S45 @2026-11-22]. Match the film series, unit and month. M665 runs from June 1821 to December 1916, so check an earlier service episode against a different series [S24 @2026-11-22].
+
+For a Boston Pilot notice, use the Card Catalog title fragment `Missing Friends` from the available excerpt of the 2022 walkthrough, or open collection 5060 directly [S51 @2026-11-22] [S52 @2026-11-22]. Search by name. If it misses, check whether the current account exposes the volume browse route from the available excerpt and select the volume covering the target years [S51 @2026-11-22].
+
+For a marriage announcement or obituary, open the corresponding regional index. Use the newspaper navigator’s category links or its state and territory links to match the event and region before searching the broader Stories and Events index [S3 @2026-11-22] [S36 @2026-11-22] [S37 @2026-11-22].
+
+If a Newspapers.com index query misses, clear the subject’s birth year and search by publication date and place where those fields are offered [S3 @2026-11-22]. Check issues around the event and papers in other places tied to the people involved [S3 @2026-11-22] [S38 @2026-11-22]. For a married woman, also try `Mrs. [Husband’s Name]` alongside her own maiden and married names [S3 @2026-11-22].
+
+Read the newspaper collection’s coverage notes and verify that the paper and issue are included before interpreting an index miss [S3 @2026-11-22]. When you know the issue is available, browse it for the notice after a keyword miss, especially if the page is faded or damaged and OCR can miss the text [S3 @2026-11-22] [S37 @2026-11-22].
+
+From **View Record**, follow the newspaper thumbnail to the original page and read the article or caption in context [S3 @2026-11-22] [S37 @2026-11-22]. In a 1924 example, a mother’s name in the index led to a photograph whose caption identified her daughters as the people pictured [S3 @2026-11-22].
+
 ### 4. Revisit collections that changed after the failed search
 
 **Trigger:** an old search log says the relevant collection produced no candidate.
@@ -96,6 +112,8 @@ Read what changed and rerun the saved query in the relevant collection. An updat
 date alone does not establish new coverage for the target: it can concern other
 years, localities or data. Record the collection and the recheck date, rather than
 carrying an old failure forward indefinitely.
+
+Sort by **Date Added** to identify collections introduced since the logged search date. Use the date-updated sort to check collections you already searched [S31 @2026-11-22] [S14 @2026-11-22]. Open each relevant collection and verify its holdings for the target place and date.
 
 ### 5. Diagnose coverage inside the collection
 
@@ -122,6 +140,10 @@ Keep three observations separate: no indexed candidate; no matching images in th
 available inventory; and documented absence in the original surviving records.
 Use the existing evidence-judgment recipe before drawing a genealogical conclusion.
 
+For a name mentioned in a handwritten deed, probate record or other long text, check whether the account exposes **Search → Search full text** and whether the collection is included [S26 @2026-11-22] [S27 @2026-11-22]. Ancestry documents selected collections, handwriting recognition, transcription errors and beta access that can vary across All Access accounts [S27 @2026-11-22]. Use the collection’s own search or browse the relevant images after a full-text miss or when access or collection coverage is uncertain.
+
+For a U.S. city directory, open collection 2469 and use the locality and year browse choices from the available excerpt of the 2023 walkthrough [S33 @2026-11-22] [S32 @2026-11-22]. Check the current account for the target city and edition before entering a name. If the edition is available, verify the locality and publication year on its title page [S33 @2026-11-22] [S34 @2026-11-22].
+
 ### 6. Remove tree facts that belong to another life stage
 
 **Trigger:** a tree-launched search returns nothing useful for a different life stage,
@@ -139,6 +161,8 @@ and [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Anc
 For a possible remarriage, search the previous married surname within the supported dates and place. Inspect prefilled parents and siblings: their surnames can keep an unwanted maiden-name constraint in a query after it has been removed from the subject. Save both queries, remove the constraint and compare the results. Test the candidate against the actual marriage record [B8].
 
 Keep the candidate’s reported surname in the subject field. Where the collection offers a suitable field, search the hypothesized family surname as a keyword or associate, with the supported place and year. Read the recovered record for the stated roles, including any parent or stepparent, before drawing a kinship conclusion [B23].
+
+If sitewide search gives you no dedicated arrival field, open **Immigration & Travel** and enter the supported date or date range under **Arrival** [S55 @2026-11-22]. Use the collection-specific fields from the available excerpt as a cue to check the narrower **Passenger Lists** search before adding more life events [S54 @2026-11-22] [S55 @2026-11-22].
 
 ### 7. Relax the place level and age separately
 
@@ -266,6 +290,8 @@ Use the current viewer's available navigation; the 2019 article's screen positio
 are not a current interface contract. Preserve the collection, volume, printed
 page and image locator for each candidate.
 
+When a city-directory name search misses a business or proprietor, follow the cue from the available excerpt and inspect the advertisements directly [S32]. Browse the correct edition’s business section and check for advertisements mixed in with residential entries [S34]. Record the edition and page of each hit.
+
 ### 11. Turn a census address into a bounded image search
 
 **Trigger:** a household is expected at a known address but the name index fails.
@@ -335,6 +361,16 @@ describes the address panel on the front and household details on the back, with
 different sequences for longer schedules and attachments. Do not assume that a
 fixed previous/next-image offset always retrieves the other side.
 
+If a target volume is missing or blocked before you get a hit, use the collection’s **Source Information** to find the credited repository [S35 @2026-11-22]. Follow the repository pivot from the available excerpt by checking its own catalog for the same publication and adjacent volumes [S32 @2026-11-22]. Verify the edition and coverage there.
+
+If access stops at a paywall, identify the exact collection and its scope from the Card Catalog without a paid membership [S29 @2026-11-22]. Use the signed-out route from the available excerpt if the catalog opens in that state [S53 @2026-11-22]. Carry the title and coverage into the library or repository lookup.
+
+If you are working without a paid membership, open **Free Index Collections**. Use either route from the available excerpt to search the category or open **View all collections included in this search** and select a collection [S43 @2026-11-22] [S44 @2026-11-22]. Check image access separately if an index hit is all you can open.
+
+If the older Ancestry VA index misses a known deceased veteran, check the newer **BIRLS Death File** at BIRLS.org and log the edition searched [S47 @2026-11-22] [S48 @2026-11-22]. The edition comparison from the available excerpt distinguishes the earlier Ancestry release from the newer VA release that covers more years [S46 @2026-11-22] [S47 @2026-11-22]. Treat a BIRLS hit as an index lead to a VA benefits file [S48 @2026-11-22].
+
+For early U.S. Navy service, compare the service period with the muster or pay-roll collection’s date coverage, using the check from the available excerpt of the 2022 USS Constitution search [S49 @2026-11-22]. If the period is outside the collection, use the National Archives’ muster-roll guide to look up the vessel or station and year. Check microfilm T829 for pre-1860 pay rolls [S50 @2026-11-22].
+
 ## Check the saved record on each intended person
 
 If you save a recovered record as an authorized tree attachment, list the source's named
@@ -347,6 +383,8 @@ infer a parent-child relationship from household membership. Ancestry documents
 and [saving a source to another person](https://help.ancestry.com/hc/en-us/articles/53933348187923-Managing-Facts-Events-and-Sources-in-Trees).
 
 In a multi-person record, select the subject’s own row before choosing the destination profile. Check the proposed age, birthplace and parents against that row and the existing sources. Selecting another household member can offer that member’s details for the intended person [B9]. Leave conflicting facts and unrelated attachments in place while resolving the identity.
+
+If an attached record will not open, verify the signed-in account, the collection’s country and the user’s record entitlement before changing anything in the tree. For premium records outside the U.S. Discovery scope, check World Explorer or All Access [S39 @2026-11-22] [S40 @2026-11-22]. A free account can retain the attachment after losing access to the underlying record [S41 @2026-11-22]. If Preserve My Tree is offered, check whether the attachment is in a tree the user owns and whether a partner site supplies the image [S39 @2026-11-22] [S42 @2026-11-22].
 
 ## Find a researcher or locality helper
 
