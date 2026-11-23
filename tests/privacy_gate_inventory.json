@@ -4612,5 +4612,11 @@
   "kind": "upload",
   "action": "uploading the tester's raw DNA file",
   "checkpoint": "A raw DNA transfer sends the tester's genotype file"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Enter one match's sourced total in the Shared cM Project's total-cM field",
+  "checkpoint": "The Shared cM Project lookup sends living testers' pairwise shared cM amounts to DNA Painter"
  }
 ]
