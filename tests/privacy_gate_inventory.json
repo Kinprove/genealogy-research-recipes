@@ -4624,5 +4624,11 @@
   "kind": "contact",
   "action": "ask a relative whether they remember it and which branch last had it",
   "checkpoint": "A question about a missing family Bible may disclose the ancestor's name and family connection to the relative asked"
+ },
+ {
+  "recipe": "french-canadian-register-recovery.md",
+  "kind": "request",
+  "action": "Request the undigitized act from the holding BAnQ centre",
+  "checkpoint": "Before sending the parties’ names or the act locator to the holding BAnQ centre"
  }
 ]

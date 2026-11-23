@@ -4,13 +4,13 @@ title: "Recover French-Canadian ancestors from combined registers, post and Mont
 summary: "Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "FRENCH-CANADIAN-REGISTER-RECOVERY-01", "text": "Do not call the person absent until the name forms are exhausted"}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 178}
 ---
 
@@ -61,6 +61,10 @@ the register entry. [S13 @2026-11-20] [S14 @2026-11-20]
 Run the name variants through PRDH-IGD’s free results list before opening candidate entries.
 Opening a record, individual, family or union file uses a paid hit. [S15 @2026-11-20]
 
+If you have access to both PRDH-IGD and Genealogy Quebec, follow the link on a PRDH-IGD act
+extract to the register image on Genealogy Quebec. Use the register image for the wording and
+locator. [S21 @2026-11-22] [S24 @2026-11-22]
+
 ## Join variants through documented ties, starting with the sacramental entries
 
 The presenter treats the baptism, marriage and burial entries as often the only way to show that
@@ -96,6 +100,10 @@ Check the volume heading, then scan the margins of the chronological register fo
 Record the volume, year and entry letter/number for each entry, and keep the literal French
 wording beside your translation.
 
+For a birth in a Québec Catholic family before 1994 with no separate civil birth entry, look for
+the baptism in the parish register. Record any birth date stated in the entry separately from the
+baptism date. [S21] [S22]
+
 ## Use the second copy when the parish copy fails
 
 Do not say Québec had no civil registration before 1994. Clergy and other legally authorized
@@ -121,6 +129,15 @@ On Genealogy Quebec, the Institut Drouin says which copy each folder of its Drou
 Records holds. The Fonds Drouin folder has the court copy. The Registres paroissiaux 1621-1876
 (Parish registers 1621-1876) folder has the parish copy, in different images. [S10 @2026-11-13]
 Treat the two folders as the two copies, and log the folder with the entry.
+
+Use *registres d’état civil* as a catalogue lead for the court series and *registres paroissiaux*
+or *registres de la paroisse* for the parish series. Confirm the copy from the holding description
+or register image. [S21 @2026-11-22] [S23 @2026-11-22]
+
+For a historical Québec entry, browse the digitized civil-status registers in BAnQ numérique by
+parish and year. Check the end of the year or volume for its own index. If the index gives a
+folio, check both sides. If there is no index or no matching line, scan the date window in the
+register itself. [S21 @2026-11-22] [S22 @2026-11-22] [S23 @2026-11-22] [S39 @2026-11-22]
 
 For a deceased ancestor’s church entry, search Ancestry’s Card Catalogue for *Drouin*. Use
 Québec Vital and Church Records for Québec, Acadian Vital and Church Records for covered parishes
@@ -181,6 +198,51 @@ notarial records:
   and date, not by the names of the people involved. FamilySearch's "Canada, Quebec, Notarial
   Records, 1800-1920" is browse-only images with no name index. To browse it, find the notary
   working in the family's town, or one named in a compiled genealogy. [S1]
+
+Use Parchemin at the American Ancestors Research Center. With a Research or Contributing
+membership, open Parchemin from *Partner Databases From Home*. Take the notary and act date
+from the abstract to the original. [S21 @2026-11-22] [S28 @2026-11-22] [S36 @2026-11-22] [S37 @2026-11-22]
+
+To identify a notary for an act before 1900, use the tables under *Liste des notaires* in
+Archiv-Histo’s FAQ. Choose the alphabetical table for a name, the chronological table for the
+period, or the table by last place of practice for a locality. Check where the
+notary practiced in the year of the act before narrowing the search to that greffe.
+[S21 @2026-11-22] [S30 @2026-11-22]
+
+If Ancestry’s name search misses, check the individual notary’s *index* or *répertoire* in the
+FamilySearch or BAnQ holdings. If the index gives a répertoire page, open that page to get the
+act number. [S21 @2026-11-22] [S28 @2026-11-22] [S31 @2026-11-22] [S33 @2026-11-22]
+
+When an index identifies the notary, search for that name as a keyword in the FamilySearch
+Catalog. Use the act date and number to select and check the image group for that notary.
+[S21 @2026-11-22] [S28 @2026-11-22] [S32 @2026-11-22] [S33 @2026-11-22]
+
+If an act cited in a répertoire is missing from the images, including a marriage contract,
+look up the notary’s *greffe* in BAnQ’s Advitam catalogue and identify the holding centre.
+[S21 @2026-11-22] [S31 @2026-11-22] [S33 @2026-11-22] [S34 @2026-11-22]
+
+**Privacy gate:** <!-- privacy-gate: request --> Before sending the parties’ names or the act locator to the holding BAnQ centre, apply the [record requests rule](../SKILL.md#record-requests) if anyone named may be living.
+
+Request the undigitized act from the holding BAnQ centre with the notary’s name, act date,
+parties’ names, and act number. Include the archival reference if the catalogue gives it.
+[S21 @2026-11-22] [S31 @2026-11-22] [S34 @2026-11-22] [S35 @2026-11-22]
+
+For a property transfer, look under *achat* and *vente* and search for the buyer and seller
+separately. Read the terms in the act you find. [S21] [S25] [S38]
+
+For dower or provisions for a surviving spouse and children, read the *contrat de mariage*
+alongside the will and estate inventory. Look for *douaire* and any share set aside for a
+surviving spouse or children. [S21] [S26]
+
+Look for a *donation entre vifs* to trace property transferred during the donor’s lifetime.
+Read the conditions for any promise of care or maintenance. [S21] [S27]
+
+For evidence of a person’s employment, look for an *engagement* in the notary’s répertoire
+and read it as a labor contract. [S21] [S28]
+
+Search for a *testament* by its execution date. If you have only the death date, browse back
+through the notary’s earlier years. For wills and agreements, extend the search to notaries in
+other places where the person had dealings. [S21] [S28] [S29]
 
 Log notarial leads by notary: the notary's name, the town, the date range browsed, the act
 date/number if shown, and whether you actually inspected the act or only saw a répertoire line. A
