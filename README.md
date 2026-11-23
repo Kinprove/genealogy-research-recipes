@@ -195,7 +195,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [catholic-sacramental-cross-notations](skills/genealogy-research-recipes/recipes/catholic-sacramental-cross-notations.md) | record catalogues and original images | — | — | — | — | — |
 | [chechen-ingush-1944-deportation-records](skills/genealogy-research-recipes/recipes/chechen-ingush-1944-deportation-records.md) | record catalogues and original images | — | — | request | — | required |
-| [child-placement-and-orphan-train-records](skills/genealogy-research-recipes/recipes/child-placement-and-orphan-train-records.md) | record catalogues and original images | — | — | request | — | required |
+| [child-placement-and-orphan-train-records](skills/genealogy-research-recipes/recipes/child-placement-and-orphan-train-records.md) | record catalogues and original images | — | — | request | contact | required |
 | [chinese-lineage-jiapu-records](skills/genealogy-research-recipes/recipes/chinese-lineage-jiapu-records.md) | record catalogues and original images | — | — | request | — | required |
 | [city-directory-observation-workflow](skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md) | record catalogues and original images | — | — | — | — | — |
 | [colonial-and-state-military-bounty-land](skills/genealogy-research-recipes/recipes/colonial-and-state-military-bounty-land.md) | record catalogues and original images | — | — | — | — | — |

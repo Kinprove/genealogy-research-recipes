@@ -4486,5 +4486,17 @@
   "kind": "third-party-tool",
   "action": "Narrow a Home Child lookup by birth date or destination",
   "checkpoint": "A Home Child index query sends"
+ },
+ {
+  "recipe": "child-placement-and-orphan-train-records.md",
+  "kind": "contact",
+  "action": "Ask the holder of the prospective adoptive family's papers",
+  "checkpoint": "the child's placement details and the sender's identity"
+ },
+ {
+  "recipe": "child-placement-and-orphan-train-records.md",
+  "kind": "request",
+  "action": "request an intake-register lookup or case file",
+  "checkpoint": "the child's names, estimated dates and placement clues"
  }
 ]
