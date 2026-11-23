@@ -11,7 +11,7 @@ handoff: ["usa-immigration-search-recovery", "historical-place-name-resolution",
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 171}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 172}
 ---
 
 # Recover a U.S. Social Security application for a birthplace or parent clue

@@ -445,6 +445,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-court-book-recovery.md` — Find a Finnish district or appellate court entry through its historical jurisdiction, court-book copies, card indexes or publication registers.
 - `recipes/finnish-debt-imprisonment-records.md` — Follow a historical Finnish debt proceeding through enforcement, confinement and bankruptcy records to determine what happened to the debtor and the debt.
 - `recipes/finnish-diocesan-circulars-and-observances.md` — Use Turku and Porvoo circulars to test whether a Finnish thanksgiving or commemoration was diocesan and verify local observance in newspapers.
+- `recipes/finnish-factory-and-craft-listings.md` — Find a nineteenth-century Finnish establishment, owner or practitioner by choosing a named factory list, trade directory or craft register.
 
 ### United States: people, vital and church records
 
