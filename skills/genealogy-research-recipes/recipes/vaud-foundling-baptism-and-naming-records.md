@@ -11,7 +11,7 @@ handoff: ["illegitimacy-record-recovery", "child-placement-and-orphan-train-reco
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 249}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 250}
 ---
 
 # Trace a Vaud foundling from baptism to a naming decision
