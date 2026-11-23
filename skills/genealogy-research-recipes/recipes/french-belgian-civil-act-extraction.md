@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 119}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 120}
 ---
 
 # Extract French and Belgian civil acts field by field

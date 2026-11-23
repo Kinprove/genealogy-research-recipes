@@ -369,6 +369,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/israel-immigration-list-research.md` — Search MyHeritage's Israel immigration lists and decide whether an arrival entry for Mandatory Palestine or Israel records an immigrant, a returning resident or a tourist.
 - `recipes/lithuanian-jewish-household-registers.md` — Use LitvakSIG and MyHeritage household registers to trace dated residence and distinguish missing records from unindexed coverage.
 - `recipes/holocaust-register-and-survivor-list-recovery.md` — Separate ghetto residence, imprisonment, death and postwar survivor registration while retrieving the underlying Holocaust-era record.
+- `recipes/arolsen-confiscated-effects-recovery.md` — Identify a Nazi persecution victim in the Arolsen personal effects collection and follow the archive’s return procedure.
 
 ### Ukrainian archives
 
