@@ -11,7 +11,7 @@ handoff: ["russian-revision-list-household-chaining"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 74}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 75}
 ---
 
 # Read a Russian-Empire estate label as a dated registration status and choose the series by date

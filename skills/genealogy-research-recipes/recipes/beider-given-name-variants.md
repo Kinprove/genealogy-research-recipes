@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "russian-empire-jewish-identity-attribution
 checked: "2026-10-01"
 checked_basis: "Consulted 2026-10-01"
 capabilities: {"browse": [], "local_script": ["scripts/lookup_beider_name.py"], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 87}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 88}
 ---
 
 # Recipe: Ashkenazi given-name variants from Beider's indexes
