@@ -5014,5 +5014,23 @@
   "kind": "request",
   "action": "Request the identified personnel file",
   "checkpoint": "the worker's name, file reference and any eligibility evidence"
+ },
+ {
+  "recipe": "us-social-security-application-recovery.md",
+  "kind": "third-party-tool",
+  "action": "If MyHeritage yields no usable entry, try the",
+  "checkpoint": "Identify the deceased subject’s name and any dates that would go to FamilySearch"
+ },
+ {
+  "recipe": "us-social-security-application-recovery.md",
+  "kind": "third-party-tool",
+  "action": "If AAD’s fielded search is accessible and the deceased applicant’s name is uncertain",
+  "checkpoint": "Identify the deceased applicant’s name and dates or the deceased parent’s name"
+ },
+ {
+  "recipe": "us-social-security-application-recovery.md",
+  "kind": "third-party-tool",
+  "action": "If AAD is accessible, search the NUMIDENT Death Files",
+  "checkpoint": "Identify the deceased applicant’s name and dates or the deceased parent’s name"
  }
 ]
