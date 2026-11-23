@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery","state-archives-county-records-guides","pro
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 212}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 213}
 ---
 
 # Trace a colonial tavern keeper to licenses and rates
