@@ -4666,5 +4666,11 @@
   "kind": "third-party-tool",
   "action": "Search the free France, Military Death Index, 1914–1961 on MyHeritage",
   "checkpoint": "A military death index query sends the deceased candidate's name"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "third-party-tool",
+  "action": "search the public web for the documented farm and village together",
+  "checkpoint": "The search engine receives the historical farm and village names."
  }
 ]
