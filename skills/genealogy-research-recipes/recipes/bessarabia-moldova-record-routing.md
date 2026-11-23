@@ -131,11 +131,15 @@ Gather these before searching:
 - **After the latest year in fond 211, ask ANA, then the Public Services Agency.** On 7 November 2026 the fond's table ended in 1923, op. 24 aside [S9]. Moldova's Public Services Agency (Agenția Servicii Publice, ASP) keeps paper civil-status registers of the last 100 years, and when the term ends each year passes to ANA. ANA took over the 1922 parish registers only in 2023, so later years may still be added [S24], [S25]. For a year after the last one in the fond's table, ask ANA whether it has taken that year in; for a register still inside the 100-year term, ask ASP. This applies to villages now in Moldova; for a village that went to the Ukrainian SSR in 1940, follow step 1.
 - **Browse FamilySearch "Moldova, Church Books, 1811–1936"; do not name-search it.** The collection (1943763) offers image browsing and no name index, with images from the state archive in Chișinău [S14]. A name-search miss there tests nothing. Browse by locality and year, and map each image group to its fond 211 opis and delo through the book's title page. The collection runs to 1936, past the end of fond 211, so do not assume every image group is fond 211.
 
-### Use the Jewish birth and death indexes to find the register
+### Use the Jewish vital indexes to find the register
 
 **Search MyHeritage’s *Bessarabia, Jewish Births from JewishGen* by the deceased subject’s name and birth date or place.** The collection was announced with a span of 1829–1915 [S34 @2026-11-20]. Record the child’s name, birth date and place, parents and original-record locator. Capture each grandfather’s name when given and keep the paternal and maternal entries separate [S35 @2026-11-20].
 
 **Search MyHeritage’s *Bessarabia, Jewish Deaths from JewishGen* by the deceased’s name and death date or place.** Record the name, death date and place, age at death, residence and original-record locator. Check for parents or a spouse, and keep the place of death and residence in separate fields [S34 @2026-11-20], [S36 @2026-11-20].
+
+**Search MyHeritage’s *Bessarabia, Jewish Marriages from JewishGen* by a deceased spouse’s name and the event date or place.** The announced marriage span is 1863–1916 [S40 @2026-11-22]. Record both spouses, the event date and place, each spouse’s parents as listed and the original-record locator. Capture the rabbi and witnesses when named. Search the same collection for a divorce and treat its divorce coverage as selective [S40 @2026-11-22], [S41 @2026-11-22].
+
+**Route a marriage or divorce to the registration town and year.** Keep each spouse’s recorded place separate from the registration place [S38 @2026-11-22]. If the locator is missing or the name search misses, check the town and year in JewishGen’s separate marriage or divorce inventory for a film number when listed [S42 @2026-11-22], [S43 @2026-11-22].
 
 **Follow the locator to the town congregation’s register.** Use the archive cipher or the film, item and page when given. If the locator is incomplete, use the registration town and year to choose the opis [S38]. Read *uyezd* as county or district and *gubernia* as governorate or province for an imperial-era entry [S34], [S35]. Read the Cyrillic and Hebrew sides where both are present. Some entries are in Russian only [S38].
 
@@ -147,6 +151,10 @@ Gather these before searching:
 - **Do not read a browse label as a full archive cipher.** Before you map a volume back to ANA, read its fond, opis and delo on the volume's title page, or match it against the ANA inventory.
 - **Do not stop at JewishGen.** Its Bessarabia revision-list database covers Jewish communities [S19], so a JewishGen-only search cannot find a non-Jewish household. For a Jewish household, use the JewishGen recipe for that database's fields.
 - **Chain the household across revisions** with the revision-list recipe.
+
+### Find a Jewish household in the revision-list index
+
+**Search for a deceased household member in JewishGen’s *Bessarabia Revision Lists*.** Start with the ninth, tenth and additional revisions [S44 @2026-11-22]. Check JewishGen’s inventory by town, uyezd and year for the film number or archive reference [S45 @2026-11-22]. Use the list’s own record type and year to assign a revision. Treat MyHeritage’s announced 1835–1951 span as an index date range [S40 @2026-11-22].
 
 ## 6. Generate Romanian and Cyrillic name forms as query lanes
 
