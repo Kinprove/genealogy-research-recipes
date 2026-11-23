@@ -5518,5 +5518,17 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage’s England, Durham Home Guard index",
   "checkpoint": "sends the volunteer’s details to MyHeritage or Discovery"
+ },
+ {
+  "recipe": "england-wales-historical-divorce-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the MyHeritage index",
+  "checkpoint": "Party names and the approximate case year go to MyHeritage"
+ },
+ {
+  "recipe": "england-wales-historical-divorce-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search Ancestry’s J 77 collection",
+  "checkpoint": "Party names, dates or case identifiers go to Ancestry"
  }
 ]

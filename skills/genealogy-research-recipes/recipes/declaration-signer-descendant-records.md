@@ -11,7 +11,7 @@ handoff: ["published-book-catalogue-and-full-text-discovery", "familysearch-prac
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public historical catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 161}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 162}
 ---
 
 # Trace descent from a Declaration of Independence signer
