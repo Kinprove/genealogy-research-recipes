@@ -49,7 +49,19 @@ Record each estimate as the site shows it: the platform (or the admixture projec
 
 If a percentage estimate omits an expected place, check whether the testing company's reference panel covers the population you are investigating. A gap in reference coverage can explain the omission, according to Ancestry's documentation [S14] and the submitted extract from the Family Tree Magazine episode [S13†]. Keep the ancestry question open and test the line with records or matches.
 
+When comparing existing estimates from different providers, check the reported populations and reference panels for each estimate version before treating labels as equivalent. Look for a broader or differently named category when one label is missing. Keep each provider's percentage separate and confirm a recurring lead with records or DNA matches. [S42], [S58]
+
+According to the submitted interview excerpt [S44†], Southard suggests comparing estimates across providers and checking which Jewish populations each reports. If a detailed Jewish label appears in only one estimate, compare the providers' category descriptions before reading the missing label as a difference in the underlying ancestry. [S22], [S37]
+
 Use the places highlighted in a DNA community or location report to choose localities for a historical record search, as the Family Tree Magazine search-result extract recommends [S11†]. Read the community timeline as group history [S12]. Establish when each ancestor lived there and for how long from records.
+
+### Read AncestryDNA Regions and Journeys
+
+When reading AncestryDNA notes predating the 2024 update, match **Ethnicity Estimate** to **Ancestral Regions** and **Communities** to **Ancestral Journeys**. [S52] According to the submitted interview excerpt [S44†], Southard explains these names in the context of the 2024 update.
+
+Open **DNA → Origins → Regions**, select the reported region and compare its map and percentage range with the place under investigation. Use the area shown when the name suggests a modern border. Use a macro-region to organize the nested estimates, and record the nested regions and their ranges. A macro-region has no separate reference panel or estimate. [S36 @2026-11-22] [S37 @2026-11-22] According to the submitted interview excerpt [S43† @2026-11-22], Southard suggests opening the map when the name could mislead.
+
+For a recent migration, open **DNA → Origins → Journeys** and select the journey that includes a place where the ancestor is documented. In the map and timeline, work back from that place to earlier stops and use the places and periods to choose record searches. Treat the routes as group history. A finely named percentage region still belongs in **Regions**, even if its name sounds as specific as a Journey. [S12 @2026-11-22] [S37 @2026-11-22] According to the submitted interview excerpt [S44† @2026-11-22], Southard suggests using a later known place to look for earlier ones.
 
 ### Read MyHeritage Ethnicity Estimates and Genetic Groups
 
@@ -71,11 +83,17 @@ Read **Closest Populations** as the 50 highest-ranked single populations. In **G
 
 On a **Genetic Distance Map**, find the black **You** label and inspect nearby ancient population or sample points. Compare the points with one another for clusters and outliers. Read proximity on this plot as genetic similarity and require separate evidence of descent from any named population or individual. [S27 @2026-11-20] [S28 @2026-11-20]
 
+When the tester plots near a single reference population, check whether combinations of other reference populations could occupy the same part of the plot. Keep multiple explanations for that proximity open. [S46] In one published Ancient Origins comparison, the tester reported that a combination of Ashkenazi Jewish and British Isles references fell near the North Italian points. [S45]
+
+If the tester already has an **Ancient Origins** report, open **Notable Individuals** and read each genetic-fit result as proximity to that person's sample. Leave descent and family relationship claims open pending separate evidence. [S40 @2026-11-22] [S41 @2026-11-22]
+
 ### Follow up African and Native American origin leads
 
 For an enslaved ancestor's African origin, use existing DNA matches with documented ancestral ties to African or diaspora communities to shortlist possible regions. Check the proposed line in plantation records, wills or bills of sale. Treat a match's present-day location as insufficient to assign an ancestral birthplace or voyage. [S29], [S30] To trace the line across 1870, use [US freedpeople record recovery](us-freedpeople-record-recovery.md).
 
 When testing descent from a specific Native American tribe, use an ethnicity estimate as a geographic lead. Use shared DNA to test the proposed family relationships and trace the line to a named ancestor in records for the relevant tribe or reservation. For a deceased ancestor, look for the appropriate historical reservation census or tribal roll through [US tribal enrollment record recovery](us-tribal-enrollment-record-recovery.md). [S31], [S32], [S33]
+
+For a possible Indigenous Caribbean line, check whether the provider's reference panel and region map distinguish the island under investigation. Read the estimate at the geographic level the panel supports. Check the proposed line in church records and historical accounts when the percentage is broad or missing. [S53], [S54]
 
 ## 2. Treat a small share as unconfirmed
 
@@ -95,9 +113,17 @@ In the *Family Tree Magazine* interview, Kitty Cooper describes German ancestry 
 
 A child does not inherit a parent's percentages. [S1] Each child receives a random half of each parent's DNA, so the share from each grandparent can differ from a quarter (MyHeritage's example is 30% and 20%), siblings can carry different proportions from the same ancestors, and a distant line can leave little or no detectable DNA. [S3] A child's share of a region can therefore be larger or smaller than a parent's, or missing. Russell reports that four siblings received the Scandinavian label and the fifth received North and West European [S7]. Record those labels with the individual results before comparing siblings.
 
+If available estimates from cousins on a documented branch omit a region you expected from that branch, keep the branch in the comparison. A cousin may have inherited none of the relevant DNA or too little for the model to report. Apply the same test when the region is missing in your own estimate and a cousin shows only a small share, which may be noise. Use shared DNA and documented descent to test the branch. [S49], [S50], [S51], [S54], [S3]
+
+If ethnicity results raise a full- versus half-sibling question on MyHeritage, open **DNA Matches → Review DNA Match** for the existing sibling match and record the total shared cM. Treat the displayed relationship as a hypothesis. A **Confirmed relationship** label records a user's prior selection. Test the relationship with shared DNA as described below. [S55 @2026-11-22] [S56 @2026-11-22] [S57 @2026-11-22]
+
 To see which parental side AncestryDNA assigns a painted segment to, use the tester's existing results. With an Ancestry family history membership, open **DNA → Origins → By parent → View chromosome painter** and switch between the two parent views, labelled **Maternal** and **Paternal** when the sides are named. The colours show estimated regions and can change when the estimate is updated. Read matching colours on two charts as matching region labels and use shared DNA to test relationships. [S17 @2026-11-18]
 
 Keep the numbered labels Parent 1 and Parent 2 until you can identify a side, for example by checking where Ancestry placed a DNA match whose side you already know. [S18 @2026-11-18]
+
+If the tester's AncestryDNA subscription and kit show **View regions by parent and grandparent**, open it from **DNA → Origins → By parent**. Read the shares as estimates of the DNA that reached the tester, including from untested grandparents. Keep the tool's labels until known-side matches or other evidence identify the branches, and leave any unassigned share open. [S37 @2026-11-22] [S38 @2026-11-22]
+
+In an existing 23andMe+ Premium report, open **Parental Inheritance** to compare **Parent 1** and **Parent 2**, even without a connected parent. Check the confidence table at both stricter levels before assigning a region to a side and record any inconclusive result. Keep the numbered labels until independent evidence identifies the parents. [S39 @2026-11-22]
 
 According to the submitted extract [S15†], the presenter suggests switching between the two parent views in the Family Tree Magazine episode's Tree Talk segment on Chromosome Painter [S16].
 
@@ -120,6 +146,10 @@ GEDmatch's calculators become available once a kit's upload is complete [S6 @202
 ## 6. Follow up a large share the known parents cannot explain
 
 Compare the estimate with what the documented parents could have passed on. A share of about half in a population that neither known parent belongs to, or a share of only about half when both known parents belong to it entirely, is not ordinary inheritance variation (§4). When the population is one the model detects precisely, treat it as a parentage lead. Ashkenazi Jewish ancestry is the clearest case: 99.3% precision and 98.6% recall in 23andMe's cross-validation. [S5]
+
+When a substantial unexpected region recurs in existing results from siblings or across generations, compare the results with the documented origins of the branches those testers share. If a branch is unresolved, use the region to prioritize matches to that branch and test the connection with shared DNA and records. Keep the source of the estimate open until then. [S47], [S49], [S51]
+
+Check the closest existing DNA matches before settling on historical population mixing as the explanation for a large unexpected share. In one published account, a close match pointed to an unexpected parent after the tester initially attributed her result to population history. [S48]
 
 When looking for an unknown parent's family, shortlist a country if it recurs among distant DNA matches and fits the broader ethnicity estimate. Check whether those matches share DNA with known relatives on either side, and verify the ancestral places suggested by their trees in historical records. Keep the country and parental side tentative until the matches and records support the proposed line. [S34], [S8]
 
