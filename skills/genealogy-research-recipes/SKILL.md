@@ -454,6 +454,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-henkikirja-record-recovery.md` — Find a Finnish henkikirja by historical parish, district, year and volume signum, and distinguish index gaps from missing roll entries.
 - `recipes/finnish-crown-prison-record-recovery.md` — Reconstruct nineteenth-century Finnish custody and transfer using Procurator returns, institution records, prison parish books and Siberian exile references.
 - `recipes/finnish-heraldica-estate-ownership.md` — Resolve a Finnish estate named in Europeana Heraldica to the individual holding before assigning an owner or dating a transfer.
+- `recipes/finnish-heritage-agency-archive-recovery.md` — Recover a Finnish Heritage Agency building study or ethnographic manuscript through its archival series and check access at item level.
 
 ### United States: people, vital and church records
 
