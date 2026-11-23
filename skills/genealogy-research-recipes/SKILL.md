@@ -344,6 +344,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/czech-historical-census-recovery.md` — Find a Czech census schedule by year, historical district and house number, then interpret residence, home municipality and language in their own columns.
 - `recipes/czech-newspaper-criminal-case-recovery.md` — Recover Czech press coverage of an incident, trial, verdict and prison transfer, then carry the reported dates and court into the archival search.
 - `recipes/czech-parish-death-entry-reading.md` — Separate death, discovery, burial, rites and informants in Czech parish entries and follow a reported cause to its supporting record.
+- `recipes/estonian-byname-and-surname-recovery.md` — Use Estonian revision lists, farm moves and surname assignments to distinguish a place-bound byname from a name a family carried.
 
 ### Russian Empire and Soviet Union
 
