@@ -11,7 +11,7 @@ handoff: ["holocaust-register-and-survivor-list-recovery", "descendancy-gap-work
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public finding aids and record catalogues"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 102}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 103}
 ---
 
 # Trace a prisoner’s confiscated personal effects through the Arolsen Archives

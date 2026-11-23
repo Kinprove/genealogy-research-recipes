@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "burial-evidence-packet", "cat
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images", "MyHeritage Opava and Vienna indexes"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 63}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 64}
 ---
 
 # Route an Austrian or Czech-lands vital event to the confessional register that recorded it

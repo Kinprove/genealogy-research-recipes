@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 211}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 212}
 ---
 
 # Trace an Indian household across the Great Famine of 1876–1878
