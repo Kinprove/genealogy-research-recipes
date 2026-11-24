@@ -83,6 +83,8 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 
 **Before 1901, check which returns survive.** For 1821, 1831, 1841 or 1851, check the NAI survival list by county and year, then establish whether the fragment covers the locality before you interpret a household miss. Most returns from those years were lost in the 1922 Public Record Office fire [S41]. No individual household returns survive for 1861, 1871, 1881 or 1891 [S41]. To follow a family across that gap, use [civil registration](irish-civil-registration-jurisdiction-recovery.md) where it covers the event and check the years that survive in the parish registers [S42].
 
+**Read the absent and deceased entries on surviving 1841 and 1851 household returns.** For 1851, both are search leads from the available excerpt of Eliza Watson’s interview [S65]. Read the absent-family entries separately from the list of people present. Copy the stated residence, including any place overseas, and use it to direct the next search [S41], [S66]. Check the separate entries for family deaths reported since 1831 on an 1841 return or since 1841 on an 1851 return [S41], [S66]. Use any date given to narrow the burial search.
+
 ## 4. Look for absent people where they slept that night
 
 - **Form A lists only who slept in the house on census night.** Census nights were Sunday 31 March 1901 and Sunday 2 April 1911. Absent members were left out unless they were out at work or travelling that night and came home on the Monday [S48], [S49], [S24]. A missing son or daughter is a lead to search elsewhere. Look as a visitor, boarder or servant (use the relation field), and in institutions.
@@ -98,6 +100,8 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 - **Find the house's row on Form B1** using the number on Form B. B1, the house and building return, gives for each house the walls and roof (permanent or perishable), number of rooms, windows in front, class of house (1st to 4th), number of families, the head of each family, rooms and persons per family, and the landholder on whose holding the house stood [S26]. Presenters use it to judge living conditions and to name the landlord [S9]. Follow the holding in the valuation records under B1's landholder entry. When the landholder is not the head, the house stood on someone else's holding.
 - **Read B2 and N.** B2 lists the out-offices and farm-steadings attached to each house, such as stables and coach houses [S8], [S24]. N, the enumerator's abstract, gives the townland's houses, families, males, females and persons by religion, and the enumerator's name. It lists no names [S26]; the enumerator compiled it from B1 and the household returns [S25]. The names of the heads of family are on B1 [S25], [S26]: this is the list NAI describes as a name index for each area [S20]. Read the B1 head-of-family list for a household the name search missed, and check B1's house and population totals against N.
 - **Walk the neighbours.** On NAI, use the breadcrumb to go back to the street or DED and open the adjoining households [S18]. Grenham's 1901 Form A pages have Previous and Next buttons and link B1, B2 and N from the same page [S1]. For a household near a townland edge, take the bordering townlands from townlands.ie [S14], [S32] and browse them on NAI.
+
+**Check for a second address in the same census.** In 1901, if the first address puts the households far apart, match the candidate relative's Form A number to column 1 of the street's Form B1. Inspect the adjoining house numbers and open their Forms A to look for the other household [S58], [S64]. Compare people, ages and relationships before linking the listings, and cite each address separately. In one reported 1901 Belfast case, a mother and child were listed at two addresses, one next door to the candidate [S58].
 
 ## 6. Read ages under each year's rules
 
@@ -124,6 +128,8 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 
 **Follow a MyHeritage household into 1911.** From a 1901 MyHeritage hit, search its [1911 Ireland Census](https://www.myheritage.com/research/collection-10198/1911-ireland-census) for the same household and apply the matching criteria above [S53 @2026-11-21], [S54 @2026-11-21]. MyHeritage credits NAI for the 1911 index and images [S54 @2026-11-21]. Count a MyHeritage result and the matching NAI return as a single 1911 return.
 
+**Search for relatives who stayed in Ireland.** If a Scots-Irish ancestor emigrated before census night, search the 1901 and 1911 returns for known relatives who could still be in Ireland [S59], [S60]. Use a matching household's townland or street as a locality lead. Establish the relationship to the emigrant with other records before adopting the place as the family's origin.
+
 ## 9. Use the 1926 return under its own questions
 
 **Choose the census by jurisdiction.** For a locality in the Irish Free State, go from 1911 to the first Free State census, taken on 18 April 1926 [S40], [S45]. No census was taken in Ireland in 1921 because of the War of Independence [S40].
@@ -137,17 +143,31 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 - **Occupation and employer.** Read these fields on the image [S33 @2026-11-16]. Their searchable transcription is a later release phase [S35 @2026-11-16]; a keyword miss does not show the image fields were blank.
 - **Video source.** Only a transcript excerpt was inspected for the video’s 1926 search suggestions in this section [S37 @2026-11-16].
 
+**Check the archive after a commercial miss.** For a known deceased person, use MyHeritage’s [1926 Ireland Census](https://www.myheritage.com/research/collection-21041/1926-ireland-census) as an alternate search. Use the indexed residence, birth details and household members to identify a candidate, then check the associated return image when available [S61 @2026-11-22], [S62 @2026-11-22]. If the commercial search misses or its image is unavailable, use the NAI search and place browse above [S55 @2026-11-22], [S47 @2026-11-22]. Search by place alone if the person may be living.
+
 **Check relatives’ returns for a missing household member.** Look for the person as a visitor, or follow evidence that work or travel took them elsewhere. Form A counted those who spent census night in the household and those received the next morning who had yet to be counted [S45].
+
+**Browse institutions by place.** For a mother and baby home, industrial school or Magdalene laundry that operated on census night, use the institution's townland or street to find its returns [S55 @2026-11-22], [S57 @2026-11-22]. Look for the institutional household under its head, such as the matron or superintendent, and read the full sequence of resident forms. A search for the resident by name alone can miss the institutional household [S34 @2026-11-22].
+
+**Keep the stated relationship to the head.** Transcribe a stepchild designation as written in column (b) and attach it to the named head. Keep it distinct from a birth relationship when reconstructing the household [S55], [S56].
 
 **Read the birthplace townland or town on the image.** Form A asked for county and townland or town for an Irish birthplace [S45 @2026-11-18]. The birthplace search covers county or country [S46 @2026-11-18]. Use the locality written on the form to narrow earlier searches for a person with a common name or someone found in an institution. Keep the birthplace separate from where the person was enumerated.
 
-**Read employment separately from occupation.** Record the trade in the occupation column and the employer's name and business, or the status “Own Account” when given, from the employment column [S45].
+**Compare birthplaces at the level both forms give.** When matching a 1926 Irish birthplace to 1911, compare the county or city given in 1911. Keep any finer locality in the 1926 transcription [S55], [S56], [S49].
 
-**Read marriage or orphanhood by age.** For a person aged 15 or over, record the marital status. For a child under 15, record whether the return says both parents were alive, the father was dead, the mother was dead, or both were dead [S45]. A parent’s absence from the household is a separate observation.
+**Keep the language order.** Preserve the wording in column (g). Read “Irish and English” as native Irish with spoken English, and “English and Irish” as bilingual with a native language other than Irish [S55], [S56].
+
+**Read employment separately from occupation.** Record the trade in column (k) and the employer's name and business or the status “Own Account” in column (l). When column (k) marks someone out of work, record the duration if stated and read the name and business in column (l) as those of the last employer [S55], [S56].
+
+**Read marriage or orphanhood by age.** For a person aged 15 or over, record the marital status. For a child under 15, record whether the return says both parents were alive, the father was dead, the mother was dead, or both were dead [S45]. If a parent's death before census night is documented, compare which parent the return records as dead when choosing between same-named children [S55], [S56]. A parent’s absence from the household is a separate observation.
 
 **Use orphanhood to bound a death search.** Daniel Loftus’s suggestion from the available excerpt is to use the two censuses to narrow the search for a parent’s death [S38], [S39]. If you identify the parent alive in 1911 and the child’s 1926 orphanhood entry reports that parent dead, restrict the initial civil death or burial search to the interval between census nights. Treat the interval as a search lead until a matching record confirms the death [S45].
 
-**Keep the child counts tied to their questions.** In 1926, married women reported completed years and months of the present marriage and the children born alive to it. Keep the 1911 count of children still living with the 1911 return. In 1926, married men, widowers and widows reported one total of living children and stepchildren under 16, including those living elsewhere [S33], [S45]. Use this as a dependant count across marriages. Leave the number from any one marriage and the number of deaths unresolved by that total.
+**Keep the child counts tied to their questions.** In 1926, married women reported completed years and months of the present marriage and the children born alive to it. Mark the number of children who died as unrecorded in those columns and keep the 1911 count of children still living with the 1911 return [S55], [S56], [S49]. In 1926, married men, widowers and widows reported one total of living children and stepchildren under 16, including those living elsewhere [S33], [S45]. Use this as a dependant count across marriages. Leave the number from any one marriage and the number of deaths unresolved by that total.
+
+**Read the household's rated agricultural acreage.** In question (p) on Form A, record the total statute acres in Free State holdings for which usual residents were rated occupiers, including usual residents temporarily absent on census night. Treat it as rated occupancy. For a comparison with another record, use the form's equivalence of five statute acres to four Cunningham acres or three Irish acres and retain the original unit beside the converted figure [S55], [S56].
+
+**Use the 1926 Form B for the building and families.** Match Form A to the enumerator’s Form B for the same townland or street and DED. Record the building type and occupancy status, number of distinct families, each family head, male and female totals, total population and the rooms occupied by each family [S55], [S56], [S63]. If a street crosses DED or ward boundaries, use the Form B for the correct section [S63].
 
 ## Close with a census packet
 
@@ -160,6 +180,6 @@ Return:
 - **Absence leads:** institutions, other households and the England and Wales returns searched for anyone missing on census night.
 - **Citation:** year, county, DED, poor law union, townland or street, house number, person record URL and image links.
 
-- **1926 rows:** years and months of age, birthplace as written, marriage or orphanhood answer, the exact child-count question and respondent category, and occupation/employer fields read on the image.
+- **1926 rows:** years and months of age, relationship to head, birthplace and Irish language as written, marriage or orphanhood answer, the exact child-count question and respondent category, occupation and employment, reported agricultural acreage and units, and the Form B entry for the building and families.
 
 Identity and kinship rulings go to evidence/proof judgment.
