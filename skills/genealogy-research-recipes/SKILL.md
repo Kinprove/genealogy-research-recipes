@@ -483,6 +483,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/italian-historical-cadastre-recovery.md` — Trace an Italian house or parcel from a named cadastral account to its map, successive holders and notarial transfers.
 - `recipes/italian-military-internee-record-recovery.md` — Link Italian military internee records across Vatican inquiries, German camp and hospital papers, and local civil death registers.
 - `recipes/italian-second-world-war-captivity-records.md` — Follow an Italian prisoner’s wartime transfers from Vatican inquiry cards to the custodial file, camp roster or transport record.
+- `recipes/katiha-ceded-parish-record-recovery.md` — Find ceded Finnish parish entries in Katiha and recover the communion-book page behind a name hit.
 
 ### United States: people, vital and church records
 
