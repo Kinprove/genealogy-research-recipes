@@ -5974,5 +5974,17 @@
   "kind": "publish",
   "action": "After clearing the privacy gate, sign in and submit the redacted excerpt",
   "checkpoint": "A ViewMate submission sends the record image and request"
+ },
+ {
+  "recipe": "katiha-ceded-parish-record-recovery.md",
+  "kind": "request",
+  "action": "Apply for restricted Katiha access",
+  "checkpoint": "Send the archive only the identifiers and proof it requires"
+ },
+ {
+  "recipe": "katiha-ceded-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search Katiha by surname, parish and record type",
+  "checkpoint": "A name search sends the subject’s name"
  }
 ]
