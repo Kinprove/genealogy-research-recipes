@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery"]
 checked: "2026-11-22"
 checked_basis: "Read 2026-11-22"
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 180}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 181}
 ---
 
 # Trace a Finnish prisoner through Crown prison returns

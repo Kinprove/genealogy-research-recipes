@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-match-outreach-staging", "evidence-proof-j
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["ethnicity-estimate help pages and published method papers", "the tester's own estimate and match list"], "local_script": [], "extensions": [], "data_transfer": ["upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 38}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 39}
 ---
 
 # Interpret an ancestry-composition (ethnicity) estimate

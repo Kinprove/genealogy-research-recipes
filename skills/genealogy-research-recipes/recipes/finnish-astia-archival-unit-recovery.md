@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "scandinavian-parish-record-re
 checked: "2026-11-22"
 checked_basis: "read 2026-11-22"
 capabilities: {"browse": ["Astia and Arkistojen Portti catalogues", "public archival images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 56}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 57}
 ---
 
 # Recover a Finnish archival unit in Astia
