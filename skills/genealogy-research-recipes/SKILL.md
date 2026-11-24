@@ -408,6 +408,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/jewish-archival-list-triage.md` — Select Ukrainian archival cases that hold named Jewish lists, separating title, place and document evidence.
 - `recipes/elib-ukrainian-archive-reference-books.md` — Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
 - `recipes/nizhyn-greek-magistrate-records.md` — Find Nizhyn Greek community, passport, court and relief records in Fond 101 and replace missing files with the magistrate’s registers and decisions.
+- `recipes/north-azov-holodomor-household-evidence.md` — Find North Azov Greek village testimony and test reported deaths, confiscation and blacklisting against the surviving records.
 
 ### Germany
 

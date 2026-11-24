@@ -11,7 +11,7 @@ handoff: ["italian-stato-civile-parish-record-recovery", "holocaust-register-and
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 202}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 203}
 ---
 
 # Trace Italian Second World War captivity across prisoner records
