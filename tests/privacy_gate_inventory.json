@@ -6076,5 +6076,17 @@
   "kind": "contact",
   "action": "Request a targeted lookup from Genealogica",
   "checkpoint": "A minimal historical name or locality"
+ },
+ {
+  "recipe": "myheritage-ai-biography-source-audit.md",
+  "kind": "third-party-tool",
+  "action": "Generate a biography for the selected deceased person",
+  "checkpoint": "Profile facts about the deceased person and any living relatives included"
+ },
+ {
+  "recipe": "myheritage-ai-biography-source-audit.md",
+  "kind": "upload",
+  "action": "Add documented occupation, education or immigration facts",
+  "checkpoint": "Documented profile fields about the deceased person"
  }
 ]

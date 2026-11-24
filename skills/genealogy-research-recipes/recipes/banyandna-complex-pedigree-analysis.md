@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "cousin-relationship-paths", "dna-comparison-co
 checked: "2026-11-22"
 checked_basis: "Opened 2026-11-22"
 capabilities: {"browse": ["record catalogues and documentation"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 34}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 35}
 ---
 
 # Test a complex pedigree in BanyanDNA

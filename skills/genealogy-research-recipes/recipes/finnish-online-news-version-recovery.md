@@ -11,7 +11,7 @@ handoff: ["rootsweb-broken-link-recovery", "newspaper-finder-title-coverage", "s
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 54}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 55}
 ---
 
 # Recover a dated version of a Finnish online news article
