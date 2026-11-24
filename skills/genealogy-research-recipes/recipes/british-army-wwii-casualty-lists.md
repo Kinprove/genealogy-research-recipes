@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["War Office casualty-list guides and images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 150}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 151}
 ---
 
 # Trace a British Army casualty through successive World War II lists

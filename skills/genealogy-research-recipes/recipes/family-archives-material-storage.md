@@ -11,7 +11,7 @@ handoff: ["family-collection-intake-and-capture", "family-papers-and-bible-regis
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 306}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 307}
 ---
 
 # Store family papers, books, photographs and textiles by material

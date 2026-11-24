@@ -11,7 +11,7 @@ handoff: ["corpus-seeded-name-search"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 105}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 106}
 ---
 
 # Recover a pre-1917 Russian official's service list through the employing institution's fond
