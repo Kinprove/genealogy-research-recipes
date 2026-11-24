@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 37}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 38}
 ---
 
 # Stage and draft outreach to a DNA match or untested relative

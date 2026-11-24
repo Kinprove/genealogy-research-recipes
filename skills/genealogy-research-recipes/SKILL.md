@@ -241,6 +241,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/source-citation.md` — Write citations that let a reader retrieve the source and see which evidence each citation supports.
 - `recipes/research-documentation.md` — Keep a log and report of searches, results and analysis so an investigation can resume.
 - `recipes/finnish-commemorative-plaque-evidence.md` — Use Finnish installation reports, inscriptions and dated building records to identify the person, event and site commemorated by a wall plaque.
+- `recipes/heraldic-arms-bearer-recovery.md` — Trace arms on a gravestone or in a genealogy to a documented bearer, then test descent under the relevant heraldic authority.
 
 ### AI and long projects
 

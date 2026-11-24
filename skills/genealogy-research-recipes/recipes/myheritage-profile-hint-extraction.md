@@ -11,7 +11,7 @@ handoff: ["myheritage-historical-record-search", "evidence-proof-judgment"]
 checked: "2026-11-18"
 checked_basis: "Read 2026-11-18"
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish"], "contact": ["contact"]}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 19}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 20}
 ---
 
 # Review a MyHeritage profile Hint before copying facts or relatives

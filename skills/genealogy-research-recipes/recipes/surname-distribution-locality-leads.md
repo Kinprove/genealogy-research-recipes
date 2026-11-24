@@ -11,7 +11,7 @@ handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Research method", "group": "Search coverage and name searches", "order": 9}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 10}
 ---
 
 # Rank localities to search from dated surname-distribution sources

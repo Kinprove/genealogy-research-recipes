@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ancestry-dna-match-investigation", "dna-compar
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 21}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 22}
 ---
 
 # Recipe: Work an unknown-parentage case with DNA matches and WATO
