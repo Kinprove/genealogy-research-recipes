@@ -353,7 +353,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [jersey-occupation-registration-card-recovery](skills/genealogy-research-recipes/recipes/jersey-occupation-registration-card-recovery.md) | source guides, catalogues and the relevant record or session | — | — | third-party-tool | — | required |
 | [jewish-archival-list-triage](skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md) | record catalogues and original images | — | — | — | — | — |
 | [jewish-genealogy-conditional-hypotheses](skills/genealogy-research-recipes/recipes/jewish-genealogy-conditional-hypotheses.md) | — | — | — | — | — | — |
-| [jewishgen-search-family-reconstruction](skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md) | jewishgen | — | — | — | contact | required |
+| [jewishgen-search-family-reconstruction](skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md) | jewishgen, myheritage | — | — | publish | contact | required |
 | [land-index-book-series-recovery](skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [lithuanian-jewish-household-registers](skills/genealogy-research-recipes/recipes/lithuanian-jewish-household-registers.md) | public catalogues, documentation and historical records | — | — | third-party-tool | — | required |
 | [local-repository-uncatalogued-holdings](skills/genealogy-research-recipes/recipes/local-repository-uncatalogued-holdings.md) | record catalogues and original images | — | — | — | contact | required |

@@ -5968,5 +5968,11 @@
   "kind": "request",
   "action": "Direct a Jamaican civil certificate request",
   "checkpoint": "The certificate application sends the subject’s identifying and event details"
+ },
+ {
+  "recipe": "jewishgen-search-family-reconstruction.md",
+  "kind": "publish",
+  "action": "After clearing the privacy gate, sign in and submit the redacted excerpt",
+  "checkpoint": "A ViewMate submission sends the record image and request"
  }
 ]
