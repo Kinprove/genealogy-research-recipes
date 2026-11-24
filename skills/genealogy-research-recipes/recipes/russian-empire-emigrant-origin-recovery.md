@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "beider-given-name-variants", "bessarabi
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 105}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 106}
 ---
 
 # Recipe: Recovering a Russian Empire emigrant's origin locality

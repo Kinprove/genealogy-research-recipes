@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery"]
 checked: "2026-11-22"
 checked_basis: "Read 2026-11-22"
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 191}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 192}
 ---
 
 # Trace a missing person through Finnish provincial notices

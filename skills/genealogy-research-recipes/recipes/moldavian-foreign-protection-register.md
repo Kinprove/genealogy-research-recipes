@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 91}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 92}
 ---
 
 # Read the 1824–1825 Moldavian foreign-protection register
