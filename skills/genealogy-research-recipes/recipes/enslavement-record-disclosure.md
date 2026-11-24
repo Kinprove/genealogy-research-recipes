@@ -11,7 +11,7 @@ handoff: ["us-freedpeople-record-recovery", "source-citation"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["publish", "upload"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 209}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 210}
 ---
 
 # Make privately held records of enslaved people discoverable

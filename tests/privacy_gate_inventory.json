@@ -6064,5 +6064,11 @@
   "kind": "contact",
   "action": "Ask for the house-history file",
   "checkpoint": "Before an inquiry or booking with a society or museum"
+ },
+ {
+  "recipe": "merida-badajoz-parish-household-lists.md",
+  "kind": "request",
+  "action": "request the household-list file by fonds and reference",
+  "checkpoint": "A request for a census or Easter list sends the parish"
  }
 ]

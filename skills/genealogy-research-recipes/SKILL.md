@@ -488,6 +488,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/katiha-ceded-parish-record-recovery.md` — Find ceded Finnish parish entries in Katiha and recover the communion-book page behind a name hit.
 - `recipes/merida-badajoz-clergy-ordination-records.md` — Find Mérida–Badajoz ordination packets by candidate, box and grade and use baptismal attachments and benefice files to reconstruct the cleric’s family and appointments.
 - `recipes/merida-badajoz-ecclesiastical-fonds.md` — Route a Mérida-Badajoz inquiry to episcopal, cathedral, parish or military-order records and interpret gaps in descriptions and survival.
+- `recipes/merida-badajoz-parish-household-lists.md` — Use ecclesiastical censuses and Easter observance lists to reconstruct Mérida-Badajoz households without turning an age label or omission into a vital event.
 
 ### United States: people, vital and church records
 
