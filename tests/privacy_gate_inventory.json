@@ -6130,5 +6130,149 @@
   "kind": "publish",
   "action": "Review GAIA’s proposed tree changes",
   "checkpoint": "Creating or updating the online tree"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "When tree profiles crowd out documentary results",
+  "checkpoint": "A scoped query may send names, dates or places identifying people who may be living to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "then reopen the query from that card",
+  "checkpoint": "A scoped query may send names, dates or places identifying people who may be living to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For **Germany, North Rhine Westphalia, Deaths 1874–1938**",
+  "checkpoint": "Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For a Cheshire baptism, compare",
+  "checkpoint": "Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "In **France, Church Marriages and Civil Marriages**, open the image",
+  "checkpoint": "Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Include the **Lithuanian-Jewish Revision Lists from LitvakSIG**",
+  "checkpoint": "Names, birthplaces or other search details identifying people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "In **Canada, Gravestones and Memorials**, run",
+  "checkpoint": "A relative’s name used as a cemetery keyword goes to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Alongside OldNews, try **Newspaper Name Index",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For newspaper wedding leads, check the country’s",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "try the known officiant or attendant",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For a known Australian title, check **Australia Newspapers**",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Use **United States Consolidated Federal Censuses",
+  "checkpoint": "Names and historical places identifying people who may be living go to MyHeritage when you run the census query"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Follow a relative’s linked consolidated entry",
+  "checkpoint": "Names and historical places identifying people who may be living go to MyHeritage when you run the census query"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "When an existing tree profile has no useful Record Match",
+  "checkpoint": "Prefilled names, dates and places from a tree profile go to MyHeritage when the search runs"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For a death notice, try the separate **Obituary Index from OldNews.com**",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For a suspected death in Finnish military service",
+  "checkpoint": "Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For a deceased traveler who may have booked",
+  "checkpoint": "Names, birthplaces or other search details identifying people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "In a standalone OldNews search",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Set **Publication place** to the newspaper’s locality or country",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "export",
+  "action": "When keeping an OldNews copy",
+  "checkpoint": "The full newspaper page can include names, photos and details about anyone who may be living"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For an omitted census year",
+  "checkpoint": "Names and historical places identifying people who may be living go to MyHeritage when you run the census query"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Use **Indiana Biographies**",
+  "checkpoint": "Name and date terms that identify anyone who may be living go to MyHeritage in the biography or patent query"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Search **Inventors of Historical Patents**",
+  "checkpoint": "Name and date terms that identify anyone who may be living go to MyHeritage in the biography or patent query"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "retry an earlier OCR miss on OldNews",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
  }
 ]

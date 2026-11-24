@@ -383,7 +383,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link, publish, third-party-tool, upload | contact | required |
 | [myheritage-family-statistics-worklists](skills/genealogy-research-recipes/recipes/myheritage-family-statistics-worklists.md) | MyHeritage family site and documentation | — | — | — | — | — |
 | [myheritage-gaia-research-review](skills/genealogy-research-recipes/recipes/myheritage-gaia-research-review.md) | MyHeritage GAIA | — | — | publish, third-party-tool | — | required |
-| [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | third-party-tool | — | required |
+| [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | third-party-tool, export | — | required |
 | [myheritage-kit-processing-and-downloads](skills/genealogy-research-recipes/recipes/myheritage-kit-processing-and-downloads.md) | public catalogues, documentation and historical records | — | — | export, request, upload | — | required |
 | [myheritage-profile-hint-extraction](skills/genealogy-research-recipes/recipes/myheritage-profile-hint-extraction.md) | public catalogues, documentation and historical records | — | — | link, publish | contact | required |
 | [mylio-historical-photo-date-and-worklist](skills/genealogy-research-recipes/recipes/mylio-historical-photo-date-and-worklist.md) | source guides, catalogues and the relevant record or session | — | — | — | — | — |
