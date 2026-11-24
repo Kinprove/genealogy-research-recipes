@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 190}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 191}
 ---
 
 # Recover a Quaker ancestor from monthly-meeting minutes and removal certificates
