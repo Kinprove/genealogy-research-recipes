@@ -74,8 +74,45 @@ class gap is authored synthesis.
 
 - **S41:** Public Record Office of Northern Ireland, [PRONI Historical Maps Viewer](https://www.proni.gov.uk/proni-historical-maps-viewer). Viewer guidance read 2026-11-21. Used for comparing modern basemaps with historical Ordnance Survey maps and identifying the parish and townland at a point on the map.
 
+- **S42:** Family Tree Magazine, [A Guide to Irish Genealogy Research](https://familytreemagazine.com/heritage/irish/a-guide-to-irish-genealogy-research/), 2025-04-30. Website recommendations read 2026-11-22. The article points readers to the RootsIreland ship passenger lists. S43 supplies the index's scope.
+
+- **S43:** RootsIreland, [Ships’ Passengers Lists](https://www.rootsireland.ie/help/help-ships-passenger-lists/). Passenger-list database guidance read 2026-11-22. Used for the transcript coverage by arrival date and route and the PRONI microfilm and Irish Emigration Database references. Signed-in results were not inspected.
+
+- **S44:** RootsIreland, [Terms and Conditions](https://www.rootsireland.ie/terms-and-conditions/). Terms on automated access read 2026-11-22. Used for the prohibition on AI assistants using the site.
+
+- **S45:** MyHeritage Blog, [Irish Migration Patterns and How They Affected Irish Genealogy](https://blog.myheritage.com/2024/10/irish-migration-patterns-and-how-they-affected-irish-genealogy/), 2024-10-13. Ship manifest, trade directory and local history sections read 2026-11-22. The author suggests comparing trades to distinguish similar names, checking fellow passengers for leads and reading local histories for settler origins and community links.
+
+- **S46:** U.S. National Archives, [Passenger Lists of Vessels Arriving at Philadelphia, 1800–1882 (M425)](https://www.archives.gov/files/research/microfilm/m425.pdf). Microfilm introduction read 2026-11-22. Used for occupation as a field on Philadelphia customs lists for 1820–1882.
+
+- **S47:** U.S. National Archives, [List or Manifest of Alien Passengers for the United States](https://www.archives.gov/files/nyc/education/images/passenger-arrival.pdf). Two-sheet sample manifest and transcription read 2026-11-22. Used as an example of comparing last residence and final destination fields among passengers when the form supplies them.
+
+- **S48:** Fitchburg Historical Society, [Lynch Family](https://fitchburghistory.org/lynch-family/). Settlement and family origins account read 2026-11-22. The society's local history connects named Irish Lane settlers in Wisconsin to places in Ireland and points readers to immigration, church and valuation records.
+
+- **S49:** Family Tree Magazine with Rhonda Lauritzen, [Organizing Family History Writing Projects – An Interview with Rhonda Lauritzen | Episode 202](https://www.youtube.com/watch?v=abByPiRQjbE), 2025-11-07. Cited passages in the supplied transcript excerpts read 2026-11-22. Lauritzen describes a County Down headstone whose place wording had no exact web match and proved to be an older townland spelling. The video could not be fetched, and the excerpts do not identify the inscription for independent inspection. S50 and S51 support treating unfamiliar place wording as a locality lead and consulting historical forms.
+
+- **S50:** Ulster Historical Foundation, [Templecorran Graveyard](https://ulsterhistoricalfoundation.com/history-from-headstones/case-studies/templecorran-graveyard). Survey and memorial place-name transcriptions read 2026-11-22. Used for townlands and older locality names on Irish gravestones.
+
+- **S51:** Logainm, [Sources](https://www.logainm.ie/en/about/sources). Placenames Branch source notes read 2026-11-22. Used for historical spellings preserved in place-name records, including Ordnance Survey sources.
+
+- **S52:** Family Tree Magazine with Eliza Watson, [Overcoming Brick Walls in Your Irish Genealogy Research – An Interview with Eliza Watson](https://www.youtube.com/watch?v=dbIct51FF1c), 2024-03-19. Cited passages in the supplied transcript excerpts read 2026-11-22. Watson suggests considering an intermediate stay in Britain, including Scotland. She reports using a village in County Westmeath supplied by the family of a likely sibling to find the sibling's baptism. The video could not be fetched and the baptism entry was not inspected. The recipe uses the census and parish search actions supported by S53 and S54.
+
+- **S53:** National Records of Scotland, [Census 1851](https://www.nrscotland.gov.uk/learning-and-events/research-guides/census-1851/). Census date and schedule guidance read 2026-11-22. Used for the 30 March 1851 date, residence, birthplace and relationship to the head of household.
+
+- **S54:** National Archives of Ireland, [Sources for Family History](https://www.nationalarchives.ie/wp-content/uploads/2017/09/NAI_Sources_for_Family_History_FINAL.pdf). Church and congregational registers section read 2026-11-22. Used for the parish-based search for historic baptism records.
+
+- **S55:** MyHeritage Blog, [MyHeritage Adds 20 Historical Record Collections in April 2023](https://blog.myheritage.com/2023/05/myheritage-adds-20-historical-record-collections-in-april-2023/), 2023-05-16. Collection table and 1766 census section read 2026-11-23. The post introduces the index and describes the typical result fields.
+
+- **S56:** MyHeritage, [1766 Ireland Religious Census](https://www.myheritage.com/research/collection-20430/1766-ireland-religious-census). Public search form and collection description read 2026-11-23. Used for the name and residence inputs and the usual result fields. Signed-in results were outside the check.
+
+- **S57:** MyHeritage, [Terms and Conditions](https://www.myheritage.com/FP/Company/popup-terms-conditions.php?dispLang=EN&lang=RU). English AI restrictions read 2026-11-23. Used for the restriction on AI access to and interaction with MyHeritage.
+
+- **S58:** National Archives of Ireland, [Religious Census 1766](https://nationalarchives.ie/help-with-research/research-guides/religious-census-1766/). Census coverage and survival guide read 2026-11-23. Used for returns with only totals and for originals, copies and abstracts in the Virtual Record Treasury of Ireland.
+
 ## Credits
 
+- MyHeritage Blog, MyHeritage and National Archives of Ireland (S55–S58) — Third-party content, rights retained by the owners, with collection descriptions, terms and archival guidance summarized with attribution (adapted)
+- Family Tree Magazine, MyHeritage Blog, Rhonda Lauritzen and Eliza Watson (S42, S45, S49, S52) — Third-party content, rights retained by the owners, with research suggestions and accounts paraphrased with attribution (adapted)
+- RootsIreland, U.S. National Archives, Fitchburg Historical Society, Ulster Historical Foundation, Logainm, National Records of Scotland and National Archives of Ireland (S43–S44, S46–S48, S50–S51, S53–S54) — Source descriptions and record details summarized with attribution (adapted)
 - Community video (S39) — Third-party content, rights retained by the owner, with attributed paraphrases of the transcript excerpts (adapted)
 - U.S. National Archives and Public Record Office of Northern Ireland (S40–S41) — Record guidance and map documentation summarized with attribution (adapted)
 - MyHeritage Blog (S33) — Third-party content, rights retained by the owner, with attributed paraphrases of the research suggestions (adapted)
