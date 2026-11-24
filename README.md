@@ -342,7 +342,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [irish-land-valuation-occupancy-series](skills/genealogy-research-recipes/recipes/irish-land-valuation-occupancy-series.md) | record catalogues and original images | — | — | — | — | — |
 | [irish-petty-sessions-and-dog-licences](skills/genealogy-research-recipes/recipes/irish-petty-sessions-and-dog-licences.md) | historical record catalogues and images | — | — | — | — | — |
 | [irish-probate-and-deed-recovery](skills/genealogy-research-recipes/recipes/irish-probate-and-deed-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
-| [israel-immigration-list-research](skills/genealogy-research-recipes/recipes/israel-immigration-list-research.md) | MyHeritage collection search and list scans | — | — | — | — | required |
+| [israel-immigration-list-research](skills/genealogy-research-recipes/recipes/israel-immigration-list-research.md) | MyHeritage collection search and list scans, IGRA database descriptions and The National Archives catalogue | — | — | — | — | required |
 | [italian-stato-civile-parish-record-recovery](skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [japanese-koseki-honseki-recovery](skills/genealogy-research-recipes/recipes/japanese-koseki-honseki-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [jersey-occupation-registration-card-recovery](skills/genealogy-research-recipes/recipes/jersey-occupation-registration-card-recovery.md) | source guides, catalogues and the relevant record or session | — | — | third-party-tool | — | required |
