@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 147}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 148}
 ---
 
 # Recover a British Army service record from the First World War
