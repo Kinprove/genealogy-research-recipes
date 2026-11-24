@@ -6340,5 +6340,11 @@
   "kind": "third-party-tool",
   "action": "Search Finnish- and Swedish-language versions using the reported place, people and event",
   "checkpoint": "A search using a person’s name, an identifying place or an event sends those terms to the Digi digitized publications service."
+ },
+ {
+  "recipe": "romanian-historical-census-household-recovery.md",
+  "kind": "request",
+  "action": "Send a census copy request",
+  "checkpoint": "the household names, historical locality and required eligibility evidence"
  }
 ]
