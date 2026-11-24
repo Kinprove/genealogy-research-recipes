@@ -326,7 +326,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [historical-newspaper-section-search](skills/genealogy-research-recipes/recipes/historical-newspaper-section-search.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [historical-place-name-resolution](skills/genealogy-research-recipes/recipes/historical-place-name-resolution.md) | record catalogues and original images | — | — | request | — | required |
 | [historical-streetscape-photo-identification](skills/genealogy-research-recipes/recipes/historical-streetscape-photo-identification.md) | public historical records and finding aids | — | — | — | — | — |
-| [holocaust-register-and-survivor-list-recovery](skills/genealogy-research-recipes/recipes/holocaust-register-and-survivor-list-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [holocaust-register-and-survivor-list-recovery](skills/genealogy-research-recipes/recipes/holocaust-register-and-survivor-list-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [holocaust-testimony-source-interpretation](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md) | record catalogues and original images | — | — | request | contact | required |
 | [ilfov-civil-register-recovery](skills/genealogy-research-recipes/recipes/ilfov-civil-register-recovery.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | request | contact | required |

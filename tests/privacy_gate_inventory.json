@@ -6346,5 +6346,23 @@
   "kind": "request",
   "action": "Send a census copy request",
   "checkpoint": "the household names, historical locality and required eligibility evidence"
+ },
+ {
+  "recipe": "holocaust-register-and-survivor-list-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search Iōsēpos by name",
+  "checkpoint": "The searched person’s name and any identifying search terms go to the Jewish Community of Thessaloniki’s Iōsēpos repository."
+ },
+ {
+  "recipe": "holocaust-register-and-survivor-list-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the JewishGen Holocaust Database",
+  "checkpoint": "A person search sends the name and any identifying search terms to the JewishGen Holocaust Database."
+ },
+ {
+  "recipe": "holocaust-register-and-survivor-list-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the JewishGen index to the Bergen-Belsen Memorial",
+  "checkpoint": "A person search in the Bergen-Belsen index sends the name and any identifying search terms to JewishGen."
  }
 ]
