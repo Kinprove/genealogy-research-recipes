@@ -11,7 +11,7 @@ handoff: ["repository-photograph-collection-search", "family-photograph-attribut
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public historical records and finding aids"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 297}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 298}
 ---
 
 # Place and date a building in a historical streetscape photograph
