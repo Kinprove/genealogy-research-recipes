@@ -5926,5 +5926,23 @@
   "kind": "request",
   "action": "Request the historical death entry from the archive",
   "checkpoint": "The municipal archive or registrar would receive the deceased internee’s name and register locator and any requested proof that may identify living relatives. Clear the privacy gate in SKILL.md before sending"
+ },
+ {
+  "recipe": "italian-second-world-war-captivity-records.md",
+  "kind": "third-party-tool",
+  "action": "Locate the Vatican Information Office’s Inter Arma Caritas cards",
+  "checkpoint": "A named online Vatican card search"
+ },
+ {
+  "recipe": "italian-second-world-war-captivity-records.md",
+  "kind": "third-party-tool",
+  "action": "search National Archives of Australia series MP1103/1",
+  "checkpoint": "A named Australian catalogue search"
+ },
+ {
+  "recipe": "italian-second-world-war-captivity-records.md",
+  "kind": "third-party-tool",
+  "action": "search the Arolsen Archives’ prisoner and persecution records",
+  "checkpoint": "A named persecution-record search"
  }
 ]
