@@ -11,7 +11,7 @@ handoff: ["french-canadian-register-recovery", "canadian-census-interpretation",
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 266}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 267}
 ---
 
 # Trace an Acadian family across the Expulsion

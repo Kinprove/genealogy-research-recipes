@@ -552,6 +552,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/massachusetts-witchcraft-trial-evidence.md` — Trace a Salem-area witchcraft accusation through examinations, depositions and disposition, while distinguishing spectral claims, confessions and the evidence used in court.
 - `recipes/mecklenburg-declaration-source-recovery.md` — Use Draper manuscripts, printed versions and witness dates to trace a Mecklenburg Declaration signer claim and identify shared evidence.
 - `recipes/mexican-border-and-punitive-expedition-records.md` — Separate U.S. border duty, the Veracruz expedition and the Punitive Expedition by routing medal, unit and vessel clues to their own archival series.
+- `recipes/mexican-cession-jurisdiction-routing.md` — Use the event date and historical boundary to choose a Mexican, territorial, state or federal record series in the U.S. Southwest.
 
 ### Canada, Latin America, Asia and Oceania
 
