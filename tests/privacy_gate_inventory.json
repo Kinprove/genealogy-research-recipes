@@ -6442,5 +6442,29 @@
   "kind": "third-party-tool",
   "action": "open the individual photo from My Photos on desktop",
   "checkpoint": "Opening an eligible undated image on its desktop Photo Page can trigger MyHeritage PhotoDater."
+ },
+ {
+  "recipe": "sao-paulo-immigration-and-foreigner-registration.md",
+  "kind": "third-party-tool",
+  "action": "Search the São Paulo Immigration Cards collection",
+  "checkpoint": "sends a traveller’s details to MyHeritage or FamilySearch"
+ },
+ {
+  "recipe": "sao-paulo-immigration-and-foreigner-registration.md",
+  "kind": "third-party-tool",
+  "action": "search again by the documented name and identifiers",
+  "checkpoint": "sends the traveller’s name or identifiers to MyHeritage"
+ },
+ {
+  "recipe": "sao-paulo-immigration-and-foreigner-registration.md",
+  "kind": "third-party-tool",
+  "action": "Search the São Paulo state archive’s Delegacia de Estrangeiros index",
+  "checkpoint": "receives the registration subject’s name and search filters"
+ },
+ {
+  "recipe": "sao-paulo-immigration-and-foreigner-registration.md",
+  "kind": "request",
+  "action": "If requesting the federal file",
+  "checkpoint": "receives the subject’s name, parents’ names, city"
  }
 ]
