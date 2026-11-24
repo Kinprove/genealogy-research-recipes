@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["Statistics Finland historical statistical publications and guides"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 192}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 193}
 ---
 
 # Find Finnish historical parish population tables

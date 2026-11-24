@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "jewishgen-search-family-reconstruction", "
 checked: "2026-10-07"
 checked_basis: "Checked 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 118}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 119}
 ---
 
 # Jewish genealogy: conditional naming, town and DNA clues

@@ -371,6 +371,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/moldavian-foreign-protection-register.md` — Find an entry in Moldavia’s 1824–1825 foreign-protection inquiry and distinguish claimed allegiance, birthplace and the commission’s decision.
 - `recipes/polish-district-commission-questionnaires.md` — Find postwar Polish district-commission questionnaires by locality and distinguish reported arrests, forced labour, returns and later fate.
 - `recipes/radom-peasant-land-record-recovery.md` — Find peasant land records for Russian-partition Radom Governorate by village division, office and file type.
+- `recipes/riga-swedish-finnish-parish-recovery.md` — Route a Swedish–Finnish parish event or clergy appointment in Riga through the St James’s register gaps, language changes and career sources.
 
 ### Russian Empire and Soviet Union
 
