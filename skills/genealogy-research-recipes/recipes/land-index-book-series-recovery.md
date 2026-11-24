@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 303}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 304}
 ---
 
 # Recipe: Recover land instruments through indexes, book series and entry files
