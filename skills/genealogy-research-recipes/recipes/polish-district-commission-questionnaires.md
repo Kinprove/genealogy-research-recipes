@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "holocaust-testimony-source-interp
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public archival descriptions by historical locality and record creator"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 95}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 96}
 ---
 
 # Recover Polish district-commission questionnaires on Nazi occupation crimes

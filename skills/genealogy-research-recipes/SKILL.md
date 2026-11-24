@@ -339,6 +339,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-translocalis-local-letter-recovery.md` — Find local letters by parish or byline in Translocalis and test the collection's coverage and author identifications against the original issues.
 - `recipes/finnish-newspaper-serial-recovery.md` — Assemble a Finnish newspaper serial from issue pages, missing supplements and alternate printings before attributing an episode or dating its publication.
 - `recipes/finnish-pseudonymous-author-recovery.md` — Trace a Finnish periodical signature through published credits, the Kanto name authority and university matriculation records.
+- `recipes/posttidningar-issue-recovery.md` — Trace a missing early Posttidningar issue through title variants, archived annual directories and surviving microfilm.
 
 ### Places and maps
 
