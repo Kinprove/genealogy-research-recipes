@@ -5914,5 +5914,11 @@
   "kind": "third-party-tool",
   "action": "If the IrishGenealogy.ie search yields no entry",
   "checkpoint": "before sending the record subject’s name, event year or place to FamilySearch"
+ },
+ {
+  "recipe": "irish-emigrant-origin-locality.md",
+  "kind": "contact",
+  "action": "Ask a known relative about the deceased sibling's Irish birthplace",
+  "checkpoint": "The sender's contact details and the question identifying the deceased sibling go to the known relative."
  }
 ]

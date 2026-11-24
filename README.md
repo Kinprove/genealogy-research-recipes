@@ -337,7 +337,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [irish-1901-1911-census-returns](skills/genealogy-research-recipes/recipes/irish-1901-1911-census-returns.md) | record catalogues and original images | — | — | — | — | — |
 | [irish-catholic-parish-image-recovery](skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [irish-civil-registration-jurisdiction-recovery](skills/genealogy-research-recipes/recipes/irish-civil-registration-jurisdiction-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
-| [irish-emigrant-origin-locality](skills/genealogy-research-recipes/recipes/irish-emigrant-origin-locality.md) | record catalogues and original images | — | — | — | — | — |
+| [irish-emigrant-origin-locality](skills/genealogy-research-recipes/recipes/irish-emigrant-origin-locality.md) | record catalogues and original images | — | — | — | contact | required |
 | [irish-land-valuation-occupancy-series](skills/genealogy-research-recipes/recipes/irish-land-valuation-occupancy-series.md) | record catalogues and original images | — | — | — | — | — |
 | [irish-probate-and-deed-recovery](skills/genealogy-research-recipes/recipes/irish-probate-and-deed-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [israel-immigration-list-research](skills/genealogy-research-recipes/recipes/israel-immigration-list-research.md) | MyHeritage collection search and list scans | — | — | — | — | required |

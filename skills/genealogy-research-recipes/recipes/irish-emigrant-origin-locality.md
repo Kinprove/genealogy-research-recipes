@@ -4,13 +4,13 @@ title: "Resolve an Irish emigrant's origin locality from a place statement"
 summary: "Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "IRISH-EMIGRANT-ORIGIN-LOCALITY-01", "text": "Do not record a townland as the origin on a place-name, surname-distribution or farm-name match alone. Submit the person-specific evidence that ties this person to the townland, from destination or Irish records, and leave the identity ruling to the researcher."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
 router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 133}
 ---
 
@@ -73,6 +73,11 @@ limited to the family's later church. Each step below blocks one of these errors
 
   Keep English and Irish forms in the candidate-place table. Logainm displays both forms [S25], [S31];
   search each relevant form.
+
+- **Test an unfamiliar place on an Irish gravestone as a townland.** Copy the wording around the
+  name [S49], [S50]. If an exact search is blank, compare older spellings in historical place-name
+  records and on period maps [S49], [S51]. Use the inscription's wording to decide whether it
+  names a residence or a birthplace, and leave the place's role open if the wording is unclear.
 
 - **Look for a road bearing the recorded place name.** If the birthplace is hard to place,
   search a modern map for a road with that name in the reported county [S39]. Use a road match
@@ -146,6 +151,15 @@ Run it for the surname and county first.
 
   Each list covers one class of people, so absence from it does not prove absence from the place.
 
+- **Use MyHeritage's 1766 index through the researcher.** Have the researcher search *1766
+  Ireland Religious Census* by the name of someone who could have been listed in 1766, using
+  the residence field to narrow the results [S56 @2026-11-23]. Have them note the
+  indexed name, residence and religion in their own notes when those fields appear
+  [S55 @2026-11-23], [S56 @2026-11-23]. MyHeritage bars AI tools from accessing or interacting
+  with its site [S57 @2026-11-23]. Check the candidate parish in the Virtual Record Treasury
+  of Ireland for a surviving return, copy or abstract after either a hit or a blank index
+  search. Some returns give only totals [S58 @2026-11-23].
+
 ## Recover additional origin statements
 
 - **Look for a passport application when a deceased emigrant or relative returned to Ireland.**
@@ -164,6 +178,20 @@ Run it for the surname and county first.
   and read the passenger's stated address or residence and identifying details. Record the title,
   edition and page consulted.
 
+- **Use the RootsIreland ship-list index through the researcher.** Have the researcher check
+  *Irish Ship Passenger Lists* if the route fits and the arrival falls within 1791–1897. The
+  transcripts mainly cover Irish and British ports to the United States and Canada, with most lists dated
+  1800–1860 [S42 @2026-11-22], [S43 @2026-11-22]. RootsIreland bars AI assistants from using
+  the site [S44 @2026-11-22]. For a hit, record the PRONI microfilm reference and Irish Emigration
+  Database (IED) number and use the microfilm reference to locate the underlying list
+  [S43 @2026-11-22]. For a blank result, continue with arrival lists for the port and period.
+
+- **Compare trades and travelling companions on the manifest.** When contenders have the same
+  or similar names, compare the occupations on their entries with the emigrant's known trade near
+  the time of arrival [S45], [S46]. Read the other passengers' entries for shared Irish places or
+  onward destinations, where recorded [S45], [S47]. Treat a shared place or adjacent line as a
+  lead to test in other records before assigning kinship or an origin.
+
 - **Keep a famine-era Irish Sea crossing open when the passenger search is blank.** Travel from
   Ireland to Great Britain in 1845–1852 was within the United Kingdom [S33], [S34]. The Board of
   Trade series BT 26 and BT 27 start in 1878 and 1890 respectively and cover voyages to or from
@@ -175,6 +203,29 @@ Run it for the surname and county first.
   relationships [S36].
   If the birthplace says only “Ireland,” use the census residence to target local parish registers
   and civil birth and marriage indexes for the family [S33].
+
+- If travel dates allow an intermediate stay in Scotland on 30 March 1851, search the Scottish
+  census for the emigrant and household, even if they eventually settled overseas [S52], [S53].
+  Read each household member's birthplace and relationship to the head [S53]. If all the
+  birthplaces give only “Ireland,” use the Scottish address to target other destination records.
+
+- **Search local histories of the destination.** Look for named settlers and Irish home places
+  in city, county and neighbourhood histories. Follow named associates or institutions into
+  records that can link the emigrant to those places [S45], [S48]. Treat a shared settlement as a
+  lead and require evidence that identifies the emigrant before adopting a place.
+
+- **Use a likely sibling's village to search for the sibling's baptism.** If the emigrant's
+  baptism is missing, look for a village or townland for a deceased sibling in family papers or
+  accounts the user already holds [S52]. Use the place to identify the parish and search for the
+  sibling's baptism there [S54]. Compare the parents and other identifiers with the emigrant's
+  records before carrying the locality over to the emigrant.
+
+**Privacy gate:** <!-- privacy-gate: contact --> The sender's contact details and the question identifying the deceased sibling go to the known relative.
+
+- Ask a known relative about the deceased sibling's Irish birthplace through a route already
+  available to the user, with the user's authorization. Follow the
+  [Living people rule](../SKILL.md#living-people). Record the answer as attributed family testimony
+  and test it in the parish registers.
 
 - For a famine-era emigrant who settled in Australia, use the state death index as a locator for
   the death registration and check the gravestone inscription [S33]. For a New South Wales civil
