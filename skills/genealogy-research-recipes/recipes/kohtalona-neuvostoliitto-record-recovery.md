@@ -11,7 +11,7 @@ handoff: ["russian-military-repression-record-episodes", "soviet-personal-file-r
 checked: "2026-11-22"
 checked_basis: "Read 2026-11-22"
 capabilities: {"browse": ["Kohtalona Neuvostoliitto"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 104}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 105}
 ---
 
 # Trace a Finn in Russia or the Soviet Union through Kohtalona Neuvostoliitto

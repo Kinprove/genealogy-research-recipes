@@ -359,6 +359,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/estonian-byname-and-surname-recovery.md` — Use Estonian revision lists, farm moves and surname assignments to distinguish a place-bound byname from a name a family carried.
 - `recipes/estonian-surname-and-household-recovery.md` — Connect an Estonian surname to its assignment record and trace the earlier household through manor revisions, parish books and farm bynames.
 - `recipes/ilfov-civil-register-recovery.md` — Find historical Ilfov civil registers by matching the old locality to its catalogue page and checking coverage for the exact event type and year.
+- `recipes/mehedinti-civil-register-recovery.md` — Use Genealogica’s Mehedinți inventory to locate the relevant civil register and check what the digitized volumes cover.
 
 ### Russian Empire and Soviet Union
 
