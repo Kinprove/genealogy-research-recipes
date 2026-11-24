@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery", "tax-roll-observation-workflow"
 checked: "2026-11-22"
 checked_basis: "Read 2026-11-22"
 capabilities: {"browse": ["public catalogues and historical record images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 56}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 57}
 ---
 
 # Find Finnish archival material in Astia by creator and record type

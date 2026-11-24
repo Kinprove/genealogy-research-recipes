@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification","land-index-book-series-recover
 checked: null
 checked_basis: null
 capabilities: {"browse":["catalogues and public historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 171}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 172}
 ---
 
 # Recover historical Finnish court entries

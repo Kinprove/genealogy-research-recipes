@@ -271,6 +271,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-cousin-finder-audit.md` — Use Cousin Finder to find and audit tree-derived relationships, separate DNA matches from profile matches, and act on documented links.
 - `recipes/myheritage-family-statistics-worklists.md` — Open the profiles behind MyHeritage Family Statistics groups to investigate disconnected profiles, recorded relationships and unusual event data.
 - `recipes/myheritage-online-parent-relationships.md` — Inspect, correct and display multiple sets of parents on a MyHeritage online tree.
+- `recipes/myheritage-tree-event-and-place-audit.md` — Use MyHeritage profiles, consistency flags, timelines and PedigreeMap to turn date and location anomalies into an evidence worklist.
 
 ## Recipes: DNA
 
