@@ -16,11 +16,10 @@ router: {"section": "Record websites, libraries and maps", "group": "Books, peri
 
 # Ask for a local repository's uncatalogued holdings before reporting a negative
 
-Use when a local, county or state library, a historical or genealogical society, or a county or state
-archive has returned nothing in its catalogue or online search for the target surname or locality. Its
-uncatalogued holdings have still not been inspected. This recipe covers asking about those holdings,
-recording each one's access state, and citing what a compiled file contains. The presenters work in
-and describe US repositories, so the categories and terms below follow US practice. Use
+Use when a library, historical or genealogical society, museum or archive returns nothing in its
+catalogue or online search for the target surname, locality or item. This recipe covers asking about
+uncatalogued holdings, recording each one's access state, and citing what a compiled file contains.
+The four named categories use US terminology. Use
 [research documentation](research-documentation.md)
 for the onsite plan that separates finding an index from retrieving files. Use
 [evidence/proof judgment](evidence-proof-judgment.md)
@@ -31,6 +30,8 @@ to weigh a compiler's knowledge and conclusions.
 - Bound what the empty catalogue covers
 - Check library guides and newspaper holdings
 - Ask about four categories by name
+- Check society and museum collections
+- Check older finding aids and separate collections
 - Log each category's access state
 - Cite the file layer, not the document it copies
 - Keep the compiler's conclusions as clues
@@ -51,9 +52,21 @@ Open the website of the library serving the town even after an empty catalogue s
 Follow links to local newspaper databases, genealogy sites and photo collections such as Flickr
 [S16, S17].
 
+If the menus give no lead, search the library's website itself for keywords naming the collection
+or lookup service [S16].
+
 For newspaper issues missing online, check the town's library, according to Anna Rose Johnson
 [S15†]. Match the newspaper title and dates against the local history guide's microfilm and print
 listings [S18, S19]. Keep any uninspected dates on the worklist.
+
+If the town library's holdings have a gap, check neighboring county libraries and, for a border
+town, historical societies across the state line. If the town's former county was absorbed, check
+the successor county's library too. Match the title and target issue dates against each
+repository's holdings [S16, S41, S42].
+
+If the local newspaper's title or target dates are missing from the holdings list, search local
+history clipping files and scrapbooks separately. Search by surname, locality or subject and check
+each clipping against the target title and dates [S20, S21, S40].
 
 ## Ask about four categories by name
 
@@ -74,10 +87,79 @@ have to ask for them [S1], [S3]:
 
 When remote, ask staff to check a named family and area and to say what they checked [S9].
 
+After a failed library site search, ask the librarian which guide lists the collection or whether
+the library can do the specific lookup [S16].
+
 For photographs of a local family, check surname and locality vertical files even when the catalogue
 lists no photographs [S13]. According to Lisa Lisson [S12†], you can inspect the folders on site or
 ask staff to search them remotely. Confirm that the repository offers vertical-file
 lookups before relying on a remote search [S14].
+
+## Check society and museum collections
+
+**Privacy gate:** <!-- privacy-gate: contact --> Before an inquiry or booking with a society or museum, clear the gate for the sender's details and any names, dates and places about the people being researched that staff would receive. Apply the record-request rules if the lookup concerns anyone who may be living.
+
+If a town search yields no local society, use a state archive or statewide historical society
+directory to identify groups serving the town or county [S22, S46].
+
+For Ohio, use the Ohio Local History Alliance's Member Organizations directory and follow the
+region links to find societies serving the target locality [S46 @2026-11-23].
+
+If the society merged, trace its former name to the successor. Check the successor's finding
+aids under both society names for the collection and follow any transfer notice that names a
+different holder. If the finding aids give no destination, ask the successor where the
+collection went [S22, S44].
+
+Use the society's collection summaries and partial indexes to name the relevant series or file
+when you ask about material absent online. If the society runs a museum, ask the archivist about
+off-display records and whether to request a lookup or book a research appointment [S22–S25].
+
+For a historic property, check the local society's site for a house-plaque program. Ask for the
+house-history file or the plaque application and its supporting records by the property's period
+address [S22, S43].
+
+When a society names a digitization partner, search the partner's catalogue by contributing
+institution and collection title before treating a brief description on the society's site as the
+only online access [S22, S45].
+
+For Elgin History Museum material, follow the Illinois Digital Archives collection links in the
+museum's *Museum Collections* guide [S45 @2026-11-23].
+
+At Turku City Museum, ask which parts of the archive have detailed finding aids and whether staff
+can consult the 1996 inventory for the rest [S24, S26].
+
+## Check older finding aids and separate collections
+
+**Privacy gate:** <!-- privacy-gate: contact --> Before asking a repository to check a finding aid or holding, clear the gate for the sender's details and any titles, names, dates or places identifying the people being researched that repository staff would receive. Apply the record-request rules if the lookup concerns anyone who may be living.
+
+If Astia misses the Finnish National Archives' bound *Lääninhallituksen kuulutukset*, ask the Turku
+branch to check its library holdings and confirm how to request the volume. The bound series cited
+by Östman in 2023 was absent from an Astia search in March 2026 [S27, S28].
+
+When an Astia entry lacks the detail needed to identify a file, check the branch's onsite finding
+aids. In Turku, ask which details the catalogue-room card index or other onsite inventories can
+add [S27, S29].
+
+For an older Finnish Literature Society (SKS) Library publication missing from Finna and Helka,
+ask library staff to check the old main catalogue and the systematic subject card index [S30, S31].
+
+If Fennica lists a serial but omits the issue, give the National Library of Finland the serial
+title, issue number and year and ask staff to check the holdings [S32, S33]. In Kyläkoski's 2023
+account, the library confirmed it held the omitted issue, no. 14 (2019), and corrected its
+record [S32].
+
+For a title at Borgå Gymnasium Library in Porvoo, check the printed 1906 *Borgå lycei
+bibliotekskatalog* and ask the librarian what the later cataloguing covers. Ask for maps and
+atlases separately. A 2023 account describes the map gap in the printed catalogue, and the city's
+2026 account identifies historical atlases in the collection [S34, S35, S36].
+
+If a Finnish court pamphlet advertised in a newspaper is missing from *Finsk bok-katalog* and
+Finna, ask the National Library of Finland to search by subject in its small-print collection.
+Give the title, issuer, place, year and advertisement citation. Use the *Oikeusjutut* (Court Cases)
+group, PP1IId, for the 1810–1944 period [S38 @2026-11-22] [S39 @2026-11-22].
+
+According to Kaisa Kyläkoski [S37†], both title searches missed Otto Edvard Dyberg’s 1879 pamphlet
+*Kuopion raastuvan-oikeuden tutkinto Zimmermann'in murhajutusta*.
 
 ## Log each category's access state
 
