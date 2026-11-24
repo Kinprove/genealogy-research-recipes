@@ -360,6 +360,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/estonian-surname-and-household-recovery.md` — Connect an Estonian surname to its assignment record and trace the earlier household through manor revisions, parish books and farm bynames.
 - `recipes/ilfov-civil-register-recovery.md` — Find historical Ilfov civil registers by matching the old locality to its catalogue page and checking coverage for the exact event type and year.
 - `recipes/mehedinti-civil-register-recovery.md` — Use Genealogica’s Mehedinți inventory to locate the relevant civil register and check what the digitized volumes cover.
+- `recipes/moldavian-foreign-protection-register.md` — Find an entry in Moldavia’s 1824–1825 foreign-protection inquiry and distinguish claimed allegiance, birthplace and the commission’s decision.
 
 ### Russian Empire and Soviet Union
 

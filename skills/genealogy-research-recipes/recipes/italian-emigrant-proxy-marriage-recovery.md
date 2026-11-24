@@ -11,7 +11,7 @@ handoff: ["italian-stato-civile-parish-record-recovery", "catholic-parish-dioces
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 191}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 192}
 ---
 
 # Recover an Italian emigrant proxy-marriage file across parish, comune and consulate

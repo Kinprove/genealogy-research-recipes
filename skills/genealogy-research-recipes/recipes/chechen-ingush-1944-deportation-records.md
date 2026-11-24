@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "family-collection-intake-and-capture", "hi
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 104}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 105}
 ---
 
 # Trace a Chechen or Ingush family through the 1944 deportation and special settlement
