@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search","published-book-catalogue-and-fu
 checked: null
 checked_basis: null
 capabilities: {"browse":["catalogues and public historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 183}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 184}
 ---
 
 # Trace a historical Finnish parish observance to its diocesan order

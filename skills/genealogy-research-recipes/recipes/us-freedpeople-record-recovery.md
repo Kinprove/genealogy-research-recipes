@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 227}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 228}
 ---
 
 # Trace an African American ancestor across the 1870 boundary

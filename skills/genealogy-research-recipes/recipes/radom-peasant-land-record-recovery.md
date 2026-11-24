@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "polish-parish-and-civil-register-
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical archival catalogues and document images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 98}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 99}
 ---
 
 # Recover peasant land and settlement files for Radom Governorate

@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution","archival-image-coverage-verificati
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 100}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 101}
 ---
 
 # Find Romanian historical civil registers by locality and year

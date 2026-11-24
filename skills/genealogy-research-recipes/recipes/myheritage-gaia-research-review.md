@@ -11,7 +11,7 @@ handoff: ["myheritage-historical-record-search", "ai-for-documentary-records", "
 checked: "2026-11-22"
 checked_basis: "Read 2026-11-22"
 capabilities: {"browse": ["MyHeritage GAIA"], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 60}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 61}
 ---
 
 # Review a MyHeritage GAIA investigation and its evidence
