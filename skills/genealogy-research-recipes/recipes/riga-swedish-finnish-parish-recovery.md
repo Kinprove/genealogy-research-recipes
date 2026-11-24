@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "swedish-military-record-routi
 checked: null
 checked_basis: null
 capabilities: {"browse": ["catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 99}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 100}
 ---
 
 # Trace Riga’s Swedish–Finnish parish at St James’s

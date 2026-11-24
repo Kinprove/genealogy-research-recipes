@@ -6406,5 +6406,41 @@
   "kind": "request",
   "action": "register as a reader and order the KGB file",
   "checkpoint": "A KGB file order sends the subject's file locator"
+ },
+ {
+  "recipe": "myheritage-photo-tag-review-and-retrieval.md",
+  "kind": "upload",
+  "action": "Upload a reviewed photo batch",
+  "checkpoint": "Authorized family photos of the people pictured"
+ },
+ {
+  "recipe": "myheritage-photo-tag-review-and-retrieval.md",
+  "kind": "link",
+  "action": "Apply a manual tag only to an independently supported identification.",
+  "checkpoint": "A named tree profile and the selected photo become linked on the MyHeritage site."
+ },
+ {
+  "recipe": "myheritage-photo-tag-review-and-retrieval.md",
+  "kind": "link",
+  "action": "add only the authorized, supported selections",
+  "checkpoint": "The selected image and its connection"
+ },
+ {
+  "recipe": "myheritage-photo-tag-review-and-retrieval.md",
+  "kind": "third-party-tool",
+  "action": "Upload a reviewed photo batch",
+  "checkpoint": "When Photo Tagger is enabled, it automatically scans new uploads for face suggestions on MyHeritage"
+ },
+ {
+  "recipe": "myheritage-photo-tag-review-and-retrieval.md",
+  "kind": "third-party-tool",
+  "action": "Inspect the underlying photo before relying on the tag.",
+  "checkpoint": "Opening an eligible undated image on its desktop Photo Page can trigger MyHeritage PhotoDater."
+ },
+ {
+  "recipe": "myheritage-photo-tag-review-and-retrieval.md",
+  "kind": "third-party-tool",
+  "action": "open the individual photo from My Photos on desktop",
+  "checkpoint": "Opening an eligible undated image on its desktop Photo Page can trigger MyHeritage PhotoDater."
  }
 ]

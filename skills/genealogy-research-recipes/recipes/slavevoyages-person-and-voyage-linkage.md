@@ -11,7 +11,7 @@ handoff: ["british-colonial-slave-registers", "us-freedpeople-record-recovery", 
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 67}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 68}
 ---
 
 # Trace a person or forced movement in SlaveVoyages

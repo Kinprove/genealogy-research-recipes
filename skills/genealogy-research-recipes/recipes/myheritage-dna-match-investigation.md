@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 36}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 37}
 ---
 
 # Recipe: MyHeritage DNA match investigation playbook

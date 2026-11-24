@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "manuscript-collection-recovery
 checked: "2026-11-22"
 checked_basis: "Read 2026-11-22"
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 198}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 199}
 ---
 
 # Identify a Finnish imperial observance in diocesan and local records

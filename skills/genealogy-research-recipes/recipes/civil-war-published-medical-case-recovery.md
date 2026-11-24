@@ -11,7 +11,7 @@ handoff: ["us-civil-war-service-record-episodes","confederate-hospital-record-re
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 267}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 268}
 ---
 
 # Find a Civil War patient in the published Medical and Surgical History

@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "newspaper-finder-title-coverag
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public historical records and finding aids"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 76}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 77}
 ---
 
 # Recover related issues and editions of a historical Finnish newspaper item
