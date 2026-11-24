@@ -499,6 +499,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/merida-badajoz-ecclesiastical-fonds.md` — Route a Mérida-Badajoz inquiry to episcopal, cathedral, parish or military-order records and interpret gaps in descriptions and survival.
 - `recipes/merida-badajoz-parish-household-lists.md` — Use ecclesiastical censuses and Easter observance lists to reconstruct Mérida-Badajoz households without turning an age label or omission into a vital event.
 - `recipes/merida-badajoz-pastoral-visitation-records.md` — Find an ecclesiastical visitor or reconstruct parish conditions from the separate Mérida-Badajoz visitation and parish returns.
+- `recipes/norwegian-refugees-in-wartime-sweden.md` — Use the Norwegian reception card and refugee number to trace a border crossing, interview and possible camp placement in wartime Sweden.
 
 ### United States: people, vital and church records
 

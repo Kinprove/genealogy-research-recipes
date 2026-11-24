@@ -11,7 +11,7 @@ handoff: ["us-census-practical-workflows", "city-directory-observation-workflow"
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 224}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 225}
 ---
 
 # Interpret historical U.S. voter-register coverage
