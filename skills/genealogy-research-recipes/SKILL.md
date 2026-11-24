@@ -373,6 +373,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/radom-peasant-land-record-recovery.md` — Find peasant land records for Russian-partition Radom Governorate by village division, office and file type.
 - `recipes/riga-swedish-finnish-parish-recovery.md` — Route a Swedish–Finnish parish event or clergy appointment in Riga through the St James’s register gaps, language changes and career sources.
 - `recipes/romanian-eanr-civil-register-recovery.md` — Find a historical Romanian civil or Transylvanian confessional act by locality, event type and year using Genealogica, eANR register images and county archival inventories.
+- `recipes/romanian-historical-census-household-recovery.md` — Locate Romanian census household records by census-year jurisdiction and distinguish original household schedules from surviving summaries and archive extracts.
 
 ### Russian Empire and Soviet Union
 

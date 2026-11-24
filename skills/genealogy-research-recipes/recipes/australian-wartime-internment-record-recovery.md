@@ -11,7 +11,7 @@ handoff: ["australia-nz-record-routing", "archival-image-coverage-verification",
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and documentation"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 291}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 292}
 ---
 
 # Recover an Australian Second World War internment file

@@ -11,7 +11,7 @@ handoff: ["us-vital-registration-coverage","canadian-provincial-record-routing",
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":["request"],"contact":[]}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 310}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 311}
 ---
 
 # Find coroner and medical examiner records behind a death entry

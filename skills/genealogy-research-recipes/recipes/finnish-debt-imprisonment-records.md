@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "historical-place-name-resolution", "newspa
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public historical catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 181}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 182}
 ---
 
 # Trace Finnish debt imprisonment and bankruptcy

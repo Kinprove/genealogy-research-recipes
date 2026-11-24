@@ -11,7 +11,7 @@ handoff: ["us-national-archives-finding-aids-and-microfilm", "us-marine-corps-mu
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 273}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 274}
 ---
 
 # Recover U.S. service records for the Mexican border and Punitive Expedition

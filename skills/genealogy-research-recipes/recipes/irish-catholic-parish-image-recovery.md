@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 148}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 149}
 ---
 
 # Recover an Irish Catholic parish entry at the NLI

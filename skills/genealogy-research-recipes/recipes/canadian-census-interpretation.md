@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 276}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 277}
 ---
 
 # Interpret a historical Canadian census entry as a de jure listing
