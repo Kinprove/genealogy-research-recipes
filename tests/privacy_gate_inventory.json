@@ -6364,5 +6364,47 @@
   "kind": "third-party-tool",
   "action": "search the JewishGen index to the Bergen-Belsen Memorial",
   "checkpoint": "A person search in the Bergen-Belsen index sends the name and any identifying search terms to JewishGen."
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's **Former Russian Empire, World War I Casualties**",
+  "checkpoint": "MyHeritage searches send the servicemember's name to MyHeritage,"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's **Soviet Union, World War II Jewish Casualties**",
+  "checkpoint": "MyHeritage searches send the servicemember's name to MyHeritage,"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's **Ukraine, World War II Casualties**",
+  "checkpoint": "MyHeritage searches send the servicemember's name to MyHeritage,"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's **Soviet Prisoners of World War II Held in Germany**",
+  "checkpoint": "MyHeritage searches send the servicemember's name to MyHeritage,"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "third-party-tool",
+  "action": "Search by surname and given name, try Lithuanian and Russian-derived spellings",
+  "checkpoint": "An index query sends the subject's name"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "third-party-tool",
+  "action": "Check the EAIS digital reading room for a scan of the cited file",
+  "checkpoint": "An index query sends the subject's name"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "register as a reader and order the KGB file",
+  "checkpoint": "A KGB file order sends the subject's file locator"
  }
 ]
