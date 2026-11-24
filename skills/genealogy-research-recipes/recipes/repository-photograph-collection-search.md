@@ -11,7 +11,7 @@ handoff: ["family-photograph-attribution-and-dating", "soviet-personal-file-reco
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 306}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 307}
 ---
 
 # Search repository photograph collections by place and subject

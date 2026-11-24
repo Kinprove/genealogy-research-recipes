@@ -520,6 +520,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-historical-passport-application-recovery.md` — Find U.S. passport applications through March 1925 and separate recorded identity, companions and planned travel from the journey itself.
 - `recipes/declaration-signer-descendant-records.md` — Find lineage leads for a named Declaration signer in the Leach manuscripts and the indexed society application files.
 - `recipes/great-miami-hurricane-family-records.md` — Test a reported death, injury or displacement after the 1926 Great Miami Hurricane through named casualty lists, vital records and later households.
+- `recipes/new-jersey-marriage-index-recovery.md` — Decode New Jersey marriage index numbers and place fields, then route the underlying certificate by marriage year.
 
 ### United States: military, land, courts and law
 
