@@ -594,6 +594,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/family-archives-material-storage.md` — Choose protective enclosures for fragile family originals while preserving the evidence that links loose items to their original homes.
 - `recipes/mylio-historical-photo-date-and-worklist.md` — Use Mylio Photos to keep uncertain original photo dates, review queues, event groups and a local backup for a scan project.
 - `recipes/vaud-foundling-baptism-and-naming-records.md` — Follow a Vaud foundling’s baptismal note into a dated naming or placement inquiry and identify which relationship each record establishes.
+- `recipes/heraldic-arms-bearer-attribution.md` — Trace a crest or coat of arms from an artifact to a recorded bearer and test whether that bearer belongs to the researched branch.
 
 <!-- recipe-catalog:end -->
 
