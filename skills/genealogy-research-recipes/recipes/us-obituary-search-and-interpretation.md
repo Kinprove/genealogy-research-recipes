@@ -11,7 +11,7 @@ handoff: ["newspapers-com-search-recovery", "evidence-proof-judgment", "burial-e
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["newspaper archives, obituary indexes and original page images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 200}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 201}
 ---
 
 # Find and interpret obituaries in U.S. newspapers
