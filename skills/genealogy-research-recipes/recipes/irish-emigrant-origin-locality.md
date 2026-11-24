@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 147}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 148}
 ---
 
 # Resolve an Irish emigrant's origin locality from a place statement

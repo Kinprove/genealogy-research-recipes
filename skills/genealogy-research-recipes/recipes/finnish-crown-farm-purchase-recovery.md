@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution","tax-roll-observation-workflow","de
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues, reference works and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 182}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 183}
 ---
 
 # Trace a Finnish Crown farm’s conversion to hereditary ownership

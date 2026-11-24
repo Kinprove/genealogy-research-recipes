@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "family-photograph-attribution-and
 checked: null
 checked_basis: null
 capabilities: {"browse": ["catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 84}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 85}
 ---
 
 # Find Romanian Chamber of Labour personnel files
