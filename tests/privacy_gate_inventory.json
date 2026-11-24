@@ -5986,5 +5986,83 @@
   "kind": "third-party-tool",
   "action": "Search Katiha by surname, parish and record type",
   "checkpoint": "A name search sends the subject’s name"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask the librarian which guide lists the collection",
+  "checkpoint": "Before contacting library or archive staff"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "when you ask about material absent online",
+  "checkpoint": "Before an inquiry or booking with a society or museum"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask the archivist about off-display records",
+  "checkpoint": "Before an inquiry or booking with a society or museum"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask which parts of the archive have detailed finding aids",
+  "checkpoint": "Before an inquiry or booking with a society or museum"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "branch to check its library holdings",
+  "checkpoint": "Before asking a repository to check a finding aid or holding"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask which details the catalogue-room card index",
+  "checkpoint": "Before asking a repository to check a finding aid or holding"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask library staff to check the old main catalogue",
+  "checkpoint": "Before asking a repository to check a finding aid or holding"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "give the National Library of Finland the serial title",
+  "checkpoint": "Before asking a repository to check a finding aid or holding"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask the librarian what the later cataloguing covers",
+  "checkpoint": "Before asking a repository to check a finding aid or holding"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "Ask for maps and atlases separately",
+  "checkpoint": "Before asking a repository to check a finding aid or holding"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask the National Library of Finland to search by subject",
+  "checkpoint": "Before asking a repository to check a finding aid or holding"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask the successor where the collection went",
+  "checkpoint": "Before an inquiry or booking with a society or museum"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "Ask for the house-history file",
+  "checkpoint": "Before an inquiry or booking with a society or museum"
  }
 ]
