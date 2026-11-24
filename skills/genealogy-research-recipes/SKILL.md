@@ -369,6 +369,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/mehedinti-civil-register-recovery.md` — Use Genealogica’s Mehedinți inventory to locate the relevant civil register and check what the digitized volumes cover.
 - `recipes/moldavian-foreign-protection-register.md` — Find an entry in Moldavia’s 1824–1825 foreign-protection inquiry and distinguish claimed allegiance, birthplace and the commission’s decision.
 - `recipes/polish-district-commission-questionnaires.md` — Find postwar Polish district-commission questionnaires by locality and distinguish reported arrests, forced labour, returns and later fate.
+- `recipes/radom-peasant-land-record-recovery.md` — Find peasant land records for Russian-partition Radom Governorate by village division, office and file type.
 
 ### Russian Empire and Soviet Union
 

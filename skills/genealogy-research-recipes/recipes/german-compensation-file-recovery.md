@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 136}
+router: {"section": "Records by country and region", "group": "Germany", "order": 137}
 ---
 
 # Recover a German compensation file from a Lastenausgleich or Wiedergutmachung index hit
