@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "scandinavian-parish-record-rec
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 177}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 178}
 ---
 
 # Identify an imperial observance in nineteenth-century Finland

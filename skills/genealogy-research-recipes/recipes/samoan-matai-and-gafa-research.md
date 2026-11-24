@@ -11,7 +11,7 @@ handoff: ["family-interviews-and-oral-tradition", "australia-nz-record-routing"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 248}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 249}
 ---
 
 # Trace a Samoan family through matai titles, villages and gafa

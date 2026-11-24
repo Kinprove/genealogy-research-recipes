@@ -433,6 +433,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/durham-home-guard-record-recovery.md` — Trace a County Durham Home Guard candidate from the name index to the original WO 409 enrolment form and identify the unit.
 - `recipes/england-wales-historical-divorce-recovery.md` — Trace an England or Wales divorce from an index hit to the court papers and distinguish allegations, petitions and decrees.
 - `recipes/english-chancery-equity-suit-recovery.md` — Find an English Court of Chancery dispute by party, then retrieve its pleadings, depositions, orders and decrees as separate records.
+- `recipes/irish-famine-relief-record-recovery.md` — Use a known Irish locality to search Famine relief correspondence and workhouse registers for a household missing from ordinary records.
 
 ### Western and Northern Europe
 
