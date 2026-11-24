@@ -5848,5 +5848,11 @@
   "kind": "third-party-tool",
   "action": "Search the chosen index with the deceased subject’s name",
   "checkpoint": "A civil-index query sends the deceased subject’s name"
+ },
+ {
+  "recipe": "heraldic-arms-bearer-attribution.md",
+  "kind": "request",
+  "action": "request the arms record from the responsible heraldic office",
+  "checkpoint": "A heraldic search request sends the bearer’s name"
  }
 ]
