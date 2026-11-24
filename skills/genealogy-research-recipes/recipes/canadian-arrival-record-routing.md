@@ -11,7 +11,7 @@ handoff: ["usa-immigration-search-recovery", "canadian-census-interpretation", "
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 250}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 251}
 ---
 
 # Route an arrival in Canada by date and direction
