@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "criminal-court-prison-record-r
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["Scottish Indexes and NRS catalogue searches"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 138}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 139}
 ---
 
 # Find and read Scottish High Court precognitions and trial papers

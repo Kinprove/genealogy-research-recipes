@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "scandinavian-parish-record-recove
 checked: null
 checked_basis: null
 capabilities: {"browse": ["Finnish parish images and historical survey records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 176}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 177}
 ---
 
 # Recover Finnish farm subdivision minutes under the parent holding
