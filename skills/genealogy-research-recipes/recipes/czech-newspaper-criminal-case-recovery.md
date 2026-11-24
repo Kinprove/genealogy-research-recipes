@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search","newspaper-finder-title-coverage
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 84}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 85}
 ---
 
 # Trace a historical Czech criminal case through newspapers

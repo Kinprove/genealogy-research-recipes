@@ -11,7 +11,7 @@ handoff: ["newspaper-finder-title-coverage", "historical-newspaper-section-searc
 checked: "2026-11-22"
 checked_basis: "read 2026-11-22"
 capabilities: {"browse": ["catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 52}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 53}
 ---
 
 # Search historical newspapers with Elephind

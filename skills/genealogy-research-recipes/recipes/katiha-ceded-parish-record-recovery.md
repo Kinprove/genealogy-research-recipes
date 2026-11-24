@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery", "archival-image-coverage-verifi
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 198}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 199}
 ---
 
 # Recover ceded Finnish parish records through Katiha

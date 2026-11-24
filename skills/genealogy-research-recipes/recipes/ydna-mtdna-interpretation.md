@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-match-outreach-staging"]
 checked: "2026-07-18"
 checked_basis: "accessed 2026-07-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 26}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 27}
 ---
 
 # Recipe: Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish

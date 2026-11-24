@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "catholic-parish-diocesan-reco
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 157}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 158}
 ---
 
 # Recover an Italian ancestor in the Stato civile, parish books and conscription lists
