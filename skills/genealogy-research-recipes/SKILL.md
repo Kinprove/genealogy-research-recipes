@@ -268,6 +268,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-profile-hint-extraction.md` — Review the evidence behind a MyHeritage Hint, compare conflicting values and save only the supported facts or relationships.
 - `recipes/myheritage-country-coding-place-audit.md` — Use MyHeritage Country Coding to review uncoded locality names and modern flags that can misrepresent historical jurisdictions.
 - `recipes/myheritage-ai-biography-source-audit.md` — Generate a scoped MyHeritage AI Biography and trace conflicts, footnotes and photo omissions back to the underlying records and profiles.
+- `recipes/myheritage-cousin-finder-audit.md` — Use Cousin Finder to find and audit tree-derived relationships, separate DNA matches from profile matches, and act on documented links.
 
 ## Recipes: DNA
 

@@ -6088,5 +6088,29 @@
   "kind": "upload",
   "action": "Add documented occupation, education or immigration facts",
   "checkpoint": "Documented profile fields about the deceased person"
+ },
+ {
+  "recipe": "myheritage-cousin-finder-audit.md",
+  "kind": "link",
+  "action": "Enable Smart Matching for the chosen tree",
+  "checkpoint": "Tree profiles and relationships of the people included"
+ },
+ {
+  "recipe": "myheritage-cousin-finder-audit.md",
+  "kind": "upload",
+  "action": "Import a reviewed GEDCOM into the intended family site",
+  "checkpoint": "The selected relatives’ GEDCOM profiles"
+ },
+ {
+  "recipe": "myheritage-cousin-finder-audit.md",
+  "kind": "upload",
+  "action": "Add supported profiles or events to the chosen tree",
+  "checkpoint": "New documented profiles and vital events"
+ },
+ {
+  "recipe": "myheritage-cousin-finder-audit.md",
+  "kind": "contact",
+  "action": "Use Contact on a displayed result",
+  "checkpoint": "The sender’s identity, the recipient’s own data"
  }
 ]

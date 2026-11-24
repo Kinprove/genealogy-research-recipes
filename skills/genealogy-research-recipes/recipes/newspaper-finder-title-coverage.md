@@ -11,7 +11,7 @@ handoff: ["newspapers-com-search-recovery", "historical-newspaper-section-search
 checked: "2026-11-20"
 checked_basis: "Read 2026-11-20"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 46}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 47}
 ---
 
 # Find a digitized newspaper by title, place and issue date

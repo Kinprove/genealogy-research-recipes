@@ -11,7 +11,7 @@ handoff: ["familysearch-practical-record-workflows", "historical-place-name-reso
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 48}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 49}
 ---
 
 # Find the right locality and record guide in the FamilySearch Research Wiki
