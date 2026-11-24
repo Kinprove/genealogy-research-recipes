@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "beider-given-nam
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 118}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 119}
 ---
 
 # Recipe: Name mismatch in a Russian-Empire Jewish family — which branch, and what DNA can still say
