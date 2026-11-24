@@ -563,6 +563,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/australian-wartime-internment-record-recovery.md` — Distinguish a civilian internee from a captured serviceman and use Australian detention, registration and appeal series to reconstruct the person’s records.
 - `recipes/buenos-aires-passenger-arrival-recovery.md` — Trace a historical Buenos Aires sea arrival from the CEMLA index to Argentina’s passenger entry books or later migration records.
 - `recipes/haitian-historical-record-recovery.md` — Route searches for deceased people in Haiti to a locality’s civil registers or to the distinct Saint-Domingue compensation volumes.
+- `recipes/jamaican-parish-civil-record-recovery.md` — Route a Jamaican birth, marriage or death to the civil register, Anglican transcripts or separate Dissenter marriage books.
 
 ## Recipes: Record types in any country
 
