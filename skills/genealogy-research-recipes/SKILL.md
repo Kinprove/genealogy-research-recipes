@@ -379,6 +379,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/soviet-personal-file-recovery.md` — Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost.
 - `recipes/russian-military-repression-record-episodes.md` — Read Russian WWI, Soviet WWII and repression records as separate dated episodes before merging them into one life.
 - `recipes/chechen-ingush-1944-deportation-records.md` — Trace a Chechen or Ingush family through the 1944 deportation and special settlement, under old and new place names.
+- `recipes/kohtalona-neuvostoliitto-record-recovery.md` — Find a deceased Finn’s Kohtalona Neuvostoliitto card by historical locality, then trace migration and repression details to their own underlying sources.
 
 ### Jewish records
 

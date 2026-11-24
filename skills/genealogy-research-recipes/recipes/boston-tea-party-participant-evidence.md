@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "us-military-service-type-record-routing", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 233}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 234}
 ---
 
 # Verify a claim of Boston Tea Party participation
