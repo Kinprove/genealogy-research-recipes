@@ -11,7 +11,7 @@ handoff: ["gedcom-research-export"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": ["contact"]}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 15}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 16}
 ---
 
 # Build a ranked descendancy gap worklist

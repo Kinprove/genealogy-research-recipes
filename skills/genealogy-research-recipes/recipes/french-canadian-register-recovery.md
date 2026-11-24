@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 238}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 239}
 ---
 
 # Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts

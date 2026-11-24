@@ -11,7 +11,7 @@ handoff: ["city-directory-observation-workflow", "deed-content-relationship-clue
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 130}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 131}
 ---
 
 # Recover an Irish will, grant or deed after the 1922 losses

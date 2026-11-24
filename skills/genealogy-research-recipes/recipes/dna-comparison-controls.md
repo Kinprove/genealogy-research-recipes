@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "gedmatch-practical-dna-workflows", "xdna-phasi
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 25}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 26}
 ---
 
 # Recipe: DNA comparison controls across services

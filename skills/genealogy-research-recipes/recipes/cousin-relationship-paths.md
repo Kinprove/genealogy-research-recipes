@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "genealogical-numbering-systems"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 18}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 19}
 ---
 
 # Classify cousin relationships along every documented pedigree path

@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 188}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 189}
 ---
 
 # Find the custodian of a U.S. church record before calling it missing

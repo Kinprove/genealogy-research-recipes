@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-03"
 checked_basis: "checked 2026-11-03"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 217}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 218}
 ---
 
 # Recover a state legislative private act and its petition

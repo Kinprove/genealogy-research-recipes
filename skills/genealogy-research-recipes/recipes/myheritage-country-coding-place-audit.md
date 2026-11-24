@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "evidence-proof-judgment"]
 checked: "2026-11-21"
 checked_basis: "Read 2026-11-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["upload", "export"], "contact": []}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 20}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 21}
 ---
 
 # Audit a MyHeritage tree with Country Coding
