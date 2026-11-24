@@ -5854,5 +5854,11 @@
   "kind": "request",
   "action": "request the arms record from the responsible heraldic office",
   "checkpoint": "A heraldic search request sends the bearer’s name"
+ },
+ {
+  "recipe": "illegitimacy-record-recovery.md",
+  "kind": "contact",
+  "action": "ask the foster family whether it kept a court child-support order or verdict",
+  "checkpoint": "A message to a foster family or an intermediary can disclose the child’s identity"
  }
 ]
