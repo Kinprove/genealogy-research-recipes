@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "deed-content-relationship-clues", "evid
 checked: "2026-11-13"
 checked_basis: "read 2026-11-13"
 capabilities: {"browse": ["state archive and land office pages, databases and file images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 242}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 243}
 ---
 # Read Georgia and Texas original land grants: lottery draws, headright classes and the land office file
 

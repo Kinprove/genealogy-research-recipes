@@ -6334,5 +6334,11 @@
   "kind": "third-party-tool",
   "action": "Search the Roots Web collection by message subject or a distinctive phrase",
   "checkpoint": "The list name goes to Cyndi’s List"
+ },
+ {
+  "recipe": "finnish-newspaper-reprints-and-serials.md",
+  "kind": "third-party-tool",
+  "action": "Search Finnish- and Swedish-language versions using the reported place, people and event",
+  "checkpoint": "A search using a person’s name, an identifying place or an event sends those terms to the Digi digitized publications service."
  }
 ]

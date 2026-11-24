@@ -11,7 +11,7 @@ handoff: ["polish-index-original-record-recovery", "galicia-bukovina-habsburg-re
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 83}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 84}
 ---
 
 # Route a Polish birth, marriage or death to the right register
