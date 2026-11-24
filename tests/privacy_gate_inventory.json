@@ -5920,5 +5920,11 @@
   "kind": "contact",
   "action": "Ask a known relative about the deceased sibling's Irish birthplace",
   "checkpoint": "The sender's contact details and the question identifying the deceased sibling go to the known relative."
+ },
+ {
+  "recipe": "italian-military-internee-record-recovery.md",
+  "kind": "request",
+  "action": "Request the historical death entry from the archive",
+  "checkpoint": "The municipal archive or registrar would receive the deceased internee’s name and register locator and any requested proof that may identify living relatives. Clear the privacy gate in SKILL.md before sending"
  }
 ]
