@@ -5860,5 +5860,35 @@
   "kind": "contact",
   "action": "ask the foster family whether it kept a court child-support order or verdict",
   "checkpoint": "A message to a foster family or an intermediary can disclose the child’s identity"
+ },
+ {
+  "recipe": "intercountry-adoption-record-discrepancies.md",
+  "kind": "contact",
+  "action": "ask the organization through its public contact channel",
+  "checkpoint": "The adoptee’s reply details and a minimal inquiry about search assistance"
+ },
+ {
+  "recipe": "intercountry-adoption-record-discrepancies.md",
+  "kind": "request",
+  "action": "ask the Operation Babylift Collection to check",
+  "checkpoint": "The adoptee’s names, placement dates and any necessary redacted record copies"
+ },
+ {
+  "recipe": "intercountry-adoption-record-discrepancies.md",
+  "kind": "request",
+  "action": "Start with a Korean Adoption Information Disclosure request",
+  "checkpoint": "The adoptee’s identity, required proof and any necessary adoption details"
+ },
+ {
+  "recipe": "intercountry-adoption-record-discrepancies.md",
+  "kind": "request",
+  "action": "Apply for the Certificate of Adoptee Without Identifying Birth Parent Information",
+  "checkpoint": "The adoptee’s identity, required proof and any necessary adoption details"
+ },
+ {
+  "recipe": "intercountry-adoption-record-discrepancies.md",
+  "kind": "upload",
+  "action": "register the adoptee’s DNA through fresh sample collection",
+  "checkpoint": "The adoptee’s fresh DNA sample, eligibility certificate and identification"
  }
 ]
