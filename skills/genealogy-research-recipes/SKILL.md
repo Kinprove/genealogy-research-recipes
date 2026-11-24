@@ -270,6 +270,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-ai-biography-source-audit.md` — Generate a scoped MyHeritage AI Biography and trace conflicts, footnotes and photo omissions back to the underlying records and profiles.
 - `recipes/myheritage-cousin-finder-audit.md` — Use Cousin Finder to find and audit tree-derived relationships, separate DNA matches from profile matches, and act on documented links.
 - `recipes/myheritage-family-statistics-worklists.md` — Open the profiles behind MyHeritage Family Statistics groups to investigate disconnected profiles, recorded relationships and unusual event data.
+- `recipes/myheritage-online-parent-relationships.md` — Inspect, correct and display multiple sets of parents on a MyHeritage online tree.
 
 ## Recipes: DNA
 

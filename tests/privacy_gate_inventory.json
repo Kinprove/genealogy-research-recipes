@@ -6274,5 +6274,23 @@
   "kind": "third-party-tool",
   "action": "retry an earlier OCR miss on OldNews",
   "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-online-parent-relationships.md",
+  "kind": "publish",
+  "action": "Add a parent set from Manage parents",
+  "checkpoint": "Saving parent names or a corrected relationship"
+ },
+ {
+  "recipe": "myheritage-online-parent-relationships.md",
+  "kind": "publish",
+  "action": "Correct the assigned parent type",
+  "checkpoint": "A change of type shares the child’s and affected parents’"
+ },
+ {
+  "recipe": "myheritage-online-parent-relationships.md",
+  "kind": "link",
+  "action": "Link an existing parent profile",
+  "checkpoint": "Linking existing profiles records the child’s and selected parent’s association"
  }
 ]
