@@ -6322,5 +6322,17 @@
   "kind": "contact",
   "action": "use its feedback form to identify the image",
   "checkpoint": "A record feedback message sends the item identifier"
+ },
+ {
+  "recipe": "rootsweb-broken-link-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Look up the original list name in Cyndi’s List",
+  "checkpoint": "The list name goes to Cyndi’s List"
+ },
+ {
+  "recipe": "rootsweb-broken-link-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the Roots Web collection by message subject or a distinctive phrase",
+  "checkpoint": "The list name goes to Cyndi’s List"
  }
 ]
