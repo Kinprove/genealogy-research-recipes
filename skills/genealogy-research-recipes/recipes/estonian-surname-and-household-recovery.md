@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "russian-revision-list-househo
 checked: null
 checked_basis: null
 capabilities: {"browse": ["Rahvusarhiiv VAU, AIS, Saaga and Onomastika", "historical registers and tax lists"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 91}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 92}
 ---
 
 # Trace an Estonian household across surname assignment
