@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "land-index-book-series-recovery",
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 193}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 194}
 ---
 
 # Trace a historical Italian property through the cadastre and notarial acts

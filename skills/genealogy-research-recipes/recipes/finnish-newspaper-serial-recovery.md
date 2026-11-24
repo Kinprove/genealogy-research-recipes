@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search","periodical-index-search-retriev
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":["third-party-tool"],"contact":[]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 67}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 68}
 ---
 
 # Reconstruct Finnish historical newspaper serials and reprints

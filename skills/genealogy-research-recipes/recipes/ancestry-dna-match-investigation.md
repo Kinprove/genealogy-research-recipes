@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "dna-match-outrea
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["ancestrydna"], "local_script": [], "extensions": ["browser extension view comparison (optional)"], "data_transfer": ["link", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 28}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 29}
 ---
 
 # AncestryDNA: eight practical ways to investigate matches
