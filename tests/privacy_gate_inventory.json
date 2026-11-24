@@ -6304,5 +6304,11 @@
   "kind": "request",
   "action": "Prepare a copy request for the underlying marriage record",
   "checkpoint": "The spouses’ identifying details and any required proof from the applicant go to the New Jersey office selected in the preceding step."
+ },
+ {
+  "recipe": "new-york-city-vital-certificate-extraction.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s separate",
+  "checkpoint": "any names, dates or places you would send to MyHeritage that identify people who may be living"
  }
 ]
