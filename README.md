@@ -328,7 +328,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [holocaust-register-and-survivor-list-recovery](skills/genealogy-research-recipes/recipes/holocaust-register-and-survivor-list-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [holocaust-testimony-source-interpretation](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md) | record catalogues and original images | — | — | request | contact | required |
 | [ilfov-civil-register-recovery](skills/genealogy-research-recipes/recipes/ilfov-civil-register-recovery.md) | public catalogues, documentation and historical records | — | — | — | — | — |
-| [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | request | contact | required |
 | [immigrant-congregation-origin-records](skills/genealogy-research-recipes/recipes/immigrant-congregation-origin-records.md) | record catalogues and original images | — | — | request | — | required |
 | [india-great-famine-household-record-recovery](skills/genealogy-research-recipes/recipes/india-great-famine-household-record-recovery.md) | source guides, catalogues and the relevant record or session | — | — | — | — | — |
 | [institutional-patient-record-recovery](skills/genealogy-research-recipes/recipes/institutional-patient-record-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
