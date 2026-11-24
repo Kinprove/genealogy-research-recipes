@@ -10,7 +10,7 @@ guardrails: [{"id": "IRISH-CATHOLIC-PARISH-IMAGE-RECOVERY-01", "text": "Carry an
 handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 131}
 ---
 
@@ -56,6 +56,11 @@ Search the NLI parish name or use its map to inspect the locality. Confirm the C
 and diocese before selecting a register: a civil parish or townland is a different geographic
 unit. The map supports adjoining-parish discovery; it is not an exact boundary map. [O1]
 
+Identify the parish type from the source's church name, denomination or collection heading.
+For a Catholic event with a Church of Ireland or unqualified parish label, use the recorded
+townland or street to identify the Catholic parish that served the place at the event date.
+Confirm that jurisdiction before selecting a same-name register. [S9, S10]
+
 Read the selected parish's register information. Record microfilm/item, event type and available
 dates, then open the corresponding register image or microfilm link. A parish can have several
 volumes covering different events and years, as the Ancestry demonstration shows. [P3, O1]
@@ -90,6 +95,23 @@ alone does not establish that coverage.
 For the NLI register-image site, the documented search is by parish, not a person's name.
 Use the parish/date/event from an external index or transcription to choose the image sequence,
 or browse the defined register directly. [O1]
+
+If the NLI images lack the target event or year, check RootsIreland for the baptism, marriage or
+burial. Choose the county or genealogy centre under **Online Sources**
+[S9 @2026-11-22] [S11 @2026-11-22] [S12 @2026-11-22].
+Check the Roman Catholic parish row for the event column, date range and any listed gaps
+[S13 @2026-11-22]. Record the list URL and mark an omitted event or year as an index coverage gap.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A named lookup sends the subject's name and event details to RootsIreland. Apply the privacy gate in `SKILL.md` before entering those fields.
+
+Search the listed Catholic series when it covers the event and year. Save a hit as a
+transcription lead. Use its parish, event and date to select an NLI image sequence where one is available.
+
+After an earlier RootsIreland miss, compare the logged coverage with the current county list
+[S16 @2026-11-23] and check for additions dated after that search [S15 @2026-11-23]
+(coverage lead from the available excerpt [S14 @2026-11-23]). Repeat the named lookup when the
+added coverage includes the target Catholic parish, event type and year. Record the change,
+its source URL and the retry date.
 
 In the 2022 RootsIreland demonstration, a baptism transcription supplies the parish and a link
 to NLI. In the 2024 comparison, a Findmypast transcript has both an NLI register link and a

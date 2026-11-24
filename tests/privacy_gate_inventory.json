@@ -5890,5 +5890,17 @@
   "kind": "upload",
   "action": "register the adoptee’s DNA through fresh sample collection",
   "checkpoint": "The adoptee’s fresh DNA sample, eligibility certificate and identification"
+ },
+ {
+  "recipe": "irish-catholic-parish-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the listed Catholic series when it covers the event and year",
+  "checkpoint": "A named lookup sends the subject's name and event details to RootsIreland"
+ },
+ {
+  "recipe": "irish-catholic-parish-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Repeat the named lookup when the added coverage includes the target Catholic parish",
+  "checkpoint": "A named lookup sends the subject's name and event details to RootsIreland"
  }
 ]
