@@ -6466,5 +6466,35 @@
   "kind": "request",
   "action": "If requesting the federal file",
   "checkpoint": "receives the subject’s name, parents’ names, city"
+ },
+ {
+  "recipe": "scandinavian-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search FamilySearch's *Sweden, Household Examination Books, 1874–1931*",
+  "checkpoint": "the names, dates and places sent to FamilySearch or Umeå University's Familia"
+ },
+ {
+  "recipe": "scandinavian-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search Familia for linked parish entries",
+  "checkpoint": "the names, dates and places sent to FamilySearch or Umeå University's Familia"
+ },
+ {
+  "recipe": "scandinavian-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the index for the death date and register reference",
+  "checkpoint": "the names, dates and parish that the church-book index query sends to FamilySearch"
+ },
+ {
+  "recipe": "scandinavian-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Run a Digihakemisto text search for the missing person",
+  "checkpoint": "the names, dates and places of each person whose search terms go to Digihakemisto or FamilySearch"
+ },
+ {
+  "recipe": "scandinavian-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search FamilySearch's *Finland, Church Census and Pre-Confirmation Books, 1600–1916*",
+  "checkpoint": "the names, dates and places of each person whose search terms go to Digihakemisto or FamilySearch"
  }
 ]
