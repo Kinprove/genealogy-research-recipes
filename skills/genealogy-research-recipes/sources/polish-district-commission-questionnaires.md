@@ -1,0 +1,11 @@
+# Sources for Recover Polish district-commission questionnaires on Nazi occupation crimes
+
+- **S1:** Daniel Paczkowski, [Klepacze w czasie II wojny światowej](https://danielpaczkowski.blogspot.com/2024/09/klepacze-w-czasie-ii-wojny-swiatowej.html), published 2024-09-13. Community article and transcribed passages read 2026-11-22. The author describes two Klepacze forms dated 10 June 1968 and proposes that their witnesses were the same. The first text distinguishes wartime events, a present-tense address and annotations. The second text lists forced labourers and includes reports of non-return. The original forms and their exact archival references were unverified.
+- **S2:** Instytut Pamięci Narodowej, [Białystok archival branch](https://inwentarz.ipn.gov.pl/archiwa-ipn/bialystok?language_content_entity=pl). Branch description read 2026-11-22. It identifies records of the former district commission in the branch's holdings.
+- **S3:** Instytut Pamięci Narodowej, [IPN Wr 12/7](https://inwentarz.ipn.gov.pl/en/print/pdf/node/3180582). Full catalogue entry read 2026-11-22. Used for the searchable district-commission series, dates, topic headings and files covering places beyond the creator's own province. The record is a description of the unit.
+- **S4:** Instytut Pamięci Narodowej, [IPN Bi 348/114](https://inwentarz.ipn.gov.pl/node/5408445?language_content_entity=pl). Full catalogue entry read 2026-11-22. Used for the Białystok commission creator route and for locality and event wording in the descriptions. This is an example of the branch's district-commission holdings, with no verified link to the two Klepacze forms.
+- **S5:** Łukasz Jasiński, [Okręgowa Komisja Badania Zbrodni Hitlerowskich w Gdańsku (1965–1984)](https://archiwum.ipn.gov.pl/download/1/57591/PiS21zokl.pdf), 2013. Discussion of the territorial provision and footnote 40 read 2026-11-22. The archival study quotes and cites the 1 September 1965 Temporary Regulations at AIPN GK 162/16, folios 12–13. Used for the province-based remit and the regulations locator.
+
+## Credits
+
+- District-commission retrieval and form-reading procedure synthesized by Kinprove from Daniel Paczkowski's published transcription and the IPN archival inventory — FSL-1.1-MIT (kinprove-original)

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 275}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 276}
 ---
 
 # Recover a Chinese emigrant's lineage from character-written names, village and jiapu
