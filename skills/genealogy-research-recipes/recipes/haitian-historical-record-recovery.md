@@ -11,7 +11,7 @@ handoff: ["familysearch-practical-record-workflows","archival-image-coverage-ver
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":["third-party-tool"],"contact":[]}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 267}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 268}
 ---
 
 # Find historical Haitian civil records and Saint-Domingue property claims
