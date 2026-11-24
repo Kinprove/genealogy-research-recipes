@@ -51,6 +51,18 @@ The registration district is the key field for a civil search. The district name
 - **From a civil-registration index entry.** Search IrishGenealogy.ie first. It is free and needs no registration. It covers the whole island to the end of 1921 and the Republic only from 1922: births 1864–1925, marriages 1845–1950 (Catholic marriages from 1864) and deaths 1864–1975, with one more year added each spring. Most index entries open the register image free; deaths before 1871 are index only. [S8] Findmypast, Ancestry and FamilySearch also carry the indexes. If one site returns no hit, search the others before treating the index as silent.
 - **From the event's townland or parish.** Use a townland database or a genealogical atlas. Brian Mitchell's *A New Genealogical Atlas of Ireland* (2nd edition) maps poor law unions alongside civil parishes, Catholic parishes and baronies. Either route requires a supported townland or parish first. [S1]
 
+**Use the Poor Law Union map.** For an event in 1845–1899, use the National Library of Ireland’s *Civil Registration Districts Map* to identify candidate superintendent registrar’s districts around the supported townland or parish. Verify the locality’s Poor Law Union in a townland database before using the district in the civil index. [S30] [S34] [S33]
+
+Keep searching the civil registers when the 1922 Public Record Office fire is the reason you expect a gap. The General Register Office’s civil records survived the fire. [S30] [S31] Check the survival of Church of Ireland parish registers separately in [section 4](#4-check-where-non-catholic-registers-survive-before-choosing-a-route).
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Answer the privacy gate in `SKILL.md` before sending the searcher’s name or the record subject’s name, date or place to the Irish Genealogy civil search.
+
+**Filter the civil search.** On IrishGenealogy.ie, select Civil Records and the Event type (Birth, Marriage or Death). In Location, choose the supported civil registration district from the dropdown. If only the county is supported, use the county and leave the district unresolved. [S30 @2026-11-22] [S32 @2026-11-22]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Answer the privacy gate in `SKILL.md` before sending the record subject’s name, event year or place to FamilySearch.
+
+**FamilySearch civil indexes.** If the IrishGenealogy.ie search yields no entry, try FamilySearch’s *Ireland, Civil Registration Indexes, 1845–1958* within its coverage. [S30 @2026-11-22] Its birth and death indexes start in 1864 and its marriage index starts in 1845. All three end in 1958 and exclude Northern Ireland from 1922. [S13 @2026-11-22] Carry the matching index locator to section 3.
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Answer the privacy gate in `SKILL.md` before sending the record subject’s name, event year or place to MyHeritage.
 
 **MyHeritage birth and death indexes.** Check the event year and jurisdiction first. MyHeritage’s *Ireland Births, 1864–1958* and *Ireland Deaths, 1864–1958* cover all 32 counties from 1864 through 1921 and only the Republic of Ireland from 1922 through 1958. [S27 @2026-11-21] [S28 @2026-11-21] [S29 @2026-11-21] Within those bounds, search the matching MyHeritage index by name, event year and place if IrishGenealogy.ie yields no hit or if a Republic birth falls beyond its public birth range.
@@ -79,11 +91,15 @@ Where the actual search expands name variants only for the primary party and tre
 
 **Coverage.** Civil registration of non-Catholic marriages began in 1845. Registration of all births, deaths and marriages began in 1864. [S1] IrishGenealogy.ie releases records under a 100/75/50-year rule (births older than 100 years, marriages older than 75, deaths older than 50) and adds about one more year each year. Work out the current cutoff for the event type before you report a search as complete.
 
+**Events before civil registration.** Choose the route by the date of the event. For a birth or death before 1864, look for a baptism or burial in the surviving registers of the relevant parish. For marriages before 1864, keep the civil route for non-Catholic marriages from 1845 and use the parish marriage registers for events before their civil start date. [S36] [S37] Follow [Irish Catholic parish image recovery](irish-catholic-parish-image-recovery.md) for Catholic registers and [section 4](#4-check-where-non-catholic-registers-survive-before-choosing-a-route) for non-Catholic register checks.
+
 **Northern Ireland after 1921.** IrishGenealogy.ie holds no Northern Ireland civil records after 1921, so a nil result there is not a negative search. [S1] The presenter described FamilySearch films of Northern Ireland indexes and certificate images for 1922–1959 as restricted. Record that as an access status, not as "no record". [S1] Search GRONI (General Register Office Northern Ireland) instead. It holds the registrations for what is now Northern Ireland from the start, births and deaths from 1864 and marriages from 1845 (non-Catholic) and 1864 (all), so it also covers six-county events before 1922. [S7] GRONI Online shows births over 100 years old, marriages over 75 and deaths over 50. [S6] Its free name search shows only how many matches exist. Viewing results needs an account holding credits (£0.50 each): the basic index is then free, the enhanced index costs 1 credit and the full entry or register image 5 credits, as of 7 November 2026. [S9]
 
 **Privacy gate:** <!-- privacy-gate: request --> An entry younger than those limits can name people who may be living; answer the privacy gate in `SKILL.md` before viewing or ordering one. For a later entry, book GRONI's Public Search Room in Belfast, which shows records up to the present at the same credit prices, or order a certificate. [S6], [S9] PRONI's search room also has GRONI terminals for the indexes and some scanned certificates. [S10]
 
 ### Read the index fields and reconcile date statements
+
+From the civil birth register image, transcribe the birth date, the exact birthplace and the recorded parents’ names, including the mother’s maiden surname where given. Keep the birthplace and the father’s dwelling place in separate fields. [S35] [S17]
 
 Record a nineteenth-century Irish marriage’s "full age" as the reported status of 21 or over, retaining the literal wording. The CSO describes full-age/minor entries in the 1864 registers [S14], and the historical full-age threshold was 21 [S15]. Use it as a reported lower bound, not an exact age or calculated birth year [S20].
 
@@ -106,7 +122,13 @@ Most surviving registers are at the RCB Library (about 1,100 collections) or PRO
 
 Many Church of Ireland registers were destroyed in the 1922 Four Courts fire. [S2] Rely on the parish-level entry in the list, not on any overall loss figure. If the list marks a parish's registers as lost, do not request them. Record the loss, and name any recovered material, abstracts or transcripts as the next route.
 
+Match the Church of Ireland parish by name, county and diocese in the Anglican Record Project. Open the linked transcript and compare its event types, year ranges and gaps with the RCB Library's register-list entry. [S30 @2026-11-23] [S38 @2026-11-23] [S24 @2026-11-23] For Barragh marriages, the project lists coverage through 1903, and the linked transcript ends in 1844. [S38 @2026-11-23] [S39 @2026-11-23] Follow the RCB entry for any event or year the transcript omits.
+
 For Northern Ireland, and for Presbyterian records, use PRONI's guide to church records. Before visiting, identify the denomination and the year ranges held. PRONI holds records for most Northern Ireland Presbyterian congregations (originals and microfilm). [S2] PRONI also holds church records for five border counties: Monaghan, Cavan, Donegal, Leitrim and Louth. [S2]
+
+For a Presbyterian congregation, compare the event type and year in PRONI's guide with the Presbyterian Historical Society of Ireland's *Guide to Congregational Records* and its list of records held only by the Society. [S30 @2026-11-23] [S40 @2026-11-23] [S41 @2026-11-23] [S42 @2026-11-23] Record the custodian and any microfilm or catalogue reference for the series that covers the event.
+
+For an early Irish Methodist baptism, check the local Church of Ireland parish's baptism register. [S30 @2026-11-23] [S43 @2026-11-23] Look in PRONI's guide for a separate Methodist chapel or circuit register covering the same locality and year. [S40 @2026-11-23] Wesleyans allowed chapel baptisms in 1816, and local societies adopted the practice gradually. [S43 @2026-11-23]
 
 ## 5. Close with a jurisdiction-and-locator packet
 

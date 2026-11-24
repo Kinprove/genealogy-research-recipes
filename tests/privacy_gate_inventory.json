@@ -5902,5 +5902,17 @@
   "kind": "third-party-tool",
   "action": "Repeat the named lookup when the added coverage includes the target Catholic parish",
   "checkpoint": "A named lookup sends the subject's name and event details to RootsIreland"
+ },
+ {
+  "recipe": "irish-civil-registration-jurisdiction-recovery.md",
+  "kind": "third-party-tool",
+  "action": "select Civil Records and the Event type",
+  "checkpoint": "before sending the searcher’s name or the record subject’s name, date or place to the Irish Genealogy civil search"
+ },
+ {
+  "recipe": "irish-civil-registration-jurisdiction-recovery.md",
+  "kind": "third-party-tool",
+  "action": "If the IrishGenealogy.ie search yields no entry",
+  "checkpoint": "before sending the record subject’s name, event year or place to FamilySearch"
  }
 ]
