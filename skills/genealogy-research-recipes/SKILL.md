@@ -480,6 +480,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/helsinki-property-record-recovery.md` — Identify a Helsinki parcel or villa and trace its owners, city leases and physical changes through property cards, minutes, plans and historical notices.
 - `recipes/historical-finnish-vocabulary-lookup.md` — Choose Finnish dictionaries and period attestations to resolve an unfamiliar word by date, dialect and context.
 - `recipes/italian-emigrant-proxy-marriage-recovery.md` — Trace an Italian emigrant marriage from a possible proxy ceremony to the mandate, banns papers, parish act and civil transcription.
+- `recipes/italian-historical-cadastre-recovery.md` — Trace an Italian house or parcel from a named cadastral account to its map, successive holders and notarial transfers.
 
 ### United States: people, vital and church records
 
