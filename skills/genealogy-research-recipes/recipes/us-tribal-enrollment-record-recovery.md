@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "evidence-proof-judgment", "family-interviews-a
 checked: "2026-11-13"
 checked_basis: "read 2026-11-13"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 216}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 217}
 ---
 # Find a claimed Native American ancestor on the right tribal roll, and read what the roll proves
 
