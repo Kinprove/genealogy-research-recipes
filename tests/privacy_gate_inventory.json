@@ -5944,5 +5944,23 @@
   "kind": "third-party-tool",
   "action": "search the Arolsen Archives’ prisoner and persecution records",
   "checkpoint": "A named persecution-record search"
+ },
+ {
+  "recipe": "italian-stato-civile-parish-record-recovery.md",
+  "kind": "request",
+  "action": "Ask the celebrating comune for the second signed parish original",
+  "checkpoint": "A request for the second signed parish original sends the spouses’ names and marriage locator to the celebrating comune"
+ },
+ {
+  "recipe": "italian-stato-civile-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the relevant MyHeritage parish index",
+  "checkpoint": "A parish-index query sends names and any dates, places or relatives entered to MyHeritage"
+ },
+ {
+  "recipe": "italian-stato-civile-parish-record-recovery.md",
+  "kind": "request",
+  "action": "Check eligibility for an individual marriage certificate or extract",
+  "checkpoint": "A request for an individual marriage certificate or extract sends the spouses’ names"
  }
 ]

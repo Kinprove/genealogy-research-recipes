@@ -347,7 +347,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [italian-historical-cadastre-recovery](skills/genealogy-research-recipes/recipes/italian-historical-cadastre-recovery.md) | historical record catalogues and images | — | — | — | — | — |
 | [italian-military-internee-record-recovery](skills/genealogy-research-recipes/recipes/italian-military-internee-record-recovery.md) | historical record catalogues and images | — | — | request | — | required |
 | [italian-second-world-war-captivity-records](skills/genealogy-research-recipes/recipes/italian-second-world-war-captivity-records.md) | record catalogues and original images | — | — | third-party-tool | — | required |
-| [italian-stato-civile-parish-record-recovery](skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [italian-stato-civile-parish-record-recovery](skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [japanese-koseki-honseki-recovery](skills/genealogy-research-recipes/recipes/japanese-koseki-honseki-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [jersey-occupation-registration-card-recovery](skills/genealogy-research-recipes/recipes/jersey-occupation-registration-card-recovery.md) | source guides, catalogues and the relevant record or session | — | — | third-party-tool | — | required |
 | [jewish-archival-list-triage](skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md) | record catalogues and original images | — | — | — | — | — |
