@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet", "family-papers-and-bible-register-dating", "
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 304}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 305}
 ---
 
 # Read a memorial card or coffin plate kept by the family
