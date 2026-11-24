@@ -11,7 +11,7 @@ handoff: ["newspaper-finder-title-coverage","historical-newspaper-section-search
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues, reference works and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 64}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 65}
 ---
 
 # Find historical Finnish newspaper coverage across languages and issue gaps

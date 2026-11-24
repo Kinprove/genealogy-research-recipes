@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "corpus-seeded-name-search", "e
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and documentation"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 65}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 66}
 ---
 
 # Attribute a historical Finnish newspaper byline

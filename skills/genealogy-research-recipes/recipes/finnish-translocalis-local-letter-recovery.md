@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "periodical-index-search-retrie
 checked: "2026-11-22"
 checked_basis: "read 2026-11-22"
 capabilities: {"browse": ["Digi clippings, article directory and historical newspaper issues", "published pseudonym indexes"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 67}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 68}
 ---
 
 # Recover Finnish newspaper local letters in Translocalis
