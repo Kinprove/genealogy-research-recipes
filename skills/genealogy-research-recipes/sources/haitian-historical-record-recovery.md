@@ -1,0 +1,13 @@
+## Sources
+
+- **S1:** Family Tree Magazine, [A Genealogist’s Research Guide to the Caribbean](https://familytreemagazine.com/heritage/a-genealogists-research-guide-to-the-caribbean/). Reviewed read web-page. Haiti section and resource links read 2026-11-22. Community guide for association civil registers, published compensation records and the University of Florida route. The BnF publication record supplies the dates used for the compensation volumes.
+- **S2:** Haitian Genealogy Association, [Accessing your AGH account](https://www.haitiangenealogy.org/landing-page). Reviewed read help-page. Association’s Archives d’Haïti description read 2026-11-22. Describes its index to the National Archives of Haiti. Individual acts and member access were outside this check.
+- **S3:** FamilySearch, [Haiti, Civil Registration](https://www.familysearch.org/en/search/collection/1482819). Reviewed read catalogue. FamilySearch collection description read 2026-11-22. Identifies civil births, marriages and deaths and describes its Port-au-Prince material. Catalogue coverage must be checked separately for each locality.
+- **S4:** Bibliothèque nationale de France, [État détaillé des liquidations opérées par la commission chargée de répartir l’indemnité attribuée aux anciens colons de Saint-Domingue](https://catalogue.bnf.fr/ark:/12148/cb363753900). Reviewed read catalogue. BnF bibliographic notice read 2026-11-22. Records six volumes published from 1828 to 1833 and explains the confiscated-property context. The publication dates differ from the range given in the community guide.
+- **S5:** Oliver Gliech, [Saint-Domingue – Colons A–Z](https://www.domingino.de/stdomin/index_colons_a_z.html). Reviewed read catalogue. Index landing page and owner and heir headings read 2026-11-22. Index includes owners drawn from the commission volumes and other official sources, and separately lists heirs and other inhabitants. Trace any hit to the applicable underlying source.
+- **S6:** University of Florida Libraries, [Digital Collections](https://lacc.uflib.ufl.edu/collection/digital-collections/). Reviewed read catalogue. Library’s digital collections guide and dLOC section read 2026-11-22. Identifies University of Florida resources for the Caribbean, including the Haitian Law Digital Collection and the Caribbean Newspaper Digital Library. The specific filter on the platform was outside this check.
+
+## Credits
+
+- Workflow and recording instructions — original Kinprove wording (kinprove-original)
+- Community research leads and cited source descriptions — paraphrased with attribution (adapted)
