@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "historical-place-name-resolution", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public archival finding aids", "historical newspapers, policies, plans and payout reports"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 180}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 181}
 ---
 
 # Recover Finnish fire-insurance papers by property and policy number
