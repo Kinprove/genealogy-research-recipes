@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment","court-case-file-recovery"]
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 252}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 253}
 ---
 
 # Reconstruct a Massachusetts witchcraft case from its records
