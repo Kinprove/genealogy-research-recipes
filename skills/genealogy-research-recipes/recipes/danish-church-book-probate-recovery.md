@@ -11,7 +11,7 @@ handoff: ["scandinavian-patronymic-farm-name-record-recovery", "evidence-proof-j
 checked: "2026-11-18"
 checked_basis: "Read 2026-11-18"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 153}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 154}
 ---
 
 # Reconstruct a Danish household from church books and probate
