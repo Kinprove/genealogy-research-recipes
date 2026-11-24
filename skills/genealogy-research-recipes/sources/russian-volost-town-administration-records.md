@@ -106,8 +106,17 @@ The following were NOT verified: the Veliky Ustyug archive locator, which rests 
 
 - **S70:** Higher School of Economics, [1874 Military Service Statute, articles 11 and 45](https://nnov.hse.ru/ba/law/igpr/ustav_o_voinskoy_povinnosti_1874). Statute text read 2026-11-19.
 
+- **S71:** Lisa A. Alzo, [13 Overlooked Eastern European Genealogy Records](https://familytreemagazine.com/heritage/polish/eastern-european-genealogy-records/), *Family Tree Magazine* community article. Military Records section read 2026-11-23. Alzo recommends checking the conscription rules for the region. The article's summary of the 1874 age and liability is refined by S72. The linked FamilySearch Wiki page returned HTTP 403 on the retrieval date.
+
+- **S72:** Alexander II, [Decree to the Governing Senate of 1 January 1874](https://philolog.petrsu.ru/fmdost/grajd/1874/74n01.htm), reproduced in *Гражданинъ*, no. 1, in Petrozavodsk State University's digital edition. Decree articles I–X read 2026-11-23. Articles I–V specify scope and exemptions, article VIII sets the first cohort, and article X retains the January–February levy under the old rules.
+
+- **S73:** Federal Archival Agency and VNIIDAD, [Генеалогическая информация в государственных архивах России: справочное пособие](https://imwerden.de/pdf/genealogicheskaya_informatsiya_v_arkhivakh_rossii_2004__ocr.pdf), Moscow, 2004, section 2.6.3.3, pp. 148–149. Recruitment and call-up list passages read 2026-11-23 in the ImWerden PDF. The guide names the series and the local offices that compiled them.
+
 ## Credits
 
+- Lisa A. Alzo, Family Tree Magazine (S71) — Copyright of the publisher, regional lookup advice paraphrased (adapted)
+- Alexander II's 1874 decree as reproduced by Petrozavodsk State University (S72) — Public-domain decree, paraphrased (adapted)
+- Federal Archival Agency and VNIIDAD genealogy guide (S73) — Copyright of the Federal Archival Agency and VNIIDAD, record types paraphrased (adapted)
 - Higher School of Economics (S69–S70) — Published historical statute texts, paraphrased with attribution (adapted)
 - Central State Archive of Kirov Oblast, revision-list guide — Official archive page; revision dates and later-file caveat paraphrased (adapted)
 - Uralskaya genealogiya forum, thread of typed-up GASO text inventories (first part) — Forum post, no license stated; factual locators and short inventory phrases cited (adapted)
