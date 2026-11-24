@@ -472,6 +472,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-sailors-house-record-recovery.md` — Use Finnish sailors’ house indexes and original house records to distinguish enrollment from service on a vessel and identify voyages.
 - `recipes/french-maritime-registration-and-crew.md` — Use an inscription maritime entry and a French crew roll to test where a nineteenth-century sailor went or stayed ashore.
 - `recipes/finnish-provincial-notice-recovery.md` — Recover a missing person's trail in historical Finnish provincial proclamations and use the notice to choose follow-up records.
+- `recipes/helsinki-household-record-recovery.md` — Find a Helsinki or Viapori household across parish books, poll-tax rolls, property records and police address cards, and use dated returns to bound moves.
 
 ### United States: people, vital and church records
 

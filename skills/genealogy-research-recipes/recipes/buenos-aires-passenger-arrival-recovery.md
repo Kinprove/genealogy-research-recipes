@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "hispanic-catholic-register-re
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and documentation"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 251}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 252}
 ---
 
 # Recover a Buenos Aires passenger arrival
