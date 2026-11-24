@@ -545,6 +545,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/florida-spanish-land-grant-claims.md` — Find the papers behind a Florida Spanish land claim and distinguish its supporting evidence from the decision on title.
 - `recipes/maryland-revolutionary-war-record-recovery.md` — Use Maryland’s period counties, wartime census, oath lists and state papers to distinguish Revolutionary residence, allegiance, military service and civilian aid.
 - `recipes/massachusetts-witchcraft-trial-evidence.md` — Trace a Salem-area witchcraft accusation through examinations, depositions and disposition, while distinguishing spectral claims, confessions and the evidence used in court.
+- `recipes/mecklenburg-declaration-source-recovery.md` — Use Draper manuscripts, printed versions and witness dates to trace a Mecklenburg Declaration signer claim and identify shared evidence.
 
 ### Canada, Latin America, Asia and Oceania
 
