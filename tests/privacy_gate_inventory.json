@@ -6292,5 +6292,17 @@
   "kind": "link",
   "action": "Link an existing parent profile",
   "checkpoint": "Linking existing profiles records the child’s and selected parent’s association"
+ },
+ {
+  "recipe": "new-jersey-marriage-index-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the New Jersey Marriage Licenses index in MyHeritage",
+  "checkpoint": "Names and approximate marriage years of the spouses go to MyHeritage."
+ },
+ {
+  "recipe": "new-jersey-marriage-index-recovery.md",
+  "kind": "request",
+  "action": "Prepare a copy request for the underlying marriage record",
+  "checkpoint": "The spouses’ identifying details and any required proof from the applicant go to the New Jersey office selected in the preceding step."
  }
 ]
