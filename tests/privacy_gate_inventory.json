@@ -6070,5 +6070,11 @@
   "kind": "request",
   "action": "request the household-list file by fonds and reference",
   "checkpoint": "A request for a census or Easter list sends the parish"
+ },
+ {
+  "recipe": "moldavian-foreign-protection-register.md",
+  "kind": "contact",
+  "action": "Request a targeted lookup from Genealogica",
+  "checkpoint": "A minimal historical name or locality"
  }
 ]
