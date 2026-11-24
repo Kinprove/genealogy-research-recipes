@@ -487,6 +487,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/italian-second-world-war-captivity-records.md` — Follow an Italian prisoner’s wartime transfers from Vatican inquiry cards to the custodial file, camp roster or transport record.
 - `recipes/katiha-ceded-parish-record-recovery.md` — Find ceded Finnish parish entries in Katiha and recover the communion-book page behind a name hit.
 - `recipes/merida-badajoz-clergy-ordination-records.md` — Find Mérida–Badajoz ordination packets by candidate, box and grade and use baptismal attachments and benefice files to reconstruct the cleric’s family and appointments.
+- `recipes/merida-badajoz-ecclesiastical-fonds.md` — Route a Mérida-Badajoz inquiry to episcopal, cathedral, parish or military-order records and interpret gaps in descriptions and survival.
 
 ### United States: people, vital and church records
 

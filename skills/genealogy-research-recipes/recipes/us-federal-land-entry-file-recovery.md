@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 223}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 224}
 ---
 
 # Recover a U.S. federal land-entry case file behind (or without) a GLO patent
