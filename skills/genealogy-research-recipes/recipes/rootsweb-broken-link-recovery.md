@@ -11,7 +11,7 @@ handoff: ["published-book-catalogue-and-full-text-discovery", "source-citation"]
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 51}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 52}
 ---
 
 # Recover a genealogy resource behind a broken RootsWeb link

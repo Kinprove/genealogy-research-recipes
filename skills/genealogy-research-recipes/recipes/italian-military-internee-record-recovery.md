@@ -11,7 +11,7 @@ handoff: ["italian-stato-civile-parish-record-recovery", "german-register-image-
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 196}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 197}
 ---
 
 # Recover an Italian military internee’s captivity and death records
