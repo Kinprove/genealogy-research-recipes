@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "archival-image-coverage-verificat
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 89}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 90}
 ---
 
 # Find the civil register for a historical Ilfov locality

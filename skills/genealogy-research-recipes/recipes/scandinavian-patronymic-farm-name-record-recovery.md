@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery", "danish-church-book-probate-rec
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 163}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 164}
 ---
 
 # Recover a Scandinavian emigrant's home-parish entries under patronymic, farm and soldier names

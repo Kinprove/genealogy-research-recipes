@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "published-book-catalogue-and-f
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 71}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 72}
 ---
 
 # Identify a pseudonymous writer in Finnish historical periodicals

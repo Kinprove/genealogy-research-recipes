@@ -11,7 +11,7 @@ handoff: ["british-colonial-slave-registers", "manuscript-collection-recovery", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 65}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 66}
 ---
 
 # Trace implementation records of the 1926 Slavery Convention

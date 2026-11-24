@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["Europeana Heraldica and historical land and tax records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 180}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 181}
 ---
 
 # Verify Finnish estate ownership behind Europeana Heraldica entries

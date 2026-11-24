@@ -6112,5 +6112,23 @@
   "kind": "contact",
   "action": "Use Contact on a displayed result",
   "checkpoint": "The sender’s identity, the recipient’s own data"
+ },
+ {
+  "recipe": "myheritage-gaia-research-review.md",
+  "kind": "third-party-tool",
+  "action": "Submit one bounded research question",
+  "checkpoint": "Submitting a question sends names"
+ },
+ {
+  "recipe": "myheritage-gaia-research-review.md",
+  "kind": "third-party-tool",
+  "action": "Select an in-conversation suggested search",
+  "checkpoint": "A follow-up sends the chosen question"
+ },
+ {
+  "recipe": "myheritage-gaia-research-review.md",
+  "kind": "publish",
+  "action": "Review GAIA’s proposed tree changes",
+  "checkpoint": "Creating or updating the online tree"
  }
 ]
