@@ -40,7 +40,57 @@ The decision order, the 1895-county test, the Međimurje, Prekmurje, Croatia and
 
 - **S27:** MyHeritage, [Hungary, Property Tax Census, 1828 From JewishGen](https://www.myheritage.com/research/collection-20013/hungary-property-tax-census-1828-from-jewishgen). Public search form and collection description read 2026-11-20. The description identifies the indexed towns and counties by their Hungarian forms in use in 1828. Access to individual results in a signed-in account was outside the check.
 
+- **S28:** Genealogica, [Registre istorice de stare civilă – județul Cluj](https://genealogica.ro/blog/articol/registre-istorice-de-stare-civila-judetul-cluj) (community publication, 2025-09-21). County list read 2026-11-22. The list groups localities under communes, gives alternate names and assigns different years to Cluj and Someșeni even though both point to Cluj-Napoca.
+
+- **S29:** Genealogica, [Registre istorice de stare civilă – județul Arad](https://genealogica.ro/blog/articol/registre-istorice-de-stare-civila-judetul-arad) (community publication, 2025-09-21). County list read 2026-11-22. The city and Micălaca district share a locality link with distinct date ranges. The Pilu and Zăbrani rows show interrupted ranges and single years.
+
+- **S30:** Genealogica, [Registre istorice de stare civilă – județul Satu Mare](https://genealogica.ro/blog/articol/registre-istorice-de-stare-civila-judetul-satu-mare) (community publication, 2025-09-21). County list read 2026-11-22. It pairs alternate place names and lists different years for Valea Vinului and Hodod.
+
+- **S31:** Genealogica, [Registre istorice de stare civilă – județul Covasna](https://genealogica.ro/blog/articol/registre-istorice-de-stare-civila-judetul-covasna) (community publication, 2025-09-21). County list read 2026-11-22. It pairs historical and current names and gives locality-specific date ranges for places such as Chichiș, Comandău and Vârghiș.
+
+- **S32:** Genealogica, [Registre istorice de stare civilă – județul Sibiu](https://genealogica.ro/blog/articol/registre-istorice-de-stare-civila-judetul-sibiu) (community publication, 2025-09-21). County list read 2026-11-22. It includes rows with alternate names, combined labels such as Alma, Giacăș, Ernea, and two rows sharing the Arpașu de Jos link with separate years.
+
+- **S33:** Genealogica, [Registrele digitizate prin eANR — Ghid pentru cercetarea genealogică a localităților din România](https://genealogica.ro/blog/articol/registrele-digitizate-prin-eanr-ghid-pentru-cercetarea-genealogica-a-localitatilor-din-romania) (community publication, 2026-02-28). Guide read 2026-11-22. It suggests using the catalogue's civil-register map or filtering by locality and links seven Transylvanian confessional register collections. The guide describes selective digitization, with coverage varying by place and confession.
+
+- **S34:** Genealogica, [Registre de stare civilă. Transilvania](https://genealogica.ro/surse/28-registre-de-stare-civila-transilvania?showMap=true). Public catalogue controls read 2026-11-22. The external-register list has a county filter and a list/map switch. Map interaction and completeness of the register inventory were outside the check.
+
+- **S35:** Genealogica, [Surse tematice](https://genealogica.ro/surse). Public collection directory read 2026-11-22. Its confessional-register section links the Reformed, Lutheran, Jewish, Orthodox, Greek Catholic, Roman Catholic and Unitarian Transylvanian collections. Individual parish or register coverage was outside the check.
+
+- **S36:** National Archives of Romania, [Arpașu de Jos. Nașteri](https://descopera.arhivelenationale.ro/cota/?cid=10346167). Archival description read 2026-11-22. It dates the birth register under reference `SB-F-00042-4(PR1)-153` to 1895–1906 and lists digital copies. The images were outside the check.
+
+- **S37:** National Archives of Romania, [Arpasul de Jos - Registru nașteri](https://descopera.arhivelenationale.ro/cota/?cid=10255738). Archival description read 2026-11-22. It dates the separate birth register under reference `BV-F-00259-1-00582` to 1908 and lists a digital copy. The images were outside the check.
+
+- **S38:** MyHeritage Blog, [MyHeritage Publishes 65 Million Records in November and December 2022](https://blog.myheritage.com/2023/01/myheritage-publishes-65-million-records-in-november-and-december-2022/) (community publication, 2023-01-17). Sections on the 1848 and 1869 censuses read 2026-11-22. The post describes the two releases, the scope of each enumeration and the domestic-help exception in 1848. S40 and S42 describe the surviving or indexed coverage.
+
+- **S39:** MyHeritage, [Hungary, Jewish Census, 1848 from JewishGen](https://www.myheritage.com/research/collection-20262/hungary-jewish-census-1848-from-jewishgen). Public search form and collection description read 2026-11-22. The description gives the fields and household scope of collection 20262. Signed-in results were outside the check.
+
+- **S40:** JewishGen, [1848 Hungarian Jewish Census](https://www.jewishgen.org/databases/hungary/1848HungaryJewishCensus.html). Catalogue description and research notes read 2026-11-22. The notes distinguish the survey geography from incomplete survival, define the household fields and identify possible non-Jewish domestic help. Individual index entries and images were outside the check.
+
+- **S41:** MyHeritage, [1869 Hungary Census from JewishGen](https://www.myheritage.com/research/collection-20246/1869-hungary-census-from-jewishgen). Public search form and collection description read 2026-11-22. The description identifies collection 20246, lists the indexed fields and states the survey's intended scope. Signed-in results were outside the check.
+
+- **S42:** JewishGen, [1869 Hungarian Census](https://www.jewishgen.org/databases/hungary/Census1869.htm). Catalogue description and research notes read 2026-11-22. The page describes enumeration across confessions and property status, uneven microfilm and index coverage, and the household and film reference fields. Individual index entries and images were outside the check.
+
+- **S43:** MyHeritage Blog, [Historical Record Collections Added in April and May 2022](https://blog.myheritage.com/2022/06/historical-record-collections-added-in-april-and-may-2022/) (community publication, 2022-06-16). Sub-Carpathia birth collection section read 2026-11-22. It identifies the contributor, parts of the four historical counties and the typical birth-index fields.
+
+- **S44:** MyHeritage, [Sub-Carpathia, Jewish Birth Records from JewishGen](https://www.myheritage.com/research/collection-20073/sub-carpathia-jewish-birth-records-from-jewishgen). Public search form and collection description read 2026-11-22. The description confirms the locality scope and lists the residence, parents and godfather among available details. Signed-in results were outside the check.
+
+- **S45:** MyHeritage Blog, [22 Historical Record Collections Added in June 2022](https://blog.myheritage.com/2022/07/22-historical-record-collections-added-in-june-2022/) (community publication, 2022-07-17). Sub-Carpathia death collection section read 2026-11-22. It describes the geographic scope, death-index fields and possible extra fields through 1906.
+
+- **S46:** MyHeritage, [Sub-Carpathia, Jewish Death Records from JewishGen](https://www.myheritage.com/research/collection-20072/sub-carpathia-jewish-death-records-from-jewishgen). Public search form and collection description read 2026-11-22. The description lists birth and death details, parents and spouse, with the father's occupation and remarks possible in entries from 1895 through 1906. Signed-in results were outside the check.
+
+- **S47:** JewishGen, [Subcarpathia Civil Registration](https://www.jewishgen.org/databases/Hungary/SubCarpathia.htm). Catalogue description read 2026-11-22. It identifies the covered parts of Bereg, Máramaros, Ugocsa and Ung, describes its civil-register index and links an inventory of indexed towns. Coverage does not have to match the MyHeritage collections. Individual results were outside the check.
+
+- **S48:** Genealogica, [Arpașu de Jos, Externe](https://genealogica.ro/localitati/143968-arpasu-de-jos?activeTab=externe). External sources tab read 2026-11-22. It lists two separate national archive links for the 1895–1906 and 1908 birth registers. S36 and S37 supply the corresponding archival descriptions.
+
+- **S49:** Andrei Cucuruz, Genealogica, [Registre istorice de stare civilă – județul Maramureș](https://genealogica.ro/blog/articol/registre-istorice-de-stare-civila-judetul-maramures) (community publication, 2025-09-21). County list read 2026-11-23. The author organizes the locality links by commune and lists 1905–1919 for Sarasău. The post describes several document types across the county and dates its coverage to publication.
+
+- **S50:** Genealogica, [Sarasău, Externe](https://genealogica.ro/localitati/106639-sarasau?activeTab=externe). External sources tab read 2026-11-23. Its listed external source is a 1905–1919 marriage register and links to the National Archives description in S51.
+
+- **S51:** National Archives of Romania, [Sarasău, Registru căsătoriţi](https://descopera.arhivelenationale.ro/cota/?cid=13914926). Archival description read 2026-11-23. It identifies marriage register MM-F-00743-1-1-00646, gives its dates as 1905–1919 and lists digital copies. The images were outside the check. The portal labels its data CC BY-NC-ND 4.0.
+
 ## Credits
 
 - Kinprove original procedural synthesis; registration dates, laws, custody rules, collection scope and census coverage checked against Hungarian Government Office, National Archives of Hungary database portal, KSH, Slovak Ministry of the Interior, Austrian RIS, Romanian civil-status norms on the official legislative portal, the Archives of the Republic of Slovenia, Hungarian historical acts, FamilySearch collections and wiki pages, the Slovak heritage-portal operator, Documenta Pannonica, JewishGen and Wikipedia reference pages cited as S1 to S18, and against an Austrian legal-history conference paper, a National Archives of Hungary blog post and two Hungarian county archive fond lists cited as S19 to S22 — FSL-1.1-MIT (kinprove-original)
 - MyHeritage Blog, MyHeritage collection descriptions, JewishGen index documentation and the National Archives of Hungary county finding aid (S11 and S23–S27) — Source facts paraphrased with attribution (adapted)
+- Genealogica's guides and catalogues, the National Archives of Romania, MyHeritage Blog and collection descriptions, and JewishGen index documentation (S28–S48) — Source facts paraphrased with attribution (adapted)
+- Andrei Cucuruz, Genealogica's Sarasău locality catalogue and the National Archives of Romania (S49–S51) — Source facts paraphrased with attribution (adapted)

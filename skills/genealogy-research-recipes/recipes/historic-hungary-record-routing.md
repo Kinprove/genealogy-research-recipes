@@ -90,6 +90,16 @@ Gather these before searching:
 
 **For a village now outside Hungary whose 1895 county the new border split, also check that county's archive in Hungary.** The Sopron archive lists, for Sopron county and the city of Sopron, second copies of the state registers of 1895–1921 from the places annexed to Austria in 1921 [S22 @2026-11-13]. Look for the same kind of holding in another border county's archive before you mark a route unconfirmed.
 
+**For Transylvanian civil registers, open Genealogica's list for the modern county.** For Cluj [S28 @2026-11-22], Arad [S29 @2026-11-22], Satu Mare [S30 @2026-11-22], Covasna [S31 @2026-11-22] or Sibiu [S32 @2026-11-22], find the commune in the alphabetical list and open the matching locality under it. To find candidate places by geography, open *Registre de stare civilă. Transilvania*, select the county under *Externe* and switch to *Hartă* [S33 @2026-11-22], [S34 @2026-11-22].
+
+**Keep the locality label from the county list when you open its link.** Match the locality against both the row label and any alternate name in parentheses. Check district and multi-place labels for the target. Cluj and Someșeni link to the same Cluj-Napoca page and have different listed years [S28 @2026-11-22]. Check every matching row and each listed range or single year. If the event year falls outside the listed digitized coverage, record the gap and leave the event unresolved [S29 @2026-11-22], [S30 @2026-11-22], [S31 @2026-11-22], [S32 @2026-11-22]. In the locality's *Externe* tab, follow the register link to *Descoperă Arhivele Naționale* and log the record type, years and archival reference [S48 @2026-11-22].
+
+**For Maramureș civil registers, find the commune in Genealogica's county directory and open the matching locality** [S49 @2026-11-23]. In *Externe*, choose the register for the event type and year, then confirm both in the linked *Descoperă Arhivele Naționale* description [S50 @2026-11-23], [S51 @2026-11-23]. Sarasău's 1905–1919 locality span points to a marriage register (MM-F-00743-1-1-00646) [S49 @2026-11-23], [S50 @2026-11-23], [S51 @2026-11-23].
+
+**Check the separately listed register for a single year.** For Arpașu de Jos, the two Sibiu list rows share a locality link, and the 1908 birth register (BV-F-00259-1-00582) is filed separately from the 1895–1906 birth register [S32 @2026-11-22], [S36 @2026-11-22], [S37 @2026-11-22].
+
+**For a Transylvanian event before 1 October 1895, open the confession's register collection.** In Genealogica's *Registre confesionale pentru născuți, cununați și morți*, choose the family's confession from the Reformed, Lutheran (*evanghelică*), Jewish (*izraelită*), Orthodox, Greek Catholic, Roman Catholic and Unitarian collections. Check the place and years within that collection [S33 @2026-11-22], [S35 @2026-11-22].
+
 ## 4. Search both name orders and every language form of the given name
 
 - **Expect the surname first in a Hungarian-language entry:** Nagy János, not János Nagy [S5], [S6].
@@ -106,6 +116,10 @@ Gather these before searching:
 
 **Start with the 1828 Hungarian town and county names** in MyHeritage's *Hungary, Property Tax Census, 1828 From JewishGen* [S23 @2026-11-20], [S27 @2026-11-20] and in the JewishGen index [S11 @2026-11-20]. Keep the indexed spellings in the series locator and the modern place name in the jurisdiction row.
 
+**Search the 1848 Jewish census by historic county and town, including places now outside Hungary.** For a deceased person, use MyHeritage collection 20262 for age, birthplace, residence and household relationships [S38 @2026-11-22], [S39 @2026-11-22]. Check surviving and indexed locality coverage in JewishGen's *1848 Hungarian Jewish Census* before treating a miss as evidence. Check the occupation and relationship to the household head before inferring religion from inclusion, since a return can include non-Jewish domestic help [S40 @2026-11-22].
+
+**Search the 1869 census for households of any religion and property status.** For a deceased person, use MyHeritage collection 20246 for birth year and place, residence and household members [S38 @2026-11-22], [S41 @2026-11-22]. Check town-level coverage and use the household number and film reference in JewishGen's *1869 Hungarian Census* to locate the return when available [S42 @2026-11-22].
+
 ## 6. Use the context portals as finding aids
 
 - **MNL AdatbázisokOnline:** the National Archives of Hungary's portal of thematic databases, many of them built around named persons [S12].
@@ -117,6 +131,8 @@ Gather these before searching:
 - **From 1 October 1895, search the state civil registers too** (step 2) [S1].
 
 **Search the Jewish vital-record index for a deceased person's historic birth, marriage or death.** Open *Hungary, Jewish Vital Records* (collection 10994) in MyHeritage [S23 @2026-11-20], [S24 @2026-11-20]. If it is unavailable in the user's account, use JewishGen's *Hungarian Vital Records* index [S25 @2026-11-20].
+
+**For a deceased person's historic birth or death in Zakarpats’ka oblast, search the Sub-Carpathia collection for the event type.** For the covered parts of Bereg, Máramaros, Ugocsa and Ung, open MyHeritage's *Sub-Carpathia, Jewish Birth Records from JewishGen* (20073) and look for birth year, residence, parents and the godfather field [S43 @2026-11-22], [S44 @2026-11-22]. In *Sub-Carpathia, Jewish Death Records from JewishGen* (20072), look for the deceased's birth year and place, death date and place, parents and spouse [S45 @2026-11-22], [S46 @2026-11-22]. In death entries from 1895 through 1906, check for the father's occupation and remarks [S46 @2026-11-22]. If the collection is unavailable in the user's account, check the indexed town inventory and search JewishGen's *Subcarpathia Civil Registration* for state-register entries [S47 @2026-11-22].
 
 **Keep the event place and registration town in separate fields.** Record the event date and any parents' names shown [S23], [S24], [S25]. Use the registration town and any record number or film reference to locate the register [S25]. If the event place is blank, leave it blank.
 
