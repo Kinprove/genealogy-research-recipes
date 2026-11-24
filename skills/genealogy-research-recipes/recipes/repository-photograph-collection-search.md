@@ -55,6 +55,12 @@ Start from the family's locality and date range, not from the name. List these c
 
 **Local public library photograph collections.** Browse the library’s local-history photo collection directly and log it separately from a search of the general catalogue [S42]. According to Melina Papadopoulos’s guide, a library photo collection is a place to look for period views of a school, church, business or landmark connected to the ancestor [S41†].
 
+Check the town library’s local-history or research links for a library-managed Flickr photostream [S70]. If it lists a relevant album, browse it and log it as a separate photo collection [S72].
+
+**Mourning and memorial images.** Use specialist collections for examples of memorial formats [S77 @2026-11-22]. Browse the Burns Archive’s Death & Memorial examples [S78 @2026-11-22]. Use the Thanatos Archive when the user already has subscriber access [S104 @2026-11-22]. Record a missed search against the specific material examined.
+
+**Langhans studio portraits.** Search the surviving studio photographs in the Langhans online archive [S79 @2026-11-22]. Use the sitter’s historical name in the filter or browse the relevant category [S81 @2026-11-22]. Limit a miss to the searched part of the recovered Galerie osobností and continue to other holders for the sitter [S80 @2026-11-22].
+
 Use only collections whose catalogue or description actually covers the place and period. Do not assume that a photographer's work survives for the family's town.
 
 **Historical California views.** Search the California Historical Society holdings by town, neighborhood or mission name. According to Nancy Hendrickson’s guide, the USC digital series is titled *California Historical Society Collection, 1860–1960* [S55† @2026-11-20]. Search Stanford’s SearchWorks and Archival Collections for the transferred holdings, and check the collection page for digitization updates [S56 @2026-11-20] [S58 @2026-11-20]. Record the item’s date and medium so a mission drawing stays distinct from a photograph. Log a catalogue description without an image as a lead.
@@ -80,6 +86,12 @@ The Goskatalog portal was inaccessible from this check on 19 November 2026 (conn
 3. Search the business and historical street name. The historical-society description named the hardware store but omitted the great-grandfather pictured inside it. His surname was part of the business name [S5]. Check period directories for name and address changes.
 4. Query an ancestral town and state in the unidentified subset. A DeadFred search found a candidate through those two place fields even though the family surname was absent [S7]. Save the item and its caption for a separate attribution check.
 5. Try the surname alone and limit the format to images [S3]. Repeat with spelling variants. Record the collection searched and the names actually returned.
+
+**Dead Fred search fields.** Start with the few fields you can support [S73 @2026-11-22]. Use Detailed Search while signed out and try the maiden name, photo type or photographer’s state or province as separate searches [S74 @2026-11-22]. If you have only a studio imprint, browse Photographers by its first letter [S75 @2026-11-22]. Run a separate Mysteries search by county and state or province for images without a filed surname [S76 @2026-11-22]. Record the form and fields used for each result.
+
+**Search for what the camera faced.** Search for neighboring buildings, landmarks, and the camera’s vantage point when a building is missing from address results [S84]. Enlarge the edges and backgrounds of candidate views. Compare a building’s position against at least one dated view from another angle and record visible numbers or landmarks as separate clues [S82]. The Helsinki City Museum’s Berga 7 title names the foreground property, so search its view as a candidate for buildings behind that property [S83].
+
+**Buildings named in demolition notices.** Search the address and named structure under their period forms, including former street names. Browse views from before and around the date of the notice, and label each by the phase it actually shows [S85]. When the notice says photographs were taken, save the building name and issue date as retrieval leads [S86]. A view catalogued as building work at Albertinkatu 23 gives the construction phase. Look to the notice and earlier views for the removed buildings [S87].
 
 ## Search Historypin by place and collection
 
@@ -151,6 +163,8 @@ Use [archival image coverage verification](archival-image-coverage-verification.
 
 **Keep the ownership search separate.** The same demonstration directs ownership questions to *fastighetsböcker* (property books), mentioning Riksarkivet's reading rooms [S13]. A population-register resident is not thereby the owner. Check the relevant historical property and ownership entry separately; the demonstration does not establish current holdings or access.
 
+**Danish aerial photographs.** For a historical property, use Danmark set fra luften, the route recommended in Peter Olsen’s property-history guide according to the saved excerpt [S105† @2026-11-22]. Start with the property’s historical address and zoom out after an empty map search to widen the area searched. Use an image’s series ID to look for adjoining frames [S106 @2026-11-22]. Record the item ID, the address or parcel fields shown, and how the location was assigned. Treat a ledger name as a purchaser clue and verify the placed image against the historical property independently [S107 @2026-11-22].
+
 ## Exhaust each repository's surfaces before reporting no image
 
 **Search across photographers, then record which collections returned hits.** In BYU’s 2016 demonstration, the George Edward Anderson collection supplied most results for a surname filtered to images, but other collections also returned photographs. Include C. R. Savage as well as Anderson when their coverage fits [S3].
@@ -166,6 +180,12 @@ Use [archival image coverage verification](archival-image-coverage-verification.
 **Privacy gate:** <!-- privacy-gate: contact --> A library inquiry discloses the research location and period, any family details supplied and, if sent remotely, the user’s name and reply address to local-history staff. Start with the historical place and date range and answer the privacy gate in `SKILL.md` before making the inquiry.
 
 **Off-shelf library photograph files.** According to Anna Rose Johnson’s interview, ask local-history staff for photograph files kept off the public shelves [S69†] [S70]. For a house, ask specifically for files of unidentified buildings and browse them even when the catalogue has no address match [S71].
+
+**Finna album pages and individual photographs.** Open Turku City Museum’s Anders Ramsay research package for the album scans and follow its separate `VA9901` All Fields search for the individual photographs [S89 @2026-11-22]. Verify collection membership on each result. If a photograph’s record mentions an album under wording absent from the package, use its identifier to locate the album and inspect the scanned page in context. From an album hit, also run the individual-photo search [S88 @2026-11-22] [S90 @2026-11-22]. Log the two searches separately.
+
+**Finna teaching-slide hierarchy.** When subject keywords miss, open Aalto University Archives’ architecture teaching slides and browse the hierarchy, including Helsinki series C48 and urban architecture series C39 (*kaupunkiarkkitehtuuri*) where relevant [S93 @2026-11-22] [S94 @2026-11-22]. Inspect the images for the sought feature and read visible signs and inscriptions even when records share a broad title [S91 @2026-11-22] [S92 @2026-11-22]. Log the series and image range inspected.
+
+**Finna glass-negative series.** If an item search misses, open the archive’s series record and browse the attached images. For ELKA’s Seppo Hyyppä archive, start at *Lasinegatiivit*, series identifier 3749:122 [S96 @2026-11-22]. Keep a place or subject given only in the series description at group level. Leave the location of an individual image unresolved until its own clues or an independent source place it [S95 @2026-11-22].
 
 **Log each surface separately.** For each one, record:
 
@@ -191,7 +211,13 @@ Some records about a person include that person's photograph, and for some famil
 
 **Congregation histories and pictorial directories.** According to Lisa Lisson’s guide, look in published histories for early members, leaders and groups such as choirs or children’s programs, and in pictorial directories for family or individual portraits [S51†] [S52]. Browse both kinds of historical publication. Ask an operating congregation which editions it holds. For a closed congregation, check local libraries and the denomination’s regional or diocesan archives [S52] [S53].
 
+**Revolutionary War veteran portraits.** For a veteran who lived into the 1860s, check Elias Brewster Hillard’s *The Last Men of the Revolution* (1864) [S112], the book cited by the presenter according to the saved transcript excerpt [S110†]. Search the biographical sketches by name and browse the captioned portrait plates separately, even if the veteran died before publication. Cite the edition and the page or plate. The book includes Daniel Waldo’s sketch and portrait even though Hillard reached him too late to interview him [S111] [S112].
+
 **World War II service photographs.** For a service member, browse military photograph collections and yearbooks for the documented unit and period [S49]. For a U.S. Army unit, search under its parent formation at the time and its campaign locations as well as the unit’s name [S50]. Label group images as context unless a caption or other documentation links the person to the image. Record the identification as an attribution.
+
+**U.S. military photographs by collection type.** Browse the National Archives’ World War II photo guide by service branch or subject and follow the item identifiers to the catalogue [S97 @2026-11-22] [S98 @2026-11-22]. Check the Still Picture Branch’s military-personnel guide for the scope of official portrait holdings. For a routine training portrait, training group photograph or yearbook, look beyond that branch, whose holdings exclude those training products [S99 @2026-11-22] [S100 @2026-11-22].
+
+**Queensland World War I soldier portraits.** Search MyHeritage’s Queensland soldier portrait collection by the soldier’s name [S99 @2026-11-22] [S102 @2026-11-22]. Record the publication date and source with the portrait and use them to retrieve its issue in *The Queenslander* pictorial supplement [S101 @2026-11-22] [S103 @2026-11-22].
 
 ## Add family-uploaded memorial portals in former Soviet cases
 
@@ -222,6 +248,8 @@ For every candidate image, record these as separate fields:
 - **Recorded donor.** Copy the donor attribution attached to the item [S4]. Distinguish who deposited the photograph from who first identified the sitter, and note any missing link between them.
 - **Nearby-place images**, labelled "local context only". A view of the next village or the town centre does not show the ancestor's house or the ancestor.
 
+**Retzius’s 1873 portraits from Karelia and Häme.** When describing an item, record that the portrait was made for Gustaf Retzius’s physical anthropology research [S108] [S109]. Attribute to Museovirasto its assessment that the project’s research premises were racist. Treat the project’s racial classifications as claims of the researcher and keep them out of the evidence for the sitter’s ancestry [S109].
+
 ## Record a proposed identification as an attribution
 
 If the user or a relative recognises someone, record it as that person's attribution. Give:
@@ -235,6 +263,10 @@ Do not compare faces yourself and do not name anyone from appearance. Resemblanc
 **Privacy gate:** <!-- privacy-gate: publish --> A suggested metadata correction makes the names of people in the photo public in the holder's catalogue, and some sitters may be living; answer the privacy gate in `SKILL.md` first.
 
 Offer a supported identification to the holding institution as a suggested metadata correction. Supply the item reference, the proposed name and its documentary basis [S2], [S5]. Preserve the original caption and record the holder’s response separately [S45].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A record feedback message sends the item identifier, the detail under review, any information about people named in the message and any reply address supplied by the user to Finna and the holding archive. Apply the privacy gate in `SKILL.md` before sending.
+
+**Finna record feedback.** If a teaching-slide description needs review, open the individual record and use its feedback form to identify the image and the specific field or detail that needs checking. Keep the item identifier and proposed correction or question in the research log [S91 @2026-11-22] [S93 @2026-11-22].
 
 **Privacy gate:** <!-- privacy-gate: contact --> An original-photo inquiry shares the user’s name, reply address and item reference with the Dead Fred archive. A claim may also disclose the user’s mailing address and relatives’ names or relationships. Answer the privacy gate in `SKILL.md` before sending either message.
 

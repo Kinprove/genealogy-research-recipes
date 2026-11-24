@@ -6316,5 +6316,11 @@
   "kind": "third-party-tool",
   "action": "Search Digitalarkivet’s refugee index by name",
   "checkpoint": "The refugee’s name goes to Digitalarkivet as the index search query."
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "contact",
+  "action": "use its feedback form to identify the image",
+  "checkpoint": "A record feedback message sends the item identifier"
  }
 ]
