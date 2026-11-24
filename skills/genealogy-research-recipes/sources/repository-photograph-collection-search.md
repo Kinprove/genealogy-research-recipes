@@ -117,6 +117,88 @@ No identification in the presenters' examples was independently checked.
 
 - **S71:** Shenandoah County Library Digital Archives, [Unidentified Home](https://archives.countylib.org/items/show/12305). Institutional item record read 2026-11-21. Used: an unidentified house photograph catalogued without an address in the Morrison Photographs series, George William Smith Collection, item 18-0507-0248. The entry demonstrates the filing clue and does not establish what other libraries hold off their shelves.
 
+- **S72:** New York Public Library, [Flickr photostream](https://www.flickr.com/photos/nypl/). Institutional photostream read 2026-11-22. Used: A library-maintained Flickr surface with separate albums and images.
+
+- **S73:** Family Tree Magazine, [How to Navigate Dead Fred’s Genealogy Photo Archive](https://familytreemagazine.com/websites/dead-fred-genealogy-photo-archive/). Community article read 2026-11-22. Used: The author recommends starting with known fields and using the studio imprint in the photographer index.
+
+- **S74:** Dead Fred’s Genealogy Photo Archive, [Detailed Search](https://deadfred.com/searchform_05.html). Public search form read 2026-11-22. Used: Signed-out form with separate person, maiden name, photographer, photographer state or province, and photo type fields.
+
+- **S75:** Dead Fred’s Genealogy Photo Archive, [Listing of All Photographers](https://deadfred.com/photoglistpage_05.html). Public photographer index read 2026-11-22. Used: Alphabetical photographer and studio lookup.
+
+- **S76:** Dead Fred’s Genealogy Photo Archive, [Mysteries](https://deadfred.com/mysteries_05.html). Public search form read 2026-11-22. Used: Separate unidentified-image search with county and state or province fields and no last-name field.
+
+- **S77:** Family Tree Magazine, [Understanding the Victorian Tradition of Post-Mortem Photography](https://familytreemagazine.com/photos/post-mortem-photography/). Community article read 2026-11-22. Used: The author recommends looking in specialist mourning and memorial collections.
+
+- **S78:** The Burns Archive, [Historical photographs: Death & Memorial](https://www.burnsarchive.com/historical-death-memorial). Institutional collection page read 2026-11-22. Used: The page describes the subject collection and links to examples; it does not establish name indexing or exhaustive coverage.
+
+- **S79:** Předcůvky, [Jan Langhans](https://predcuvky.opinio.cz/jan-langhans). Community article read 2026-11-22. Used: The author points to the studio website for selected surviving photographs and describes the loss of negatives. Omitted the post’s total because the archive describes a different figure.
+
+- **S80:** Archiv Langhans, [Archiv a jeho historie](https://langhans.cz/stranky/03_archiv). Archive history read 2026-11-22. Used: The archive describes the recovered negatives of the Galerie osobností, assembled around prominent sitters.
+
+- **S81:** Archiv Langhans, [Jak hledat v Online Archivu](https://langhans.cz/stranky/x_intro_archiv). Public archive help read 2026-11-22. Used: Name filter and browsing by the archive’s original categories.
+
+- **S82:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Bergaa eli Vuoristoa kartalle (2/5)](https://sukututkijanloppuvuosi.blogspot.com/2023/12/bergaa-eli-vuoristoa-kartalle-25.html). Community article read 2026-11-22. Used: The author compared two backgrounds for the same pair of buildings and used a visible property number and a known building as position clues.
+
+- **S83:** Helsinki City Museum, [Etu-Töölö, etualalla Berga 7](https://www.finna.fi/Record/hkm.23D746D7-B3CE-4D9A-8CFA-E776091C3749). Institutional item record read 2026-11-22. Used: The record titles the view for Berga 7 in the foreground and names the northward camera direction. It supplies no identification for the two background structures discussed in the blog.
+
+- **S84:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Kun kohde on taustalla](https://sukututkijanloppuvuosi.blogspot.com/2022/03/kun-kohde-on-taustalla.html). Community article read 2026-11-22. Used: The author found a candidate view among images titled for other subjects and compared views from similar and different vantage points.
+
+- **S85:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Vuonna 1903 hävinnyt Helsinki](https://sukututkijanloppuvuosi.blogspot.com/2024/10/vuonna-1903-havinnyt-helsinki.html). Community article read 2026-11-22. Used: The author uses dated demolition notices and historical street names to look for views, including a photograph during demolition.
+
+- **S86:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Vuonna 1896 hävinnyt Helsinki](https://sukututkijanloppuvuosi.blogspot.com/2024/08/vuonna-1896-havinnyt-helsinki.html). Community article read 2026-11-22. Used: The author pairs notices with earlier views and transcribes an issue that explicitly says the old building had been photographed. The notice supplies a lead, with no demonstrated surviving image of that house in the post.
+
+- **S87:** Helsinki City Museum, [Talonrakennustöitä, Albertinkatu 25 - Bulevardi 21 ja Albertinkatu 23 - Bulevardi](https://www.finna.fi/Record/hkm.9E5B1AE8-4F3F-4996-96C2-4CBE9B2DDFC0). Institutional item record read 2026-11-22. Used: The museum describes building work at the named sites. The caption identifies the work phase and does not by itself identify any earlier structures.
+
+- **S88:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Finna tutkimusaineiston esityspaikkana](https://sukututkijanloppuvuosi.blogspot.com/2026/03/finna-tutkimusaineiston-esityspaikkana.html). Community article read 2026-11-22. Used: The author describes separate album-page and individual-photo scans, a text-search false positive, and using an individual photograph’s identifier to find an album under different wording.
+
+- **S89:** Turku City Museum, [Anders Ramsay - yläluokkaista elämää 1800-luvun lopulla](https://finna.fi/Record/aipa.node-8323?lng=en-gb). Institutional research package read 2026-11-22. Used: Album grouping and the museum’s link to a VA9901 All Fields search for the individual photographs.
+
+- **S90:** Turku City Museum, [Eugen von Knorring (1827-1883); muotokuva; kokokuva](https://www.finna.fi/Record/tmk.162305386114000). Institutional item record read 2026-11-22. Used: Separate portrait record with item identifiers and album wording. The community article supplies the comparison with the album title.
+
+- **S91:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Täydennysosia Helsingistä Ukrainaan](https://sukututkijanloppuvuosi.blogspot.com/2022/02/taydennysosia-helsingista-ukrainaan.html). Community article read 2026-11-22. Used: The author describes a street subject identifiable from a visible inscription but filed under a broad Helsinki teaching-slide title. Used for browsing and reading inscriptions.
+
+- **S92:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Tunnista maisema Suomesta?](https://sukututkijanloppuvuosi.blogspot.com/2022/01/tunnista-maisema-suomesta.html). Community article read 2026-11-22. Used: The author describes browsing Aalto’s architecture teaching slides to find Finnish views after keyword searches missed them.
+
+- **S93:** Aalto University Archives, [Arkkitehtuurin historian opetusdiat, arkkitehtuuri: Helsinki (C48)](https://www.finna.fi/Record/aalto-repository.76afcc2a-32a4-4dba-a1cc-08dc1c37d02c_b3bf354b-1404-47fb-a824-154250848433). Institutional item and hierarchy record read 2026-11-22. Used: A record titled at the teaching-slide group level, with hierarchy navigation and an item description. The item illustrates the title pattern and is separate from the blog’s water-seller image.
+
+- **S94:** Aalto University Archives, [Arkkitehtuurin historian opetusdiat, kaupunkiarkkitehtuuri (C39)](https://finna.fi/Record/aalto-repository.76afcc2a-32a4-4dba-a1cc-08dc1c37d02c_d7d6f386-16d1-43ad-8a09-7ec4e92010e9?page=2). Institutional item and hierarchy record read 2026-11-22. Used: The urban-architecture series label and the archive hierarchy used to browse related items.
+
+- **S95:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Kuva on kiva, kuvailun kera parempi](https://sukututkijanloppuvuosi.blogspot.com/2024/02/kuva-on-kiva-kuvailun-kera-parempi.html). Community article in the blog’s weekly archive read 2026-11-22. Used: The author describes a family image in the Hyyppä glass-negative group and distinguishes the reported group location from the unknown location of that photograph. Read the post text on the February 18 archive page after direct permalink access failed.
+
+- **S96:** Finnish Business Archives (ELKA), [Lasinegatiivit (1890–1910)](https://www.finna.fi/Record/elka.143411904822300_143411907609200). Institutional series record read 2026-11-22. Used: Finna lists the Hyyppä archive hierarchy, collective description and subject terms, image files and a link to ELKA’s catalogue. No item-level location inference was made.
+
+- **S97:** Family Tree Magazine, [World War II Genealogy Research: 5 Key Records](https://familytreemagazine.com/records/military/world-war-ii-service/). Community article read 2026-11-22. Used: The author directs readers to National Archives World War II resources for photographs.
+
+- **S98:** U.S. National Archives, [World War II Photos](https://www.archives.gov/research/military/ww2/photos). Institutional research guide read 2026-11-22. Used: A selection of service-branch photographs browseable by subject, with item identifiers and catalogue links.
+
+- **S99:** David Ridd, MyHeritage, [The Soldier’s Trail: The Definitive Master Guide To Uncovering Your Family’s Military Legacy](https://blog.myheritage.com/2025/04/how-to-conduct-a-military-records-search/). Community article at its current redirect read 2026-11-22. Used: The article suggests military portraits and unit photographs and shows a Queensland World War I portrait example. The National Archives guide supplies the narrower U.S. scope.
+
+- **S100:** U.S. National Archives, [Military Personnel Photographs](https://www.archives.gov/research/still-pictures/military-personnel-photographs). Institutional research guide read 2026-11-22. Used: Distinguishes official military images from routine training portraits, group photographs and yearbooks outside the Still Picture Branch’s collections.
+
+- **S101:** MyHeritage Blog, [MyHeritage Publishes 65 Million Records in November and December 2022](https://blog.myheritage.com/2023/01/myheritage-publishes-65-million-records-in-november-and-december-2022/). Community collection announcement read 2026-11-22. Used: Identifies the Queensland soldier portraits and the publication date and source indexed from The Queenslander.
+
+- **S102:** MyHeritage, [Australia, Queensland, World War I Soldier Portraits 1914-1918](https://www.myheritage.com/research/collection/australia-queensland-world-war-i-soldier-portraits-1914-1918/colid-20345). Public collection description and search form read 2026-11-22. Used: Name and publication date fields and the collection’s source scope. Individual results and account access were not tested.
+
+- **S103:** State Library of Queensland, John Oxley Library, [World War I soldiers in daily life](https://www.slq.qld.gov.au/blog/world-war-i-soldiers-daily-life). Institutional article read 2026-11-22. Used: Identifies the portrait source as The Queenslander’s pictorial supplements.
+
+- **S104:** The Thanatos Archive, [Frequently asked questions](https://www.thanatos.net/faq/). Public archive help read 2026-11-22. Used: The archive describes member access for its online post-mortem photography. The member collection was not opened.
+
+- **S105:** Peter Olsen, Danske Slægtsforskere, [Ejendomshistorie – Ulfborg](https://slaegt.dk/media/x3qbg1ui/peter-olsen-ejendomshistorie-nov2024.pdf). Reader-supplied presentation excerpts examined 2026-11-22. Used: The excerpt recommends Danmark set fra luften for historical property photos. Direct PDF retrieval exceeded the fetch limit. The Royal Danish Library documentation supplies the current search and placement guidance.
+
+- **S106:** Royal Danish Library, [Danmark set fra luften](https://www.kb.dk/find-materiale/tjenester/danmark-set-fra-luften). Institutional search guide read 2026-11-22. Used: The zoomed map bounds search results. The guide describes address fields, series identifiers, and corrections and placements by users.
+
+- **S107:** Royal Danish Library, [Denmark seen from the air – before Google](https://www.kb.dk/danmarksetfraluften/english). Institutional documentation read 2026-11-22. Used: The underlying sources for aerial-photo locations include flight plans, purchase ledgers and crowdsourced placements. A purchaser’s name and address can describe a purchase rather than the property depicted.
+
+- **S108:** Kaisa Kyläkoski, Sukututkijan loppuvuosi, [Pääkalloista tällä kertaa](https://sukututkijanloppuvuosi.blogspot.com/2022/02/paakalloista-talla-kertaa.html), published 2022-02-17. Community article read 2026-11-23. Kyläkoski highlights Museovirasto’s advice to interpret the Karelia and Häme portraits in light of their original purpose. The post also quotes the agency’s assessment of the research premises (S109).
+
+- **S109:** Museovirasto (Finnish Heritage Agency), [Account of the acquisition of Gustaf Retzius’s 1873 research photographs](https://www.museovirasto.fi/fi/ajankohtaista/gustaf-retziuksen-suomessa-1873-tekemien-tutkimusten-kuva-aineistoa-on-hankittu-museoviraston-kokoelmiin-ruotsista), published 2022-01-26. Institutional acquisition account read 2026-11-23. The agency says the portraits were made during Retzius’s physical anthropology research, that some were used in his later study, and that the study’s premises were racist by present-day standards.
+
+- **S110:** Craig R. Scott, Just Genealogy, [Where is Waldo? Daniel Waldo, Revolutionary War Soldier - JG0165](https://www.youtube.com/watch?v=vRBj8kmCeSo), published 2022-08-20. Reader-supplied transcript excerpt read 2026-11-23. The excerpt points to Hillard’s book and reports that it includes Waldo despite a missed interview. Direct video retrieval failed. The excerpt places the visit after Waldo’s death. The book itself places it before his death and distinguishes Hillard from the person who took Waldo’s photograph (S111, pp. 23–26).
+
+- **S111:** Elias Brewster Hillard, [The Last Men of the Revolution](https://archive.org/download/gri_33125012930976/gri_33125012930976.pdf), Hartford, 1864. OCR of the digitized edition read 2026-11-23. The title page identifies Hillard as the author of the sketches. Waldo’s sketch begins on p. 23. Hillard describes reaching Waldo on his deathbed, after the chance for an interview had passed. On p. 26 he attributes an account of Waldo’s capture to what Waldo told the photographer.
+
+- **S112:** Getty Research Institute, [Catalogue record for The Last Men of the Revolution](https://archive.org/details/gri_33125012930976). Institutional catalogue description read 2026-11-23. The record identifies the 1864 edition digitized as `gri_33125012930976` and lists the sketch subjects and albumen portraits, including Daniel Waldo among both.
+
 ## Credits
 
 - University of Arizona Libraries, Utah Historical Society and J. Willard Marriott Library (S43–S45) — collection descriptions and attributed account paraphrased (adapted)
@@ -141,3 +223,7 @@ No identification in the presenters' examples was independently checked.
 - Library of Congress, cited as S57 — institutional guide paraphrased (adapted)
 - Family Tree Magazine, Sunny Jane Morton, Joe Bott and Anna Rose Johnson, cited as S59, S66 and S69–S70 — source rights remain with the respective rights holders, with short attributed paraphrases (adapted)
 - Historypin, Cleveland Metroparks, Dead Fred’s Genealogy Photo Archive and Shenandoah County Library, cited as S60–S65, S67–S68 and S71 — source rights remain with the respective rights holders, with controls and catalogue descriptions paraphrased (adapted)
+- Anna Rose Johnson, Family Tree Magazine, MyHeritage, Kaisa Kyläkoski, Peter Olsen and Předcůvky, cited in S70 and S73–S106 — rights remain with their respective holders, with short attributed adaptations (adapted)
+- Holding institutions and platform documentation cited in S72–S107 — rights remain with their respective holders, with catalogue descriptions and procedures paraphrased (adapted)
+- Kaisa Kyläkoski, Museovirasto, Craig R. Scott and the Getty Research Institute, cited in S108–S110 and S112 — rights remain with the respective holders, with brief attributed paraphrases (adapted)
+- Elias Brewster Hillard, cited in S111 — public domain, with the visit account paraphrased (adapted)
