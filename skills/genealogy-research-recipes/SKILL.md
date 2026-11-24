@@ -543,6 +543,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/colonial-tavern-license-recovery.md` — Use Maryland, Delaware and Virginia tavern compilations to identify a keeper, then recover the license and the applicable local rate schedule.
 - `recipes/dunmores-war-payroll-and-claims.md` — Trace a 1774 expedition participant or supplier through Virginia’s commissioners’ ledger and separate West Augusta records.
 - `recipes/florida-spanish-land-grant-claims.md` — Find the papers behind a Florida Spanish land claim and distinguish its supporting evidence from the decision on title.
+- `recipes/maryland-revolutionary-war-record-recovery.md` — Use Maryland’s period counties, wartime census, oath lists and state papers to distinguish Revolutionary residence, allegiance, military service and civilian aid.
 
 ### Canada, Latin America, Asia and Oceania
 
