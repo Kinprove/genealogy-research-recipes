@@ -27,7 +27,7 @@ This recipe's own contribution is the routing row, the party-role table, the two
 - **S20:** Michelle Mickelson, Family Locket, [Southwestern United States Research: Key Records and Repositories Part 4 – Mining and Agriculture Records](https://familylocket.com/southwestern-united-states-research-key-records-and-repositories-part-4-mining-and-agriculture-records/), published 2024-02-17, read 2026-11-12. Used for: the guide's pointer to the GLO records for mining claims.
 - **S21:** Bureau of Land Management, General Land Office Records, [Glossary](https://webharvest.gov/peth04/20041112075223/https://www.glorecords.blm.gov/Visitors/Glossary.asp), read 2026-11-12 in the archived capture of 2004-11-12. Used for: lode, placer and millsite claims described on the Mineral Certificate.
 - **S22:** Bureau of Land Management, [Recording a Mining Claim or Site](https://blm.gov/programs/energy-and-minerals/mining-and-minerals/locatable-minerals/mining-claims/recording), read 2026-11-12. Used for: recording a claim at the county office and sending BLM a copy under section 314 of the Federal Land Policy and Management Act.
-- **S23:** Bureau of Land Management, [General Land Office Records](https://www.blm.gov/services/land-records/glo), read 2026-11-12. Used for: the site's federal land conveyance records for the public-land states.
+- **S23:** Bureau of Land Management, [General Land Office Records](https://www.blm.gov/services/land-records/glo), read 2026-11-12. Used for: the site's federal land conveyance records for the public-land states. Federal title records and Master Title Plats descriptions rechecked 2026-11-22. Used here for the Master Title Plat’s purpose as a record of township land status.
 - **S24:** Bureau of Land Management, [Wyoming Homestead Lesson Plan](https://www.blm.gov/sites/default/files/docs/2024-01/2.Homestead%20Lesson%208th.pdf), PDF, read 2026-11-12. Used for: six months after filing to take up residence, and final-proof witnesses testifying when actual residence began.
 
 **Not verified independently:** the Izard County application dates (S18 only).
@@ -90,7 +90,7 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S52:** Kenneth Hawkins, National Archives, [Research in the Land Entry Files of the General Land Office, Reference Information Paper 114](https://www.archives.gov/files/publications/ref-info-papers/rip114.pdf). Warrant sections and searchpath tables read 2026-11-21. Used for act-specific filing fields, indexes, survival and filming of Revolutionary War warrants, M848 coverage and cash and credit entry searchpaths. Use the current NARA access page for ordering logistics.
 
-- **S53:** National Archives, [Pre-World War I U.S. Army Pension and Bounty Land Applications](https://www.archives.gov/research/military/army/pensions). Revolutionary War and War of 1812 entries read 2026-11-21. Used for warrant applications filed separately from pensions, series 567388 with selected applications in the National Archives Catalog and partial digitization on Fold3, and M829 listed online through Ancestry. Access inside Fold3 and Ancestry was not tested.
+- **S53:** National Archives, [Pre-World War I U.S. Army Pension and Bounty Land Applications](https://www.archives.gov/research/military/army/pensions). Revolutionary War and War of 1812 entries read 2026-11-21. Used for warrant applications filed separately from pensions, series 567388 with selected applications in the National Archives Catalog and partial digitization on Fold3, and M829 listed online through Ancestry. Access inside Fold3 and Ancestry was not tested. Catalog and Fold3 coverage rechecked in the NARA guide 2026-11-22. Used here for the Catalog’s selected applications and the Fold3 project’s partial coverage.
 
 - **S54:** National Archives, [Records of the Bureau of Land Management, Record Group 49](https://www.archives.gov/research/guide-fed-records/groups/049.html). Section 49.3.2 read 2026-11-21. Used for military scrip indexes, exchanged warrants, scrip applications and certificate stubs among the records of the GLO's Division B.
 
@@ -122,6 +122,62 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S68:** Bureau of Land Management, [Meridian Codes](https://reports.blm.gov/docs/lr2000/CodeMeridian.pdf). Ohio meridian table read 2026-11-21. Used for the Bureau's U.S. Military Survey designation. The live GLO portal's meridian filter was not inspected.
 
+- **S69:** [Learning About Ancestors Through Homestead Records – An Interview with Katie Merkley | Episode 200](https://www.youtube.com/watch?v=lGm5bkjp-2c), community video, published 2025-09-05. Supplied transcript excerpts reviewed 2026-11-22. Used for the interview’s advice on original-act eligibility, proof timing, early purchase, publication evidence, claimant and witness testimony, military credit, local Utah records and image browsing. The linked video could not be opened. The historical forms and statute supply the evidence for the proof and eligibility steps. The interview’s statement that the tract books were unindexed does not describe the current collection.
+
+- **S70:** National Park Service, [Homestead Roots Deep In The South](https://www.nps.gov/articles/000/homestead-roots-deep-in-the-south.htm). Project description read 2026-11-22. Documents formerly enslaved people and their descendants taking up homesteads, including in the South, and explains that the case files did not record race.
+
+- **S71:** Rick Martinez, National Archives, [Wagons West: Land Records at the National Archives](https://www.archives.gov/files/calendar/genealogy-fair/2014/handouts/session-11-presentation-martinez.pdf). Claimant testimony reproduced on slide 40 inspected 2026-11-22. The form records establishment of residence, dwelling and improvements, and a wife and number of children without naming them.
+
+- **S72:** National Park Service, National Register of Historic Places, [Simmons Ranch, registration form and supporting records](https://npgallery.nps.gov/GetAsset/a39930f2-0ce3-45e5-81fa-f2d1a5887f6f/). Reproduced homestead forms inspected 2026-11-22. Used for the signed proof of publication and notice in an entry file, and cultivation and improvements in the final-proof forms.
+
+- **S73:** U.S. Congress, [Act of June 8, 1872, ch. 338, 17 Stat. 333–334](https://www.govinfo.gov/content/pkg/STATUTE-17/pdf/STATUTE-17-Pg333.pdf). Section 1 read 2026-11-22. Used for the original 1872 provision for qualifying, honorably discharged Union personnel, computation of service credit, and the one-year minimum on the homestead.
+
+- **S74:** [Exploring Divorce Records – An Interview with Judy Russell | Episode 196](https://www.youtube.com/watch?v=2dILEctXIcs), community video, published 2025-05-06. Supplied transcript excerpts reviewed 2026-11-22. Used for the interview’s suggestion to read marital-status, head-of-family and citizenship evidence in a woman’s land papers as leads to other records. The linked video could not be opened. This does not establish that a woman had to head a family if she met the age requirement, or what marriage meant for citizenship in every period.
+
+- **S75:** Bob King, National Park Service, [Mrs. Carrie A. Gordon and Her Oklahoma Homestead](https://www.nps.gov/articles/000/mrs-carrie-a-gordon-and-her-oklahoma-homestead.htm). Case-file discussion read 2026-11-22. Documents a woman’s homestead after an unsuccessful marriage and conflicting statements in other records about whether her former husband was alive. Used for checking marital-status discrepancies in court records.
+
+- **S76:** FamilySearch, [United States, Bureau of Land Management Tract Books, 1800-c. 1955](https://www.familysearch.org/en/search/collection/2074276). Collection description and search and browse options read 2026-11-22. Used for township and range organization, the volume coverage table and the option to browse the images independently of the name search. The collection has a name search, and its guidance still calls for image browsing.
+
+- **S77:** [Federal Bounty Land  - What A Genealogist Needs to Know -  JG0272](https://www.youtube.com/watch?v=0kp_L0nVvgA), community video, published 2022-12-08. Supplied transcript excerpts reviewed 2026-11-22. Used for the presenter's advice on Ohio districts, the 1852 Virginia scrip route, screening by act, comparing cancelled claims, later surnames, interpreting assignments and early War of 1812 locations, and the warning about incomplete application indexes. The linked video could not be opened. The early statutes and archival guides supply the documented scope. The presenter’s recalled surname cutoff does not establish present coverage.
+
+- **S78:** U.S. Congress, [Act of May 6, 1812, ch. 77, 2 Stat. 728–730](https://www.govinfo.gov/content/pkg/STATUTE-2/pdf/STATUTE-2-Pg728-2.pdf). Sections 1, 3 and 4 and the earlier acts named in the text read 2026-11-22. Used for the 1811 and 1812 authorizations named by the act, the initial territorial reservations, the choice of territory and drawing for a quarter section, and the pre-patent transfer restriction.
+
+- **S79:** U.S. Congress, [Act of April 29, 1816, ch. 164, 3 Stat. 332](https://www.govinfo.gov/content/pkg/STATUTE-3/pdf/STATUTE-3-Pg332.pdf). Chapter 164 read 2026-11-22. Used for replacing the Michigan reservation with land in Illinois and in Missouri Territory north of the Missouri River.
+
+- **S80:** [The Scrip Act of 1852 - JG0016](https://www.youtube.com/watch?v=ArRUaIA_6eQ), community video, published 2022-03-27. Supplied transcript excerpts reviewed 2026-11-22. Used for the presenter’s advice to take the application number from Brown’s abstract, to look up every listed number and to look for proofs of service and descent, including copies of wills. The video page could not be opened. The book’s title and the archive guide support the record group. The presenter’s Entry 4 locator and the current physical location and ordering requirements were not independently established.
+
+- **S81:** U.S. Congress, [Act of August 31, 1852, ch. 114, 10 Stat. 143–144](https://www.govinfo.gov/content/pkg/STATUTE-10/pdf/STATUTE-10-Pg143-2.pdf). Sections 1 and 2 read 2026-11-22. Used for the eligibility cutoff for Virginia warrants, revision of service proofs, issuance to present proprietors, division among interested parties and use on federal lands open to private entry.
+
+- **S82:** Library of Virginia, [Revolutionary War Bounty Land Claims: Related Resources](https://lva-virginia.libguides.com/bounty-claims/related-resources). Related publications list read 2026-11-22. Identifies Margie G. Brown’s 1997 abstract of the 1852 Scrip Act papers.
+
+- **S83:** Margie G. Brown, [Genealogical Abstracts, Revolutionary War Veterans Scrip Act 1852](https://books.google.com.do/books?id=Kj0gp8_l6FcC&lr=&num=20). Bibliographic record and full title read 2026-11-22. The full title identifies the original records abstracted as RG 49. The book’s case abstracts were not accessible in this view.
+
+- **S84:** [A Revolutionary War Soldier - John S. Head - A Step by Step Genealogy Case Study - JG0255](https://www.youtube.com/watch?v=qAJ-CnBltTE), community video, published 2022-11-22. Supplied transcript excerpts reviewed 2026-11-22. Used for the presenter’s advice to follow earlier awards for a partial 1855 award, screen an 1850 warrant for additional service and test namesakes by service designation. The linked video could not be opened. The statutes supply the legal limits and the service distinctions. The individual namesake match was not independently verified.
+
+- **S85:** [Captain Enoch Osborn, Virginia Militia  A Genealogical Case Study - JG0078](https://www.youtube.com/watch?v=1CIK-IjluP0), community video, published 2022-05-25. Supplied transcript excerpts reviewed 2026-11-22. Used for the presenter’s advice to screen same-name patent hits by their governing acts. The linked video could not be opened. The case’s date cutoff and recollection of alphabetic coverage do not establish general rules.
+
+- **S86:** [Land Records 101: Is It a Patent or Deed?](https://www.youtube.com/watch?v=jF0YlWkNcok), community video, published 2025-01-29. Supplied transcript excerpts reviewed 2026-11-22. Used for the presenter’s advice to search women and people who assigned rights away even when they had no known land purchase. The linked video could not be opened. The pre-1900 cutoff was the presenter’s own search scope.
+
+- **S87:** [How to Plot Land Records  - JG0175](https://www.youtube.com/watch?v=srP3i_8tTb4), community video, published 2022-08-30. Supplied transcript excerpts reviewed 2026-11-22. Used for the presenter’s advice to include people with no known land acquisition in a GLO name search because a bounty right could have been assigned. The linked video could not be opened.
+
+- **S88:** [Find Your Ancestors’ Land Records for FREE Using the GLO Website](https://www.youtube.com/watch?v=5_1eTSRe2dA), community video, published 2022-12-14. Supplied transcript excerpts reviewed 2026-11-22. Used for the presenter's advice to start a narrow GLO search with a surname, read rectangular fractions from outside inward and use the Master Title Plat to orient a parcel. The video page could not be opened. The Bureau's documentation supplies the survey and map distinctions. The current site controls were not verified.
+
+- **S89:** Bureau of Land Management, [Classroom Investigation: Cadastral Surveying](https://www.blm.gov/sites/default/files/docs/2023-05/Classroom%20Investigation%20Cadastral%20Surveying.pdf). Rectangular survey and aliquot examples read 2026-11-22. Used for the meridian, township, range and section locator and interpreting nested aliquot parts from the containing division inward.
+
+- **S90:** U.S. Congress, [Act of August 4, 1842, ch. 122, 5 Stat. 502–504](https://www.govinfo.gov/content/pkg/STATUTE-5/pdf/STATUTE-5-Pg502.pdf). Sections 1 and 6 read 2026-11-22. Used as a statutory example of settlers occupying land in parts of Florida before the federal survey.
+
+- **S91:** Utah Division of Archives and Records Service, [Original Land Titles in Utah Territory](https://archives.utah.gov/research/guides/land-territorial/). County abstracts and territorial and federal title discussion read 2026-11-22. Used for Utah county recorder abstracts organized by tract, including the instruments and book and page references that can preserve a parallel title trail.
+
+- **S92:** Utah Division of Archives and Records Service, [Land Records](https://archives.utah.gov/research/guides/land/). Repositories section read 2026-11-22. Used for the description of federal Salt Lake and Vernal land office records and Utah tract books held by the National Archives at Denver.
+
+- **S93:** National Archives, [Bounty Land Warrants, 1775–1855](https://www.archives.gov/files/research/military/bounty-land-1775-1855.pdf). Unindexed Bounty-Land Warrant Files section read 2026-11-22. Used for arrangement of RG 15 Entry 26 by veteran’s surname. The older handout does not establish current digitization or index coverage.
+
+- **S94:** Genealogical Publishing / Clearfield, [Federal Land Series](https://genealogical.com/store/federal-land-series/). Publisher’s series and volume descriptions read 2026-11-22. Used for the scope of Clifford Neal Smith’s volume 4 on the Virginia Military District of Ohio and its division into two parts. The index volumes were not inspected.
+
+- **S95:** [Your Ultimate Guide to US Genealogy](https://familytreemagazine.com/us/american-genealogy-guide/), community article, published 2025-06-05. Supplied article excerpts and search extract reviewed 2026-11-22. Used for the article’s practice of tracing federal railroad grants to subsequent deeds. The full article could not be opened. The statute establishes a documented grant and resale route.
+
+- **S96:** U.S. Congress, [Pacific Railroad Act of July 1, 1862, ch. 120, 12 Stat. 489–498](https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg489.pdf). Sections 3 and 4 read 2026-11-22. Used for the federal grant to the railroad company and the distinction between the grant and the company’s subsequent disposition of the land.
+
 ## Credits
 
 - United States Statutes at Large, S46 — Public-domain 1852 assignment provision paraphrased (adapted)
@@ -136,3 +192,6 @@ This recipe's own contribution is the routing row, the party-role table, the two
 - United States Statutes at Large and California State Archives, S48 and S49 — Statutory and collection facts paraphrased with attribution (adapted)
 - Family Tree Magazine and Just Genealogy, S50, S51 and S64 — Third-party guidance paraphrased with attribution (adapted)
 - Federal statutes, congressional journals, finding aids and historical records, S52–S63 and S65–S68 — Public records paraphrased with attribution (adapted)
+- Community works S69, S74, S77, S80, S84–S88 and S95 — Third-party guidance paraphrased with attribution (adapted)
+- Federal statutes, archived forms and public finding aids S70–S73, S75, S78–S79, S81–S82, S89–S93 and S96 — Historical and finding-aid facts paraphrased with attribution (adapted)
+- FamilySearch and publisher catalogue descriptions S76, S83 and S94 — Collection and publication details paraphrased with attribution (adapted)

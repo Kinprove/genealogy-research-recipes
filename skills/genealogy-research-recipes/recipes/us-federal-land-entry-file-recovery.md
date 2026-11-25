@@ -56,9 +56,15 @@ A further caution for Ohio: its northeastern counties in the Connecticut Western
 
 **Early federal Revolutionary War warrants.** Start in the U.S. Military District of Ohio for warrants governed by the 1796 reservation [S50], [S55]. Use the U.S. Military Survey meridian for tracts in that district [S68]. According to the presenter, keep searching past the original January 1800 deadline [S51†]. The 1806 act allowed qualifying unlocated warrants to be placed on reserved tracts before October 1, 1808 [S56].
 
+**Virginia Military District.** Check the warrant issuer before selecting either Ohio military district [S27]. According to the presenter, use volume 4 of Clifford Neal Smith’s *Federal Land Series* for Virginia Military District grants [S77†]. Search the name, place or watercourse index in both parts and carry the survey or warrant number into the original records [S94], [S27].
+
+**Ohio Refugee Tract.** According to the presenter, use this tract label as a Revolutionary War lead [S77†]. Check the claimant against the grants for refugees from Canada and Nova Scotia who sided with the Americans. Verify military service in a separate record [S27].
+
 **Warrants exchanged for scrip.** If a qualifying Revolutionary War warrant remained unsatisfied, look for an exchange under the 1830 act. Include eligible U.S.-issued warrants and keep the original issuer in the search [S50], [S57]. According to the presenter, follow the scrip to land outside the original military district [S51†]. For 1830 scrip, search private sales in Ohio, Indiana and Illinois. For scrip under the 1833 expansion, include other public land liable to sale at private entry [S57], [S58].
 
 **Later locations.** According to the presenter, widen the search when the warrant falls under the 1842 or 1864 legislation [S51†]. For a warrant covered by the 1842 act, search public land open to private entry beyond the original district [S59]. Include later locations of qualifying outstanding Revolutionary War and War of 1812 warrants under the 1864 act. Apply the land rules in force at the location date [S60].
+
+**Early War of 1812 warrants.** According to the presenter, include legislation that preceded the war and separate the territory chosen from the parcel allotted [S77†]. Check the December 24, 1811 and January 11, 1812 authorities. Under the May 6, 1812 act, the warrantee designated a territory and drew a quarter section by lot. Use the warrant and patent to identify the actual parcel [S78]. For locations under the April 29, 1816 replacement of the Michigan reservation, search Illinois and Missouri Territory north of the Missouri River. Also check the original allocations in Illinois and the part of Louisiana Territory now in Arkansas [S78], [S79].
 
 **California.** According to Family Tree Magazine’s California guide, distinguish federal public-land sales from earlier Spanish or Mexican grants [S47†]. Read the patent’s authority before choosing a file series. The 1851 act provided for U.S. patents on confirmed claims based on Spanish or Mexican grants [S48]. For a federal public-land sale, follow the cash-entry route (§§1 and 7) [S39].
 
@@ -67,6 +73,8 @@ For an earlier Spanish or Mexican grant, check the California State Archives’ 
 ## 1. Route the entry by authority
 
 Start a row for each GLO hit. Copy the authority, act year, acreage, warrant number, land office and legal description. Keep the Document Nr. and Accession Nr. in separate fields. Use the stated authority to distinguish a military warrant from a cash sale or homestead [S1], [S39].
+
+**Railroad grants.** According to Family Tree Magazine, trace a historical railroad sale in two legs [S95†]. Read the federal conveyance and its authority to identify the original grantee. If the company received the land under a grant such as the 1862 Pacific Railroad Act, take its name and the legal description to the county deed index and search for its conveyance to the later buyer [S96]. Use [land index and book-series recovery](land-index-book-series-recovery.md) for the deed chain.
 
 Match the three parts of the bounty-land number on a pension or warrant index card against the entry. For example, 36643-160-55 means warrant 36643, 160 acres, Act of 1855 [S1]. The warrant number, acreage and authorizing act together identify the surrendered warrant [S39]. If a field differs, retain both references until you can explain the discrepancy.
 
@@ -78,7 +86,11 @@ On a War of 1812 pension envelope, check the upper right corner for bounty-land 
 
 Read the acreage against the act. A veteran who received 40 acres under the 1850 act could receive another 120 acres under the 1855 act, for 160 acres in total. [S2] So one veteran can lie behind more than one warrant and more than one entry. The 1855 act was the last general bounty-land act, but warrants under the 1847–1855 acts kept being issued for decades. Acreage varied by rank and changed with each act. For example, the basic War of 1812 grant of 160 acres was raised to 320 by an 1814 act. [S9], [S12] State bounty-land programmes had their own rules and fall outside this federal route. [S12], [S1]
 
+According to the presenter, when an 1855 award is below 160 acres, look for an earlier award under a general bounty-land law [S84†]. Match the claimant and service before totaling acreage. Section 1 allowed a top-up to 160 acres for an otherwise eligible recipient of a smaller award. Keep any independently authorized earlier warrants in the search even when the 1855 award itself is for 160 acres [S42].
+
 **Revolutionary War claims under the 1855 act.** According to the presenter, search under the 1855 act even if the Revolutionary War veteran had already died [S40†]. For a new warrant on that service, check for an eligible widow or, if there was no widow, children who were minors when the act took effect [S42]. The September 28, 1850 act covered specified War of 1812 and post-1790 Indian War service and included commissioned officers who served in the Mexican War [S43]. Keep earlier Revolutionary War warrant authorities in the search [S44].
+
+According to the presenters, screen same-name bounty-land hits by the authorizing act and by the state, line or unit named for the service [S85†], [S84†]. An 1850 warrant for someone known to have served in the Revolution is a lead to separate qualifying service. Check the War of 1812, post-1790 Indian wars or applicable Mexican War service against the warrant application before assigning the hit [S43], [S44].
 
 **Continental service and rank.** According to the presenter, use the early bounty schedules to check service and rank [S51†]. For the September 1776 resolutions, look for Continental Army service through the end of the war or discharge by Congress. Also check for a representative's claim for an officer or soldier killed by the enemy [S61]. Use the acreage as a rank clue. Match 100 acres to a private or noncommissioned officer, 150 to an ensign, 200 to a lieutenant, 300 to a captain, 400 to a major, 450 to a lieutenant colonel and 500 to a colonel [S61]. Under the August 1780 extension, compare 850 acres with brigadier general and 1,100 acres with major general [S62]. Corroborate rank in the warrant or service record.
 
@@ -101,7 +113,11 @@ Reading one series does not mean you have searched the other, in either directio
 
 **Application evidence.** Record the veteran's age and residence at application. Look for a discharge certificate and service affidavits. In an heir's application, log the evidence of service, death and the relationship used to establish heirship [S50], [S65], [S44].
 
+According to the presenter, when a spouse’s claim was cancelled after they reported the veteran dead, compare the cancellation with any earlier award to the veteran [S77†]. For an 1850 claim, check whether the veteran had already received land for the same service and record the stated disposition separately from the applicant’s account of the veteran’s death [S43]. According to the presenter, search for an 1855 claimant under her later married surname as well [S77†]. Section 2 allowed a subsequent marriage if she was again widowed when she applied [S42].
+
 If a pension search is empty, check the separate bounty-land application series. For a Fold3 miss on service from 1812 to 1855 or a disapproved Revolutionary War claim, check NARA Catalog series 567388. NARA lists selected applications there and partial digitization on Fold3 [S50 @2026-11-21], [S53 @2026-11-21].
+
+According to the presenters, check the name coverage of the partial bounty-land index before interpreting a miss [S77† @2026-11-22], [S85† @2026-11-22]. Search within NARA Catalog series 567388 and record the veteran, unit and war when shown. If the name is absent from the searchable subset, use the RG 15 Entry 26 files arranged by veteran’s surname [S53 @2026-11-22], [S93 @2026-11-22].
 
 **Filmed exceptions for early warrants.** Use the act-specific indexes in Reference Information Paper 114 to find the surrendered warrant [S50], [S52]. For Revolutionary War warrants under the 1788, 1803 and 1806 acts, start with the indexes and registers on M829 roll 1, then follow the warrant number to the filmed records [S66]. Check M848 for early War of 1812 warrants [S52], [S66].
 
@@ -112,6 +128,10 @@ For a War of 1812 warrant under the 1850, 1852 or 1855 acts, check M313 as well 
 If a Revolutionary War application filed before the November 1800 fire is missing, check M804 for a warrant record card compiled from the registers. Label a record card as a reconstruction and a filmed surviving warrant as a copy of that warrant [S50], [S44], [S52].
 
 For a Revolutionary War scrip exchange, use the RG 49 scrip indexes, exchanged warrants, applications and certificate stubs to carry the original warrant into the land-entry search. Keep the scrip certificate number and original warrant number in separate fields [S54 @2026-11-21].
+
+**August 31, 1852 Virginia scrip.** According to the presenter, carry this scrip beyond the Virginia Military District [S77†]. Check for a Virginia Revolutionary War warrant issued or allowed before March 1, 1852 with acreage still unsatisfied. Follow the scrip to federal land open to private entry. Record the original warrantee, the party entitled to scrip and any later assignee separately [S81].
+
+According to the presenter, copy every application number listed for the veteran in Brown’s *Genealogical Abstracts, Revolutionary War Veterans, Scrip Act 1852* [S80†]. Carry each number with the act, names and RG 49 series reference into the scrip application search. Keep the numbers separate from the original warrant number and the scrip certificate number [S82], [S83], [S54]. Check each file for evidence of the soldier’s service and the claimant’s chain of entitlement. According to the presenters, check for copies of wills offered as evidence of descent [S80†], [S77†]. The statute allowed separate shares for people with interests in the same warrant [S81].
 
 Do not stop a military-bounty warrant search in the veteran’s home state. Once the warrant’s act, acreage and number match an entry (§1), read its land office and legal description to place the tract. Keep that location separate from the warrantee’s residence. [S34], [S35], [S36]
 
@@ -129,6 +149,8 @@ According to the presenter, check both directions of assignment when a name turn
 
 According to the presenter, check the location certificate before treating an 1842 entry as an assignment [S51†]. Under the 1842 act the certificate of location was nonassignable, and the patent issued to the originally entitled person, heirs or legal representatives [S59].
 
+According to the presenter, check whether the early War of 1812 authority allowed a sale before patent [S77†]. For a bounty under the May 6, 1812 act, section 4 barred pre-patent transfers. If a different party appears on a later deed, date that conveyance against the patent and apply the authority under which the tract was acquired [S78].
+
 **Assigned Revolutionary War warrants.** According to the presenter, search GLO for the veteran even if the warrant may have been sold [S40†]. Read the patent for the veteran and any stated assignment. Identify the patentee from the grant clause. A Revolutionary War warrant could underlie a patent issued to someone else [S41]. Carry the warrant into the application search (§2) for evidence of the veteran's service [S44].
 
 According to the presenter, read the Revolutionary War patent for its service designation [S40†]. If it gives only a line or militia designation, carry that wording into the service search. Use a warrant application or a military service record that identifies the regiment before recording one [S44], [S45].
@@ -136,6 +158,8 @@ According to the presenter, read the Revolutionary War patent for its service de
 ## 4. If GLO has no name hit, check NARA's cancelled-entry name indexes, then get a legal description
 
 A missing name in the GLO index reflects what the index covers. It is not a negative finding. The site indexes completed title records, and BLM states that it does not yet hold every federal title record. [S3], [S14]
+
+According to the presenters, start a GLO search with the surname in the known locality and include women and people who may have assigned a right without taking title [S88†], [S69†], [S86†], [S87†]. According to the presenter, widen the search beyond the initial state if the name is missing [S77†]. Compare the parties and warrant identifiers before treating a name hit elsewhere as the same entry [S39], [S41], [S46].
 
 First check whether NARA publishes a name index to cancelled, rejected or relinquished entries for the land office and period. The National Archives at Kansas City publishes two: the Dodge City and Topeka, Kansas offices (ca. 1905–1937) and the Alliance, Nebraska office (ca. 1869–1950). They list names and dates and need no legal description. To get a hit, request the file from the Kansas City reference staff, as those index pages direct.
 
@@ -147,9 +171,19 @@ If no index covers the office and period, or it has no hit, get a section-townsh
 
 In Ohio, identify the survey or land division before interpreting a township/range description. The state contains several systems with different numbering; the Virginia Military District uses metes and bounds. Use the Ohio History Connection land-division guide and a period map to select the system, then copy the description in that system instead of forcing every Ohio parcel into one rectangular grid. [S26], [S27], [S28]
 
+For a rectangular description in a patent or application, locate the section by principal meridian, township and range. Read nested fractions from the containing division inward. According to the presenters, carry the meridian from the record and plot a nested division such as the east half of a northwest quarter inside that quarter of the section [S88†], [S69†], [S89].
+
+According to the presenter, use a Master Title Plat to orient the parcel within its township [S88† @2026-11-22]. Use the Master Title Plat for land status and the survey plat and field notes for the original survey [S23 @2026-11-22].
+
+According to the presenter, allow for occupation before the federal survey [S77†]. Compare the survey date with any earlier residence or improvements proved in the entry file. The 1842 Florida settlement act expressly contemplated some settlements predating survey [S90].
+
+According to the interview, check for a parallel local land record when tracing a Utah homestead [S69† @2026-11-22]. Use the legal description to find the county recorder’s tract abstract and copy its instrument and book and page references [S91 @2026-11-22]. For records of the federal Salt Lake or Vernal land offices or the Utah tract books, check the National Archives at Denver [S92 @2026-11-22].
+
 ## 5. Read the tract book, not just the target line
 
 Tract books record every transaction on a tract until the government transfers title, including unsuccessful entries. Later transfers are in county deed records. [S3]
+
+According to the interview, take the patent’s legal description into the digitized [FamilySearch tract-book collection](https://www.familysearch.org/en/search/collection/2074276) [S69† @2026-11-22]. Use the state, township and range to select possible volumes from the collection’s coverage table and browse the images if the name search misses the entry [S76 @2026-11-22].
 
 1. Select possible tract-book volumes from the coverage table for the state or territory, township and range. Check the volume’s own coverage and search neighbouring volumes if needed. In Smith’s Dakota example the table pointed to volume 159, but she reported finding the entry in volume 154 [S3].
 2. Log the successive claimants on the same tract. Copy each file number and any cancellation or relinquishment notation [S3].
@@ -175,6 +209,10 @@ According to the presenter, use [Reference Information Paper 114](https://www.ar
 
 Most case files are not digitized, but some are. Before ordering, check the homestead sets that NARA lists as online: Ancestry (Homestead Records, 1863–1908), Fold3 (Homestead Records, Nebraska) and FamilySearch (Homestead Final Certificates, 1863–1909). Serial patent files from the early 1960s onward are often at NARA regional facilities rather than in Washington. [S4], [S5]
 
+**Homestead eligibility.** According to the interviews, read the applicant’s stated basis for eligibility and include Black claimants, including formerly enslaved people, in a homestead search [S74†], [S69†]. Under the original 1862 act, check for head-of-family status or age 21, subject to the military age exception, and for citizenship or a filed declaration of intention. Compare the loyalty affidavit with any evidence that the applicant bore arms against the United States or aided its enemies [S19], [S70].
+
+According to the interview, use a woman’s homestead papers to look for her stated marital status and, when given, the basis of her citizenship [S74†]. If the stated status conflicts with other evidence about a spouse, carry the discrepancy to [court case-file recovery](court-case-file-recovery.md) as a lead to search for a divorce decree [S19], [S75].
+
 Inventory the file one document at a time instead of summarizing it. Contents vary. Some files hold only a receipt and the patent, and others are much fuller. [S5] Look for:
 
 - Application and proof-up papers, which may give an immigrant's original name, place of origin or family arrangements. [S4]
@@ -183,9 +221,15 @@ Inventory the file one document at a time instead of summarizing it. Contents va
 
 - Record the application, proof and patent dates separately. Elder reported an 1838 application that preceded an Arkansas patent and supplied an earlier dated dealing with the land [S18]. For an 1862 Act homestead, check the claimant’s and witnesses’ final proof for the date residence began. The rules allowed time to settle after filing, and the route to title could involve five years on the land or a shorter residence followed by cash payment [S24], [S19].
 
+According to the interview, use the statutory proof window to time the search and check for an early purchase when proof precedes the ordinary term [S69†]. For an ordinary entry under the 1862 act, look for final proof after five years from the filing affidavit and within the next two. For a commuted entry, read the settlement proof and payment receipt against the rules in force for that entry. The original act provided for payment at the applicable minimum price before five years elapsed [S19].
+
 When a homestead claimant sought military-service credit toward the residence requirement, check the case file for service papers. Carry any recorded unit and service dates into the military-record search. [S29], [S30]
 
+According to the interview, account for credited Civil War service when comparing the residence date with final proof [S69†]. Under the 1872 Soldiers’ and Sailors’ Homestead Act, compare qualifying Union service with the credit allowed in the case file. The provision generally deducted time served, used the enlistment term for qualifying disability discharges and still required at least one year on the homestead after improvements began [S73].
+
 Read the final-proof witnesses’ answers as a separate source, including how long they knew the claimant, their distances from the tract and any other neighbours they identify. Search neighbouring homestead files for the ancestor as a witness even if the ancestor completed no entry. Witnesses were usually neighbours; the witness role alone establishes neither kinship nor independence from the claimant. [S31], [S29], [S32], [S33]
+
+According to the interview, extract the household relationships and counts from the claimant’s final-proof testimony even when names are absent [S69†]. Record the actual residence dates, crops and improvements it describes [S71], [S72]. According to the interview, compare how often each witness saw the claimant and which improvements each could describe [S69†]. Match the notice of intent to make proof with any printed clipping and signed proof of publication in the packet [S72].
 
 When a widow or heir completed a deceased claimant’s homestead, read the succession papers for the claimant’s death date and the successor’s stated relationship. [S31], [S30]
 
