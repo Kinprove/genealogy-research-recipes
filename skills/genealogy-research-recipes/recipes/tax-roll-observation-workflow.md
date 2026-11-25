@@ -49,9 +49,17 @@ If MyHeritage's *Pennsylvania, Chester County Tax Registrations, 1715–1890* op
 
 For a deceased person in Finland, search the matching MyHeritage *Finland, Population Tax Lists* collection for 1890 [S78 @2026-11-21], 1900 [S79 @2026-11-21] or 1910 [S80 @2026-11-21]. Record the name, birth year, household relationships and residence when given [S77 @2026-11-21], [S78 @2026-11-21], [S79 @2026-11-21], [S80 @2026-11-21]. For intervening years or a missed index entry, look up the *henkikirjat* by province and year in the National Archives of Finland's Astia catalogue [S81 @2026-11-21]. Leave the interval open until the relevant annual rolls have been inspected.
 
+For a deceased person in Finland, also check the user's MyHeritage account for *Finland, Population Tax Lists, 1870* and *Finland, Population Tax Lists, 1880* [S102 @2026-11-22], [S103 @2026-11-22]. Record the name, birth year, stated household relationships and residence when indexed. Check the image for any household charges. Use the annual Astia route above if the collection or image does not open.
+
 Search MyHeritage's *Hungary, Property Tax Census, 1828 From JewishGen* by given name, surname and place [S64 @2026-11-20]. Search with the 1828 Hungarian place names and record both town and county from the hit [S63 @2026-11-20], [S64 @2026-11-20].
 
 Leave residence unresolved after a miss in this index. JewishGen extracted entries identified as Jewish or judged likely to be Jewish from a census limited to people with taxable property [S65]. Use the town and county to locate the original return. For a JewishGen hit, use its microfilm and entry numbers to find the census line [S65].
+
+For a deceased person in Boston, use MyHeritage's *Massachusetts, Suffolk, Boston Tax Registrations, 1822–1918* for a name, year and place lead [S104 @2026-11-22], [S105 @2026-11-22]. Use the matching FamilySearch collection to inspect the Boston City Archives tax books, transfers or assessors' lists [S106 @2026-11-22]. Record the source book and year before using the residence lead.
+
+For 1654 Bohemia, search the *berní rula* by historical region. The Czech National Archives identifies the survey as *Popis Čech 1654* and lists regional editions [S99 @2026-11-22], [S101 @2026-11-22]. Use fonds 0053 to check the records for the target locality and year. The fonds' dates extend beyond the 1654 survey, so check what each volume covers [S100 @2026-11-22].
+
+For the Bielsk Land poll tax, find *Księgi grodzkie brańskie*, fonds 87, unit 52, in Warsaw's Central Archives of Historical Records. Browse folios 2–340 for 1692 and 341–434 for 1712 [S119 @2026-11-22]. For Klepacze, use Paczkowski's transcriptions to locate the village section in each year [S118 @2026-11-22].
 
 For a place now in Highland County, Virginia, identify which county covered it before Highland was formed in 1847, then search the personal-property tax lists for Pendleton (now in West Virginia) or Bath accordingly [S69].
 
@@ -64,6 +72,18 @@ Treat 1850 as the end of that catalog entry and continue with the Library of Vir
 Use volume 3 of *The 1787 Census of Virginia* as the index to the compiled personal-property tax lists [S82], [S83]. For a search in one county, look for its separately published edition, including under the county's historical Virginia name if it is now in West Virginia [S82], [S84]. Cite the underlying personal-property tax list and its actual year. Read the county edition's introduction and headings before assigning a year. The Monongalia County edition contains lists for 1786 and 1788 alongside a partial 1787 list [S84]. Keep each list in its own year in the series register.
 
 For Loudoun County, check the separately published editions for 1787, 1788 and 1789 [S82 @2026-11-21], [S85 @2026-11-21], [S98 @2026-11-21]. For the original rolls for all three years, use Library of Virginia reel 208 (1787–1797) [S86 @2026-11-21].
+
+### Virginia county land and personal-property compilations
+
+For Hardy County, now in West Virginia, use Thomas Allen Lahman III's *Personal Property Tax Lists, 1786–1795, Quick Reference List*, volume 1 [S111], [S112]. Search given names and surnames separately. Log the year and list for each candidate, then scan that list before interpreting a miss.
+
+For Loudoun County land tax, use Patricia Duncan's 1782–1802 and 1803–1817 indexes to locate candidate entries [S113 @2026-11-22], [S114 @2026-11-22], [S115 @2026-11-22], [S116 @2026-11-22]. Check the underlying land lists on Library of Virginia reels 169 (1782–1799), 170 (1800–1815) and 171 (1816–1823) [S117 @2026-11-22]. Keep personal property and tithables in their own series.
+
+For Essex County land tax, start with Wesley E. Pippenger's 1782–1814 volume. For 1783–1786, check the prior list and carry forward entries the alterations leave in place [S107], [S108]. For 1814–1850 use his continuation, which groups annual abstracts under each owner or taxpayer. Check its separate town-lot appendix for Tappahannock and Laytons, 1782–1850 [S107], [S109]. Verify wording and layout in the underlying list.
+
+Leave an Essex County land-tax miss unresolved where it depends on the damaged part of an 1827 list [S107], [S109]. Record which part you could inspect.
+
+Use Library of Virginia reels 89 (1782–1805), 90 (1806–1828) and 91 (1829–1850) to find the Essex land lists [S110 @2026-11-22]. For the 1844 list, check page 16 in the original at the Library of Virginia. The publisher records that the page is missing from the film and the compiler used the original [S107 @2026-11-22], [S109 @2026-11-22].
 
 ## 2. Record the liability scope for each year before interpreting
 
@@ -109,6 +129,12 @@ For a late payment under the May 1779 act, check the extensions for delinquents 
 For the November 1781 levy, check the grain charge on free men over 21 and enslaved people over 16, with county court exemptions for age or infirmity. Check the bacon clause separately for free persons over 21 and enslaved people over 16 [S88], [S94]. The act calls for 2 pounds of bacon plus one of the listed grain options. Use ½ bushel of wheat, 1 bushel of Indian corn, rye or barley, or 5 pecks of oats. The optional coin rates were 3 shillings per bushel of wheat and 6 pence per pound of bacon [S94].
 
 Distinguish the November 1781 act's collection and reporting dates. Commissioners were to list deficiencies on 1 May 1782 and report to the executive by 1 June. May 1782 legislation then allowed payment in commodities before 1 September [S88], [S94], [S95]. Apply the separate extension to 1 April 1782 to sheriffs' and collectors' accounts for taxes already due for 1781 [S94]. Keep the levy and the payment or return date in separate fields.
+
+For a Virginia Specific Tax search by county, start with the Auditor of Public Accounts papers, *Provision Law and Specific Tax*, APA 640, and use the county inventory to choose the return [S126 @2026-11-22], [S127 @2026-11-22]. Record the county, levy year, commissioner, named payer and each item and quantity credited. Keep delinquents and other returns separate. Use the roster only for the people and liabilities covered by that return.
+
+Check the *Magazine of Virginia Genealogy* for a transcription by county. For Chesterfield's 1782 Specific Tax, look for Minor T. Weisiger's transcription of Matthew Branch's list in volume 48, issue 2 (2010), pages 89–93. Use its underlying return and levy heading when citing a payment [S126], [S127].
+
+For a DAR patriotic-service question, verify that the entry records payment of a qualifying supply tax. Check the act and the return's headings, and distinguish a payment from a name on an assessment, deficiency or delinquent list. DAR recognizes supply-tax payments as patriotic service [S126 @2026-11-22], [S127 @2026-11-22], [S128 @2026-11-22].
 
 ## 3. Search each tax series separately
 
@@ -157,9 +183,37 @@ Use MyHeritage's *Sweden, Stockholm Census Registers, 1800–1884* for a name an
 
 Keep the year on the household declaration (*mantalsuppgift*) separate from the year of the roll. Household heads submitted declarations to the tax authority, and Stockholm's Governor's Office used them to compile the following year's roll [S70], [S75]. Read the property entry for the household members actually listed, including people other than the declarant [S76]. Keep a person-index miss open until the roll and its inclusion rules have been checked.
 
+### Finnish settlement lists in Astia
+
+To trace a Finnish holding, search Astia for *asutuksen yleisluettelo* and the historical parish. Choose the *Suomen asutuksen yleisluettelo* (SAY) unit whose dates cover the target year. Use its village index to locate the page before browsing to the holding [S129 @2026-11-23], [S130 @2026-11-23].
+
+If Astia marks a parent entry as undigitized or shows child links with the same place name, open the child entries in the user's Astia view. Confirm the full date range on each destination page and check for images there [S129], [S131]. An April 2025 account describes finding image links in the 1634–1653 and 1654–1673 child entries below the undigitized notice at *266 Kokemäki (1634–1673)* [S129], [S131].
+
+### Helsinki municipal tax ledgers and newspaper lists
+
+For a deceased Helsinki taxpayer, open *Rahatoimisto kunnallisverojen kantokirjat* (1875–1915) through Helsinki City Archives' digitized holdings guide. Browse pre-1886 volumes by place. From 1886 use the alphabetical *kunnallisverojen rekisteri*. Follow district and page references in 1886–1890 or the taxpayer number in 1891–1915. Record the full ledger locator and address as written [S120 @2026-11-22], [S121 @2026-11-22], [S125 @2026-11-22].
+
+In the geographically arranged Helsinki books, check each known address where the person held property or did business. Keep separate hits until the entries show whether they refer to the same assessment, and verify the home address separately [S120], [S122].
+
+Use the issue-by-year leads in the Helsinki newspaper survey [S123]. Record the assessment year separately from the issue date. Read the published minimum in tax units or assessed income before logging a miss, and try another newspaper covering the same Helsinki assessment year with a lower minimum. A keyword miss leaves publication coverage open [S123].
+
+If the Helsinki newspaper search misses the list, search for the assessment-inspection announcement. Section 56 of the municipal decree called for the list to be available for 14 days and an announcement in the local newspaper where there was one. Use the announcement to date and locate the list, then look for the roll itself [S120], [S122].
+
+### Helsinki population tax rolls by property
+
+For a nineteenth-century Helsinki property known by a field or villa name, check each recorded name in a contemporary address directory. Browse the corresponding *henkikirja* by the district, block and lot used at the time. For a site outside the city plan of that year, check the villas, islands and other places section near the end of the roll. When an entry groups several villas, record the owners against the group until another record ties an owner to a particular building [S133], [S134], [S135].
+
 ## 5. Extract one row per entry
 
 Name every column from its heading before you read its values: a sum of money, arrears, an age, a household or list number, a count of polls or animals. A number beside a name is not an age until a heading says it is one, and a column without a heading stays unread until the list's preamble or the governing law explains it (step 2). Keep the literal heading with the values. If a column gives ages, take the date they are reckoned from out of its heading, not from the year on the volume's label; if the heading leaves that date open, record no birth year from those ages.
+
+In an 1880 Finnish population tax list, record each relative, farmhand or domestic worker under the role the image actually gives. Leave the relationship open if a person appears in the group without a relationship label [S102].
+
+For Klepacze in 1692, verify the figures against the original list and record them as poll counts where the entries support that reading. Look to other records for women's given names where the tax list supplies only counts. In 1712, record stated wives, daughters and sisters even if unnamed, distinguish a farmhand from a relative, and read separately numbered entries for co-residence wording [S118].
+
+For a Helsinki municipal total, use the collection book to separate income from city or district property, local trade or business, and wages, pension or other income assessed on the basis of a home in the municipality. Record assessed income separately from verified earnings and check the payment and arrears columns separately [S120], [S122], [S123].
+
+Before converting *veroäyri* to assessed income under the 1883 municipal amendment, find the rate in force for the assessment year in the general municipal meeting's decisions. Multiply the units by that locally fixed mark value and label the result as an assessment equivalent. Section 54 allowed 200–400 marks per unit, so leave the exact conversion open if the year's local rate is unverified [S122], [S123].
 
 Read *chimney money* in England and Wales as the hearth tax introduced in 1662 and assessed per hearth or stove [S47], [S48]. Its two equal installments fell due at Lady Day (25 March) and Michaelmas (29 September) [S47], [S48]. Record the stated collection term as well as the year and keep the two terms separate in the series register.
 
@@ -196,6 +250,10 @@ Record each change for one series as **last year present → first year absent**
 
 Moving away, death and ageing out of liability are competing explanations for someone dropping off a run of lists [S17], [S7], [S11], [S23]. Not appearing does not show that the person had left the area or was avoiding the tax. He may simply have met an exemption [S1], [S6], [S9].
 
+For a gap in Helsinki municipal tax, compare the assessment period and the population covered with the corresponding *henkikirja* before inferring a move or nonpayment. Check whether the taxpayer had a property or business basis for the assessment and verify where the person was registered [S122], [S123].
+
+To test the reach of the Helsinki municipal assessment series, compare the assessed headcount with the city population in table 221, page 276, of the 1905 statistical yearbook (1885–1905). Use the result to scope the list, then check the individual against the liability rule [S123], [S124].
+
 Test the candidates against other records:
 
 - If the family stays on the roll on the same land, favour death in place over removal [S13]. A later *widow* entry [S11], an *estate of* entry [S7], or the tract passing to an administrator or heir, as in the Rusk County sequence, strengthens that reading.
@@ -204,6 +262,8 @@ Test the candidates against other records:
 - The next jurisdiction, for a candidate move [S20], [S19].
 
 Bound a change by the last inspected roll on one side and the first inspected roll on the other [S18], [S20]. Two consecutive inspected annual rolls give an interval of about a year. Missing or uninspected years widen it. A Rhode Island-to-New York move was reportedly narrowed using monthly town lists [S20]. Use a month-level interval only if your series register identifies the two inspected monthly rolls and their actual dates.
+
+If the SAY shows a change of head, record separate runs of headship by year and follow the same holding into the next volume to check whether the former head returns [S132]. Read the year in the column heading. Use the ink colour as a lead to the source series and consult the volume's colour key where available. Verify each change in the underlying annual return and mark uninspected years in the series register [S130].
 
 A son's first entry as a separate taxpayer is a bounded clue to his coming of age or to a separate household [S18]. It is not an exact birthday. If you estimate a birth year from a liability age, give a range and cite the specific rule you used [S8]. Without a documented age band, give no estimate. Same-surname men taxed next to an older householder are only candidate sons. Send them, and every identity question, to [evidence/proof judgment](evidence-proof-judgment.md).
 
