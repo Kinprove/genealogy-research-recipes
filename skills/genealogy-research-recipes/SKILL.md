@@ -588,6 +588,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/mexican-cession-jurisdiction-routing.md` — Use the event date and historical boundary to choose a Mexican, territorial, state or federal record series in the U.S. Southwest.
 - `recipes/union-civil-war-medical-record-recovery.md` — Recover a Union soldier’s hospitalization and disposition from carded medical records, hospital series and separate service papers.
 - `recipes/us-civil-war-prisoner-record-recovery.md` — Reconstruct Union or Confederate captivity through prison rolls, transfers, parole, exchanges, oaths, death records and later enlistment.
+- `recipes/us-historical-navy-medical-record-recovery.md` — Follow a nineteenth-century Navy treatment lead into ship or station medical journals, patient lists and a named naval hospital’s records.
 
 ### Canada, Latin America, Asia and Oceania
 
