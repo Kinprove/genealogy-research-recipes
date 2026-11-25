@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 333}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 334}
 ---
 
 # Read tax rolls as a liability-bounded annual series

@@ -11,7 +11,7 @@ handoff: ["familysearch-practical-record-workflows", "catholic-parish-diocesan-r
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 307}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 308}
 ---
 
 # Trace a Philippine family across the 1849 surname decree
