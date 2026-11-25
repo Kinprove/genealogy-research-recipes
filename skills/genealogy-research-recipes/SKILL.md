@@ -585,6 +585,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/mexican-border-and-punitive-expedition-records.md` — Separate U.S. border duty, the Veracruz expedition and the Punitive Expedition by routing medal, unit and vessel clues to their own archival series.
 - `recipes/mexican-cession-jurisdiction-routing.md` — Use the event date and historical boundary to choose a Mexican, territorial, state or federal record series in the U.S. Southwest.
 - `recipes/union-civil-war-medical-record-recovery.md` — Recover a Union soldier’s hospitalization and disposition from carded medical records, hospital series and separate service papers.
+- `recipes/us-civil-war-prisoner-record-recovery.md` — Reconstruct Union or Confederate captivity through prison rolls, transfers, parole, exchanges, oaths, death records and later enlistment.
 
 ### Canada, Latin America, Asia and Oceania
 
