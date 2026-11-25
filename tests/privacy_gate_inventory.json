@@ -6784,5 +6784,47 @@
   "kind": "third-party-tool",
   "action": "search Digi’s newspaper text for a distinctive phrase from the letter",
   "checkpoint": "The full-text fallback sends the chosen excerpt from the letter to Digi."
+ },
+ {
+  "recipe": "us-national-archives-finding-aids-and-microfilm.md",
+  "kind": "third-party-tool",
+  "action": "Open the relevant file and use its available fields",
+  "checkpoint": "A subject’s name, place or date entered as identifying search data goes to NARA"
+ },
+ {
+  "recipe": "us-national-archives-finding-aids-and-microfilm.md",
+  "kind": "request",
+  "action": "Give the claims program and claim number to the National Archives",
+  "checkpoint": "The claimant’s program and claim number go to NARA reference staff"
+ },
+ {
+  "recipe": "us-national-archives-finding-aids-and-microfilm.md",
+  "kind": "contact",
+  "action": "arrange an advance consultation with Archives 1 Reference",
+  "checkpoint": "The researcher’s contact details, proposed visit dates and series locator go to Archives 1 reference staff"
+ },
+ {
+  "recipe": "us-national-archives-finding-aids-and-microfilm.md",
+  "kind": "contact",
+  "action": "ask the consultation desk how to complete the pull slip",
+  "checkpoint": "The researcher’s contact details, proposed visit dates and series locator go to Archives 1 reference staff"
+ },
+ {
+  "recipe": "us-national-archives-finding-aids-and-microfilm.md",
+  "kind": "third-party-tool",
+  "action": "search the names used at the War Relocation Authority (WRA) camp",
+  "checkpoint": "A subject’s name, place or date entered as identifying search data goes to NARA"
+ },
+ {
+  "recipe": "us-national-archives-finding-aids-and-microfilm.md",
+  "kind": "request",
+  "action": "Use the WRA case-file request form for the underlying",
+  "checkpoint": "required access documentation go to Archives 1 reference staff"
+ },
+ {
+  "recipe": "us-national-archives-finding-aids-and-microfilm.md",
+  "kind": "third-party-tool",
+  "action": "search by the supplier’s personal or business name",
+  "checkpoint": "The Civil War supplier’s personal or business name goes to Fold3"
  }
 ]
