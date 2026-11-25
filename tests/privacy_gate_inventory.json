@@ -6766,5 +6766,23 @@
   "kind": "request",
   "action": "Use the full XC number in a request",
   "checkpoint": "St. Louis archives staff receive the requester’s contact details and the deceased veteran’s claim number and identifying details. A claim file may also concern a living beneficiary and disclose health or dependency information. Apply the record-request rules before sending."
+ },
+ {
+  "recipe": "translocalis-newspaper-letter-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search `translocalis_104` for the printed signature",
+  "checkpoint": "The signature and author searches send the identifying terms you enter to the Digi Translocalis collection."
+ },
+ {
+  "recipe": "translocalis-newspaper-letter-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Run a separate `translocalis_105` search for the attributed writer’s name",
+  "checkpoint": "The signature and author searches send the identifying terms you enter to the Digi Translocalis collection."
+ },
+ {
+  "recipe": "translocalis-newspaper-letter-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search Digi’s newspaper text for a distinctive phrase from the letter",
+  "checkpoint": "The full-text fallback sends the chosen excerpt from the letter to Digi."
  }
 ]
