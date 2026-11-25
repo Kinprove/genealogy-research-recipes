@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "historical-map-record-recovery", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical property cards, municipal records, newspaper issues and photographs"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 211}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 212}
 ---
 
 # Reconstruct a historical Helsinki property and its occupants

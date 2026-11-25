@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "scandinavian-parish-record-rec
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 212}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 213}
 ---
 
 # Resolve unfamiliar words in historical Finnish sources
