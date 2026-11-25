@@ -6754,5 +6754,17 @@
   "kind": "request",
   "action": "Order an older Army service record",
   "checkpoint": "The order sends the soldier's identifying service details"
+ },
+ {
+  "recipe": "us-wwi-va-master-index-benefits.md",
+  "kind": "third-party-tool",
+  "action": "Search the veteran’s service name in FamilySearch’s",
+  "checkpoint": "FamilySearch receives the veteran’s service name in the card search."
+ },
+ {
+  "recipe": "us-wwi-va-master-index-benefits.md",
+  "kind": "request",
+  "action": "Use the full XC number in a request",
+  "checkpoint": "St. Louis archives staff receive the requester’s contact details and the deceased veteran’s claim number and identifying details. A claim file may also concern a living beneficiary and disclose health or dependency information. Apply the record-request rules before sending."
  }
 ]
