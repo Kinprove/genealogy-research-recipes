@@ -458,6 +458,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/irish-petty-sessions-and-dog-licences.md` — Find an Irish household locality in Petty Sessions Order Books and the separate registers of dog licences.
 - `recipes/scottish-railway-employment-record-recovery.md` — Trace a Scottish railway occupation to the company operating the line at the time and its surviving staff records.
 - `recipes/uk-ireland-passenger-list-recovery.md` — Choose Board of Trade passenger lists for a British or Irish port call, recover missing voyage entries and distinguish transit from settlement.
+- `recipes/ulster-freeholder-poll-records.md` — Use Ulster freeholder registers and poll books to distinguish voter eligibility, recorded votes and a property interest from land ownership.
 
 ### Western and Northern Europe
 
