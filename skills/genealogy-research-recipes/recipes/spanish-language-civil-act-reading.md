@@ -11,7 +11,7 @@ handoff: ["spanish-civil-parish-record-routing","hispanic-catholic-register-reco
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":["request"],"contact":[]}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 323}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 324}
 ---
 
 # Read Spanish-language civil acts and find their supporting files
