@@ -11,7 +11,7 @@ handoff: ["us-military-service-type-record-routing", "us-20th-century-military-s
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 289}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 290}
 ---
 
 # Trace a U.S. Marine through muster rolls and First World War unit records

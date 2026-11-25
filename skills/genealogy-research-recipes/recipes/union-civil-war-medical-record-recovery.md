@@ -11,7 +11,7 @@ handoff: ["us-civil-war-service-record-episodes","confederate-hospital-record-re
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 301}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 302}
 ---
 
 # Trace a Union Civil War soldier through medical records

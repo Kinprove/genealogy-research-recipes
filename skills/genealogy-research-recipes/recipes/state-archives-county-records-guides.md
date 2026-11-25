@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["state archives county guides, catalogues and finding aids", "FamilySearch catalogue"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 272}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 273}
 ---
 
 # Inventory a U.S. county's records through the state archives' county guide

@@ -532,6 +532,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/helsinki-historical-population-counts.md` — Choose the correct Helsinki census or yearbook denominator before comparing historical districts, residents, subjecthood, birthplace or other population measures.
 - `recipes/helsinki-magistrate-and-court-record-recovery.md` — Find Helsinki trading permissions, municipal decisions and court proceedings from a person card, minute index, lease notice or published summons.
 - `recipes/sound-toll-captain-voyage-recovery.md` — Use Sound Toll passages and port notices to trace a merchant captain without treating a register miss as a missing Baltic voyage.
+- `recipes/swedish-realm-pulpit-notice-recovery.md` — Trace a Swedish or Finnish pulpit notice from the printed mandate or chapter circular to evidence of reading in a named parish.
 
 ### United States: people, vital and church records
 

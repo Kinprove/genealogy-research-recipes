@@ -11,7 +11,7 @@ handoff: ["us-marine-corps-muster-and-wwi-unit-records","world-war-two-us-navy-b
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 310}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 311}
 ---
 
 # Trace a U.S. Navy sailor’s assignment and death in World War I
