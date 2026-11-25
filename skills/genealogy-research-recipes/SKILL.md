@@ -600,6 +600,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/virginia-ordinary-license-and-site-recovery.md` — Use court orders, road records and fire insurance declarations to distinguish the licensee, owner and site of a historical Virginia tavern or ordinary.
 - `recipes/war-of-1812-american-prisoner-recovery.md` — Find a captured American in Admiralty registers and use dated transfer entries to follow that prisoner between depots, ships and parole locations.
 - `recipes/wpa-county-records-inventories.md` — Use a Historical Records Survey county inventory to establish which records were then observed and trace the series to its present holding office.
+- `recipes/world-war-one-us-navy-record-recovery.md` — Use World War I Navy muster rolls, vessel identifiers and casualty sources to establish a U.S. sailor’s assignment and trace a reported death.
 
 ### Canada, Latin America, Asia and Oceania
 
