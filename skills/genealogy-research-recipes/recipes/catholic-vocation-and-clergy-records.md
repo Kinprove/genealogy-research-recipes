@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery","spanish-civil-parish-recor
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 305}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 306}
 ---
 
 # Trace a Catholic vocation through diocesan and religious-order records

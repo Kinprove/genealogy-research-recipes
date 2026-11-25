@@ -600,6 +600,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/jamaican-parish-civil-record-recovery.md` — Route a Jamaican birth, marriage or death to the civil register, Anglican transcripts or separate Dissenter marriage books.
 - `recipes/queensland-victuallers-licence-recovery.md` — Find Queensland publicans in gazette notices and licensing files, and distinguish applications from granted licences and transfers.
 - `recipes/sao-paulo-immigration-and-foreigner-registration.md` — Distinguish São Paulo consular immigration cards, visa applications and foreigner registration files when reconstructing arrival, onward travel or residence.
+- `recipes/spanish-language-civil-act-reading.md` — Recover delayed births and marriage investigations behind Spanish-language civil acts and distinguish event dates, witnesses and the basis of each claim.
 
 ## Recipes: Record types in any country
 

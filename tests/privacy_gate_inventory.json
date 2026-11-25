@@ -6562,5 +6562,11 @@
   "kind": "request",
   "action": "Use both references to request the complete proceeding",
   "checkpoint": "A request for a court-martial file of the Civil"
+ },
+ {
+  "recipe": "spanish-language-civil-act-reading.md",
+  "kind": "request",
+  "action": "request the cited civil file from the office that holds it",
+  "checkpoint": "A civil file request sends the parties’ names"
  }
 ]
