@@ -11,7 +11,7 @@ handoff: ["hispanic-catholic-register-recovery", "georgia-texas-state-land-grant
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 283}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 284}
 ---
 
 # Route a record across the Mexican Cession and Gadsden boundaries
