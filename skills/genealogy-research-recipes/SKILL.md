@@ -516,6 +516,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/swedish-high-court-case-recovery.md` — Follow Swedish and Swedish-era Finnish high-court referrals and notices into the diaries, protocols and surviving case papers.
 - `recipes/swedish-noble-pedigree-record-recovery.md` — Trace a Swedish noble branch from the Minerva pedigree to letters of arms, family submissions and cited evidence.
 - `recipes/turku-dahlstrom-card-index-recovery.md` — Find Turku people, properties and proceedings in the Dahlström card index, then recover the municipal or court records named on the cards.
+- `recipes/turku-divorce-and-remarriage-records.md` — Trace a historical divorce or permission to remarry across Turku Cathedral Chapter records, royal correspondence and civil court proceedings.
 
 ### United States: people, vital and church records
 

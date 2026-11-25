@@ -11,7 +11,7 @@ handoff: ["british-colonial-slave-registers", "familysearch-practical-record-wor
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 303}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 304}
 ---
 
 # Recover Jamaican civil, Anglican and Dissenter records
