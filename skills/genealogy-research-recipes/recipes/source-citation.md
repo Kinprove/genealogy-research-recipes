@@ -25,6 +25,7 @@ example the [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md)
 - Format the citation
 - Connect the citation to the evidence
 - Recheck shortened report references after editing
+- Cross-check a manuscript bibliography
 - Follow an earlier application cited as evidence
 
 ## Preserve the locator
@@ -64,6 +65,12 @@ Record the office, room or vault where you found the volume [B35].
 Keep the record's creation date separate from the date you viewed it. Preserve a documented
 mapping between archive and film identifiers when available. An index entry and an inspected
 original image have different retrieval paths; record which one you used.
+
+When citing a dated *Posttidningar* dispatch, copy the reporting city and dispatch date from
+the heading. Record the issue date and page or column as the retrieval locator [B57]. In a travel
+chronology, record the event's date or relative timing from the text. If a dispatch places a
+farewell a few days before its own date, keep that wording with the dispatch date and leave
+the exact day of the farewell unresolved [B56].
 
 When a U.S. National Archives finding aid identifies the series for a textual record, note the
 record group and full entry number. Include the inventory or preliminary inventory number when
@@ -116,7 +123,25 @@ For a broken link copied from a book or article, try the exact URL in the Waybac
 
 When a volume has no printed page number, describe the entry by its actual internal structure, such as the year section, entry number and named event. Add the provider's image number with the provider and the route to that volume, rather than treating an image counter as a page printed in the source. Retain enough of the volume identification and entry context to locate it through another copy if the viewer's numbering changes [N1](https://genealogytipoftheday.com/index.php/2025/04/10/no-page-number/), [N2](https://www.evidenceexplained.com/node/1391).
 
+For an Astia image, keep the viewer URL as an access link and record the archival unit
+reference and exact page or spread separately. If an assigned `URN:NAN` is supplied, save it
+separately and check whether it resolves to the unit or to the image you used [B40] [B41] [B42].
+
+Reimaging made saved locators unusable for some eighteenth-century Finnish provincial
+accounts in a 2024 report, so record the original page or folio with the link, or use the
+section heading and entry locator when the account lacks pagination [B39].
+
+For a public historical church-book image on Riksarkivet, copy the displayed source reference
+into your local notes when available and preserve the full `bildid` with its page suffix.
+To reopen the image, use the full identifier in the archive's
+[Bildid search](https://sok.riksarkivet.se/bildid) and confirm the displayed volume and page
+against the saved citation [B37 @2026-11-22] [B38 @2026-11-22].
+
 For a filmed or digitized register, inspect the cover, spine or title frame and preserve its actual volume label. A catalogue title may describe an entire series rather than the specific volume you used. Record any mismatch explicitly; if the item has no title, supply a descriptive label as your own instead of silently assigning the series title to it [N3](https://genealogytipoftheday.com/index.php/2023/06/27/getting-all-the-details/), [N4](https://www.evidenceexplained.com/node/2230).
+
+Before citing an apparent print page number from an e-text, match its edition to a scan and
+locate the passage on the printed page. If the edition or pagination stays unresolved, cite
+the e-text with its own locator [B43] [B44].
 
 When viewing digitized U.S. National Archives microfilm through another provider, inspect the
 opening title frames for the publication title, publication number and roll number. Cite the
@@ -135,6 +160,24 @@ item URL and capture date with the screenshot on the user's device [B18].
 Binding does not establish publication. If the "book" is an unpublished typescript or manuscript deposited in a repository, identify its creator, title or supplied description, composition date when known, collection/item locator and holding institution with location. Do not invent a publisher or publication date from the binding or catalogue appearance [N5](https://genealogytipoftheday.com/index.php/2024/12/13/when-to-cite-a-specific-book/), [N6](https://answers.library.georgetown.edu/research/faq/228516).
 
 ## Format the citation
+
+Identify the digital copy you used when its format changed what you could examine or search.
+If that difference applies across a body of records, explain its effect in the description
+of those sources [B36].
+
+Use the [Viittausohje](https://ylioppilasmatrikkeli.fi/viittausohje.php) for Yrjö Kotivuori's
+*Ylioppilasmatrikkeli 1640–1852*. Credit Veli-Matti Autio for the 1853–1899 continuation and
+use the University of Helsinki release announcement to establish its 2010 online publication
+year. Take the compiler and year from the part you actually used [B45] [B46] [B47] [B48].
+
+For *Suomen papisto 1800–1920*, distinguish Iikko B. Voipio's compilation from the later
+web publication. Check the publisher's account of how the Finnish Literature Society and
+the Finnish Church Historical Society prepared the edition before assigning credit to an
+entry [B45] [B49].
+
+When citing Translocalis as a whole, use the collection URL. When citing the descriptive
+metadata for one clipping, give its article URL and the place and date shown in its metadata.
+Include the publication context and your access date in either case [B45] [B55].
 
 If you use *Evidence Explained*, adapt a chapter 3 template from the fourth edition or a
 QuickCheck model from an earlier edition to the source and layer you actually inspected
@@ -157,6 +200,20 @@ and posting date in parentheses, then identify the specific post or attachment y
 [B17, from the available excerpt] [B19].
 
 ## Connect the citation to the evidence
+
+When a history thesis lists only the paper source, check its notes and methods for the
+format the author consulted. Leave that field unresolved if the citation is all you have.
+The Finnish thesis study discussed in the source describes authors naming a paper source
+when they used a digital copy [B36].
+
+When a book has no note marker for a passage, check the back matter for source notes keyed
+to the main-text page number or to words in the passage. Use the page of the claim to find
+its note under *Lähteet* in *Minne katosi Antti Järvi?* [B50] [B51].
+
+When tracing a work in another author's bibliography, find its citations in the text and
+notes, then record where and how often the author cited it and which claims the citations accompany.
+Leave direct consultation unresolved unless you have evidence beyond the bibliography
+entry [B54].
 
 Attach the citation or its local handle to each extracted observation. Preserve the literal
 reading, its field role and any uncertain letters in the working packet. Link additional pages
@@ -210,6 +267,13 @@ after a note containing several sources; a repeated source can still cite a diff
 Keep the full source record intact. Family Locket's
 [How to Shorten Citations](https://www.youtube.com/watch?v=DWdb7rQFpf0) (2023-11-11)
 motivates this edit check without imposing an abbreviation, current style rule or software claim.
+
+## Cross-check a manuscript bibliography
+
+For a manuscript with no reference-manager output, copy the citations into a separate local
+document, split notes that contain multiple works and sort the resulting entries by author.
+Compare the sorted list with the bibliography in both directions and review differences
+against the manuscript and its style rules [B52] [B53].
 
 ## Follow an earlier application cited as evidence
 
