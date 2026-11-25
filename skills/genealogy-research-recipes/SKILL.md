@@ -589,6 +589,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/union-civil-war-medical-record-recovery.md` — Recover a Union soldier’s hospitalization and disposition from carded medical records, hospital series and separate service papers.
 - `recipes/us-civil-war-prisoner-record-recovery.md` — Reconstruct Union or Confederate captivity through prison rolls, transfers, parole, exchanges, oaths, death records and later enlistment.
 - `recipes/us-historical-navy-medical-record-recovery.md` — Follow a nineteenth-century Navy treatment lead into ship or station medical journals, patient lists and a named naval hospital’s records.
+- `recipes/us-merchant-seamen-record-recovery.md` — Route a merchant seaman by port and period to protection papers, crew lists, shipping articles or records of impressment.
 
 ### Canada, Latin America, Asia and Oceania
 
