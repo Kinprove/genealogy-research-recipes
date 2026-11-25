@@ -530,6 +530,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-prison-custody-records.md` — Trace a Finnish prisoner from a wanted notice or court sentence through custody, transfers and the receiving institution’s records.
 - `recipes/finnish-parish-circular-and-observance-recovery.md` — Find Finnish cathedral chapter circulars and use dated newspaper dispatches to establish when and how a parish observed a proclaimed occasion.
 - `recipes/helsinki-historical-population-counts.md` — Choose the correct Helsinki census or yearbook denominator before comparing historical districts, residents, subjecthood, birthplace or other population measures.
+- `recipes/helsinki-magistrate-and-court-record-recovery.md` — Find Helsinki trading permissions, municipal decisions and court proceedings from a person card, minute index, lease notice or published summons.
 
 ### United States: people, vital and church records
 
