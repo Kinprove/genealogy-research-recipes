@@ -11,7 +11,7 @@ handoff: ["state-archives-county-records-guides","land-index-book-series-recover
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 305}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 306}
 ---
 
 # Trace a Virginia ordinary’s operator and site

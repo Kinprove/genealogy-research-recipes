@@ -11,7 +11,7 @@ handoff: ["us-civil-war-service-record-episodes","us-national-archives-finding-a
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 300}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 301}
 ---
 
 # Trace a Civil War prisoner through capture, custody and release
