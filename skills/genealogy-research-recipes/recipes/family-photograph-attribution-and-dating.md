@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 351}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 352}
 ---
 
 # Attribute and date an inherited family photograph from captions, provenance and imprints

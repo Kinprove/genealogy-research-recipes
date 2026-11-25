@@ -11,7 +11,7 @@ handoff: ["us-military-service-type-record-routing", "us-national-archives-findi
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 299}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 300}
 ---
 
 # Find historical U.S. Navy treatment in ship, station and hospital records
