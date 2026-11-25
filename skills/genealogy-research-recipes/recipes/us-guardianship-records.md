@@ -55,6 +55,8 @@ Start a guardianship row for each ward and each appointment. Record as separate 
 
 **Reason.** Copy the stated reason. Besides a parent’s death or incapacity [S1], a pending conveyance could require representation for minor heirs. If the appointment falls just before a sale, compare the shares and names in the deed with those in the guardianship [S6].
 
+**After a mother’s death.** If a mother died leaving minor children, search for guardianship proceedings after her death, following the advice from the available excerpt [S14], [S15]. Use her estate papers alongside the guardianship petition and accounts to trace which property interests passed to each child [S16].
+
 **Death.** Do not read a guardianship as proof that a parent had died, or the word "orphan" as proof that both had. A child with property could have a living father named as guardian [S2], and guardianships also arose while parents were living but incapable, absent or financially unstable [S9]. Take a death only from the record's own words, such as "deceased"; the appointment date is then the latest date for that death, not its date.
 
 **Timing.** Guardians were appointed when there was a reason, which could be long after the death. Williams traces the Alden children from their father’s death in 1773 to guardianships in 1788, after their grandfather died, and the deed his heirs made in 1789 [S6]. Russell lists property with no guardian until there was a reason to get one as a typical situation [S2].
@@ -62,6 +64,8 @@ Start a guardianship row for each ward and each appointment. Record as separate 
 ## 3. Record the guardian's relationship as stated, or as a lead
 
 Distinguish the relationship stated in the appointment from one established elsewhere. Search for maternal relatives, older siblings, neighbours and business associates [S9], [S1]. A widow’s remarriage could bring a change of guardian [S7]. Russell identifies the man appointed in Blair County, Pennsylvania, in 1868 as the ward’s stepfather, a relationship the quoted docket entry itself does not name [S5]. Verify it against a marriage or household record.
+
+**War of 1812 half pay.** If the pension index card names the widow and a separate casualty entry names the heirs and their guardian, search for a marriage between the widow and the guardian after the soldier’s death, following the advice from the available excerpt [S17]. Compare any marriage date with the guardianship and pension chronology [S18], [S19]. Keep the widow’s brother and a court appointee with no known kinship among the candidates until the records establish the guardian’s identity.
 
 **A guardian with another surname.** A widowed mother did not automatically become guardian of her children's property [S9]. The preference was for the nearest male relative, and Blackstone's example is the uncle on the mother's side, who could not inherit the child's estate [S3]. Treat a guardian whose surname differs from the ward's as a candidate maternal relative, and so as a lead to the mother's maiden name, not as proof of it. The MyHeritage post says these records can confirm maiden names [S1]; one does so only when it states the relationship. Test the lead with [evidence/proof judgment](evidence-proof-judgment.md).
 
@@ -85,9 +89,17 @@ Look up the rule for the court that appointed the guardian. For the 1868 Blair C
 
 Log a negative search with the court, series, index and years. Even a child with property could go without a formal guardian until a transaction required one [S2], [S6]. Extend the search to the sale or distribution of the property. For a child without an estate, also check household, apprenticeship and binding-out records [S7], [S1]. A failed guardianship search is not evidence that the child did not exist or that the father was alive.
 
+**Apprenticeship after a parent’s death.** If searches for a will, probate or guardianship come up empty, follow the lead from the available excerpt [S20] and search for apprenticeship or binding-out orders from the death through the end of the child’s minority. In *Norris v. Stephens*, the Washington County, Tennessee, binding-out order from the available excerpt dates to 1870, years after the father’s death [S22].
+
+For 1890s Sumner County, Tennessee, search the County Court minutes on Tennessee State Library and Archives rolls 54 (October 1882–January 1892) and 55 (January 1892–February 1903), listed under County Clerk in the inventory [S23 @2026-11-23].
+
+**Care by a relative.** When no appointment turns up, keep a suspected relative in play as a caregiver, following the advice from the available excerpt [S20]. Search that relative’s household records for the child and record evidence of residence and care separately from evidence of an appointment. In *Powers v. Mortee*, the children were placed with relatives before the later court appointments [S21].
+
 ## 6. Collect the whole file and follow the property
 
 A guardianship can be spread over several series. Search each series the court kept: probate court minutes, orphans' court records, county court order books, guardianship docket books and estate settlement files [S9]. Colonial orphans' courts continued in later courts, including probate and common-pleas courts [S7]. Inventory the file one document at a time: the petition and appointment, the guardian's bond [S9], [S8], the ward's choice of guardian, the annual accounts [S7], [S8], petitions to sell, and the final settlement at majority [S9]. Accounts can list payments for the ward's schooling, clothing, medical care and board [S9]. The MyHeritage post lists probate papers and the initial petition among these documents [S1].
+
+**Bond sureties.** If the case file omits the bond, check the court’s probate bond series [S13]. On the bond, record the principal and each named surety in the role given [S13]. Research the sureties for ties to the guardian, following the advice from the available excerpt [S11], [S12]. Test any proposed kinship with other records.
 
 An adoption is a separate proceeding. Guardianship did not end parental rights or create a new parent-child relationship [S9], and Russell notes that formal adoption under U.S. law began only in the 1850s [S3]. The MyHeritage post's mention of adoption records among guardianship papers [S1] is no reason to read a guardianship as an adoption; look for any adoption as its own proceeding.
 
