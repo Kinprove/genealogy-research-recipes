@@ -6856,5 +6856,11 @@
   "kind": "contact",
   "action": "ask the county office named by the inventory",
   "checkpoint": "The county office receives the sender’s contact information and the historical series details."
+ },
+ {
+  "recipe": "sound-toll-captain-voyage-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search by the historical captain's name",
+  "checkpoint": "The voyage query sends a deceased captain's name and any date or port terms to the Sound Toll Registers Online service."
  }
 ]
