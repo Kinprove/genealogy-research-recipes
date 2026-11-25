@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution","archival-image-coverage-verificati
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues and historical records"],"local_script":[],"extensions":[],"data_transfer":["third-party-tool"],"contact":[]}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 220}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 221}
 ---
 
 # Trace a Norwegian refugee through wartime Sweden
