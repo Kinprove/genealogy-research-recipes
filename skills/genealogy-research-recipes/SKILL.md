@@ -632,6 +632,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/probate-case-document-inventory.md` — Recover every document behind a probate index, will or bond and list them as a case inventory with open leads.
 - `recipes/cemetery-survey-and-transcription.md` — Map and number a whole cemetery survey so another researcher can match each transcription, image or recording to its marker.
 - `recipes/coroner-death-investigation-record-recovery.md` — Use coroner and medical examiner indexes, case numbers and local access rules to recover a death investigation, with routes for Los Angeles, Humboldt and British Columbia.
+- `recipes/south-african-death-notices-and-estate-files.md` — Route a South African death notice through the estate index, archive depot and probate file number.
 
 ### Births outside marriage and institutions
 
