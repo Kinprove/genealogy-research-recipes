@@ -513,6 +513,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/norwegian-refugees-in-wartime-sweden.md` — Use the Norwegian reception card and refugee number to trace a border crossing, interview and possible camp placement in wartime Sweden.
 - `recipes/order-of-alcantara-file-recovery.md` — Find Order of Alcántara files for a family, cleric or institution in the former priories of Magacela and Zalamea.
 - `recipes/stockholm-historical-property-ownership.md` — Identify a Stockholm lot across its historical numbers and compare household residence with dated title and probate evidence.
+- `recipes/swedish-high-court-case-recovery.md` — Follow Swedish and Swedish-era Finnish high-court referrals and notices into the diaries, protocols and surviving case papers.
 
 ### United States: people, vital and church records
 
