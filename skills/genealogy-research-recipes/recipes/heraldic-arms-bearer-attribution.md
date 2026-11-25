@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment","family-papers-and-bible-register-dating"]
 checked: null
 checked_basis: null
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":["request"],"contact":[]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 353}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 354}
 ---
 
 # Identify the recorded bearer of a coat of arms
