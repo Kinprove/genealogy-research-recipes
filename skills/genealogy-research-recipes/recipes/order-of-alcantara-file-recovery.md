@@ -11,7 +11,7 @@ handoff: ["spanish-civil-parish-record-routing", "hispanic-catholic-register-rec
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public finding aids and record catalogues"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 218}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 219}
 ---
 
 # Recover family files in the Order of Alcántara fonds at Mérida-Badajoz

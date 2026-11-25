@@ -6514,5 +6514,11 @@
   "kind": "third-party-tool",
   "action": "search MyHeritage’s *1910 Norway Census* by name and narrow by residence",
   "checkpoint": "The Norwegian candidate’s name and any residence used to narrow the census search go to MyHeritage"
+ },
+ {
+  "recipe": "scottish-railway-employment-record-recovery.md",
+  "kind": "request",
+  "action": "Request a specific staff record",
+  "checkpoint": "the worker's identifying details and any eligibility evidence"
  }
 ]

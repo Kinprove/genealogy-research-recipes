@@ -454,6 +454,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/english-chancery-equity-suit-recovery.md` — Find an English Court of Chancery dispute by party, then retrieve its pleadings, depositions, orders and decrees as separate records.
 - `recipes/irish-famine-relief-record-recovery.md` — Use a known Irish locality to search Famine relief correspondence and workhouse registers for a household missing from ordinary records.
 - `recipes/irish-petty-sessions-and-dog-licences.md` — Find an Irish household locality in Petty Sessions Order Books and the separate registers of dog licences.
+- `recipes/scottish-railway-employment-record-recovery.md` — Trace a Scottish railway occupation to the company operating the line at the time and its surviving staff records.
 
 ### Western and Northern Europe
 
