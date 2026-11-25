@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification","historical-place-name-resoluti
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues, reference works and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 93}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 94}
 ---
 
 # Distinguish Estonian farm bynames from inherited family names

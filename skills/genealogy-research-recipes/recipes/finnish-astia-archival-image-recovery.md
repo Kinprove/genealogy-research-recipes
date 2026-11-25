@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification","scandinavian-parish-record-rec
 checked: "2026-11-22"
 checked_basis: "read 2026-11-22"
 capabilities: {"browse":["record catalogues and original images"],"local_script":[],"extensions":[],"data_transfer":["third-party-tool"],"contact":[]}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 183}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 184}
 ---
 
 # Recover a Finnish archival image through Astia and Digihakemisto

@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 67}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 68}
 ---
 
 # Find a historical Olympic participant or trial entrant
