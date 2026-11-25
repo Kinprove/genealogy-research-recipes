@@ -92,6 +92,10 @@ Search period vocabulary as well as modern subject terms. In North Carolina mate
 
 According to Just Genealogy, Paul Heinegg’s *Free African Americans of North Carolina, Virginia, and South Carolina, From the Colonial Period to About 1820*, sixth edition, is a starting point for early free families [S123†]. Use the full-name index in each volume and follow the family entry to the tax, court, church or other record it cites. Check what that record establishes about status and kinship [S130].
 
+According to Just Genealogy, Paul Heinegg’s *Free African Americans of Maryland and Delaware from the Colonial Period to 1810*, second edition, is a starting point for families in those states [S134†]. Follow its family sketches to the cited court and census records when testing a family link [S135].
+
+According to Just Genealogy, Heinegg’s *List of Free African Americans in the American Revolution* also covers earlier military service [S134†]. Search the list for people in Virginia, North Carolina, South Carolina, Maryland and Delaware. Use the service entry to locate the cited record and the companion family history for the fuller account [S136].
+
 According to Lindsay Fulton, the 10 Million Names census map can help compare the distribution of free and enslaved populations [S115† @2026-11-21], [S121 @2026-11-21]. Use it to compare candidate localities. Determine individual status from records about the person.
 
 ## 2. Look for a document that names the enslaver
@@ -119,6 +123,8 @@ Look for a record that names the enslaver before you guess one from a surname.
 
 **Ration applications and registers.** Read both the application and the issue register. Record the applicant, any named household members and their ages, and the place or landowner if given [S107]. Include white relief recipients in an office search when the series covers them. At Selma, Alabama, check both recipient categories in the ration register for freedpeople and destitute white people, M1900 roll 31, volume 182 [S104]. Keep the register’s labels as recorded and test each person’s earlier status separately.
 
+**Bureau education records.** According to Lisa Louise Cooke, the Bureau series worth checking include school reports [S137†]. When researching schooling in Georgia, browse M799 by month and county for Bureau officers’ reports and by month for teachers’ reports. Record the school and locality. Treat pupil totals as evidence about the school, and look for a record naming the ancestor before assigning attendance [S138].
+
 **Military claims for U.S. Colored Troops.** In RG 105, look for bounty, back pay or pension claims and claimant registers. Copy the company, regiment, claimant and any stated relationship, then compare with the compiled service record in RG 94 and the pension file. If the claim continued after the Bureau closed, check the Freedmen’s Branch field-office records, M2029, 1872–1878 [S107], [S110].
 
 - **Cover the Bureau before calling a search negative.** The home town may have had no field office, and one agent could cover several counties. Find the offices near the home on a map, or on the Mapping the Freedmen's Bureau site, and search each one whose district may have included the home [S30]. Field offices are not the whole Bureau: also search the Headquarters, state Assistant Commissioner and state Superintendent of Education records [S30]. Transcription coverage differs by office. Where a series is not transcribed, browse its images, including the agent's "Letters Sent" [S30]. Record each office and series in the coverage log.
@@ -126,6 +132,8 @@ Look for a record that names the enslaver before you guess one from a surname.
 - **Freedman's Bank registers.** The Freedman's Savings and Trust Company opened about 37 branches in 17 states and the District of Columbia. The surviving signature registers of only 29 branches, 1865–1874, are NARA M816 [S39], 27 rolls in Record Group 101 [S47]. What each branch asked varied, but entries can name parents, brothers and sisters, spouse and children, and sometimes a former owner [S39]. The NARA indexes (M817) lack many account numbers, sometimes give numbers that differ from the registers, and leave out some depositors who appear in the registers, so read the register images themselves [S39]. A miss counts only for a surviving branch near the person, within its years. Record which branches you read.
 
   FamilySearch provides a name index and images of the surviving branch registers [S48 @2026-11-19].
+
+  **Trace an unnamed bank entry.** According to Just Genealogy, use the account number on an unnamed financial entry to look for a record that names the account holder [S161†]. For Freedman's Bank, use the branch city and account number to select a roll from the M816 signature-register roll list. Browse that branch by account-opening date, when known, and account number [S162]. Treat an M817 deposit-ledger index number as a lead. Check the number on the register image and compare the depositor’s residence or relatives with known details. If the number is missing or differs, browse the branch rolls for candidate depositors [S39]. Log the numbers as written and cite both entries. Leave the amount unassigned if the link remains unresolved.
 
 - **Information Wanted ads.** Search Last Seen: Finding Family After Slavery (informationwanted.org). It collects newspaper ads, mostly 1865–1922, placed by formerly enslaved people looking for relatives separated by sale [S40]. Search the places and both the relatives’ and former enslavers’ names. Record each ad as the advertiser's own account, with the newspaper and issue date.
 
@@ -149,6 +157,14 @@ In Virginia cohabitation registers with separate last-owner columns, copy the na
 
   The Library of Virginia reports no statewide index to the 1853–1896 death registers, only indexes that some county clerks made, so look for a county index or read the register [S68 @2026-11-12].
 
+**Virginia births under slavery, 1853–1865.** According to Just Genealogy, search the lettered volumes of the *Virginia Slave Births Index* by the informant’s surname and given name [S147†]. Copy the infant’s and mother’s names, date and place of birth, and the named informant [S148]. Keep the informant’s role open until you read the register’s relationship field. An overseer, employer or enslaver can appear in the index’s informant position [S150].
+
+According to Just Genealogy, use volume 6, the *Geographic Supplement*, to find an informant surname under a county or city [S147†]. The surname or corporate name occurs once per locality regardless of how many births it leads to [S149]. Keep similarly named cities and counties separate [S148]. Use the lettered volume for the informant’s full name and birth date. When it gives two localities, start with the first named locality’s register for that year [S149].
+
+According to Just Genealogy, use the published entry to locate the underlying birth register [S147† @2026-11-22]. To check the intermediate WPA transcription, use Library of Virginia birth-index reel 1A or Alexandria Library’s *Birth Index of Slaves, 1853–1866 (VA)*, reel 00079 [S151 @2026-11-22], [S152 @2026-11-22]. Keep the local birth register, the WPA index and Alexandria’s published transcription distinct in the log [S148 @2026-11-22]. Take the year and locality to the Library of Virginia’s microfilm guide for the register itself [S150 @2026-11-22].
+
+According to Just Genealogy, researchers should account for counties that became part of West Virginia when using the Virginia index [S147† @2026-11-22]. After a miss, search the county registers directly. For 1853–1862, check the Library of Virginia’s county-specific holdings. Check the West Virginia Archives and History guide for that county’s separate birth records as well [S153 @2026-11-22], [S154 @2026-11-22].
+
 Read the expense clauses in a sharecropping agreement alongside the promised fraction. Record which costs come out before division when the agreement specifies deductions, and leave the actual payout open until an accounting or receipt shows it [S89], [S92]. Check what labor the agreement assigns to each household member, including domestic work, even when only one person is named as the farmer [S89], [S92], [S93].
 
 - **Crop liens and chattel mortgages.** After 1865, search the county's recorded crop liens, chattel mortgages and trust deeds for a freedman who farmed as a sharecropper or tenant. A lien can place him on a named landlord's farm in a given year [S71]. In Tennessee, look in books titled Deeds of Trust or Trust Deeds; elsewhere the books are often titled Crop Liens [S71]. The FamilyTreeDNA guide reports that farmers who signed one lien together shared the risk and were typically a parent and an adult son or son-in-law, or siblings and brothers-in-law [S59]. Record a co-signer as a candidate relative until a record states the relationship.
@@ -162,6 +178,18 @@ According to Lindsay Fulton, the flagship pages are a way to identify relevant c
 Use the project search for broad coverage and open the individual database when the ancestor’s historical place points to a specific collection [S119 @2026-11-21]. According to Lindsay Fulton, a given-name search is useful for records of enslavement [S115† @2026-11-21]. When the form permits it, leave the surname blank and narrow by the known historical place.
 
 For a promising 10 Million Names hit, check the collection description for a named contributor. Use the contributor’s own site for the historical context and related records. For example, the project credits the Newport Historical Society for its Newport database, and the society describes the primary sources it used [S94 @2026-11-18], [S97 @2026-11-18], [S98 @2026-11-18].
+
+**Search Enslaved.org by place and project.** According to Shamele Jordon, search by place as well as by historical name [S139† @2026-11-22]. In Advanced Search, use Place Name for the state and run separate county searches. Run Person Name separately from the place query when either field may be missing, because combined fields require a match on each [S140 @2026-11-22]. Browse People and use the Projects filter to narrow results to a contributing dataset [S141 @2026-11-22].
+
+According to Shamele Jordon’s 2023 demonstration, a search for Florida returned people with that given name, so check in your own results that the linked place refers to the target locality and use the contributing project to narrow ambiguous hits [S139†].
+
+According to Shamele Jordon, a name miss is a reason to browse the contributing projects and try known places [S139† @2026-11-22]. Use Enslaved.org’s Data page to find projects by title, keyword and date [S142 @2026-11-22]. Read the project description or its *Journal of Slavery and Data Preservation* data article for localities, years and record types before logging what the search covered [S144 @2026-11-22].
+
+According to Shamele Jordon, Enslaved.org brings together leads from different kinds of documents [S139† @2026-11-22]. In People results, use the document-type filter to find bills of sale or probate records for a transfer, runaway advertisements for an escape, and freedom or emancipation certificates for a change in status. In emancipation documents, copy any relationships the record states before comparing family groups [S141 @2026-11-22].
+
+According to Shamele Jordon, biographies can supply leads for free people as well as enslaved people [S139† @2026-11-22]. Filter People to **Biographies of the Enslaved Era** or browse **Stories** for the narratives based on the Hutchins Center’s biographical dictionaries. Follow each narrative’s bibliography for records that support the reported status or relationship [S141 @2026-11-22], [S143 @2026-11-22].
+
+According to Shamele Jordon, Enslaved.org can help trace people sold by James Monroe from Virginia to Florida [S139† @2026-11-22]. For the 1828 sale from Highland to Joseph White’s Casa Bianca plantation, use the contributing dataset and its article, *Take Them in Families: The Enslaved People of Casa Bianca Plantation, Florida*, in volume 1, issue 2 of the *Journal of Slavery and Data Preservation* [S145 @2026-11-22], [S146 @2026-11-22].
 
 For someone who escaped enslavement, search contemporary newspaper reward advertisements placed by enslavers, including issues from before 1850. Use terms such as “ran away” and “reward” with the person’s name or the place [S87], [S88].
 
@@ -211,6 +239,10 @@ For antebellum estate and private sale records, start at the county level under 
 According to Lindsay Fulton, an unnamed estate entry gives a lead to other records of the same holder [S115†]. Search under that holder in personal-property tax lists, deeds and family papers in university special collections. Compare the tax counts and look for names in transactions, account books and other papers tied to the holder [S122], [S92].
 
 - **Search heirs’ chancery suits.** Inspect the pleadings, exhibits and disposition when an inventory or will omits a person, including children born after the will was written. William Kee’s heirs disputed who inherited Tissa but agreed that she was Hannah’s daughter [S59]. Record what the parties agreed on separately from what they contested. Search the county equity court and any state appeal. Virginia chancery exhibits can give names, ages and relationships [S72]. To locate the file, use [court case file recovery](court-case-file-recovery.md).
+
+**Coastwise shipments from Maryland to New Orleans.** According to Just Genealogy, Ralph Clayton’s *Cash for Blood* offers both an inward manifest index and a vessel index [S155†]. Use the inward index for 1818–1856 arrivals from Baltimore and other Maryland ports. Use the vessel index when the ship is known, and the appendices for the largest shipments or for Baltimore wharves and docks [S156], [S157]. Carry the vessel and arrival date to the inward manifests in M1895 for the actual entry. Search M1895 directly for New Orleans voyages within its 1807–1860 span that fall outside Clayton’s inward index [S158].
+
+**Harford County, Maryland, 1814.** According to Just Genealogy, Peden’s compilation combines the county’s 1814 property-tax assessments with later records [S159†]. Search *Slaves and Slave Owners, Harford County, Maryland, 1814* alphabetically under the enslaver’s name. Log the assessment separately from any later manumission, sale or runaway notice cited for that person [S160].
 
 ## 5. Build a per-document register of named enslaved people
 
