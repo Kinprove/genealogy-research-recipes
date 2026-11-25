@@ -590,6 +590,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-civil-war-prisoner-record-recovery.md` — Reconstruct Union or Confederate captivity through prison rolls, transfers, parole, exchanges, oaths, death records and later enlistment.
 - `recipes/us-historical-navy-medical-record-recovery.md` — Follow a nineteenth-century Navy treatment lead into ship or station medical journals, patient lists and a named naval hospital’s records.
 - `recipes/us-merchant-seamen-record-recovery.md` — Route a merchant seaman by port and period to protection papers, crew lists, shipping articles or records of impressment.
+- `recipes/us-postal-mail-contract-recovery.md` — Find a nineteenth-century U.S. mail contractor’s dated award and itinerary through route registers, bid notices and postal reports.
 
 ### Canada, Latin America, Asia and Oceania
 
