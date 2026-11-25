@@ -41,6 +41,7 @@ Route identity, kinship and negative-evidence rulings to
 - 8\. Use mortality schedules with the correct death window
 - 9\. Track a formerly enslaved family through changing surnames
 - 10\. Follow a farm lead into an agricultural schedule
+- 11\. Locate manufacturing, business and other nonpopulation schedules
 
 ## Preserve the output schema
 
@@ -74,6 +75,7 @@ Before 1880 there is no enumeration district number to record. Early censuses we
 | 8: mortality entry | `person_as_recorded, source_locator, death_month_literal, stated_reporting_window, inferred_death_year, inference_basis, household_reference_literal, population_locator, identity_comparison, conflict` |
 | 9: identity chain | `candidate_link_id, earlier_person_literal, earlier_locator, later_person_literal, later_locator, surname_observations, household_comparison, corroborating_document_locator, enslavement_evidence_status, link_status, next_record` |
 | 10: agricultural entry | `candidate_id, census_year, source_locator, operator_literal, population_candidate_locator, identity_link_basis, printed_line_and_continuation, column_heading, answer_literal, unit, land_record_question, unresolved_conflict` |
+| 11: nonpopulation entry | `record_type, jurisdiction, actual_year, source_locator, subject_as_recorded, population_candidate_locator, match_basis, unresolved_conflict` |
 
 For search and coverage outcomes distinguish `not_searched`, `searched_no_candidate`,
 `candidate_found`, `inaccessible`, `incomplete`, and `illegible`.
@@ -125,12 +127,15 @@ Before calculating a birth-year range, check the age unit. An entry such as 10/1
 | Someone may have died before enumeration | 8. Search mortality schedules | Death-window and household correlation |
 | A formerly enslaved family changes surnames | 9. Track the family group | Candidate identity chain across censuses |
 | A population entry or other evidence suggests a farm | 10. Follow agricultural schedules | Linked entry, literal quantities and land-record question |
+| A business or an institutional lead needs a separate return | 11. Locate nonpopulation schedules | Coverage and candidate entry |
 
 ## 1. Recover a missing household by changing the search anchor
 
 **Use when:** Searching the expected surname or head of household produces no plausible result.
 
 **Inputs:** A household roster from another record; first and middle names; approximate ages; birthplaces; and independently supported locations.
+
+Check the public release date before running a name search. Named decennial population returns follow a 72-year release interval, and the Census Bureau lists April 2032 for the 1960 returns. Record a year still closed to public access as a coverage limit in the query log. [S229 @2026-11-22] [S230 @2026-11-22] [S231 @2026-11-22]
 
 1. List every expected member. Mark which names, ages, and birthplaces are best supported. Include children: their entries may be easier to recognize than the adults' entries.
 2. Search each member separately in the target census. Then remove the surname from a distinctive member's query, keeping given name, age range, birthplace, and a supported search area. [S1]
@@ -152,6 +157,10 @@ If a woman is known only by her husband's name, locate his household in the firs
 
 If a woman is absent from the expected household, search the next census through a relative identified in the earlier roster, such as an adult child. Read that relative's whole household for her entry. Before concluding that she died in the interval, look for dated mentions of her in directories, newspaper announcements and state censuses between the two enumerations. [S195]
 
+After a parent's death, search each child separately without requiring a known relative as household head. Extend the search across state lines where there is a dated lead, and record who headed each candidate household. In one 1860 case, siblings were found in different states, including a child with no known tie to the household. [S247]
+
+If a remarriage points to a new surname for a missing mother, search the next census for her children under the previous husband's surname, following advice from the available excerpt [S262]. Check their whole household for her under the new surname. Compare the resulting candidate with the marriage record and earlier roster. [S195]
+
 If a family moved in 1950 and the destination search fails, search each family member separately at other dated residences. Record a match for the person named and leave other family members' locations open. If a young child is missing from the parents' household, check the maternal grandparents' household. If the child is there, check where each missing parent lived or whether they died before the census. [S201]
 
 For a child missing from the expected household, check the households of aunts and uncles afresh in each census year [S226, advice from the available excerpt]. Before assigning a same-surname child to a couple as their son or daughter, test whether the adults were the child's aunt and uncle. Compare the parents named on any available death certificate with attributed family statements already preserved in other records. [S227]
@@ -168,6 +177,8 @@ For the missing 1790 Virginia return, start with Netti Schreiner-Yantis and Flor
 
 Do not read a Native person's absence from an early census as absence from the place. The Constitution excluded "Indians not taxed" from the count, and in 1790 most Indians were not counted [S116]. The 1800 and 1810 schedules counted "all other free persons, except Indians, not taxed" [S137], [S120], and Price Genealogy notes that the 1790–1840 censuses are of little help for Native ancestors who did not pay taxes [S115]. For 1950, a person living on a reservation may also appear on Form P8, the Indian Reservation Schedule, which repeats the P1 name and adds other names, tribe, clan, degree of Indian blood, languages and participation in ceremonies in 1949; people on reservations in Alaska and Oklahoma, and those off reservations, are on P1 only [S117], [S118], [S154]. The form's heading names the reservation [S111]. Copy the P8 entries literally and take the tribe and any other name to [tribal enrollment records](us-tribal-enrollment-record-recovery.md).
 
+For an 1880 Native household in the surviving special enumeration, select the roll of M1791 by agency, reservation and tribe. The roll list covers the Tulalip and Yakama agencies, Standing Rock and Round Valley, including some people off reservations. Use 1 October 1880 as the reference date for this schedule. Preserve the recorded Native name, any translated name and any other name used as separate search leads. [S229 @2026-11-22] [S233 @2026-11-22]
+
 In a household on or near Cherokee land before removal, do not read a missing wife or child as proof that there was none. The Constitution left "Indians not taxed" out of the count, and the 1860 instructions told enumerators not to enumerate them [S87]. Roberta Estes notes that a white man's Native wife or children would therefore not appear with him [S86]. Search the tribe's own enumerations, such as the 1835 Henderson Roll (NARA T496), which lists Cherokee heads of household in Alabama, Georgia and Tennessee with information on each family and its property [S88].
 
 Search a middle name as a surname and try the head’s given name in the family-surname field. Hinrich Jacobs Fecht was reported as Henry Jacobs in 1870 [S97]. A separate 1900 account describes the whole family under the head’s given name [S98]. Check the image against another record before accepting either reading.
@@ -179,6 +190,10 @@ When a man is missing from his family's household, also search the jails and pri
 For a 1950 absence, also check the other forms. Transients at some hotels, YMCAs and other paid lodgings were counted on 'T-Night' by special enumerators [S110], [S111]. Form P2, the Individual Census Report, was used for military personnel in barracks on U.S. soil and for travelers at hotels, YMCAs and campgrounds, and Form P4 for the crews of U.S.-flag vessels in U.S. and territorial ports; both were usually copied onto Form P1, so search P1 first [S118]. Do not expect a return for an American abroad: information on most overseas personnel was not retained, though schedules survive for military personnel stationed in the territories [S118].
 
 If an earlier census shows the person owning a home or land and the next finds the household elsewhere or not at all, compare the two places of residence and search the earlier county's deed indexes for the years between to date the sale and the move [S129], [S130]; use [land-record recovery](land-index-book-series-recovery.md) for the indexes. Treat a real-estate value that later goes blank as the same lead [S128], not as a sale: the 1850 and 1860 values covered real estate wherever it lay [S106], [S107], and in 1870 personal estate under $100 was not entered [S131]. Legacy Tree warns that a Pennsylvania deed could be recorded years after the transaction, and advises searching the indexes long after the person left [S130].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The registration subject's historical name and any birth-year or residence filters go to MyHeritage's collection search.
+
+Search MyHeritage's Minnesota, Alien Registrations, 1918 to locate a missing person who may have been living in Minnesota as a noncitizen in February 1918. Use the indexed residence, age and birth year as leads [S263 @2026-11-23] [S264 @2026-11-23]. If the filing place is unclear, check the Minnesota Historical Society's name index, SAM 169-I. Use the county and filing locality to select the form reel for SAM 169 in the finding aid. Compare the index hit with the registration form when available. Cite the form and reel and carry the registrant's dated address into the census search. Keep the filing locality separate from the reported residence. [S265 @2026-11-23]
 
 Start with the official 1950 Census website for population schedules. The National Archives charges no fee for searching or downloading them. [S170 @2026-11-18] [S171 @2026-11-18] [S118 @2026-11-18]
 
@@ -224,6 +239,8 @@ In a tenement or apartment house, expect one dwelling number with a family numbe
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> The historic street and locality associated with the target household go to Morse and Weintraub's ED Finder. Keep personal names and current addresses out of the query.
 
 Enter the historical locality and street in the Unified Census ED Finder with 1950 selected. For a listed city, use the two cross streets that bound the block to narrow multiple results. Where street-level coverage is unavailable, use the locality in the district descriptions. Place the house number and correct side of the street on a period map before choosing which returned districts to browse. [S170 @2026-11-18] [S175 @2026-11-18] [S176 @2026-11-18]
+
+If a One-Step result turns on a community name, use the film-to-map check from the available excerpt [S255 @2026-11-22]. Compare the filmed 1950 district description with the 1950 county map. The lookup can include names added from county maps or 1940 descriptions [S256 @2026-11-22]. Record which document actually places the community inside the district.
 
 On the official 1950 Census website, search by state, county or city, and district without a name. Choose **Population Schedules** on the district result and page through its images. Use **ED Maps** to test the boundary if more than one district fits. [S170 @2026-11-18] [S171 @2026-11-18] [S118 @2026-11-18]
 
@@ -350,7 +367,17 @@ If an expected person does not fit a household’s tally, search for a separate 
 
    Wisconsin’s 1885 and 1895 population schedules name the household head and tally the other members [S165], [S166], [S167]. Their nativity columns include British America, Great Britain and Scandinavia [S168], [S169]. A published comparison assigned the British America and Great Britain tallies from two censuses to one named man, although the columns count whole households [S157]. Transcribe the counts separately. Attribute one to the head only if the household composition leaves no other possible person, and test a disputed birthplace in records that name him.
 
+If the 1850 federal search misses a Texas family with school-age children, check the 1854–1855 scholastic returns for the county, following advice from the available excerpt [S252]. For Tarrant County, look for Gifford White's *Supplement to Texas Scholastics 1854–1855: Smith and Tarrant Counties*. Use the count's own locality and date, and keep the federal search outcome separate. [S253] [S254]
+
+In Sonoma County, look up the surname in the alphabetical *Sonoma County, California Reconstructed 1890 Census*, the compilation identified from the available excerpt [S257] [S258]. Follow the entry's supporting record where identifiable. Add its actual date to the timeline and leave an undated entry as a lead.
+
+In Harford County, Maryland, choose Henry C. Peden Jr.'s A–J or K–Z volume of *1890 Reconstructed Census of Harford County, Maryland* by the surname form being searched. Try known maiden and married forms, following advice from the available excerpt [S259], and use the directory to identify candidate churches or organizations. Trace each entry back to its own record before assigning a date or family link. [S260] [S261]
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Any historical search terms entered for the 1890 census subject go to MyHeritage's collection search.
+
+Search MyHeritage's Idaho, Reconstructed Census, 1890 for the household. Use its residence and spouse fields as leads. Follow the cited underlying record and put the date and place it actually records in the timeline. The reconstruction draws on records dated 1885–1894. Keep the original date unresolved when the cited record is unavailable. [S235 @2026-11-22] [S236 @2026-11-22]
+
+Search MyHeritage's 1890 New York Police Census and check the address, name, age and sex against the municipal return. If a name search fails, use the known address to identify the assembly and election districts, then check whether that book survives before browsing it. Enter the result as an independent city enumeration taken in 1890. Record relationships as unresolved unless supported elsewhere. [S237 @2026-11-22] [S238 @2026-11-22] [S239 @2026-11-22] [S240 @2026-11-22]
 
 For a locality in Oklahoma Territory, add MyHeritage's **1890 Oklahoma Territorial Census** to the coverage table as a separate enumeration. Use the index's name, age, birthplace and residence as leads to the corresponding schedule. Record National Archives microfilm publication M1811 as the original-series locator and take the locality from the schedule heading, which can leave the county blank. [S182 @2026-11-18] [S183 @2026-11-18] [S184 @2026-11-18]
 
@@ -378,6 +405,8 @@ On the 1890 veterans schedule, the line number repeats on the lower half of the 
 5. Resolve note numbers and written line references. A written reference such as “L 24” may have no number on the entry itself; a note number may sit over a caret beside the supplementary line, before a name, or inside the answer it qualifies, such as the age. Attach a note to the indicated entry or field. Notes can explain revisions, a doubted age and who gave it, employment details, visitors with no other residence whose lines belong after an earlier household, or why an entry was struck through, such as a death and its month [S8]. Keep a disputed answer beside the note's alternative.
 6. Keep blanks, unreadable text, questions not asked, and explicit negative answers distinct. Record uncertainty about the note's subject instead of assigning it by proximity.
 
+For a pre-1940 return, leave the informant unknown unless the record identifies one. When an age, name or other detail conflicts with a signed or first-person source, keep an outside informant such as a neighbor open as a possible explanation. The head's name alone supplies no attribution. [S221] [S234]
+
 For 1950 Form P1, use the person marked **Head** even when a husband is present elsewhere in the roster. The dwelling fields are usually entered on the head's line. Leave the informant unknown unless an entry identifies one. Read item 7 surname first, follow a surname dash to the preceding entry within the household, and use the form's listing order when the household continues over a page. Trace item 8 to the stated referent. A lodger's wife is related to the lodger, and an institutional label such as `Patient` describes the person's position at the institution. [S170] [S172]
 
 Keep `Lodger` as written in item 8 and test whether the person is related to another resident, such as the head's son-in-law. The label describes the person's relationship to the head. [S201] [S110]
@@ -387,6 +416,8 @@ Trace a recorded boarder, roomer or lodger through other households and records 
 Use the date of the enumerator's call to interpret the 1950 age in item 11. The heading dates the start of the sheet, which may cover more than one visit. For anyone at least a year old, read age in completed years. For an infant under one, transcribe the month as a birth month and retain any uncertainty about the year. [S170] [S172]
 
 Keep `Ireland` and `Northern Ireland` distinct in 1950 item 13. In item 14 for the foreign-born, read `Yes` as reported citizenship through final papers or a parent's naturalization. `No` includes a person with first papers only and a person who never filed. Read `AP` as born to American parents abroad or at sea. Let the recorded answer guide the next search without assuming everyone marked `Yes` filed in their own name. [S170] [S172]
+
+When comparing jobs in 1920 and 1930, extract occupation and industry separately. Read columns 26–27 in 1920 and 25–26 in 1930. If a trade stays the same but the industry changes, carry each work setting into the next search and leave the employer and exact change date open. A musician can keep that occupation and move from an orchestra to a theatre. [S241] [S148] [H1]
 
 For 1950 items 15–20c, first check that the person was at least 14. Use the Sunday-through-Saturday calendar week before the week of the interview. In item 15, read `Wk` as qualifying paid work, work in one's own business or unpaid work in a relative's household business or farm. Read `H` as keeping one's own house, `U` as unable to work under the census definition, and `Ot` as other activity. An eligible institution resident marked `Inmate` skips the remaining employment items. After `H` or `Ot`, read item 16 for at least one hour of qualifying work, including unpaid family work. A `No` there leads to job-seeking in item 17. A `No` in item 17 leads to item 18, where `Yes` indicates a job or business despite no work that week. Record the hours in item 19 after `Wk` or `Yes` in item 16. Apply these conditions before assigning any blank. [S170] [S172]
 
@@ -407,6 +438,10 @@ program's current series, custodian and request guide before requesting. Leave o
 unknown programs unresolved; no NYA route is supplied here. CCC files may name camps;
 civilian service is not military service.
 
+On either side of the standard 1940 population schedule, match the person's line to one of that side's two designated sample lines. Read the bottom section for that line, including any parental birthplace, veteran, Social Security or Railroad Retirement answers. Record a nonsample blank as `not_asked` and check the printed line numbers again on the reverse. [S231] [S232] [S246]
+
+In 1940, assign columns 32 and 33 to calendar year 1939. Keep the wage or salary amount separate from the yes-or-no answer about other income of at least $50. Record 1940 as the enumeration year and use 1939 when comparing reported earnings with other years. [S244] [S245] [S246]
+
 In 1950, match each supplementary answer to its tier before you read a blank. Items 21 to 33, such as residence a year ago, parents' birthplaces, schooling and veteran status, were asked of the six people on each sheet's sample lines; items 34 to 38, including 'married more than once' and the number of children ever borne, only of the person on the last sample line [S110], [S154]. A blank for anyone else is `not_asked`. The children count leaves out stillbirths, adopted children and the woman's stepchildren, and includes children of earlier marriages, children who had died and children living elsewhere; the enumerator told her about adopted children only if she asked [S110], [S111]. The housing questions on the back of the sheets were not microfilmed, and the paper schedules were destroyed in 1961–1963, so no household's housing answers survive [S118], [S111].
 
 For a 1950 sample line, read items 21–24 in order. A `Yes` for the same house in item 21 skips the farm and county questions, and can cover a move between apartments in the same building. A `No` opens both the farm question in 22 and the same-county question in 23. After `No` in 23, read 24a and 24b together for the prior county and state, or 24b alone for a foreign country. Use usual residence one year before the interview. For infants under one, expect the age notation in 24a and the neighboring residence fields blank. [S170] [S172]
@@ -426,6 +461,8 @@ When a lettered **Leave Blank** column on the 1950 sheet contains a code, record
 Enter only the needed code in the 1950 One-Step lookup that matches its lettered column. For column C, choose the separate occupation and industry decoder. Leave an unresolved code literal when the applicable table, such as the miscellaneous lookup's column H, supplies no key. [S170 @2026-11-18] [S180 @2026-11-18] [S181 @2026-11-18]
 
 Read a territory's 1950 schedule by its own form. Alaska's omitted the sample lines and asked many of the sample questions of everyone; the forms for American Samoa and Guam were shorter and had no sample questions; the Virgin Islands schedule had none; and Puerto Rico's was printed in Spanish [S151], [S111]. On a form without sample questions, a missing sample answer is `not_asked`.
+
+Read a 1950 Puerto Rico entry against the Spanish Form P93, `Censo de Población y Viviendas`. If a heading is unclear, match it to the same item in the English translation of P93 and retain the Spanish wording beside the reading. Use P93's numbering for the locator. [S242] [S243]
 
 **Example prompt:** “Extract this household, its marked supplementary questions, and every linked note. Preserve the person-to-line mapping and distinguish blank, unreadable, not asked, and explicit no.”
 
@@ -471,7 +508,11 @@ For the 1940 informant, paragraph 446 specifies a circled X for a household resp
 7. Store literal statement, calculation, proposed event, and supporting record in separate fields. Keep immigration and naturalization statements as leads to the relevant documentary records rather than exact events established by the census alone.
    Extract the language or mother tongue separately from the stated country of birth. In a multinational state, a language such as Magyar can suggest further regions and record languages to investigate [S66], [S194], [S67]. Compare the community, religion and historical boundaries before proposing a birthplace.
 
+When `Widowed` conflicts with other evidence, check the jurisdiction's divorce docket and court minute books for both spouses. Use an entered decree to date the end of the marriage. In one case, local circuit court minutes revealed a divorce despite the census reporting widowhood and the researcher failing to locate the former spouse in that census. [S221]
+
 For an immigrant's origins, read the father's and mother's reported birthplaces separately in the 1880, 1900, 1910, 1920 or 1930 schedule. Compare both with the immigrant's own reported birthplace before narrowing the search for each generation. The 1870 marks indicate foreign birth without naming where. [S206] [S207]
+
+For an immigrant couple in 1940, read each spouse's citizenship entry in column 16 separately and use it to plan a separate documentary search. Two spouses on the same 1940 schedule can have different reported citizenship statuses. [S244] [S246]
 
 In 1920 column 14, keep `Al`, `Pa` and `Na` distinct. For a foreign-born man or unmarried woman aged 21 or over, `Al` reports no steps toward citizenship, `Pa` first papers, and `Na` citizenship through final papers or a parent's naturalization before the person turned 21. The instructions assigned a married woman her husband's status and generally assigned a foreign-born child under 21 the parents' status unless the child had filed first papers. Check whose papers the reported status points to before choosing a naturalization search. [S218] [S219]
 
@@ -595,6 +636,8 @@ Use the published 1950 agriculture reports for aggregate production or acreage w
 
 To assess a Lowcountry farm's scale of rice production, read its agricultural schedule's rice quantity with its unit and reporting interval. Compare it with other farms in the same area on schedules for the same interval and unit. Use only forms that asked for rice and confine the conclusion to the intervals actually covered. Leave earlier production unresolved. [S185] [S186] [S187] [S189]
 
+For a Southern farmer whose operation spans the Civil War, compare that operator's 1850, 1860 and 1870 schedules, if the relevant returns survive, following advice from the available excerpt [S248]. Match like columns, units and reporting intervals. Check each year's inclusion rules before interpreting a missing entry or a change in recorded quantities. Leave the cause of the change open. [S94]
+
 **Output:** An agricultural-entry row using the census locator above, the population candidate,
 link basis, continuation references, literal quantities/units and remaining land-record question.
 
@@ -602,3 +645,19 @@ If the farm operator’s indexed initials differ from the population entry, chec
 
 Amy Johnson Crow explains that the 1950 agriculture questionnaires were destroyed as temporary
 records. [S18](https://www.youtube.com/watch?v=4p_afzX34Uk)
+
+## 11. Locate manufacturing, business and other nonpopulation schedules
+
+**Use when:** A person, business or institution may appear on a separate schedule. Use Recipe 8 for deaths and Recipe 10 for farms.
+
+Open the nonpopulation census guide's entry for the state or territory, following the steps from the available excerpt [S248]. Select the record type and year, then record the federal microfilm publication or the separate custodian listed for that schedule [S94].
+
+For 1810, start with the manufacturing annotations among the population returns in M252. For 1820, browse the surviving locality's separate manufacturers' schedules in M279, even if the population return gives a zero or no manufacturing tally. North Carolina and Maryland have entries in the M279 roll list. Compare the manufacturer or firm and locality before linking a return to a person. [S94 @2026-11-22] [S249 @2026-11-22] [S250 @2026-11-22]
+
+For a business in 1935, select the industry first and use the Census of Business roll list to choose the publication and geographic span. The microfilm list covers advertising, financial institutions, miscellaneous enterprises, motor trucking for hire, public warehousing and radio broadcasting. Log any sector outside those roll lists as unresolved and check the guide's separate paper-schedule notes. [S94 @2026-11-22] [S251 @2026-11-22]
+
+For North Carolina, use M1805 for the 1850–1880 mortality and manufacturing series. For 1850, 1860 or 1870 social statistics, use the State Archives of North Carolina listings and follow the church and newspaper leads in Recipe 5. For a person thought to have been in a poorhouse or recorded in a qualifying category in 1880, check that archive's schedules of Defective, Dependent, and Delinquent Classes. Record any name and stated category separately from the proposed population-schedule match. [S94 @2026-11-22]
+
+Use M1793 for the District of Columbia's 1850–1870 agriculture, industry, mortality and social statistics schedules and for Worcester County, Maryland, agriculture in 1850. For 1850 and 1860 agriculture, industry or social statistics in Baltimore City and County, select M1799. For Maryland's 1880 schedules of Defective, Dependent, and Delinquent Classes, use the Maryland State Archives listing. Verify the jurisdiction and year on the schedule before recording a match. [S94 @2026-11-22]
+
+**Output:** Log the coverage using Recipe 5 and keep the nonpopulation entry's own locator. Treat a population-schedule match as a candidate until other details connect the two records.
