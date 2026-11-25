@@ -11,7 +11,7 @@ handoff: ["quaker-meeting-record-recovery", "uk-census-and-1939-register-interpr
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 151}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 152}
 ---
 
 # Recover a Scottish birth, marriage or death across parish and statutory registers

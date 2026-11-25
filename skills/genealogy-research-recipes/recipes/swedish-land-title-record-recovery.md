@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "scandinavian-parish-record-recover
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 231}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 232}
 ---
 
 # Trace a Swedish property's title through the court books

@@ -414,6 +414,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/lithuanian-jewish-household-registers.md` — Use LitvakSIG and MyHeritage household registers to trace dated residence and distinguish missing records from unindexed coverage.
 - `recipes/holocaust-register-and-survivor-list-recovery.md` — Separate ghetto residence, imprisonment, death and postwar survivor registration while retrieving the underlying Holocaust-era record.
 - `recipes/arolsen-confiscated-effects-recovery.md` — Identify a Nazi persecution victim in the Arolsen personal effects collection and follow the archive’s return procedure.
+- `recipes/vienna-jewish-emigration-questionnaires.md` — Find a Vienna Jewish emigration questionnaire, recover dependents and overseas contacts, and test the household’s intended destination against evidence of departure.
 
 ### Ukrainian archives
 

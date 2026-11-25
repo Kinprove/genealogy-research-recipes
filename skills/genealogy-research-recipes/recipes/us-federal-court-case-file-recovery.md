@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
 checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 266}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 267}
 ---
 
 # Recover a U.S. federal court case file

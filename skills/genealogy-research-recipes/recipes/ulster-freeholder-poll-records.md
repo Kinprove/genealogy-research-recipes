@@ -11,7 +11,7 @@ handoff: ["irish-land-valuation-occupancy-series","irish-probate-and-deed-recove
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 173}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 174}
 ---
 
 # Find and interpret an Ulster freeholder or poll-book entry
