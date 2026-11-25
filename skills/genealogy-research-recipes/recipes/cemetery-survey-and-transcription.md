@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet", "historical-map-record-recovery"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 319}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 320}
 ---
 
 # Survey a cemetery and produce a relocatable transcription
