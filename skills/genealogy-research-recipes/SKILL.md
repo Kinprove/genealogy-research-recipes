@@ -514,6 +514,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/order-of-alcantara-file-recovery.md` — Find Order of Alcántara files for a family, cleric or institution in the former priories of Magacela and Zalamea.
 - `recipes/stockholm-historical-property-ownership.md` — Identify a Stockholm lot across its historical numbers and compare household residence with dated title and probate evidence.
 - `recipes/swedish-high-court-case-recovery.md` — Follow Swedish and Swedish-era Finnish high-court referrals and notices into the diaries, protocols and surviving case papers.
+- `recipes/swedish-noble-pedigree-record-recovery.md` — Trace a Swedish noble branch from the Minerva pedigree to letters of arms, family submissions and cited evidence.
 
 ### United States: people, vital and church records
 

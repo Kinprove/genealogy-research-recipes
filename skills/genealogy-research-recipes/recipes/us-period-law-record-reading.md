@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "deed-content-relationship-clues", "eviden
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 259}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 260}
 ---
 
 # Read U.S. records under the law and legal language of their own place and date
