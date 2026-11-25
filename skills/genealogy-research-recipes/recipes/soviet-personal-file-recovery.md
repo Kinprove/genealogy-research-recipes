@@ -276,6 +276,10 @@ well as GARF's лишенец files.
 - Detailed ZAGS extracts for a death, a marriage or a child's birth give addresses for these searches [S2].
 - Check evacuation entries for an address and occupation, then use detailed ZAGS records, house books and any disenfranchisement file to test the household link [S2].
 
+**Wartime civilian evacuation from Stalingrad.** Use family accounts for leads to the receiving locality [S118]. For a suspected move within the USSR, search that locality’s archival inventories for evacuation-point and local authority fonds. Look for evacuation registers (книги регистрации эвакуированных), registration cards (карточки на эвакуированных) and name lists (списки эвакуированных) [S119]. If the destination is uncertain, use evacuation-council placement plans to identify candidate districts, then check their arrival records [S119].
+
+Keep an outbound evacuation hypothesis open after a miss in the Volgograd Centre for Documentation of Contemporary History (ЦДНИВО) index, which covers Communist Party members and candidates evacuated **into** Stalingrad or its oblast [S120 @2026-11-23].
+
 - **For a rural family, add the village-soviet household books (похозяйственные книги).** Village soviets kept them from 1934 (decree No. 185 of 26 January 1934 of the СНК СССР, the USSR Council of People's Commissars), one entry per household beginning with its head [S14 @2026-11-02].
   - They now sit in district or city archives, sometimes in the oblast state archive, and some are still with the local administration [S14 @2026-11-02], [S15 @2026-11-02]. Runs can start late: in the Minsk oblast state archive most districts' books survive only from 1944 [S15 @2026-11-02].
   - **Privacy gate:** <!-- privacy-gate: request --> Household-book entries list every household member and their age, and some may still be living; answer the privacy gate in `SKILL.md` before requesting an entry or a surname search.
