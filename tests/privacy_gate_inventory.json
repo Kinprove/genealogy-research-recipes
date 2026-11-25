@@ -6688,5 +6688,23 @@
   "kind": "third-party-tool",
   "action": "use the Home of Record city and state fields",
   "checkpoint": "NARA’s AAD receives the service member’s name"
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Idaho, Reconstructed Census, 1890",
+  "checkpoint": "Any historical search terms entered for the 1890 census subject go to MyHeritage's collection search."
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's 1890 New York Police Census",
+  "checkpoint": "Any historical search terms entered for the 1890 census subject go to MyHeritage's collection search."
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Minnesota, Alien Registrations, 1918",
+  "checkpoint": "The registration subject's historical name and any birth-year or residence filters go to MyHeritage's collection search."
  }
 ]
