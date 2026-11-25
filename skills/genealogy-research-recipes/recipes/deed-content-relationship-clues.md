@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 328}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 329}
 ---
 
 # Read deed content as dated relationship, probate, migration and parcel hypotheses
