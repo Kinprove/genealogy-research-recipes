@@ -11,7 +11,7 @@ handoff: ["brazilian-parish-civil-registry-recovery", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 306}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 307}
 ---
 
 # Trace travel and foreigner registration through São Paulo records

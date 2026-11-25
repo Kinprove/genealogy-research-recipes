@@ -11,7 +11,7 @@ handoff: ["criminal-court-prison-record-recovery", "scandinavian-parish-record-r
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 223}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 224}
 ---
 
 # Recover a Swedish high-court case from a notice or diary

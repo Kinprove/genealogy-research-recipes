@@ -6574,5 +6574,23 @@
   "kind": "third-party-tool",
   "action": "Open the noble family's Minerva entry",
   "checkpoint": "A family search sends the historical family's name and any rank or number to Riddarhuset's Minerva catalogue."
+ },
+ {
+  "recipe": "uk-ireland-passenger-list-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s United Kingdom and Ireland, Incoming Passenger Lists",
+  "checkpoint": "sends the passenger’s historical details to MyHeritage"
+ },
+ {
+  "recipe": "uk-ireland-passenger-list-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the FamilySearch outward index",
+  "checkpoint": "sends the passenger’s name and any entered birth or voyage details to FamilySearch"
+ },
+ {
+  "recipe": "uk-ireland-passenger-list-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the destination’s arrival records and next relevant census",
+  "checkpoint": "to the service hosting the destination passenger index or census"
  }
 ]

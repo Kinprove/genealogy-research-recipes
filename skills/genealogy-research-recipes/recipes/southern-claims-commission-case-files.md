@@ -11,7 +11,7 @@ handoff: ["us-freedpeople-record-recovery", "us-federal-court-case-file-recovery
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 264}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 265}
 ---
 
 # Recover and read a Southern Claims Commission case file
