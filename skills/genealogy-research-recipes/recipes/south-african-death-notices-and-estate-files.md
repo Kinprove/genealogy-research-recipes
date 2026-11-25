@@ -11,7 +11,7 @@ handoff: ["probate-case-document-inventory", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical record images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 326}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 327}
 ---
 
 # Recover a South African death notice inside an estate file
