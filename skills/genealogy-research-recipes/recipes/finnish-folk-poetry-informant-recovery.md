@@ -11,7 +11,7 @@ handoff: ["family-interviews-and-oral-tradition", "historical-place-name-resolut
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical Finnish folk-poetry database and collector publications"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 191}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 192}
 ---
 
 # Recover Finnish folk-poetry informants and transmission notes

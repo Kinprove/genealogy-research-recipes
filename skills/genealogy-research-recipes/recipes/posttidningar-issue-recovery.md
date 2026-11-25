@@ -11,7 +11,7 @@ handoff: ["newspaper-finder-title-coverage", "archival-image-coverage-verificati
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 76}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 77}
 ---
 
 # Recover an early Posttidningar issue across copies

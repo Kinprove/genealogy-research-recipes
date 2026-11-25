@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing", "land-index-book-series-reco
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical record images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 103}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 104}
 ---
 
 # Trace a South Bohemian family across farm-name changes

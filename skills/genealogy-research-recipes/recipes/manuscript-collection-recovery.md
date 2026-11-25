@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images", "public auction catalogues and company histories"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 64}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 65}
 ---
 
 # Recover manuscript and archival collections that may mention an ancestor

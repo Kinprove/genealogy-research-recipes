@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "us-federal-land-entry-file-recover
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical record images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 274}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 275}
 ---
 
 # Recover Florida Spanish land grant claim evidence
