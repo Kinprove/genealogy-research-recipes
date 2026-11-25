@@ -527,6 +527,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-court-of-appeal-notice-recovery.md` — Use a published Finnish notice to identify the court and recover the corresponding court-of-appeal diary, ruling and case papers.
 - `recipes/finnish-city-census-household-recovery.md` — Check whether a Finnish city was enumerated, locate surviving household forms by city and block, and interpret gaps using the census report.
 - `recipes/finnish-farm-tenure-records.md` — Identify a Finnish holding and reconstruct title, cultivation and transfers using farm histories, tax rolls and district court minutes.
+- `recipes/finnish-prison-custody-records.md` — Trace a Finnish prisoner from a wanted notice or court sentence through custody, transfers and the receiving institution’s records.
 
 ### United States: people, vital and church records
 
