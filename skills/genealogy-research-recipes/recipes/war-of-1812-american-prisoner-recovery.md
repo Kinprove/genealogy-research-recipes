@@ -11,7 +11,7 @@ handoff: ["us-military-service-type-record-routing","piracy-and-privateering-rec
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 308}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 309}
 ---
 
 # Trace a War of 1812 American prisoner through British custody

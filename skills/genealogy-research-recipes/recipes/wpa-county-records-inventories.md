@@ -11,7 +11,7 @@ handoff: ["state-archives-county-records-guides", "published-book-catalogue-and-
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical inventories and bibliographic catalogs", "county and state archives series descriptions"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 309}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 310}
 ---
 
 # Trace county record series through WPA inventories
