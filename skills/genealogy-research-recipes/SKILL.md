@@ -595,6 +595,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-merchant-seamen-record-recovery.md` — Route a merchant seaman by port and period to protection papers, crew lists, shipping articles or records of impressment.
 - `recipes/us-postal-mail-contract-recovery.md` — Find a nineteenth-century U.S. mail contractor’s dated award and itinerary through route registers, bid notices and postal reports.
 - `recipes/us-wwi-va-master-index-benefits.md` — Decode claim, bonus, insurance and rehabilitation numbers on a World War I VA Master Index card, then route the surviving records by number and custodian.
+- `recipes/virginia-ordinary-license-and-site-recovery.md` — Use court orders, road records and fire insurance declarations to distinguish the licensee, owner and site of a historical Virginia tavern or ordinary.
 
 ### Canada, Latin America, Asia and Oceania
 
