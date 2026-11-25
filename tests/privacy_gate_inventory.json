@@ -6832,5 +6832,11 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage for the household head",
   "checkpoint": "The historical applicant’s name goes to MyHeritage as the questionnaire search query."
+ },
+ {
+  "recipe": "vietnamese-gia-pha-recovery.md",
+  "kind": "contact",
+  "action": "Ask the eldest available relative or lineage custodian",
+  "checkpoint": "The family’s ancestral branch and the request to see its genealogy go to the relative or lineage head."
  }
 ]
