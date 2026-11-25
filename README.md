@@ -496,7 +496,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [us-military-headstone-application-recovery](skills/genealogy-research-recipes/recipes/us-military-headstone-application-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [us-military-pension-file-recovery](skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [us-military-service-type-record-routing](skills/genealogy-research-recipes/recipes/us-military-service-type-record-routing.md) | record catalogues and original images | — | — | request | — | required |
-| [us-national-archives-finding-aids-and-microfilm](skills/genealogy-research-recipes/recipes/us-national-archives-finding-aids-and-microfilm.md) | source guides, catalogues and the relevant record or session | — | — | — | — | — |
+| [us-national-archives-finding-aids-and-microfilm](skills/genealogy-research-recipes/recipes/us-national-archives-finding-aids-and-microfilm.md) | source guides, catalogues and the relevant record or session | — | — | third-party-tool, request | contact | required |
 | [us-obituary-search-and-interpretation](skills/genealogy-research-recipes/recipes/us-obituary-search-and-interpretation.md) | newspaper archives, obituary indexes and original page images | — | — | third-party-tool | contact | required |
 | [us-period-law-record-reading](skills/genealogy-research-recipes/recipes/us-period-law-record-reading.md) | record catalogues and original images | — | — | — | — | — |
 | [us-postal-mail-contract-recovery](skills/genealogy-research-recipes/recipes/us-postal-mail-contract-recovery.md) | public catalogues and historical records | — | — | — | — | — |
