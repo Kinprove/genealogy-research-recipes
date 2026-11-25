@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "probate-case-document-inventory"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 227}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 228}
 ---
 
 # Follow Turku’s Dahlström cards to municipal records

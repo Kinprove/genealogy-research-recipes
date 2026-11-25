@@ -343,6 +343,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-pseudonymous-author-recovery.md` — Trace a Finnish periodical signature through published credits, the Kanto name authority and university matriculation records.
 - `recipes/posttidningar-issue-recovery.md` — Trace a missing early Posttidningar issue through title variants, archived annual directories and surviving microfilm.
 - `recipes/finnish-newspaper-reprints-and-serials.md` — Trace Finnish newspaper reprints, translations and serial instalments to recover missing details, corrections and editorial notes.
+- `recipes/swedish-illustrated-press-finland-views.md` — Find published views of Finnish places or events in Swedish illustrated periodicals and trace each view to its credited source image.
 
 ### Places and maps
 

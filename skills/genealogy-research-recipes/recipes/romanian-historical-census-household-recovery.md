@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record
 checked: null
 checked_basis: null
 capabilities: {"browse": ["catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 103}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 104}
 ---
 
 # Find a household in Romania’s 1930, 1941 or 1948 census

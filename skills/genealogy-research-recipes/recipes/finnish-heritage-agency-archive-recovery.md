@@ -11,7 +11,7 @@ handoff: ["manuscript-collection-recovery", "historical-map-record-recovery"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["Finnish Heritage Agency archive hierarchy and public item descriptions"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 199}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 200}
 ---
 
 # Find Finnish building histories and ethnographic manuscripts in Yksa

@@ -11,7 +11,7 @@ handoff: ["tax-roll-observation-workflow", "land-index-book-series-recovery", "h
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical record images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 224}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 225}
 ---
 
 # Link a historical Stockholm household to its lot and title records

@@ -11,7 +11,7 @@ handoff: ["spanish-civil-parish-record-routing", "catholic-parish-diocesan-recor
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 218}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 219}
 ---
 
 # Recover a Mérida–Badajoz cleric’s ordination files

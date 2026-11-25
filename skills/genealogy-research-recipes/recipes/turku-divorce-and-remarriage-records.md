@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "historical-place-name-resolution"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public historical catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 228}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 229}
 ---
 
 # Recover Turku divorce and remarriage records

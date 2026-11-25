@@ -11,7 +11,7 @@ handoff: ["scandinavian-patronymic-farm-name-record-recovery", "tax-roll-observa
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images", "MyHeritage Swedish household and vital-record indexes", "FamilySearch Swedish household and Stockholm church-record indexes", "Umeå University Familia parish extracts"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 179}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 180}
 ---
 
 # Reconstruct a Swedish household through parish examination and moving registers
