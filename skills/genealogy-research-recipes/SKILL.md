@@ -526,6 +526,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/translocalis-newspaper-letter-recovery.md` — Recover attributed, unsigned and reprinted Finnish newspaper letters using Translocalis signature, author and sending-locality metadata.
 - `recipes/finnish-court-of-appeal-notice-recovery.md` — Use a published Finnish notice to identify the court and recover the corresponding court-of-appeal diary, ruling and case papers.
 - `recipes/finnish-city-census-household-recovery.md` — Check whether a Finnish city was enumerated, locate surviving household forms by city and block, and interpret gaps using the census report.
+- `recipes/finnish-farm-tenure-records.md` — Identify a Finnish holding and reconstruct title, cultivation and transfers using farm histories, tax rolls and district court minutes.
 
 ### United States: people, vital and church records
 
