@@ -6592,5 +6592,101 @@
   "kind": "third-party-tool",
   "action": "Search the destination’s arrival records and next relevant census",
   "checkpoint": "to the service hosting the destination passenger index or census"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Before submitting the OMPF request to NPRC",
+  "checkpoint": "A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "search *U.S., WWII Army Deserters Pay Cards, 1943–1945*",
+  "checkpoint": "in a search of the Army deserter pay cards"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "Use FamilySearch collection 2968245 to find the card",
+  "checkpoint": "in the VA Master Index search"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "Search *US World War II Prisoners of War, 1941–1946*",
+  "checkpoint": "MyHeritage or NARA’s AAD receives the prisoner’s name"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "Search by Army serial number when you have it",
+  "checkpoint": "NARA’s AAD receives the veteran’s name or Army serial number"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "check FamilySearch collection 1861144",
+  "checkpoint": "FamilySearch or Ancestry receives the registrant’s name"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "use NARA St. Louis’s Selective Service Request Form",
+  "checkpoint": "NARA St. Louis receives the registrant’s identifying details"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "Use the state-first search from the available excerpt",
+  "checkpoint": "The selected state archive or FamilySearch receives the veteran’s name"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "use the State Archives’ copy request form",
+  "checkpoint": "The North Carolina copy request sends the veteran’s identity"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "Search *Alabama, Active Military Service Reports*",
+  "checkpoint": "MyHeritage receives the enlistee’s name"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "look up the conflict’s Defense Casualty Analysis System extract",
+  "checkpoint": "NARA’s AAD receives the service member’s name"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "use the archival request route once the file qualifies",
+  "checkpoint": "A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "Search FamilySearch collection 1968530",
+  "checkpoint": "FamilySearch receives the WWI registrant’s name"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "search AAD’s *Awards Information Management System (AIMS)*",
+  "checkpoint": "The Navy or Marine Corps award search sends the service member’s name to NARA’s AAD"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "search *Records on Korean War Dead and Wounded Army Casualties*",
+  "checkpoint": "NARA’s AAD receives the service member’s name"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "use the Home of Record city and state fields",
+  "checkpoint": "NARA’s AAD receives the service member’s name"
  }
 ]
