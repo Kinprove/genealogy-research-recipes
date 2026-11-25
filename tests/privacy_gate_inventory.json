@@ -6826,5 +6826,11 @@
   "kind": "third-party-tool",
   "action": "search by the supplier’s personal or business name",
   "checkpoint": "The Civil War supplier’s personal or business name goes to Fold3"
+ },
+ {
+  "recipe": "vienna-jewish-emigration-questionnaires.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage for the household head",
+  "checkpoint": "The historical applicant’s name goes to MyHeritage as the questionnaire search query."
  }
 ]

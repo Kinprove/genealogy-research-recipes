@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "us-obituary-search-and-interpr
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 252}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 253}
 ---
 
 # Trace a family through the 1926 Great Miami Hurricane
