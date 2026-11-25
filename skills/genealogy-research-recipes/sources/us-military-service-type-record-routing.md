@@ -14,7 +14,7 @@ Based on recorded talks (reviewed 2026-10-20). Selected claims were checked on 2
 **Synthesis and limits:** The following are authored synthesis: the classification step, the per-series eligibility table, the evidence-kind labels, the roster-status rule and the candidate-separation table. The presenters supply the examples, the eligibility statements and the record descriptions, each attributed above. The instruction to check pension and state records after an empty or incomplete CMSR search is a routing rule handed to the pension recipe (§4). It is not a measured rate of CMSR omissions. Captured transcript read 2026-11-19.
 
 - **S9:** Just Genealogy (community source), [Why You Can’t Find Your War Of 1812 Soldier In Military Records](https://www.youtube.com/watch?v=fpGPSDcIXww), published 2024-02-03; transcript excerpts read 2026-11-16 (the video page showed only the title and channel). Used for: War of 1812 CMSRs not generally online; following a Register of Enlistments entry back to its rolls; company and descriptive books; state adjutant-general and Society/Daughters of 1812 publications; Virginia men missing from the printed militia volumes; Butler's Virginia regulars. Not used, because no source opened on 2026-11-16 confirmed them: the talk's description of the Virginia volumes as a "land office" publication, its statement that they exclude federalized troops (with a Loudoun County example), its reading of "MR" and "PR" in the Register, its Thomas Balch Library payrolls, and a Tennessee compilation credited to "Eric Johnson" (the title found is Allen's, S19).
-- **S10:** National Archives, [Compiled Military Service Records](https://www.archives.gov/research/military/army/compiled-military-service-records), page last reviewed 2020-06-03; read 2026-11-16. Used for: War of 1812 carded service records (NAID 300392) not yet digitized in full; their indexes online at Ancestry and Fold3; select files free in the National Archives Catalog. Personal-papers description reread 2026-11-20. Used also for the possible presence of a paper relating to a soldier’s death.
+- **S10:** National Archives, [Compiled Military Service Records](https://www.archives.gov/research/military/army/compiled-military-service-records), page last reviewed 2020-06-03; read 2026-11-16. Used for: War of 1812 carded service records (NAID 300392) not yet digitized in full; their indexes online at Ancestry and Fold3; select files free in the National Archives Catalog. Personal-papers description reread 2026-11-20. Used also for the possible presence of a paper relating to a soldier’s death. Volunteer series and index scope reread 2026-11-22. Used also to distinguish a digitized volunteer index from the underlying file. Spanish-American War volunteer series listing read 2026-11-23. Used for the carded series title, record group and NAID 300400. The Catalog record itself did not open.
 - **S11:** Stuart L. Butler, [Genealogical Records of the War of 1812](https://www.archives.gov/publications/prologue/1991/winter/war-of-1812.html), *Prologue* 23, no. 4 (Winter 1991); article read 2026-11-16. Used for: the fifteen 1798–1815 Register volumes, what an entry can show, and the records the entries were built from; states' published rosters. Historical statements as of 1991.
 - **S12:** National Archives, [Indian Scouts, Companies, and Codetalkers](https://www.archives.gov/research/native-americans/military/scouts-enlisted-more.html), page last reviewed 2022-05-02; read on 2026-11-16. Used for: the Registers of Enlistments (M233) online at Ancestry, FamilySearch and Fold3. Limitation: the page is about enlisted Indian scouts; its availability statement concerns the registers as a series.
 - **S13:** National Archives, [Guide to Federal Records: Records of United States Army Commands, 1784–1821 (Record Group 98)](https://www.archives.gov/research/guide-fed-records/groups/098.html); guide page read 2026-11-16. Used for: company and order books of 1812–15 regular regiments. Limitation: the web guide is based on the 1995 printed *Guide to Federal Records*. Company-book holdings reread 2026-11-20. Used also to route a regular unit’s death search by regiment.
@@ -33,7 +33,7 @@ The War of 1812 additions (2026-11-16) are also authored synthesis where they te
 - **S21:** [Did MY George Long Serve in the War of 1812?](https://genealogypants.com/2025/07/09/did-my-george-long-serve-in-the-war-of-1812/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S22:** [Union County, Ohio, Veterans Burial Records](https://www.unioncountyohio.gov/Veterans-Burial-Records), opened 2026-11-16. Read the project history: burial names were crosschecked against war records and local rosters and matches entered on cards. This is a compiled identification process, not independent proof of a particular service attribution.
 - **S23:** [NARA research](https://www.pricegen.com/7512-2/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
-- **S24:** [NARA, Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners), opened 2026-11-16. Read the publication-number and partner-link columns and the National Archives Catalog Availability Status column. M0351 and M1017 rows reread 2026-11-21. The M1017 row lists partners separately from availability in the National Archives Catalog. No provider’s internal identifier search or particular image set was tested.
+- **S24:** [NARA, Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners), opened 2026-11-16. Read the publication-number and partner-link columns and the National Archives Catalog Availability Status column. M0351 and M1017 rows reread 2026-11-21. The M1017 row lists partners separately from availability in the National Archives Catalog. No provider’s internal identifier search or particular image set was tested. M0665, M0727, M0744 and M1087 rows reread 2026-11-22. Used also for the provider links for the Regular Army returns and the 1st Florida Infantry files. M1087 row reread 2026-11-23 for its provider listings and RG 94 catalog locator.
 
 - **S25:** Just Genealogy (community source), [Quakers and Military Service - JG0024](https://www.youtube.com/watch?v=bc_TJeE_GRA), published 2022-04-04 per the supplied item metadata. The original review used supplied excerpts. Used for the muster-fine example, the comparison of repeated fines across relatives, the monthly meeting membership check, and the presenter's advice to route a service clue by place. The recipe omits the family's specific identifications and meeting attribution. Captured transcript read 2026-11-19.
 - **S26:** Pennsylvania State Archives, [Revolutionary War Militia Overview](https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/revolutionary-war-militia-overview), militia system and record descriptions read 2026-11-18. Used for the distinction between fines for missing exercises and muster rolls that document active service.
@@ -97,7 +97,7 @@ The War of 1812 additions (2026-11-16) are also authored synthesis where they te
 
 - **S57:** Virginia General Assembly, [An act for regulating the militia of this Commonwealth](https://usgenwebsites.org/vagenweb/hening/vol13-16.htm), October 1792 session, ch. 1, in Hening's *Statutes at Large*, vol. 13, pp. 340–355. Officer recommendation and commissioning provisions read 2026-11-20. Used for the county recommendation and governor's commission as separate records.
 
-- **S58:** National Archives, [U.S. Navy Muster Rolls, 1798–1939](https://www.archives.gov/research/military/navy/muster-rolls). Pre-1900 Navy muster-roll series descriptions read 2026-11-20. Used for the Navy-side vessel and shore routes in RG 45 and RG 24.
+- **S58:** National Archives, [U.S. Navy Muster Rolls, 1798–1939](https://www.archives.gov/research/military/navy/muster-rolls). Pre-1900 Navy muster-roll series descriptions read 2026-11-20. Used for the Navy-side vessel and shore routes in RG 45 and RG 24. RG 45 vessel-series locator reread 2026-11-22. Used also for NAID 1813771 and the vessel-then-date arrangement.
 
 - **S59:** Colonial Williamsburg, [Public Gaol Historical Report](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR1628.xml). Colonial militia fines discussion read 2026-11-20. Used for colonial Virginia examples of fines for failure to appear at musters and for other offenses.
 
@@ -131,7 +131,7 @@ The War of 1812 additions (2026-11-16) are also authored synthesis where they te
 
 - **S74:** National Archives at Atlanta, [Military Microfilm](https://www.archives.gov/atlanta/finding-aids/microfilm/military.html). M1017 and Confederate publication listings read 2026-11-21. Used for the first six U.S. Volunteer Infantry regiments and the distinction between their U.S. volunteer files and Confederate service records.
 
-- **S75:** National Archives, [Mexican War](https://www.archives.gov/research/military/mexican-war). Service-record listings read 2026-11-21. Used for M616 as the volunteer index, the FamilySearch link, and M351 as a compiled service-record publication in RG 94.
+- **S75:** National Archives, [Mexican War](https://www.archives.gov/research/military/mexican-war). Service-record listings read 2026-11-21. Used for M616 as the volunteer index, the FamilySearch link, and M351 as a compiled service-record publication in RG 94. Mexican War service-record descriptions reread 2026-11-22. Used also for the service-type split between the volunteer index and the Regular Army Register.
 
 - **S76:** Arizona Historical Foundation, [Microfilm Collection](https://fliphtml5.com/xsqc/lbpp/TITLE:_Arizona_Historical_Foundation_Microfilm_Collection/). Catalog entries 335–337 read 2026-11-21. Used for the Mormon Battalion's three surname ranges, including H–R on roll 2. The catalog entries identify the battalion portion of the films and do not establish Captain Davis's Company A placement.
 
@@ -163,6 +163,182 @@ The War of 1812 additions (2026-11-16) are also authored synthesis where they te
 
 - **S90:** FamilySearch, [United States, Mexican War Index and Service Records, 1846–1848](https://www.familysearch.org/el/search/collection/1987567). Collection scope read 2026-11-21. The description identifies the M616 name index separately from compiled records present in the collection, including M351. Individual name searches were not tested.
 
+- **S91:** Just Genealogy (community source), [Henry Foot and George Payne and the Register of Enlistments for the Genealogist - JG0105](https://www.youtube.com/watch?v=qFYsVVs2uzo), published 2022-06-21. Supplied transcript excerpts read 2026-11-22. Used for the returns and enlistment-paper leads. NARA distinguishes the enlistment papers in entry 91 from the separate Personal Papers. The specific film roll number was not independently confirmed. Additional supplied transcript excerpts read 2026-11-23. The presenter follows a row to its recruiting return remark and compares same-name entries for possible reenlistment. The roll list corrects the start year and shows the overlap in 1821. The video page did not open, and the presenter's individual service identifications were not verified.
+
+- **S92:** National Archives, [An Overview of Records at the National Archives Relating to Military Service](https://www.archives.gov/publications/prologue/2002/fall/military-records-overview.html). Army, Navy and Marine Corps sources sections read 2026-11-22. Used for the volunteer card abstracts, separate Navy and Regular Army series, the Regular Army enlistment papers, monthly regimental returns and Callahan.
+
+- **S93:** Just Genealogy (community source), [The Spanish American War - JG0066](https://www.youtube.com/watch?v=tNXymzgUPcQ), published 2022-05-13. Supplied transcript excerpts read 2026-11-22. Used for the Philippine service guide, Texas crosswalk, Ainsworth List, Callahan and the War with Spain index-to-file search. The institutional sources settle the branch and series details. Additional supplied transcript excerpt read 2026-11-23. Used for the index as a lead to the file to retrieve from NARA. The video page did not open.
+
+- **S94:** FamilySearch, [List of the Adjutant General's Office for carded records of military organizations](https://www.familysearch.org/en/search/catalog/539623). Catalog title, organization notes and film list read 2026-11-22. Used for T817 and routing by military organization. This is a catalog description, not a survey of individual rolls.
+
+- **S95:** FamilySearch, [Arkansas, Civil War Service Records of Confederate Soldiers, 1861–1865](https://www.familysearch.org/ms/search/collection/1932365). Ainsworth List explanation read 2026-11-22. Used for the unit arrangement and purpose of identifying records abstracted into service files.
+
+- **S96:** Family Tree Magazine (community source), [Preview: America 250](https://familytreemagazine.com/blog/news/preview-america-250/), published 2026-04-24. Relevant article text read 2026-11-22. Read the contributor's recommendation to use the volume indexes for Revolutionary naval family names. The editorial project confirms access to the published volumes.
+
+- **S97:** Naval Documents of the American Revolution, editorial project, [Resources](https://www.navydocs.org/resources). Published-volumes section read 2026-11-22. Used for the searchable PDFs and the thirteen-volume scope. This page links to the Navy's publication list.
+
+- **S98:** Just Genealogy (community source), [New titles from Heritage Books - Book Sunday #7 - JG0068](https://www.youtube.com/watch?v=fhI1cAjoOmc), published 2022-05-15. Supplied transcript excerpts read 2026-11-22. Used for the distinct Library of Congress naval compilation. The digitized edition provides the separate index.
+
+- **S99:** Library of Congress Manuscript Division, compiled by Charles Henry Lincoln, [Naval Records of the American Revolution, 1775–1788](https://books.google.com/books/about/Naval_Records_of_the_American_Revolution.html?id=HPKIK5i541sC). Digitized edition description and index link read 2026-11-22. Used for the printed index and for the distinction from the later Naval Documents series. Individual indexed entries were not inspected.
+
+- **S100:** Just Genealogy (community source), [USS Constitution: How to find the sailors in Navy records - JG0054](https://www.youtube.com/watch?v=oI1Jkr8OrHs), published 2022-05-02. Supplied transcript excerpts read 2026-11-22. Used for the muster and pay roll search and the ship chronology lead. The museum's crew discussion and NARA's vessel series establish the 1798 starting point.
+
+- **S101:** USS Constitution Museum, [Meet the First Crew of USS Constitution](https://ussconstitutionmuseum.org/2026/08/18/uss-constitutions-first-crew/). First cruise and crew-source discussion read 2026-11-22. Used for the earliest actual crew dates and as a check against treating launch as the start of sea service.
+
+- **S102:** Edward W. Callahan, [List of Officers of the Navy of the United States and of the Marine Corps, from 1775 to 1900](https://books.google.com/books?id=2ngtAAAAYAAJ). Title, publication details and preview contents read 2026-11-22. Used for the branch, officer and date scope. Full entries were not sampled in this preview.
+
+- **S103:** National Archives, [Civil War and Later Navy Personnel Records at the National Archives, 1861–1924](https://www.archives.gov/publications/prologue/1995/summer/navy-records-1861-1924.html). Officer and enlisted Navy research examples read 2026-11-22. Used for Callahan and for the sequence from T1099 to enlistment records and the ship's rolls.
+
+- **S104:** Just Genealogy (community source), [Civil War Conscription - JG0058](https://www.youtube.com/watch?v=s6iaLGp2a8g), published 2022-05-05. Supplied transcript excerpts read 2026-11-22. Used for the volunteer coverage limit and the Civil War Navy enlistment route. The FamilySearch description supplies digital access to M1953, which the presenter had not confirmed.
+
+- **S105:** National Archives, [Civil War Records: Basic Research Sources](https://www.archives.gov/research/military/civil-war/resources). Muster rolls, record of events and branch-coverage sections read 2026-11-22. Used for the Civil War volunteer coverage and for distinguishing an individual's presence on a muster date from presence at an intervening engagement.
+
+- **S106:** FamilySearch, [United States, Naval Enlistment Rendezvous, 1855–1891](https://www.familysearch.org/en/search/collection/1825347). Collection and related-index descriptions read 2026-11-22. Used for digitized M1953 records and the separate Civil War index T1099.
+
+- **S107:** Family Tree Magazine (community source), [6 Steps for Breaking Down Genealogy Brick Walls](https://familytreemagazine.com/strategies/genealogy-brick-walls/), published 2026-07-30. Relevant article text read 2026-11-22. Read the Pennsylvania case and the leads to the state muster rolls and published regimental history. The archives' finding aids establish their separate roles.
+
+- **S108:** Pennsylvania State Archives, [Civil War Records](https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/civil-war-records). Regimental-record description and RG 19 table read 2026-11-22. Used for the card file's link to Bates, the separate roll series arranged by regiment and company, and the Pennsylvania-unit scope.
+
+- **S109:** Pennsylvania State Archives, [RG 19, Records of the Department of Military and Veterans Affairs](https://www.phmc.state.pa.us/bah/aaGuide/AA-RG-19.html). Civil War muster-roll and veterans-card entries read 2026-11-22. Used for the series numbers and finding sequence.
+
+- **S110:** Family Tree Magazine (community source), [The Mexican Cession: A Genealogist’s Guide (with Map)](https://familytreemagazine.com/history/mexican-cession/), published 2026-02-18. Relevant article text read 2026-11-22. Read the military-records passage for the Federation volunteer database and the CMSR recommendation. The archive's service guide limits the compiled-file route to volunteers.
+
+- **S111:** National Park Service, Palo Alto Battlefield National Historical Park, [US Mexican War Soldiers & Sailors Database](https://www.nps.gov/paal/learn/historyculture/search-usmexwar.htm). Database description read 2026-11-22. Used for the soldier and sailor search and the Federation of Genealogical Societies partnership. Individual matches were not examined.
+
+- **S112:** MyHeritage (community source), [MyHeritage Adds 55 Million Historical Records in January 2024](https://blog.myheritage.com/2024/02/myheritage-adds-55-million-historical-records-in-january-2024/), published 2024-02-01. Relevant article text read 2026-11-22. Read the collection description and the example showing a date before the war. Used for the dated-event check, with the example and the index treated as leads.
+
+- **S113:** MyHeritage, [United States, Mexican-American War Soldiers and Sailors](https://www.myheritage.com/research/collection-20765/united-states-mexican-american-war-soldiers-sailors). Collection description and search page read 2026-11-22. Used for the index scope and fields. Individual records were not checked.
+
+- **S114:** Just Genealogy (community source), [Captain Enoch Osborn, Virginia Militia  A Genealogical Case Study - JG0078](https://www.youtube.com/watch?v=1CIK-IjluP0), published 2022-05-25. Supplied transcript excerpts read 2026-11-22. Used for the pre-Revolutionary Virginia source and Dunmore claims leads. The individual identification and scout-pay durations were not used.
+
+- **S115:** Just Genealogy (community source), [A South Carolina Revolutionary War Bookshelf for the Genealogist  - JG0223](https://www.youtube.com/watch?v=G0w6IwELMbo), published 2022-10-19. Supplied transcript excerpts read 2026-11-22. Used for the Continental lineages and the colonial and Revolutionary South Carolina reference works. Publisher and catalog descriptions establish their scope. Additional supplied transcript excerpt read 2026-11-23. The presenter points to Moss's battle-specific works and mentions the Moores Creek book. The video page did not open. The publisher's list identifies the two rosters.
+
+- **S116:** Just Genealogy (community source), [A Revolutionary War Soldier - John S. Head - A Step by Step Genealogy Case Study - JG0255](https://www.youtube.com/watch?v=qAJ-CnBltTE), published 2022-11-22. Supplied transcript excerpts read 2026-11-22. Used for the prior colonial service lookup, South Carolina reference works, pension and roll comparison, individual furlough status and indent lookup. The case details are not necessary to perform the searches.
+
+- **S117:** Just Genealogy (community source), [The Colonial Virginia Books You Should Have in Your Library](https://www.youtube.com/watch?v=X5GKZ0CrWBg), published 2024-04-09. Supplied transcript excerpts read 2026-11-22. Used for the independent search for military service in colonial Virginia before the Revolution. The video's claims about print availability and broader New York coverage were not used.
+
+- **S118:** Lloyd DeWitt Bockstruck, [Virginia's Colonial Soldiers](https://books.google.com/books?id=ggd5AAAAMAAJ). Bibliographic description and contents read 2026-11-22. Used for the colonial Virginia scope and types of military and county records compiled.
+
+- **S119:** Just Genealogy (community source), [Lord Dunmore's War   JG0062](https://www.youtube.com/watch?v=A-HwIBdRISk), published 2022-05-09. Supplied transcript excerpts read 2026-11-22. Used for the 1774 service classification, company-attachment search, Shelby letter and documentary compilations. The letter was opened separately in transcription.
+
+- **S120:** Heritage Books, [Lord Dunmore's Little War of 1774: His Captains and Their Men Who Opened Up Kentucky and the West to American Settlement](https://heritagebooks.com/products/101-s2396). Publisher's scope description read 2026-11-22. Used for the separate names and leads for rangers, participating militia and people who furnished goods or services.
+
+- **S121:** Library of Virginia, [Dunmore's War Payroll and Service Claims](https://lva-virginia.libguides.com/dunmores-war/home). Claims, index scope and related resources read 2026-11-22. Used for the partially indexed ledger, the distinction between services and goods, and the complementary vouchers and payrolls on reel 78.
+
+- **S122:** West Virginia Archives and History, [Dunmore's War: Primary Documents](https://archive.wvculture.org/History/dunmore/index.html). Primary-document list and edition credit read 2026-11-22. Used for the Thwaites and Kellogg documentary edition and the dated sources it publishes.
+
+- **S123:** Just Genealogy (community source), [French and Indian War for the Genealogist - JG0088](https://www.youtube.com/watch?v=GtFz2mUSa4c), published 2022-06-04. Supplied transcript excerpts read 2026-11-22. Used for the Pennsylvania provincial records and colonial Virginia compilation leads. The cited archives guide identifies the Pennsylvania series and coverage.
+
+- **S124:** Pennsylvania State Archives, [French and Indian War Records](https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/french-and-indian-war-records). Provincial regiment and published-roll descriptions read 2026-11-22. Used for RG 4, the Fifth Series volume and roll, and the limitations of the surviving sources.
+
+- **S125:** Thomas Lynch Montgomery, editor, [Pennsylvania Archives, Fifth Series, volume 1](https://openlibrary.org/books/OL23325001M/Pennsylvania_archives). Volume contents and publication information read 2026-11-22. Used for the officers-and-soldiers section title and its 1744–1765 scope.
+
+- **S126:** Just Genealogy (community source), [A Maryland Revolutionary War Genealogical Library -  JG0083](https://www.youtube.com/watch?v=jDhEQSriruo), published 2022-05-30. Supplied transcript excerpts read 2026-11-22. Used for volume 18 and the statewide militia compilation. The Maryland State Archives confirms the two sources and the archive-level indexes.
+
+- **S127:** Maryland State Archives, [Military Records](https://guide.msa.maryland.gov/pages/viewer.aspx?page=military). Revolutionary War bibliography and online-index descriptions read 2026-11-22. Used for the Maryland militia reference and for the name and officer approaches to Maryland archive indexes.
+
+- **S128:** Maryland State Archives, [Archives of Maryland, volume 18: Muster Rolls and Other Records of Service of Maryland Troops in the American Revolution](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000018/html/index.html). Volume description and finding links read 2026-11-22. Used for the compiled volume, its index and the warning about incomplete coverage.
+
+- **S129:** Genealogical Publishing Company, [South Carolina Provincial Troops](https://genealogical.com/product/south-carolina-provincial-troops/). Publisher's scope description read 2026-11-22. Used for 1775 provincial regiments and the included muster rolls, pay rolls and returns.
+
+- **S130:** Genealogical Publishing Company, [Records of the Regiments of the South Carolina Line in the Revolutionary War](https://genealogical.com/product/records-of-the-regiments-of-the-south-carolina-line-in-the-revolutionary-war/). Publisher's scope and arrangement read 2026-11-22. Used for Alexander S. Salley's Line compilation and the distinction between the printed records and complete service coverage.
+
+- **S131:** Richland Library, [Roster of South Carolina Patriots in the American Revolution](https://www.richlandlibrary.com/catalog/detail/64768). Roster description read 2026-11-22. Used for Bobby Gilmer Moss's source types and the name, unit, officer and dated service leads.
+
+- **S132:** National Archives, [Researching Service in the U.S. Army During the Philippine Insurrection](https://www.archives.gov/publications/prologue/2000/summer/philippine-insurrection.html). Volunteer and Regular Army officers sections read 2026-11-22. Used for M872 and the M871 fallback for service extending from the War with Spain, and for volume 1 of Heitman's register.
+
+- **S133:** MyHeritage (community source), [MyHeritage Publishes 30 New Historical Record Collections and 31 Million Records in September 2022](https://blog.myheritage.com/2022/10/myheritage-publishes-30-new-historical-record-collections-and-31-million-records-in-september-2022/), published 2022-10-21. Relevant article text read 2026-11-22. Read the provider announcement's two volunteer collection descriptions. Linked collection descriptions were checked separately. The announcement's use of images does not establish coverage of full compiled files.
+
+- **S134:** MyHeritage, [United States, War of 1812, Soldiers who Served in Volunteer Organizations](https://www.myheritage.com/research/collection-20209/united-states-war-of-1812-soldiers-who-served-in-volunteer). Collection description and search page read 2026-11-22. Used for the name, regiment and rank fields of the volunteer collection. Individual image coverage was not checked.
+
+- **S135:** MyHeritage, [United States, Spanish-American War, Soldiers who Served in Volunteer Organizations](https://www.myheritage.com/research/collection-20213/united-states-spanish-american-war-soldiers-who-served-in-volunteer). Collection description and search page read 2026-11-22. Used for the name, regiment and rank fields of the volunteer collection. Individual image coverage was not checked.
+
+- **S136:** Just Genealogy (community source), [New Genealogy Books -  Book Sunday  - JG0268](https://www.youtube.com/watch?v=ib5XO0C6-FA), published 2022-12-04. Supplied transcript excerpts read 2026-11-22. Used for the cross-branch Lake Erie roster and the alternative Army and militia searches. No headcount from the excerpt was used.
+
+- **S137:** Society of the War of 1812 in the State of Ohio, [The Lake Erie Ledger, April 2023](https://ohiosociety1812.wordpress.com/wp-content/uploads/2023/04/lake-erie-ledger_april_2023.pdf). Front-page article on Eric E. Johnson's Lake Erie Squadron book read 2026-11-22. Used for the reconstruction from military rolls and the inclusion of Army, militia, Navy and Marine personnel. The book was not inspected.
+
+- **S138:** Just Genealogy (community source), [New Books at Heritage Books -11 June 2023 - JG0310](https://www.youtube.com/watch?v=CkNyTf_siag), published 2023-06-11. Supplied transcript excerpts read 2026-11-22. Used for selecting the expanded compilation covering both Regular Army and militia. The publisher confirms its scope.
+
+- **S139:** Just Genealogy (community source), [New Books from Heritage Books -  Book Sunday #21  - JG0166](https://www.youtube.com/watch?v=qWAVSotEnJ4), published 2022-08-21. Supplied transcript excerpts read 2026-11-22. Used for distinguishing Tennessee Regular Army enlistees from militia in the published reference.
+
+- **S140:** Heritage Books, [Tennessee Regulars in the War of 1812](https://heritagebooks.com/products/101-j2567). Publisher's scope description read 2026-11-22. Used for Eric E. Johnson's Regular Army coverage and the distinction from Tennessee militia.
+
+- **S141:** Heritage Books, [Black Regulars and Militiamen in the War of 1812](https://heritagebooks.com/products/101-j5772). Edition and scope description read 2026-11-22. Used for the expanded edition covering both service types.
+
+- **S142:** National Archives, [Sailors, Soldiers, and Marines of the Spanish-American War](https://www.archives.gov/publications/prologue/1998/spring/spanish-american-war?template=print). State and U.S. volunteer sections read 2026-11-22. Used for M871, the arrangement of volunteer jackets and the kinds of card abstracts. The article does not establish present-day availability. State and U.S. volunteer sections reread 2026-11-23 for the index and the record-group placement of the jackets.
+
+- **S143:** Ancestry, [Florida, U.S., Spanish American War Compiled Service Records, 1898](https://www.ancestry.com/search/collections/2135). Collection scope and microfilm citation read 2026-11-22. Used for the 1st Florida Infantry and M1087. Individual record images were not examined. Collection scope and microfilm citation reread 2026-11-23.
+
+- **S144:** Just Genealogy (community source), [Genealogy Standards - Standards for Researching - Standard 13 – Source-Based Content - JG0284](https://www.youtube.com/watch?v=-cdOEM428NU), published 2023-03-04. Supplied transcript excerpts read 2026-11-22. Used for distinguishing a filmed card abstract from a filmed roll and following the card to its underlying roll where it survives.
+
+- **S145:** Just Genealogy (community source), [Genealogy Book Sunday #16 - Virginia Revolutionary War and Irish American genealogy - JG0138](https://www.youtube.com/watch?v=IQyqcKBlFHs), published 2022-07-24. Supplied transcript excerpts read 2026-11-22. Used for following the Continental soldier's unit from the compiled record to the separately imaged rolls.
+
+- **S146:** MyHeritage (community source), [How to Conduct a Military Records Search](https://blog.myheritage.com/2025/04/how-to-conduct-a-military-records-search/), published 2025-04-19. Supplied article excerpt read 2026-11-22. Read the supplied passage for card abstractions from several record types and the possibility of multiple enlistments. The archive's overview documents the record structure. The original post URL redirected to a consolidated guide.
+
+- **S147:** National Archives, [Revolutionary War Rolls, 1775–1783](https://www.fold3.com/pdf/M246.pdf). M246 descriptive pamphlet, introduction and arrangement read 2026-11-22. Used for the company rolls, rank order, date headings, absence remarks and the series arrangement.
+
+- **S148:** FamilySearch, [United States, Revolutionary War Rolls, 1775–1783](https://www.familysearch.org/en/search/collection/2068326). Collection description and M246 arrangement read 2026-11-22. Used for browsing by service type, unit and jacket and for the distinction between the rolls and the compiled-service index.
+
+- **S149:** National Archives, [The American Revolution](https://www.archives.gov/research/military/american-revolution). Revolutionary War microfilm and provider listings read 2026-11-22. Used for the separate M246 and M881 publications and original-roll and carded-service lookup routes.
+
+- **S150:** MyHeritage (community source), [5 Different Military Record Types: Uncover Your Ancestry](https://blog.myheritage.com/2025/01/different-military-record-types-uncover-your-ancestry/), published 2025-01-14. Supplied article excerpt read 2026-11-22. Read the supplied passage for the structure and status columns of a Revolutionary War muster roll. The archive's pamphlet describes differences among rolls. The original post URL redirected to a consolidated guide.
+
+- **S151:** Just Genealogy (community source), [The Life of Thomas Boyne - A Lifetime of Genealogical Records - JG0250](https://www.youtube.com/watch?v=hwbtgNR86dE), published 2022-11-16. Supplied transcript excerpts read 2026-11-22. Used for reading company activity separately from individual entries. The asserted restrictions on the two sets of original rolls were not verified.
+
+- **S152:** National Archives, [Carded Records Showing Military Service of Soldiers Who Served in Volunteer Units, 1775–1902](https://www.archives.gov/files/research/military/army/troop-movements-1775-1902.pdf). Troop movements and record-of-events description read 2026-11-22. Used for classifying the unit movement card as a unit record and selecting the unit roll to check individual presence.
+
+- **S153:** South Carolina Department of Archives and History, [Sources for Researching the American Revolution in South Carolina](https://scdah.sc.gov/news/2019-08/sources-researching-american-revolution-south-carolina). Audited accounts and indent-stub sections read 2026-11-22. Used for S108092 and S218110, the use of indent numbers, and separating military pay from supplies and other claims.
+
+- **S154:** Just Genealogy (community source), [Genealogy Book Sunday #8  - JG0075](https://www.youtube.com/watch?v=56C0fPerl94), published 2022-05-22. Supplied transcript excerpts read 2026-11-22. Used for the Virginia organization guide, named units, aliases and the company-level county lead. The available catalog descriptions do not expose all chapter text.
+
+- **S155:** Library of Virginia, [Virginia Revolutionary War Service Records](https://lva-virginia.libguides.com/revolutionary-war/home). Service-record guidance and bibliography read 2026-11-22. Used for the Sanchez-Saavedra and Eckenrode references and the scope of the Virginia records.
+
+- **S156:** E. M. Sanchez-Saavedra, [A Guide to Virginia Military Organizations in the American Revolution, 1774–1787](https://books.google.com/books?id=aXoBAAAAMAAJ). Title and visible contents read 2026-11-22. Used for the work's organization and section headings. The preview did not expose the complete text.
+
+- **S157:** Prince William County Office of Historic Preservation, [Annotated Bibliography, Prince William County Revolutionary War Roster](https://www.pwcva.gov/assets/2024-08/Annotated_Bibliography_2024.pdf). Virginia military organizations guide and size-roll descriptions read 2026-11-22. Used for researching the unit associated with a named person and consulting original rolls to test identification.
+
+- **S158:** Just Genealogy (community source), [Virginia Militia in the War of 1812  - David Stover -  JG0208](https://www.youtube.com/watch?v=NeSjTZJrfF0), published 2022-10-03. Supplied transcript excerpts read 2026-11-22. Used for the regimental commander, troop roster and the captain-to-county sequence. The exact index labels and pagination were not independently inspected.
+
+- **S159:** Society of the War of 1812 in Virginia, [The Virginia War Cry, fall 2017](https://1812va.org/wp-content/uploads/2017/12/1812VA-Fall-2017-Newsletter.pdf). Notice describing Butler's book and its troop roster read 2026-11-22. Used for the existence of the brigade roster. The notice does not show the separate indexes or their completeness.
+
+- **S160:** West Virginia Archives and History, [Isaac Shelby to John Shelby, 16 October 1774](https://archive.wvculture.org/History/dunmore/ppshelby.html). Letter transcription read 2026-11-22. Used for the initial divisions and the companies that subsequently reinforced them. The manuscript was not inspected.
+
+- **S161:** National Society Sons of the American Revolution, [Proving Service at the Battle of Point Pleasant](https://www.sar.org/wp-content/uploads/2019/10/Proving-Point-Pleasant-Service.pdf). Record-evidence discussion and company appendix read 2026-11-22. Used for the distinct individual evidence and the lookup by captain, county and command. Its membership policy is not used here.
+
+- **S162:** Texas Military Forces Museum, [141st Infantry Regiment History to 1940](https://texasmilitaryforcesmuseum.org/1940/141.htm). First and Second Infantry Texas Volunteer Guard passages read 2026-11-22. Used for the exact company redesignations, including the Calvert City Guards.
+
+- **S163:** Robert K. Wright Jr., U.S. Army Center of Military History, [The Continental Army](https://history.army.mil/portals/143/Images/Publications/catalog/60-4-1.pdf). Lineages section and Georgia entries read 2026-11-22. Used for the unit organization and recruiting locators and the dated Georgia regiment names.
+
+- **S164:** Just Genealogy (community source), [The Georgia Land Lottery for Genealogists  - JG0225](https://www.youtube.com/watch?v=CwAWM4W5Gn0), published 2022-10-21. Supplied transcript excerpts read 2026-11-22. Used for the cross-state Georgia recruiting lead. The Army's unit lineages supply the checked regiment names and principal recruiting areas.
+
+- **S165:** Just Genealogy (community source), [Captain Zackquill Morgan, deceased of the 12th US Infantry - JG0008](https://www.youtube.com/watch?v=FhmgH5cQWwY), published 2022-03-19. Supplied transcript excerpts read 2026-11-22. Used for the appointment sequence and the earlier unit as a lead for a later entry without a unit. The individual's identity and ultimate unit are not inferred here.
+
+- **S166:** Francis B. Heitman, [Historical Register and Dictionary of the United States Army, volume 1](https://www.suvcwmo.org/uploads/3/0/9/6/30960503/heitmans_historical_register_and_dictionary_of_the_army_until_1903.pdf). Volume 1 title and officer register read 2026-11-22. Used for the appointment and rank sequence in the officer entries.
+
+- **S167:** Just Genealogy (community source), [Union Civil War Medical Records #2   - JG0038](https://www.youtube.com/watch?v=U9sPhj4q78k), published 2022-04-18. Supplied transcript excerpt read 2026-11-23. The presenter points to carded medical records for the Mexican War. The video page did not open. The National Archives guide supplies the separate series and their arrangement.
+
+- **S168:** National Archives, [Carded Medical Records for Soldiers in the U.S. Army, 1821–1912](https://www.archives.gov/research/military/army/carded-medical-records). Regular Army and volunteer series descriptions read 2026-11-23. Used for the two Mexican War series in RG 94, their filing order, the commissioned-officer exception and the treatment details to capture.
+
+- **S169:** MyHeritage (community source), [MyHeritage Adds 20 Historical Record Collections in April 2023](https://blog.myheritage.com/2023/05/myheritage-adds-20-historical-record-collections-in-april-2023/), published 2023-05-16. Missouri collection description and sample discussion read 2026-11-23. Used for the index lead and the example of a card with service dates, organization and a discharge note. The example supplies no coverage rule for those fields.
+
+- **S170:** Missouri State Archives, [Soldier's Records: War of 1812 - World War I](https://s1.sos.mo.gov/Records/Archives/ArchivesMvc/Soldiers). Database description and search form read 2026-11-23. Used for the name, unit and conflict search, service-card links and the fields to compare. Individual searches were not tested.
+
+- **S171:** Missouri State Archives, [Soldiers' Records: War of 1812 - World War I, Guidelines for Use](https://www.sos.mo.gov/archives/soldiers/guidelines). Scope and service-card description read 2026-11-23. Used for entry into service from the territory or state of Missouri as the inclusion rule and for the origin of the cards in muster rolls and other military records.
+
+- **S172:** MyHeritage, [Missouri Soldiers, War of 1812 to World War I](https://www.myheritage.com/research/collection-20406/missouri-soldiers-war-of-1812-to-world-war-i). Collection description and search page read 2026-11-23. Used for the alternate index. Access to individual images was not tested.
+
+- **S173:** Scotia-Hibernia Books, [Patriot & Loyalist Rosters & Annotated Journals for Carolina Revolutionary War Battles](https://losthistory.net/battleofcamden/johnson.pdf). Publisher's descriptions of both Moores Creek Bridge rosters read 2026-11-23. Used for the separate Patriot and Loyalist volumes, their titles and the leads to the sources cited for each individual. The rosters themselves were not inspected.
+
+- **S174:** National Archives, [Registers of Enlistments in the United States Army, 1798–1914](https://www.archives.gov/files/research/microfilm/m233.pdf). M233 roll list read 2026-11-23. Used for the 1798 start, the surname ranges in the early groups and the overlapping date ranges around 1815 and 1821.
+
+- **S175:** Claire Prechtel-Kluskens and Jo Ann Williamson, [U.S. Regular Army Registers of Enlistment and enlistment papers, 1798–1914](https://twelvekey.com/wp-content/uploads/2014/10/ngsmagazine2009-10.pdf), *NGS Magazine* 35, no. 4 (October–December 2009), pp. 40–44. Register spread and named research examples read 2026-11-23. Used for the two-page layout, the arrangement and the comparison between register entries and enlistment papers. The authors trace Frank Acocks from the 22nd Infantry to the 1st Cavalry across two enlistments, giving separate M233 roll and page references.
+
+- **S176:** MyHeritage (community source), [How to Find Military Records for Various Family Members](https://blog.myheritage.com/2024/12/how-to-find-military-records-for-various-family-members/), published 2024-12-05. Supplied article excerpt read 2026-11-23. Used for the Form 86 lead. The post URL redirected to a consolidated guide. The original broad pre-1917 statement was narrowed to the eligibility in NARA's instructions.
+
+- **S177:** National Archives, [NATF Form 86, Order for Copies of Military Service Records](https://www.archives.gov/forms/pdf/natf-86.pdf). Form and eligible record types read 2026-11-23. Used for the organizational split, Army officer and enlisted dates, federal volunteer and Confederate coverage, Navy and Marine Corps exclusion, and the information required from the requester.
+
+- **S178:** National Archives, [Access to Military Service and Pension Records](https://www.archives.gov/research/order/research/order/order-vets-records). Washington holdings and ordering guidance read 2026-11-23. Used for the active Form 86 ordering route and the separate pension and bounty-land request route.
+
 ## Credits
 
 - Denyse Allen with Aaron McWilliams, All About PA Military Records (YouTube, 2024-07-25), describing the card marking — Source rights reserved (YouTube Standard License); minimal quotation of a record label for identification (quoted)
@@ -174,3 +350,5 @@ The War of 1812 additions (2026-11-16) are also authored synthesis where they te
 - Kinprove original procedural synthesis of the Just Genealogy excerpts and independent sources cited as S25–S29, paraphrased in Kinprove's own wording — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis of the community sources and independent records and finding aids cited as S34–S63 — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis of the community sources and corroborating references cited as S64–S90 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis of the community references, archive guides and historical records cited as S91–S166 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis of the community references, enlistment-register examples and archival finding aids used for the additional service-record lookups — FSL-1.1-MIT (kinprove-original)
