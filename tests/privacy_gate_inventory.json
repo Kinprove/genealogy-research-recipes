@@ -6748,5 +6748,11 @@
   "kind": "request",
   "action": "request the minimum relevant file",
   "checkpoint": "A maintenance or paternity file request can disclose"
+ },
+ {
+  "recipe": "us-military-service-type-record-routing.md",
+  "kind": "request",
+  "action": "Order an older Army service record",
+  "checkpoint": "The order sends the soldier's identifying service details"
  }
 ]
