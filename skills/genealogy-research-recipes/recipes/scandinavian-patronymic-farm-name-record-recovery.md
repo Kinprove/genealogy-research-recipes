@@ -64,6 +64,8 @@ Create one row for each form you expect or observe. Record the literal form, the
 
 In Swedish household examination books, compare surname forms across generations before using a child's surname stem as a clue to the father's given name [S39], [S40]. A *-son* form that stays the same as the fathers' given names change points to a fixed surname [S40]. When the records support a patronymic, use the stem as a search lead and verify the father in the child's baptism entry.
 
+If the place evidence leads to Finland, choose the search key by region. In rural western Finland, treat a repeated farm name as a residence lead and verify the sequence of occupants before linking them [S52], [S53]. In sixteenth-century eastern Finnish tax lists, carry a possible hereditary surname across changes of farm site and test the link against the dated household entries [S52], [S54].
+
 In your tree, enter the name exactly as it appears in the christening (the first record) as the primary form. Log every farm, soldier or American name as an alternate with its source [S6].
 
 ## Follow a Swedish soldier name beyond the muster index
@@ -91,6 +93,10 @@ First search the departure registers kept in the home country:
 - Sweden: search the port lists, *Emigranter 1861–1940* and the moving-out registers described in [Swedish household reconstruction](scandinavian-parish-record-recovery.md#before-1869-look-for-emigrants-in-the-moving-out-registers). Emiweb's *Emigranter i svenska kyrkböcker* (formerly Emibas) indexes emigrants from parish registers. It was compiled systematically only for about 1836–1895, and not for Uppsala, Norrbotten or Stockholm counties. It is a subscription database. [S25 @2026-11-13], [S26 @2026-11-13]
 
 Record the register, years and index you searched. A miss is bounded by them.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The Swedish emigrant’s surname or surname stem goes to Ancestry.
+
+For a possible Gothenburg departure, search Ancestry’s passenger lists by the patronymic in **Last Name** [S44 @2026-11-22], [S46 @2026-11-22]. Try `Jans*` for *Jansson* and run `Jansd*` or the full *Jansdotter* separately. The six letters of *dotter* exceed Ancestry’s five-character limit for one asterisk [S45 @2026-11-22].
 
 If you cannot find the emigrant on a passenger list:
 
@@ -131,6 +137,28 @@ A candidate matches only when several of these discriminators agree. Leave any c
 - Police emigrant protocols start at different dates in each port. Oslo's begin in 1867. [S14] For any other port, read its start date on Digitalarkivet. For a departure before that range, search the home parish's church book for a moving-out note.
 - Treat a link in Historisk befolkningsregister (histreg.no) as a derived hypothesis. Check it against the scanned record.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The Norwegian candidate’s name and any residence used to narrow the census search go to MyHeritage.
+
+If the Norwegian candidate could have been enumerated in 1910, search MyHeritage’s *1910 Norway Census* by name and narrow by residence if known [S57 @2026-11-23].
+
+When the 1900 return gives only a birth year, check the 1910 return for a full birth date. The 1900 form asked for a day and month for children under two, while the 1910 form asked for a full date for everyone [S56], [S58], [S59]. Use the reported date, if present, and birthplace to locate the birth or baptism entry in the home parish. Compare its birth date and parents with the candidate’s other records before linking them [S55], [S60].
+
+If the 1910 index omits an occupation needed to distinguish candidates, read column 9a on the original household schedule (*husliste*) [S56], [S58]. Record unemployment only from an explicit entry in column 9b [S58], [S61].
+
+Use 1 December 1910 as the reference date for a person’s residence or absence. The census work continued on later days, so record the completion date separately when the schedule gives one [S56], [S58]. Read the residence status with the address. An *f* (*fråverande*, temporarily absent) entry gives the usual residence [S56], [S58]. Check the separate field for the presumed whereabouts and look for a corresponding *mt* (temporarily present) entry there when a place is given [S58].
+
+For a possible return from America, read the 1910 supplement for returned Norwegian Americans (*heimvende norskamerikanarar*). Copy the years of emigration and return, the Norwegian residence before departure and the last American residence. Check the earlier Norwegian address against the 1900 return when the candidate could have been enumerated there [S56], [S58].
+
+When a sailor is missing, check the ship’s whereabouts on 1 December 1910. The separate crew schedules covered only Norwegian ports and waters, and those schedules are lost. Use the seamen’s rolls for the relevant enrolment district to check the vessel and the sailor’s service instead [S56], [S58], [S62].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The Norwegian emigrant’s name and approximate departure year go to MyHeritage.
+
+For another index to the police protocols, search MyHeritage’s *Norway, Emigration Registers, 1867–1959* by name and departure year [S48 @2026-11-22]. Read the original port protocol image and copy the recorded date or year and the last residence. Keep residence and birthplace separate, and record any birth date, marital status, declared destination, ship or shipping line [S47 @2026-11-22], [S48 @2026-11-22]. Use passenger or arrival records to verify that the recorded travel plan took place [S48 @2026-11-22], [S49 @2026-11-22].
+
+The Oslo police protocols are arranged by contract date [S49]. To test whether adjacent entries travelled together, compare each person’s named ship or line, intended departure date and destination [S63], [S64]. Use the separately labelled departure date to start the passenger-list search. If the protocol gives only the contract date, check the next sailings first and widen the search if needed [S63], [S64].
+
+Trace the ship named in the protocol from the Norwegian port to its first destination. For a transatlantic crossing via a transfer, identify the onward port and vessel and check its passenger or arrival list under the traveller’s own name forms [S49], [S63], [S64].
+
 ## Denmark: go beyond the church books
 
 For the church books themselves, civil marriages and probate, use [Danish church books and probate](danish-church-book-probate-recovery.md).
@@ -140,7 +168,7 @@ For the church books themselves, civil marriages and probate, use [Danish church
 
 ## Iceland: use the farm, census and emigration sources separately
 
-Recover a candidate parent's given name from the genitive form in an Icelandic patronymic or matronymic [S36]. In MyHeritage's example, *Jónsson* gives *Jón* as the father's given-name lead [S35], [S36]. Confirm the relationship in the child's baptism entry before attaching a parent.
+Recover a candidate parent’s given name from the genitive in an Icelandic patronymic or matronymic [S36], [S51]. Use *Jónsson* to look for Jón as the father [S35], [S36] and *Guðrúnardóttir* to look for Guðrún as the mother [S50], [S51]. Compare the stem with both parents’ given names in the child’s baptism entry before linking a parent.
 
 Use Vesturfaraskrá as the 1983 printed emigration index for 1870–1914 described by Icelandic Roots, rather than assuming it is a searchable online database. Search its first-name arrangement with the observed patronymic and farm, then compare its year and destination with departure and arrival evidence. The index includes some planned departures that did not happen, so an entry alone does not prove that the person emigrated. [S28], [S29]
 

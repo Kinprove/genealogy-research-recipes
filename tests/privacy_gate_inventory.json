@@ -6496,5 +6496,23 @@
   "kind": "third-party-tool",
   "action": "Search FamilySearch's *Finland, Church Census and Pre-Confirmation Books, 1600–1916*",
   "checkpoint": "the names, dates and places of each person whose search terms go to Digihakemisto or FamilySearch"
+ },
+ {
+  "recipe": "scandinavian-patronymic-farm-name-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search Ancestry’s passenger lists by the patronymic in **Last Name**",
+  "checkpoint": "The Swedish emigrant’s surname or surname stem goes to Ancestry"
+ },
+ {
+  "recipe": "scandinavian-patronymic-farm-name-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "by name and departure year",
+  "checkpoint": "The Norwegian emigrant’s name and approximate departure year go to MyHeritage"
+ },
+ {
+  "recipe": "scandinavian-patronymic-farm-name-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search MyHeritage’s *1910 Norway Census* by name and narrow by residence",
+  "checkpoint": "The Norwegian candidate’s name and any residence used to narrow the census search go to MyHeritage"
  }
 ]
