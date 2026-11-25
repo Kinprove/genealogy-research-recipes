@@ -27,3 +27,7 @@ Copy the name, rank, regiment, dates and any general order number from the servi
 ## Read the proceeding in order
 
 Extract the charge, plea, testimony, finding and sentence from the surviving documents. Record any later reviewing order separately. An allegation and the court’s finding are different observations. [S2]
+
+For a disputed pardon date, transcribe the date as shown and cite the image. Check the catalog entry and case papers for an attached alteration note of the kind reported in the presenter’s recollection [S3†], and search for a separate National Archives correction by the soldier’s name or record identifier [S4]. Log any corrected date with its own citation. Keep the date unresolved if the evidence still conflicts.
+
+The National Archives identified April 14, 1864 as the original date of Lincoln’s pardon of Patrick Murphy (NAID 1839980) after finding that the year on the document had been altered to 1865. [S4]
