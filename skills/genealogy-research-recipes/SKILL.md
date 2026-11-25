@@ -544,6 +544,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/declaration-signer-descendant-records.md` — Find lineage leads for a named Declaration signer in the Leach manuscripts and the indexed society application files.
 - `recipes/great-miami-hurricane-family-records.md` — Test a reported death, injury or displacement after the 1926 Great Miami Hurricane through named casualty lists, vital records and later households.
 - `recipes/new-jersey-marriage-index-recovery.md` — Decode New Jersey marriage index numbers and place fields, then route the underlying certificate by marriage year.
+- `recipes/us-federal-civilian-personnel-record-recovery.md` — Use the Official Register to identify a federal civilian employer and route an Official Personnel Folder or service record card.
 
 ### United States: military, land, courts and law
 

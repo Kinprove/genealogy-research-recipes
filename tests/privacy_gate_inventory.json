@@ -6706,5 +6706,17 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage's Minnesota, Alien Registrations, 1918",
   "checkpoint": "The registration subject's historical name and any birth-year or residence filters go to MyHeritage's collection search."
+ },
+ {
+  "recipe": "us-federal-civilian-personnel-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the MyHeritage Official Register index",
+  "checkpoint": "The employee’s name and any other search fields you enter go to MyHeritage"
+ },
+ {
+  "recipe": "us-federal-civilian-personnel-record-recovery.md",
+  "kind": "request",
+  "action": "Send a request to the appropriate personnel records office",
+  "checkpoint": "The employee’s identifying and employment details and any required eligibility proof go to the personnel records office"
  }
 ]
