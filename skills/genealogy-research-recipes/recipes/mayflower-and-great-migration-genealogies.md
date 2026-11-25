@@ -11,7 +11,7 @@ handoff: ["early-new-england-town-records", "published-book-catalogue-and-full-t
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 233}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 234}
 ---
 
 # Route an early New England pedigree to Mayflower Families or Great Migration sketches
