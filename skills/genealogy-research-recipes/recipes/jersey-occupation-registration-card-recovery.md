@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 163}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 164}
 ---
 
 # Recover a Jersey household from German Occupation registration cards

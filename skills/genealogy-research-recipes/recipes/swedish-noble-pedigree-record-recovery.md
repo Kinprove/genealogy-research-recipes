@@ -11,7 +11,7 @@ handoff: ["repository-photograph-collection-search", "scandinavian-parish-record
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 227}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 228}
 ---
 
 # Trace a Swedish noble pedigree to its source records

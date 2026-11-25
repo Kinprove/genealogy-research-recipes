@@ -11,7 +11,7 @@ handoff: ["us-20th-century-military-service-reconstruction"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["FamilySearch collection descriptions and card images", "National Archives finding aids and disposition schedules", "historical statutes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 296}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 297}
 ---
 
 # Decode a World War I VA Master Index card and trace its benefit files

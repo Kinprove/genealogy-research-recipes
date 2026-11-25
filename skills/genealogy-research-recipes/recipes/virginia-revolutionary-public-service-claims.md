@@ -11,7 +11,7 @@ handoff: ["us-military-pension-file-recovery", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 259}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 260}
 ---
 
 # Recover a Revolutionary Virginia public service claim across all its series

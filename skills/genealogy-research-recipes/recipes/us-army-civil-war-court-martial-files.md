@@ -11,7 +11,7 @@ handoff: ["us-civil-war-service-record-episodes"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 271}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 272}
 ---
 
 # Recover a U.S. Army Civil War court-martial case file
