@@ -6568,5 +6568,11 @@
   "kind": "request",
   "action": "request the cited civil file from the office that holds it",
   "checkpoint": "A civil file request sends the parties’ names"
+ },
+ {
+  "recipe": "swedish-noble-pedigree-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Open the noble family's Minerva entry",
+  "checkpoint": "A family search sends the historical family's name and any rank or number to Riddarhuset's Minerva catalogue."
  }
 ]
