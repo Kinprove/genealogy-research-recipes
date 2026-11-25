@@ -6520,5 +6520,47 @@
   "kind": "request",
   "action": "Request a specific staff record",
   "checkpoint": "the worker's identifying details and any eligibility evidence"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's municipal birth and death indexes",
+  "checkpoint": "Submitting a municipal vital-record search sends"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's municipal census collections",
+  "checkpoint": "Submitting a municipal census search sends"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Catalonia Third Territorial Military Courts and Tribunals index",
+  "checkpoint": "Submitting a commercial military-index search sends"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's First Territorial Military Courts and Tribunals index",
+  "checkpoint": "Submitting a commercial military-index search sends"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Disciplinary Labour Battalions, 1937–1942 index",
+  "checkpoint": "Submitting a commercial military-index search sends"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Republican Army Casualties, 1936–1939 index",
+  "checkpoint": "Submitting a commercial military-index search sends"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "Use both references to request the complete proceeding",
+  "checkpoint": "A request for a court-martial file of the Civil"
  }
 ]
