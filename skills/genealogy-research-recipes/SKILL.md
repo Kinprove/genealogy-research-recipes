@@ -324,6 +324,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/finnish-online-news-version-recovery.md` — Trace a missing or revised Finnish web article through dated captures and legal deposit access, keeping its print counterpart separate.
 - `recipes/myheritage-gaia-research-review.md` — Check the tree GAIA is using, open the records behind its findings and approve individual MyHeritage tree changes after reviewing the evidence.
 - `recipes/stockholm-transkribus-historical-record-search.md` — Search Stockholm City Archives’ transcribed manuscripts for people in church and court proceedings, then verify the original page and bound misses by volume.
+- `recipes/vatican-wartime-civilian-inquiries.md` — Use Vatican Information Office index cards and correspondence to trace inquiries about civilians separated during the Second World War.
 
 ### Books, periodicals and manuscripts
 

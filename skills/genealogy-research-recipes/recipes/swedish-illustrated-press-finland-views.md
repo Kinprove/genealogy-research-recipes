@@ -11,7 +11,7 @@ handoff: ["newspaper-finder-title-coverage", "periodical-index-search-retrieval"
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 79}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 80}
 ---
 
 # Recover Finnish views from the Swedish illustrated press

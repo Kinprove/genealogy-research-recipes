@@ -11,7 +11,7 @@ handoff: ["historical-newspaper-section-search", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 231}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 232}
 ---
 
 # Find Finnish newspaper letters by signature, author and place

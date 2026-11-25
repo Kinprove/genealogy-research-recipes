@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 121}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 122}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes

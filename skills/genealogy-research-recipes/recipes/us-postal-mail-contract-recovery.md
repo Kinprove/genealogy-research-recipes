@@ -11,7 +11,7 @@ handoff: ["us-postmaster-appointments-and-office-sites","historical-newspaper-se
 checked: null
 checked_basis: null
 capabilities: {"browse":["public catalogues and historical records"],"local_script":[],"extensions":[],"data_transfer":[],"contact":[]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 295}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 296}
 ---
 
 # Trace a U.S. mail contractor to a historical route

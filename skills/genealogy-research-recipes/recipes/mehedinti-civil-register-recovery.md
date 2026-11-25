@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "historical-place-name-resolut
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 98}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 99}
 ---
 
 # Find Mehedinți civil registers by locality, event and year

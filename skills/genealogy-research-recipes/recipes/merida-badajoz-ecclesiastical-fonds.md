@@ -11,7 +11,7 @@ handoff: ["spanish-civil-parish-record-routing", "catholic-parish-diocesan-recor
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public catalogues and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 220}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 221}
 ---
 
 # Identify the right Mérida-Badajoz ecclesiastical fonds
