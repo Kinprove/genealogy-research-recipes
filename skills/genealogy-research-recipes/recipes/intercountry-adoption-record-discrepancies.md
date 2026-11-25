@@ -11,7 +11,7 @@ handoff: ["child-placement-and-orphan-train-records", "family-interviews-and-ora
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": ["request", "upload"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 328}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 329}
 ---
 
 # Reconcile names, dates and consent in intercountry adoption records

@@ -6850,5 +6850,11 @@
   "kind": "request",
   "action": "To verify admission at an identified naval hospital, request the inpatient record",
   "checkpoint": "The National Personnel Records Center receives the sailor’s name, status during treatment, required service or Social Security number, hospital and treatment details, and any required authorization or proof of death."
+ },
+ {
+  "recipe": "wpa-county-records-inventories.md",
+  "kind": "contact",
+  "action": "ask the county office named by the inventory",
+  "checkpoint": "The county office receives the sender’s contact information and the historical series details."
  }
 ]
