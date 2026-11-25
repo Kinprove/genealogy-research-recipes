@@ -11,7 +11,7 @@ handoff: ["missing-marriage-jurisdiction-search", "us-vital-registration-coverag
 checked: null
 checked_basis: null
 capabilities: {"browse": ["public finding aids and record catalogues"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 240}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 241}
 ---
 
 # Follow a New Jersey marriage index entry to the underlying record

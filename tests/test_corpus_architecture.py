@@ -35,7 +35,8 @@ EAST_ROUTERS = ("galicia-bukovina-habsburg-record-routing", "bessarabia-moldova-
                 "radom-peasant-land-record-recovery",
                 "riga-swedish-finnish-parish-recovery",
                 "romanian-eanr-civil-register-recovery",
-                "romanian-historical-census-household-recovery")
+                "romanian-historical-census-household-recovery",
+                "south-bohemian-farm-name-recovery")
 EAST_HANDOFFS = (
     ("galicia-bukovina-habsburg-record-routing", "bessarabia-moldova-record-routing"),
     ("bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing"),
