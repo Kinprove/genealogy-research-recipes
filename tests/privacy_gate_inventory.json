@@ -6838,5 +6838,17 @@
   "kind": "contact",
   "action": "Ask the eldest available relative or lineage custodian",
   "checkpoint": "The family’s ancestral branch and the request to see its genealogy go to the relative or lineage head."
+ },
+ {
+  "recipe": "world-war-two-us-navy-battle-records.md",
+  "kind": "third-party-tool",
+  "action": "search for the sailor by name in the *World War II Navy Muster Rolls*",
+  "checkpoint": "The sailor’s name goes to the selected service, Ancestry or Fold3, as the muster-roll search query."
+ },
+ {
+  "recipe": "world-war-two-us-navy-battle-records.md",
+  "kind": "request",
+  "action": "To verify admission at an identified naval hospital, request the inpatient record",
+  "checkpoint": "The National Personnel Records Center receives the sailor’s name, status during treatment, required service or Social Security number, hospital and treatment details, and any required authorization or proof of death."
  }
 ]
