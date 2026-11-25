@@ -524,6 +524,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/turku-divorce-and-remarriage-records.md` — Trace a historical divorce or permission to remarry across Turku Cathedral Chapter records, royal correspondence and civil court proceedings.
 - `recipes/swedish-land-title-record-recovery.md` — Follow a Swedish parcel through land-title books, court protocols and earlier records when a name search fails.
 - `recipes/translocalis-newspaper-letter-recovery.md` — Recover attributed, unsigned and reprinted Finnish newspaper letters using Translocalis signature, author and sending-locality metadata.
+- `recipes/finnish-court-of-appeal-notice-recovery.md` — Use a published Finnish notice to identify the court and recover the corresponding court-of-appeal diary, ruling and case papers.
 
 ### United States: people, vital and church records
 

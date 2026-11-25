@@ -11,7 +11,7 @@ handoff: ["australia-nz-record-routing", "historical-newspaper-section-search", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["historical gazettes, newspaper issues and archive catalogues"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 322}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 323}
 ---
 
 # Trace a Queensland publican through victuallers' licences
