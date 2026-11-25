@@ -475,7 +475,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [uk-ireland-passenger-list-recovery](skills/genealogy-research-recipes/recipes/uk-ireland-passenger-list-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [ulster-freeholder-poll-records](skills/genealogy-research-recipes/recipes/ulster-freeholder-poll-records.md) | public catalogues and historical records | — | — | — | — | — |
 | [union-civil-war-medical-record-recovery](skills/genealogy-research-recipes/recipes/union-civil-war-medical-record-recovery.md) | public catalogues and historical records | — | — | — | — | — |
-| [unknown-parentage-wato](skills/genealogy-research-recipes/recipes/unknown-parentage-wato.md) | — | — | — | link, publish, third-party-tool, upload | contact | required |
+| [unknown-parentage-wato](skills/genealogy-research-recipes/recipes/unknown-parentage-wato.md) | — | — | — | link, publish, request, third-party-tool, upload | contact | required |
 | [us-20th-century-military-service-reconstruction](skills/genealogy-research-recipes/recipes/us-20th-century-military-service-reconstruction.md) | record catalogues and original images | — | — | request, third-party-tool | contact | required |
 | [us-army-civil-war-court-martial-files](skills/genealogy-research-recipes/recipes/us-army-civil-war-court-martial-files.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [us-army-quartermaster-record-recovery](skills/genealogy-research-recipes/recipes/us-army-quartermaster-record-recovery.md) | record catalogues and original images | — | — | — | — | — |

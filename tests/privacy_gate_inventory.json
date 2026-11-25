@@ -6718,5 +6718,35 @@
   "kind": "request",
   "action": "Send a request to the appropriate personnel records office",
   "checkpoint": "The employee’s identifying and employment details and any required eligibility proof go to the personnel records office"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "add an omitted plausible position to the WATO tree",
+  "checkpoint": "WATO is an online DNA Painter tool."
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "invite the candidate to test",
+  "checkpoint": "Recruiting a living relative to DNA-test discloses the hypothesis and asks for their genetic data"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "inviting a documented child from that branch to test",
+  "checkpoint": "Recruiting a living relative to DNA-test discloses the hypothesis and asks for their genetic data"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "inviting a descendant to test",
+  "checkpoint": "Recruiting a living relative to DNA-test discloses the hypothesis and asks for their genetic data"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "request",
+  "action": "request the minimum relevant file",
+  "checkpoint": "A maintenance or paternity file request can disclose"
  }
 ]
