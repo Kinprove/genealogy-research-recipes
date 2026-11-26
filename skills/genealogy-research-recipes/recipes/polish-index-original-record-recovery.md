@@ -11,7 +11,7 @@ handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 61}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 87}
 ---
 
 # Recover a Polish original from an index or archival description
@@ -65,6 +65,17 @@ parent's birth. Use **Wyszukaj jako para** (search as a couple) for a couple.
 **Wyszukaj również w pobliskich parafiach (15km)** adds nearby parishes; a hit there does not place
 the person in that parish. Some indexed data has no available scans. [O2], [O3], [O4]
 
+When revisiting a Geneteka miss, compare the years in [indexed holdings](https://geneteka.genealodzy.pl/rejestry.php?lang=pol)
+and the locality and act type in the [update list](https://geneteka.genealodzy.pl/news.php)
+with the coverage in the search log. Check the target village and year before relying on a
+parish-wide range. [O27 @2026-11-22], [O28 @2026-11-22] Rerun the search for newly indexed years.
+If the earlier search stopped at the home parish, include nearby parishes with newly indexed
+coverage for the event. [S2 @2026-11-22]
+
+Leave a death or remarriage inferred from a birth-index gap unresolved. In a Trzęsówka case,
+newly indexed births from Ostrowy Baranowskie named the same couple after the father's presumed
+death, prompting the researcher to drop the inferred death and remarriage. [S1]
+
 A results page read with a fetch or HTML tool can show the column headers and no rows, even for a
 very common surname; one such fetch on 2026-11-02 also showed no result counter. Check the loaded
 rows and the counter in a real browser, and never log NIL from such a fetch. [O3]
@@ -77,6 +88,14 @@ Geneszukacz checks a surname only across Geneteka and three other Polskie Towarz
 Genealogiczne lists (1918–1920 soldier lists and the 1926 Polish declaration for the United
 States); it does not search the regional projects. Log each project searched and its coverage for
 the parish before you record NIL. [O5], [O6], [O7], [O8], [O9], [O10], [O11], [O12], [O13]
+
+In BaSIA's [alphabetical coverage list](https://www.basia.famula.pl/content-all.php?lang=pl),
+find the parish or civil registry office that served the village and check the event type and
+year. [O33 @2026-11-23], [S3 @2026-11-23]
+To confirm coverage of a specific volume, open a listed indexer's **Pełna lista jednostek**.
+[O34 @2026-11-23] Match the volume title and archival reference and log the index coverage
+at the volume level. Verify the individual act in the original.
+[O35 @2026-11-23]
 
 For a BaSIA hit, follow its scan link when supplied and keep the archival reference
 from the hit. [P21 @2026-11-20], [O21 @2026-11-20] If the link is missing or broken,
@@ -184,6 +203,25 @@ differences between the index and the image, including an uncertain name or date
 documentary-records recipe for the reading and the evidence-judgment recipe for any identity
 conclusion.
 
+On a Poznań Project marriage hit, open **Original record** to identify the archive for that
+entry. [O29 @2026-11-22] In a remarriage act, compare the groom's stated village, home parish,
+marital status and age with the candidate's earlier records before linking the act. Keep the
+home parish separate from the parish that recorded the marriage. [S3 @2026-11-22]
+
+If you start with a civil marriage copy (*odpis*), record its type when known: abridged
+(*odpis skrócony*) or full (*odpis zupełny*) for modern certificates. [O30] Use the event place,
+date and any act number on the copy to find the register entry. Check the entry for the bride's
+mother's maiden surname even if the copy names both parents. [S4]
+
+Geneteka's basic marriage-index format can omit parent details found in the act. [O31 @2026-11-22]
+Record a blank parent field as an omission in the index. Read the act before stating whether it
+names the parents, and leave that question open if the act is inaccessible. [S5 @2026-11-22]
+
+Read a tabular birth act by its column headings. In the father's field, transcribe any names
+explicitly given as his parents and record the relationship wording. [O32] A reported 1916 Gidle
+birth act named the father's parents in a table despite the researcher's expectation of a
+narrative entry. [S6]
+
 **Output:** `archive/fonds | unit | register title | event/year | act | printed page |
 image URL/ordinal | inspected range | original reading | index discrepancy`.
 
@@ -195,6 +233,11 @@ Transcribe the declaration witnesses (*świadkowie*) and godparents (*rodzice ch
 Separate the opening date and hour of the declaration from the date and hour in the clause describing the birth. In Danko’s 1862 Szwelice transcription, the birth is dated to the preceding day at nine in the morning, while the baptism was on the day of declaration [P16]. Keep relative wording and both written forms of a Julian/Gregorian date. The calendars differed by 12 days for most of the nineteenth century and by 13 after the 1900 change [P17]. In the Pułtusk transcription, the declaration is 6/18 April 1890 at 3 p.m., the birth 5/17 February at 6 p.m. [P18]. Record a time only where the text supplies it [P19]. Copy each witness’s stated age and occupation and all the child’s given names.
 
 ## 4. Classify the gap and choose another holding route
+
+If earlier children of proposed parents are indexed but the target birth falls beyond the
+indexed years for the village, keep the parentage provisional. Log the missing index coverage
+and check the register listings for the target village and year. Leave the survival of the later
+books open until you have evidence about the books themselves. [S5]
 
 If the central portal does not expose the image, check the holding archive's own digital portal.
 The Eastern European research interview specifically describes regional Polish archival portals
@@ -244,8 +287,9 @@ Poland's digital library, holds digitised books, periodicals and daily newspaper
 date in its press panel), maps, flyers and posters. Treat its OCR text layer as a lead and cite the
 publication and page from the image. [O15]
 
-Use one gap label per unresolved route: `index only`, `broken link`, `fonds unavailable on portal`,
-`unit described without scan`, `access blocked`, or `bounded range inspected without candidate`.
+Use one gap label per unresolved route: `year outside index coverage`, `index only`, `broken link`,
+`fonds unavailable on portal`, `unit described without scan`, `access blocked`, or
+`bounded range inspected without candidate`.
 Keep uninspected and inspected material separate.
 
 ## Completion packet and prompt

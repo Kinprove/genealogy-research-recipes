@@ -105,6 +105,24 @@ What was not verified:
 
 - **S42:** Friends Historical Library of Swarthmore College and Haverford College Quaker Collection, [Guide to the Records of Baltimore and Virginia Yearly Meetings](https://web.tricolib.brynmawr.edu/speccoll/bym/bymalt.htm). The Fairfax Monthly Meeting entry read 2026-11-20. Used for the identification of Fairfax Monthly Meeting with Waterford, Virginia, as a candidate to test against a notice and the meeting’s own records.
 
+- **S43:** Editors of Family Tree Magazine, [A Guide to Irish Genealogy Research](https://familytreemagazine.com/heritage/irish/a-guide-to-irish-genealogy-research/), updated 2026-08-04. Irish church-records passage read 2026-11-22. Used for the lead to Findmypast’s Irish Quaker vital records. The provider’s collection descriptions establish the separate search routes. They do not corroborate the article’s general start date or its 100-75-50 cutoff for these collections.
+
+- **S44:** Findmypast, [Ireland, Society of Friends (Quaker) Births](https://www.findmypast.com/discover/birth-marriage-death-and-parish-records/parish-baptisms/ireland-society-of-friends-quaker-births). Public collection description and search form read 2026-11-22. Used for the dedicated birth-record search. Signed-in results and access terms were not tested.
+
+- **S45:** Findmypast, [Ireland, Society of Friends (Quaker) Marriages](https://www.findmypast.com/discover/birth-marriage-death-and-parish-records/parish-marriages/ireland-society-of-friends-quaker-marriages). Public collection description and search form read 2026-11-22. Used for the dedicated marriage-record search. Signed-in results and access terms were not tested.
+
+- **S46:** Findmypast, [Ireland, Society of Friends (Quaker) Deaths](https://www.findmypast.com/discover/birth-marriage-death-and-parish-records/parish-burials/ireland-society-of-friends-quaker-deaths). Public collection description and search form read 2026-11-22. Used for the dedicated death-record search. Signed-in results and access terms were not tested.
+
+- **S47:** Findmypast, [Ireland, Society of Friends (Quaker) Browse](https://www.findmypast.com/discover/birth-marriage-death-and-parish-records/parish-baptisms/ireland-society-of-friends-quaker-browse). Public collection description and volume-browsing instructions read 2026-11-22. Used for the option to choose a volume and browse images and for the birth, marriage and burial coverage of the Browse collection. The signed-in image viewer was not tested.
+
+- **S48:** Community video, [French and Indian War for the Genealogist - JG0088](https://www.youtube.com/watch?v=GtFz2mUSa4c), published 2022-06-04 (supplied metadata). Supplied transcript excerpt read 2026-11-22. Used for the presenter’s account of wartime departures from Frederick County and later returns. The video page and the relevant pages of the study cited by the presenter could not be inspected. The excerpt names Loudoun, Fairfax and Alexandria, which were not corroborated as destinations for the displaced families.
+
+- **S49:** Thomas Daniel Knight, [“Our Antient Friends … Are Much Reduced”: Mary and James Wright, the Hopewell Friends Meeting, and Quaker Women in the Southern Backcountry, c. 1720–c. 1790](https://www.mdpi.com/2313-5778/5/3/72), *Genealogy* 5, no. 3 (2021), 72, CC BY 4.0. Early Virginia Quakers section read 2026-11-22. Used for the date and compilers of the November 1757 relief list, its submission to Philadelphia’s Meeting for Sufferings and its distinction between families still away and families already back. Knight cites the published Hopewell history. The original relief list was not inspected.
+
+- **S50:** Philadelphia Congregations Early Records, [Minutes, 1756–1775](https://philadelphiacongregations.org/records/item/FHL.PYMS_Min17561775), Philadelphia Yearly Meeting, Meeting for Sufferings. Catalogue item read 2026-11-22. Used for the volume title and call number HC.PhY.040.01.001. The manuscript images were not inspected.
+
+- **S51:** Friends Historical Library of Swarthmore College and Haverford College Quaker Collection, [Inventory of the Meeting for Sufferings and its successors](https://web.tricolib.brynmawr.edu/speccoll/jnt/pymrepcom.htm). Scope and Series 1 descriptions read 2026-11-22. Used for the separate miscellaneous papers and their reports on Friends in distress. The finding aid does not identify the 1757 Hopewell list as an individual item.
+
 ## Credits
 
 - BYU Family History Library, Maureen Brady, Quaker Family History Research (5 November 2025) — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
@@ -117,3 +135,5 @@ What was not verified:
 - Ancestry’s Quaker research guide (S30) — Short factual abbreviation label and expansion with attribution (quoted)
 - Just Genealogy, Genealogists Know This About Quaker Genealogy (S34), and community video, Genealogy Book Sunday #9 Loudon County, Virginia Newspapers - JG0082 (S40) — Third-party content, rights remain with the rights holders. Advice and the notice example are paraphrased from supplied transcript excerpts (adapted)
 - Kinprove original procedures for following changes in meeting jurisdiction, tracing appeals, comparing disciplinary entries and using death notices to identify a meeting — FSL-1.1-MIT (kinprove-original)
+- Family Tree Magazine’s guide to Irish genealogy (S43) and the community video on the French and Indian War (S48) — Third-party content, rights remain with the rights holders. The collection lead and the presenter’s description of departures and returns are paraphrased (adapted)
+- Kinprove original procedures for selecting an Irish Quaker vital-record collection and tracing Hopewell families through wartime relief records — FSL-1.1-MIT (kinprove-original)

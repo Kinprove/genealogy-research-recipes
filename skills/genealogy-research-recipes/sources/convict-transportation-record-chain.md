@@ -34,11 +34,33 @@ The Queensland index supplies the court, sentence and ship reference. The trial 
 
 - **S20:** Ireland Reaching Out, [Tracing Irish Ancestors: A Guide to Famine-Era Genealogy](https://blog.myheritage.com/2026/03/tracing-irish-ancestors-a-guide-to-famine-era-genealogy/), MyHeritage Blog, published 2026-03-16. Community post read 2026-11-20. The post names New South Wales and Van Diemen’s Land as the main destinations and suggests searching Irish convict transportation records.
 
-- **S21:** National Library of Australia, [Transportation & arrival](https://www.library.gov.au/research/family-history/family-history-research-guide/convicts-research-guide/transportation), published 2023-12-06. Source read 2026-11-20. The guide identifies the New South Wales convict indents, the Tasmanian Names Index and the Western Australian convict registers as separate search leads.
+- **S21:** National Library of Australia, [Transportation & arrival](https://www.library.gov.au/research/family-history/family-history-research-guide/convicts-research-guide/transportation), published 2023-12-06. Source read 2026-11-20. The guide identifies the New South Wales convict indents, the Tasmanian Names Index and the Western Australian convict registers as separate search leads. Collection and indent sections reread 2026-11-22. They identify the three fleet-specific Ancestry collections and their spans, and list age, occupation and sometimes the crime among the information in NSW indents.
 
 - **S22:** National Archives of Ireland, [Ireland-Australia transportation records](https://nationalarchives.ie/help-with-research/research-guides/australian-transportation-records/). Source read 2026-11-20. The timeline identifies the 1867 Fenian Rising cases as an exception to the end of regular transportation in 1853.
 
 - **S23:** Beth Frayne, Toodyay Historical Society and Newcastle Gaol Museum, [Toodyay’s convicts from the Hougoumont](https://www.toodyay.wa.gov.au/documents/228/toodyays-convicts-from-the-hougoumont), Toodyay Convict Hiring Depot exhibition, dated 2018-01-16. Exhibition introduction read 2026-11-20. It dates the ship’s arrival in Fremantle, Western Australia, to January 1868 and identifies Irish Fenian prisoners among those aboard.
+
+- **S24:** Talya, [MyHeritage Publishes 23 Collections and 14 Million Historical Records in October 2022](https://blog.myheritage.com/2022/12/myheritage-publishes-23-collections-and-14-million-historical-records-in-october-2022/), MyHeritage Blog, published 2022-12-08. Community post read 2026-11-22. The collection description gives the index span, ship and conviction fields and suggests using the registers to check whether a transportation sentence was carried out. It mentions deaths during the voyage.
+
+- **S25:** State Library of Queensland, [Convict transportation registers database](https://www.slq.qld.gov.au/blog/convict-transportation-registers-database), published 2008-08-20. Source read 2026-11-22. The library describes the index compiled from HO 11 and its fields for the prisoner, trial place, ship, departure date and notes such as death at sea.
+
+- **S26:** State Library of New South Wales, [Voyage out to Australia](https://guides.sl.nsw.gov.au/convicts-bound-for-australia/voyage). Source read 2026-11-22. The guide identifies ship musters for boarding and disembarkation and explains how to locate surviving voyage logs and surgeons' journals.
+
+- **S27:** MyHeritage Wiki, [United Kingdom immigration records index](https://www.myheritage.com/wiki/United_Kingdom_immigration_records_index), dated 2025-02-27. Index listing read 2026-11-22. The page lists and links to the named convict transportation collection. The collection search interface did not render during the check.
+
+- **S28:** MyHeritage Blog, [Ship Records That Trace Your Ancestors’ Journey to Australia](https://blog.myheritage.com/2025/09/ship-records-that-trace-your-ancestors-journey-to-australia/), published 2025-09-27. Community post read 2026-11-22. It points to surviving lists for the first three fleets, deaths before the Second Fleet reached NSW, and age, trade and offence in later records. The fleet lookup uses the named collections in S21. The Second Fleet example uses ship-level evidence in S29 in place of the post's fleet-wide estimate.
+
+- **S29:** Nichola Garvey, [Women’s lives in a fragmented archive: The story of The Wilful Murder](https://press-files.anu.edu.au/downloads/press/n11954/html/05_garvey.xhtml), *Australian Journal of Biography and History*, no. 8 (2024). Article read 2026-11-22. The study uses contemporary records of the *Neptune* and documents deaths before disembarkation on its Second Fleet voyage in 1790.
+
+- **S30:** Harry Hummerston, [MyHeritage and OldNews.com Unmasked My Ancestor’s Criminal Record… and Remarkable Resilience](https://blog.myheritage.com/2025/12/myheritage-and-oldnews-com-unmasked-my-ancestors-criminal-record-and-remarkable-resilience/), MyHeritage Blog, published 2025-12-29. Community post read 2026-11-22. Hummerston's family account describes a prisoner transported as an exile aboard the *Maitland* and the restriction on returning to Britain. The term of that restriction comes from S31. The post gives 27 October 1846 as the Port Phillip arrival, but S33 assigns it to the Van Diemen’s Land call and places the Port Phillip arrival in November.
+
+- **S31:** State Library of New South Wales, [Settlements that were once part of NSW](https://guides.sl.nsw.gov.au/life-in-the-colony/settlements). Source read 2026-11-22. The Port Phillip section describes exiles and the condition on returning to Britain before the end of their sentences.
+
+- **S32:** State Library Victoria, [Victorian convict records](https://guides.slv.vic.gov.au/c.php?g=930737&p=6725830), Australian Joint Copying Project guide. Source read 2026-11-22. The exiles section identifies the 1844–1849 pardon notifications at Public Record Office Victoria.
+
+- **S33:** John M. Slattery, [Shadrach Was a (Penton)Villain!](https://www.bathurstfhg.asn.au/SAG_Descent/2024_1_March%20Descent.pdf), *Descent*, vol. 54, part 1 (March 2024), pp. 10–11. Article read 2026-11-22. Slattery distinguishes the *Maitland*'s October call in Van Diemen’s Land from its November landing at Port Phillip and identifies the ship's exile lists in VPRS 14.
+
+- **S34:** Public Record Office Victoria, [VPRS 14 Register of Assisted Immigrants from the United Kingdom](https://researchdata.edu.au/vprs-14-register-vprs-3502/157217), via Research Data Australia. Series description read 2026-11-22. It identifies the register and describes the ship, departure, arrival and individual passenger details it may record.
 
 ## Credits
 
@@ -46,3 +68,4 @@ The Queensland index supplies the court, sentence and ship reference. The trial 
 - Genealogy Gems, Episode 167 – Colonial American Genealogy (guest remarks on runaway notices) — Third-party video (YouTube standard license); brief attributed paraphrase (adapted)
 - Kinprove original procedural synthesis; the teaching case and collection descriptions are attributed to S1-S4 (BYU Family History Library / James Tanner talks; Genealogy Gems Episode 167); record series and coverage checked against Libraries Tasmania, State Records Office of Western Australia, The National Archives, State Library of Queensland, Digital Panopticon and National Archives of Ireland pages (S5 to S12) — FSL-1.1-MIT (kinprove-original)
 - Ireland Reaching Out via the MyHeritage Blog (S20), for the New South Wales and Van Diemen’s Land search leads — Third-party blog post, brief attributed paraphrase (adapted)
+- MyHeritage Blog (S24, S28, S30), for the transportation check, the early fleet and indent leads, and the meaning of “exile” — Third-party blog posts, brief attributed paraphrase (adapted)

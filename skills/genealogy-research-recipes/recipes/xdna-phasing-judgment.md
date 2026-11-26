@@ -7,11 +7,11 @@ scope: {"platforms": [], "tasks": ["\"is this X-DNA match trustworthy\", \"what'
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "XDNA-PHASING-JUDGMENT-01", "text": "**Ban invented small-segment statistics.** Any false-positive-rate or chance-match number must be attributed to a specific company/study (23andMe 2014, AncestryDNA 2020, FTDNA's Family Finder Matching 5.0) — never a smoothed or averaged figure presented as a universal law."}]
-handoff: ["dna-comparison-controls"]
+handoff: ["dna-comparison-controls", "dna-match-outreach-staging"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 23}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 31}
 ---
 
 # Recipe: X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong
@@ -93,6 +93,16 @@ So "is this X match trustworthy" depends on *whose* X chromosomes are being comp
 
 **Check overlapping matches with documented sides against each other.** One overlapping match whose documented common ancestor puts it on one parent's side raises no conflict, and neither do two on opposite parents. Two on the same parent's side should match each other over the overlap, because both then match the copy you inherited from that parent (Kessler, Behold Blog, 2022-05-18 [N32]); two matches who overlap you but do not match each other sit on different copies (Estes, DNAeXplained, 2013-06-21 [N33]). When two same-side matches are compared and do not match each other there, flag the segment instead of assigning both to that parent: one segment may be false, one documented ancestor may be wrong, or one match may connect through a second path, and endogamy breaks the expectation. Before flagging, rule out a comparison that was never run and an overlap too small to pass the comparison's threshold.
 
+**Use a relative from the untested parent's side.** Compare each autosomal segment with the tested parent and look for positive evidence on the other side from a relative documented to connect through that side [N35] [N21]. In an unknown-father search, set aside segments assigned only to the mother and leave the other segments unassigned until there is positive evidence on the father's side [N23]. Retain the match for review if other segments could come through the father.
+
+**Use known relatives when neither parent has tested.** Compare the same interval with an aunt, uncle or cousin whose connection is documented through the side you need to identify [N35] [N21]. Use a full sibling's matches to find additional leads, then check those leads against relatives whose relationship goes through one side [N21]. With only shared-match lists, record candidate sides and leave segment phase unresolved.
+
+**Use a confirmed half-sibling to look for matches through the shared parent.** Compare the tester, the half-sibling and the match on the same interval [N35] [N21]. Use a triangulated segment as evidence for the shared parent's side after checking for other documented paths. Leave the side unresolved if the only evidence is a shared-match listing or if the half-sibling could share the segment through another line [N21].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A private test request goes to the prospective tester and discloses the sender's identity and the recipient's own possible relationship. Answer the privacy gate in `SKILL.md` before sending.
+
+If a new test would resolve a specific gap, stage a private request to test through [DNA match outreach staging](dna-match-outreach-staging.md).
+
 ### 3 — The mechanical visual-phasing rule most models don't know
 
 In visual phasing (comparing 3+ siblings' recombination points to assign chromosome segments to grandparents), there is a hard structural rule: **a full-match segment (green) can never directly border a no-match segment (red), and vice versa.** Every green or red segment must be flanked by a half-match (yellow) segment on both sides, except at the absolute start or end of the chromosome — because a transition from "both chromosomes match" to "neither matches" without an intermediate "one matches" state is genetically impossible. A model validating or auto-completing a phasing chart that ignores this rule will produce an internally impossible map. A related mechanical gotcha from the same source: downloading "half-match" segments already **includes** all full-match segments (every full match is by definition also a half match) — they're not two disjoint sets to sum.
@@ -108,6 +118,8 @@ Compare a whole paternal chromosome with independently identified relatives befo
 A tested parent is still worth using, for a different reason. A direct comparison of each sibling with the mother is half-identical along its whole length, so by itself it marks no recombination point. Her kit does help resolve which allele each sibling received from her and which from the other parent, wherever the genotypes are informative; where mother and child are both heterozygous, the origin at that marker stays unresolved. Segments shared by full siblings mix both parents' sides unless the kits are phased ([DNA Painter FAQ](https://dnapainter.com/help/faq)), so phased kits let sibling comparisons be read separately for each side; [Perl](https://dnapainter.com/blog/common-segment-generator/) describes a "turbo" visual phasing with both parents tested. Her kit does not by itself say which sibling carries a given crossover, and it does not assign her segments to her own two parents: that needs further siblings or relatives such as cousins, an aunt or uncle, or a grandparent. A match who shares DNA with a sibling but not with the mother is not automatically on the other parent's side either; the match can be identical by chance ([Estes](https://dna-explained.com/2016/04/06/concepts-parental-phasing/); section 2). A model asked to "phase" a case should first establish which of these two different techniques is actually available (parent-child vs. 3+ siblings, optionally + an aunt/uncle/grandparent to fill gaps) before promising either binary-parent isolation or four-grandparent assignment.
 
 **Name the phased groups from cousin matches on one grandparent per side.** Visual phasing gives each parent's two copies neutral labels (f1/f2, m1/m2). Take the siblings' segments shared with cousins documented to connect through one known grandparent, such as second cousins on the father's father's line: the label those segments fall on is that grandparent, and the other label on that side is the other grandparent by elimination. For each identified grandparent, retain the cousin’s documented line and the segments that support assigning the label [N31]. Kessler used second-cousin segments of at least 15 cM for this comparison [N29]. Use cousins who connect through that grandparent only, since pedigree collapse, endogamy or a second relationship can put their DNA on the other label. Where cousins on the other grandparent have tested, use them to check the assignment, and investigate any segment that lands on the other label (a mislabel, a second relationship or a false segment) instead of letting the majority decide.
+
+**Trace a double first cousin's segments through both relationships.** Record both paths and use parental phasing to identify the matching parental copy at each autosomal interval [N34] [N23]. Record both copies if both are supported. Before naming a grandparent, place the interval on a phased map whose labels are backed by relatives documented through one grandparent line [N31] [N21]. Where the evidence resolves only the parent, retain that assignment and leave the grandparent open.
 
 ### 4 — Misapplied X-DNA elimination logic on a real discriminating case: half-sister vs. aunt
 

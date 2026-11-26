@@ -11,7 +11,7 @@ handoff: ["familysearch-practical-record-workflows", "gedcom-research-export"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["rootsmagic", "ancestry", "familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "upload"], "contact": []}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 10}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 12}
 ---
 
 # RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch
@@ -215,6 +215,28 @@ exception, correction_or_next_action`.
 
 **Checkpoint:** success means the selected content is verified in its destination.
 Unselected or unavailable objects stay explicit; do not call the whole person synchronized.
+
+### Preserve attached records before Ancestry access ends
+
+When a paid Ancestry membership expires, records that require it stay attached to the
+tree while their online images and transcriptions become unavailable. [H13 @2026-11-22]
+
+**Privacy gate:** <!-- privacy-gate: export --> TreeShare and record downloads copy Ancestry
+tree data, citations and images that may concern living people to the user's own device.
+Answer the privacy gate in `SKILL.md` before downloading.
+
+Before membership access ends, bring the needed Ancestry citations and available media
+into the linked RootsMagic file using TreeShare's source and media options where offered.
+[S8 @2026-11-22] [H12 @2026-11-22] If the tree has no linked local file, use the gated
+[Ancestry connection procedure](#2-map-the-actual-people-before-comparing-facts) to download
+the tree into a new RootsMagic database on the user's device. [H12 @2026-11-22]
+
+Open each needed image from its local file while offline. If an image fails this check,
+use the Ancestry record viewer's tools menu and choose **Download** where offered while
+you still have access. [H14 @2026-11-22] Reopen those files offline too. For a record
+with only a transcription, check the local source text. Record any missing image or
+transcription with its record locator as an exception. Keep verified files with the
+local research backup.
 
 ## 5. Resume from changed people, preserving the decisions
 

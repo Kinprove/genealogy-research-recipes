@@ -11,7 +11,7 @@ handoff: ["probate-case-document-inventory"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 119}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 177}
 ---
 
 # Recover Dutch civil acts and the church register kept before civil registration
@@ -56,6 +56,10 @@ Date the start of civil registration by region before you choose between civil a
 - **Everywhere else:** 1811. [S12] Take the first date of each municipality's own birth, marriage and death registers before you choose between civil and church records; they can start months into 1811. Schiedam's first civil marriage act is dated 23 June 1811, and its births and deaths start a month later. [S15]
 
 The civil marriage act names the couple's parents and places of origin. The marriage supplements (huwelijksbijlagen) hold the proofs each spouse had to file: a birth or baptism proof, parental consent where it was required, and death proofs for parents who had died. If a spouse was born before civil registration began in the birthplace, the proof is a baptism extract. That extract names the church and its denomination, which tells you which register to search next. [S2]
+
+When tracing a person from a civil act into a church register, search the given name with the recorded surname, then repeat with the patronymic in place of the surname [S30], [S31]. If the person's patronymic is missing, use the father's given name from the civil act or marriage supplements to form a candidate. Try both searches in early civil acts too. Those acts can record the patronymic alone or alongside a fixed surname [S31].
+
+Check the municipality's name-adoption declarations (naamsaanneming) for both the old and adopted names. Compare the family members and any children's ages in the declaration with the church and civil entries before linking them. If the declaration omits the old name, use the family details to test the church-register candidate. [S32]
 
 Inventory each marriage supplement by person, issuing authority, document type and date [S2]. Choose the consent rule by place and date. Under the French Code civil, a son under 25 and a daughter under 21 needed their parents' consent. Older children asked their parents’ advice by a formal acte respectueux, or their grandparents’ if both parents had died or could not express their wishes. Without consent, sons under 30 and daughters under 25 repeated the request twice at monthly intervals [S16]. The Dutch code took effect on 1 October 1838 and in Limburg on 1 January 1842 [S18]. It required parental consent for minors (then under 23) and required adults under 30 to request it [S17]. Read the document itself before assigning an age or relationship.
 

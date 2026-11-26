@@ -20,7 +20,38 @@
 
 - **S10:** [Dansk Demografisk Database, Register over sønderjyske skifter op til 1920](https://www.ddd.dda.dk/skifteregister/soeg_skifte.asp). Reviewed 2026-11-18, catalogue, access read. Read 2026-11-18. Only the search form was seen (surname, given names, position, place, year and archive creator); no search was run. Used that the register's search page answered on that date.
 
+- **S11:** [MyHeritage Publishes 30 New Historical Record Collections and 31 Million Records in September 2022](https://blog.myheritage.com/2022/10/myheritage-publishes-30-new-historical-record-collections-and-31-million-records-in-september-2022/). Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. Community discovery source. Read the section on the Danish Gazette collection, its start year, its typical index fields and its description of an estate notice. The publisher gives a lawyer as its estate-contact example. S13 and S14 establish the notice's purpose and the distinction between estate roles.
+
+- **S12:** [MyHeritage, Danmarks Statstidende dødsoptegnelser](https://www.myheritage.dk/research/collection-20181/danmarks-statstidende-dodsoptegnelser). Reviewed 2026-11-22, catalogue, access read. Read 2026-11-22. Used the public collection search form and description of coverage starting in 1918 and typical deceased and spouse fields. No signed-in search or individual result was inspected.
+
+- **S13:** [Danmarks Domstole, Spørgsmål og svar om dødsboskiftesager på minskiftesag.dk](https://domstoldk.euwest01.umbraco.io/selvbetjening/blanketter-og-vejledninger/minskiftesagdk/vejledninger/doedsbo/spoergsmaal-og-svar/). Reviewed 2026-11-22, help-page, access read. Read 2026-11-22. Used the question on proklama for the notice's purpose and the boudlæg exception in the current court procedure.
+
+- **S14:** [Justitsministeriet, answer to Retsudvalget question 1485 on Statstidende estate notices](https://www.ft.dk/samling/20241/almdel/reu/spm/1485/svar/2168273/3077024/index.htm). Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. Used Civilstyrelsen's account of the contact person in a private estate and the separate administrator role in an estate handled by a bobestyrer.
+
+- **S15:** [Det Kgl. Bibliotek, Registrant over dagblade i Statens Avissamling](https://www.kb.dk/find-materiale/samlinger/avissamlingen/lister/liste-over-dagblade/liste-over-dagblade.pdf). Reviewed 2026-11-22, pdf, access read. Read 2026-11-22. Used the Statstidende entry in the Copenhagen list on printed page 102 for the dated print holdings. No individual issue was inspected.
+
+- **S16:** [Peter Olsen, Om selvmordene i Danmark, Slægtsforskeren 4/2022, pp. 4–11](https://slaegtsbibliotek.dk/2024/925420.pdf#page=5). Reviewed 2026-11-22, pdf, access read. Read 2026-11-22. Community discovery source. Used the article's archival sections on local inquiry records, the distinction between those records and returns to Danmarks Statistik, and medico-legal death certificates. The archive listings and guide in S17–S22 establish the search routes and access. The library copy carries a reproduction restriction.
+
+- **S17:** [Rigsarkivet, Dødsattester – Kom godt i gang!](https://www.rigsarkivet.dk/vejledning/doedsattester-kom-godt-i-gang/). Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. Used the search inputs, medical districts, death-certificate series and rural medico-legal route from 1871, separate South Jutland coverage, reading-room ordering, and 75-year access period.
+
+- **S18:** [Rigsarkivet Daisy, archive series matching dødfundne personer](https://daisy.rigsarkivet.dk/arkivskaber_eller_arkivserie_liste?c=d%C3%B8dfundne+personer&d=1&e=2016). Reviewed 2026-11-22, catalogue, access read. Read 2026-11-22. Used the returned local police creators and series for inquiries into deaths. The results identify series, with coverage specific to each creator and period.
+
+- **S19:** [Rigsarkivet, Straffesager i underretterne – Kom godt i gang!](https://www.rigsarkivet.dk/vejledning/straffesager-i-underretterne-kom-godt-i-gang/). Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. Used the period-based route to local judicial creators and their police protocols, and the reading-room order route for unscanned material.
+
+- **S20:** [Arkivalieronline, Sociale forhold, sundhedsvæsen, hospitaler og stiftelser](https://arkivalieronline.rigsarkivet.dk/da/other/other-collection/64). Reviewed 2026-11-22, catalogue, access read. Read 2026-11-22. Used the entries linking to Danmarks Statistik's report series.
+
+- **S21:** [Arkivalieronline, Danmarks Statistik, Rapporter over selvmord (1895–1924)](https://arkivalieronline.rigsarkivet.dk/da/other/index-creator/64/347781/23970309). Reviewed 2026-11-22, catalogue, access read. Read 2026-11-22. Used the digital bundle list, which gives year and journal-number ranges from 1895 through 1904. No individual report was used.
+
+- **S22:** [Rigsarkivet Daisy, package list for Danmarks Statistik, Rapporter over selvmord (1895–1924)](https://daisy.rigsarkivet.dk/fysiske_enheder_liste?a=danmarks+statistik&b=&c=&d=1&dir=&e=2026&ed=&ep=&epid=23745163&es=&f=&faid=11&g=&gsc=&h=&heid=23745161&henid=23745164&int=&m2rid=&meid=&ngid=347781&ngnid=347784&side=1&sort=). Reviewed 2026-11-22, catalogue, access read. Read 2026-11-22. Used the year and journal-number ranges, scan links through 1904 and order links for 1905–1924. No bundle was ordered.
+
+- **S23:** [Danmarks Statistik, Publikation: Selvmord](https://www.dst.dk/da/Statistik/udgivelser/VisPub?pid=1698). Reviewed 2026-11-22, web-page, access read. Read 2026-11-22. Used the publisher's description of the historical publications as tables summarised by period and category.
+
+- **S24:** [Arkivalieronline, Danmarks Statistik, Rapporter over selvmord (1885–1894)](https://arkivalieronline.rigsarkivet.dk/da/other/index-creator/64/347781/23756064). Reviewed 2026-11-22, catalogue, access read. Read 2026-11-22. Used the labels giving year, region and number ranges for digital bundles. No individual report was used.
+
 ## Credits
 
 - Rigsarkivet guides and Dansk Demografisk Database pages in S1 onward — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- MyHeritage collection announcement and catalogue, Danish court and ministry guidance, and Det Kgl. Bibliotek's holdings list (S11–S15) — Rights reserved to the respective holders, paraphrased with attribution (adapted)
+- Peter Olsen's archival research advice in Slægtsforskeren (S16) — Rights reserved to the rights holder, research route paraphrased with attribution and no reproduction of article excerpts (adapted)
+- Rigsarkivet guides and catalogues and Danmarks Statistik's publication descriptions (S17–S24) — Rights reserved to the respective holders, paraphrased with attribution (adapted)
 - Kinprove original research procedure — FSL-1.1-MIT (kinprove-original)

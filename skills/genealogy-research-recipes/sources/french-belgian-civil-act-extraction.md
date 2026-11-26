@@ -61,6 +61,42 @@ narrative and named family conclusions are not adopted as verified claims.
 
 - **S27:** Laurent Honnoré with Loïc Burelle, Coraline Cauchie and Stéphane Vanleynseele, Archives de l’État à Mons, [Inventaire des archives du Tribunal de première instance de Charleroi. Tribunal civil. Registres de l’état civil (1792) 1796–1910](https://agatha.arch.be/data/ead/BE-A0524_707453_703182/annexes/EP6169.pdf), 2021. Historical introduction, pp. 11–12, read 2026-11-21. Distinguishes the 1 October 1795 annexation decree from the 17 June 1796 civil-registration order and explains why some first civil acts are in parish registers used through 22 September 1796.
 
+- **S28:** MyHeritage Blog, [Historical Record Collections Added in April and May 2022](https://blog.myheritage.com/2022/06/historical-record-collections-added-in-april-and-may-2022/), published 2022-06-16. Community post’s Belgian collection sections read 2026-11-22. Names the Antwerp, East Flanders, Liège, Limburg and Namur birth or death collections and describes the Liège birth-or-baptism field. The catalog listings in S31–S32 establish the search routes. The post’s early dates give no commune-level proof of civil registration.
+
+- **S29:** MyHeritage Blog, [22 Historical Record Collections Added in June 2022](https://blog.myheritage.com/2022/07/22-historical-record-collections-added-in-june-2022/), published 2022-07-17. Community post’s Belgian collection sections read 2026-11-22. Names the Brabant, Hainaut, Liège and Limburg collections and describes the Hainaut birth-or-baptism field. The release post gives 1787–1915 for Limburg deaths. The collection description in S35 gives a different range.
+
+- **S30:** MyHeritage Blog, [MyHeritage Publishes 30 New Historical Record Collections and 31 Million Records in September 2022](https://blog.myheritage.com/2022/10/myheritage-publishes-30-new-historical-record-collections-and-31-million-records-in-september-2022/), published 2022-10-21. Community post’s Namur birth listing read 2026-11-22. Names the provincial index. S31 confirms its title in the current catalog.
+
+- **S31:** MyHeritage, [Collection catalog for Belgian birth records](https://www.myheritage.com/research/records-catalog/belgium/birth-records/catid-2010). Public catalog listings read 2026-11-22. Lists the provincial birth collections for Antwerp, East Flanders, Hainaut, Liège, Limburg and Namur. The check covers the named listings, with record and commune coverage to be established from the registers.
+
+- **S32:** MyHeritage, [Collection catalog for Belgian death and burial records](https://www.myheritage.com/research/records-catalog/belgium/death-burial-cemetery-obituaries/catid-2030). Public catalog listings read 2026-11-22. Lists the provincial death collections for Antwerp, Brabant, East Flanders, Hainaut, Liège, Limburg and Namur. The check covers the named listings, with record and commune coverage to be established from the registers.
+
+- **S33:** MyHeritage, [Belgium, Liège, Civil Registration of Births](https://www.myheritage.com/research/collection-20117/belgium-liege-civil-registration-of-births). French collection description read 2026-11-22 after locale redirect. The form labels the event as birth or baptism, and the description says the entry can give a baptism date in place of a birth date.
+
+- **S34:** MyHeritage, [Belgium, Hainaut, Civil Registration of Births](https://www.myheritage.com/research/collection-20120/belgium-hainaut-civil-registration-of-births). French collection description read 2026-11-22 after locale redirect. The description gives a baptism date as a possible substitute for a birth date in the entry.
+
+- **S35:** MyHeritage, [Belgium, Limburg, Civil Registration of Deaths](https://www.myheritage.com/research/collection-20141/belgium-limburg-civil-registration-of-deaths). French collection description read 2026-11-22 after locale redirect. It gives 1798–1906, compared with 1787–1915 in S29. The lookup uses the collection title and leaves the actual year coverage to be checked for the commune.
+
+- **S36:** MyHeritage Blog, [19 Historical Record Collections Added in the First Half of June 2023](https://blog.myheritage.com/2023/06/19-historical-record-collections-added-in-the-first-half-of-june-2023/), published 2023-06-28. Community post’s Aalst death section read 2026-11-22. Gives the municipality’s component villages and describes the residence, place of death, witnesses and registrar fields. Reports a 1796–1970 span. The current check in S39 establishes the search form and collection title.
+
+- **S37:** MyHeritage Blog, [46 Million Historical Records Added in May 2023](https://blog.myheritage.com/2023/06/46-million-historical-records-added-in-may-2023/), published 2023-06-11. Community post’s Aalst birth section and example read 2026-11-22. Names the municipal collection and describes a 1921 example with the parents’ birthplaces, residence and occupations, and witness particulars. Parental birthplace is a field to look for where stated. The account supplies a single example, and S38 separately supports the collection and participant roles.
+
+- **S38:** MyHeritage, [Belgium, Aalst Births](https://www.myheritage.com/research/collection/belgium-aalst-births/colid-20466). Public collection description read 2026-11-22. Names the component villages, distinguishes birth and registration dates and lists parents, witnesses, declarant and registrar. Attributes the collection to Stad Aalst.
+
+- **S39:** MyHeritage, [Belgium, Aalst Deaths](https://www.myheritage.com/research/collection-20468/belgium-aalst-deaths). Public collection form read 2026-11-22. Confirms the collection title and separate residence and death-place fields. The check covers the public form. The date span and individual record images were unconfirmed through it.
+
+- **S40:** MyHeritage Blog, [For 140 Years, They Believed He Left Them for a New Life in America. A Record Match on MyHeritage Revealed a Different Story](https://blog.myheritage.com/2023/07/for-140-years-they-believed-he-left-them-for-a-new-life-in-america-a-record-match-on-myheritage-revealed-a-different-story/), published 2023-07-12. Community post’s Paris death case read 2026-11-22. The researcher recalls a finding of stated widowhood and coworkers declaring the death, and suggests possible cohabitation. The published illustration is a match summary. The full act, relationship and reported place of business were unverified.
+
+- **S41:** MyHeritage Blog, [Introducing Scribe AI: Transcribe, Interpret, and Receive Fascinating Insights About Your Family’s Historical Documents and Photos, and MyHeritage Records](https://blog.myheritage.com/2026/03/introducing-scribe-ai/), published 2026-03-05. Community post’s French death example read 2026-11-22. Its rendering of a 1922 act illustrates parental life status, declarant particulars and the separate civil officer. The example is a prompt to inspect the image. No generated transcription, tool operation or general timing claim is used.
+
+- **S42:** MyHeritage Blog, [MyHeritage Adds 152 Million Historical Records in July 2026](https://blog.myheritage.com/2026/08/myheritage-adds-152-million-historical-records-in-july-2026/), published 2026-08-02. Community post’s French death and marriage sections read 2026-11-22. Describes the mixed indexes and image leads for family details, residence, stated marital status and witnesses. The collection descriptions in S43–S44 establish the index scope, and the archive guide in S45 supports extracting particulars from acts. The usual-delay estimate is outside the adopted method.
+
+- **S43:** MyHeritage, [France, Church Burials and Civil Deaths](https://www.myheritage.com/research/collection-14003/france-church-burials-civil-deaths). Public collection description read 2026-11-22. Identifies both church and civil entries and outlines the extra details that can be recorded on the associated images.
+
+- **S44:** MyHeritage, [France, Church Marriages and Civil Marriages](https://www.myheritage.com/research/collection-14002/france-church-marriages-civil-marriages). Public collection description read 2026-11-22. Distinguishes church marriages, civil marriages and selected banns in the same index.
+
+- **S45:** Archives départementales du Bas-Rhin, [Chercher dans les registres paroissiaux et d’état civil](https://archives.bas-rhin.fr/eCommunityDocuments/996A4DC5-7B41-4352-A704-F3DF616B220D/645/Chercher%20dans%20les%20registres%20paroissiaux%20et%20d%E2%80%99%C3%A9tat%20civil.pdf). Archive guide’s marriage and death entries read 2026-11-22. Describes the birth details for each spouse, each parent’s possible death, witness names and stated ties, and separate domicile and place of death in death acts.
+
 ## Credits
 
 - Archives du Gard, Fondation Napoléon, Heemkunde Nieuwerkerken, Belgian Chamber of Representatives and Criminocorpus (S9–S13) — Calendar tables, historical guidance and legal texts paraphrased (adapted)
@@ -74,3 +110,5 @@ narrative and named family conclusions are not adopted as verified claims.
 - Criminocorpus, Légifrance and the French Senate (S20–S21, S23, S25) — Historical statutory and parliamentary texts paraphrased with attribution (adapted)
 - Andrew Koch, Family Tree Magazine (S26) — Research lead paraphrased with attribution (adapted)
 - Archives de l’État à Mons (S27) — CC BY-NC-ND 3.0 inventory cited for historical facts (adapted)
+- MyHeritage Blog and collection catalog (S28–S44) — Collection descriptions, research leads and examples paraphrased with attribution (adapted)
+- Archives départementales du Bas-Rhin (S45) — Archive research guidance paraphrased with attribution (adapted)

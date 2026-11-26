@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 190}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 336}
 ---
 
 # Recover a Catholic sacramental entry through parish, diocesan and successor holdings
@@ -48,6 +48,14 @@ If the parish that kept the register has no entry, check these in order. Record 
 3. **The diocesan copy series** (step 3).
 4. **The successor parish.** In Philadelphia, the records of a closed or consolidated parish went to one designated holding parish. The archdiocesan archive (now the Catholic Historical Research Center, CHRC) sends requesters to that parish and uses parish boundary maps (for 1891, 1921 and 1971) to place an address in its former parish. Elsewhere, ask the diocese which parish received the registers. Do not assume the nearest surviving church holds them. [S11], [S12]
 
+**Marriage banns.** For a historical French Catholic marriage, check for banns before the expected wedding in each spouse's parish when the parishes differ. If the notices are missing, check the marriage entry for a dispensation from banns. Use a bann to find the celebration entry. [S65], [S70]
+
+In MyHeritage's *France, Church Marriages and Civil Marriages*, open the underlying entry and identify it as a bann, a church marriage or a civil marriage. The collection includes selected banns. Record a bann as notice of an intended marriage and leave the celebration unconfirmed until you find evidence of it. [S70 @2026-11-22], [S71 @2026-11-22]
+
+**Later marriage inquiry.** If the expected marriage entry is missing, inspect the same parish book for a retrospective protocol, including additions outside its listed year span. Keep the protocol date and the wedding date it reconstructs at their respective precision. Work back from independently dated events named in the testimony, such as a first child's birth or a witness's own wedding. Verify a reported same-day wedding in the named person's parish register before using its date as a lead. [S72]
+
+The published Bzí protocol transcription places the inquiry in 1878, outside SOA Litoměřice marriage book L13/21's listed span of 1807–1847, and gives only November 1835 for the ceremony. [S72], [S73]
+
 Treat burial separately. In the Archdiocese of Philadelphia, the archdiocesan cemeteries (for example Old Cathedral, New Cathedral and Holy Sepulchre) were leased in 2013 to StoneMor, which holds their records, and the archive holds no burial records. Parish cemeteries keep their own records. Check who currently operates the cemetery, and do not assume this split applies in other dioceses. [S11], [S12]
 
 ## 3. Record originals and copies as separate holdings
@@ -59,9 +67,17 @@ Treat burial separately. In the Archdiocese of Philadelphia, the archdiocesan ce
 
 **Poland.** If the parish lacks the register or target year, check the diocesan or archdiocesan archive for that parish's *księgi metrykalne* [S61 @2026-11-20]. At the Archdiocesan Archive in Poznań, search by parish name [S62 @2026-11-20] and check for deposited parish originals as well as duplicates [S63 @2026-11-20]. Compare the years each holder lists for the sacrament and record the archive's call number and whether it identifies an original or a copy.
 
+**Mérida–Badajoz parish fonds.** At the Archivos Eclesiásticos de Mérida–Badajoz, locate the parish fonds by its archpriest district (*arciprestazgo*) and then by parish. Search the parish's sacramental books and follow a marriage into its marriage files. Check parish foundation and account records separately when the question concerns those activities. [S74 @2026-11-22], [S75 @2026-11-22]
+
 ## 4. Treat an online miss as a coverage question first
 
 **Early registers.** Use the local inventory to establish the first surviving year for the place and sacrament. The Council of Trent's 1563 decree called for marriage registers and for recording baptismal sponsors [S64], [S65]. Search for earlier books when the event predates the decree. Florence's San Giovanni baptistery began recording baptisms in 1450 [S66].
+
+**First Communion.** If the baptism is missing, check whether the parish maintained a First Communion register. Use any baptism date and place given there to find the baptismal entry. Record the Communion date separately and use the parish's practice and register coverage to choose the search years. [S78], [S79]
+
+**Marriage-register browse order.** When the wedding month is unknown, use month counts from the same parish and period to decide where to start browsing. Check a seasonal pattern reported in a community account [S89†] against local counts before applying it. For Mosty near Jabłonków in 1791–1910, start with February and November, then check May and January [S90]. Browse the remaining months, including December, before recording a miss.
+
+**Mérida–Badajoz ordination files.** Keep the search open after a miss in Fernando Castón's card file, where cards have been misfiled or lost [S86 @2026-11-23]. In the diocesan fonds, open *Expedientes de órdenes sacerdotales* and check every box and *expediente* range that covers the target year [S87 @2026-11-23]. Search the downloadable inventory by name across boxes and record the full box and *expediente* locator for each candidate [S88 @2026-11-23]. The detailed inventory lists files dated 1738 in box 7, whose summary range is 1731–1733. [S87 @2026-11-23], [S88 @2026-11-23]
 
 Before you record "not found", check:
 
@@ -100,6 +116,14 @@ If any of these apply, record a **coverage gap** naming the parish, diocese and 
 - A pedigree in the file is the relationship the parties declared, so treat it as a claim to check. A shared surname or a related witness stays a hypothesis. [S10] Applications for cousin marriages were very common, so this search is worth doing wherever the couple came from a small or close community. [S9] If no dispensation file is found, that does not prove the couple were unrelated.
 - **Test the declared degree.** List descendant marriages within surviving register coverage. The surviving pre-deportation Port-Royal registers start in 1702 [S28]. Build both spouses' lines to the generation indicated and test candidate ancestors against their birth years. In a 1762 Quebec marriage, Estes found a third-degree dispensation but could not identify a common ancestor at that degree for Madeleine Bourg and Jean-Baptiste LePrince. The possible Gaudet and Hébert connections were a generation out. She suggested the priest acted cautiously after the Acadian displacement [S24]. Keep that explanation as her hypothesis and the shared ancestor unresolved.
 
+**Grants and applications.** For a marriage impediment referred to Rome, search the diocesan *libros registros de dispensas* (*Preces a Roma*). In these books of grants, record the notary's entry as the decision and look separately for the bishopric's application when you need its testimony or supporting papers. For Mérida–Badajoz, use the published series span of 1806–1955 to narrow the search. [S74]
+
+**Order of Alcántara.** In the Mérida–Badajoz archive, follow *Administración → Parroquias → Registros sacramentales → Expedientes de matrimonios* in the Order's fonds. Check the separate *Expedientes de matrimonios extraordinarios* and *Expedientes de fe de soltería* entries for their own dates and box and file numbers. [S76 @2026-11-22], [S77 @2026-11-22]
+
+**Parish marriage investigations.** In Hispanic holdings, check the parish's *informaciones matrimoniales* alongside the diocesan dispensation series. Look under that series even when the ordinary marriage register has no supporting papers. Extract each spouse's line from the testimony or pedigree, keeping it as the declared relationship to verify. [S81], [S82]
+
+**Marriage by proxy.** For an Italian Catholic proxy marriage, look for the mandate in the parish or diocesan premarital file under *processetti matrimoniali*, *processicoli*, *atti matrimoniali* or *pratiche matrimoniali*. If the parish act cites the Ordinary's permission, use that reference to look for a separate licence in the named curia's marriage series, such as *Matrimonialia*. Record the act's reference even if the licence itself remains unlocated. [S83], [S84], [S85]
+
 Read old German kinship words in their period sense. *Vetter* first meant the father's brother and later also the mother's brother [S38]. *Base* first meant the father's sister, then also the mother's sister and more distant female relatives, and narrowed to today's cousin only in the 18th century [S39]. *Muhme* meant the mother's sister and, from late Middle High German, also a female relative [S40]. Middle High German *Oheim* could mean the mother's brother, an uncle, a sister's son or a relative in general [S41]. Record the term as written and take the relationship from the other entries.
 
 For German, Latin and English terms, and for degrees under old and new canon law and civil law, use Heiko Hungerige's free brochure *Verwandtschaftsbezeichnungen und Verwandtschaftsgrade* (RzD-Forschungshilfen Heft 2) and the Roland zu Dortmund's info-graphics in the society's online document collection [S42 @2026-11-12], [S43 @2026-11-12].
@@ -107,6 +131,8 @@ For German, Latin and English terms, and for degrees under old and new canon law
 ## 6. Check for batch recording before using exact dates and places
 
 If several baptisms are entered under one date, the priest may have gathered notes from his circuit and written them up together. Such entries can be less accurate than they look. [S1], [S2] Flag the run as possible batch recording, compare sequence and handwriting, and keep the date and church as written. Treat them as the date and place of entry rather than of the ceremony only when the entry itself or the register's demonstrated practice shows that.
+
+**Birth and baptism dates.** Read the column or wording before assigning a date. Record birth and baptism separately, including when a paired date repeats the same day. If an early-year baptism is the only dated entry, include the preceding year in the birth search when local entries show delays long enough to cross New Year. Leave the birth date unresolved until you have evidence for it. [S78], [S79], [S80]
 
 When a priest supplied the ceremonies for a child already baptized privately (*ondoyé*), record the private baptism and the later church ceremonies separately. A valid baptism could be given in danger of death, with the other ceremonies supplied later [S44]. At Port-Royal in 1742, Honoré was born on 17 June. The entry says Abraham Bourg baptized him at his father's house and that the priest supplied the ceremonies on 24 June. It does not give a separate date for the baptism at home [S45]. Copy the lay baptizer's name and the place as written. Acadian families could wait for a missionary to record a baptism [S46]. Bourg also appears as lay baptizer for children in 1709 and 1719 [S47]. Use that recurrence to search for neighbours or relatives, and verify the family's residence in a dated record.
 

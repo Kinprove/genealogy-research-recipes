@@ -148,6 +148,74 @@ Not verified:
 
 - **S79:** Library of Congress, [Church and Synagogue Records for Genealogy](https://guides.loc.gov/church-records-for-genealogy). Introduction read 2026-11-21. The guide describes using baptism and burial entries and other congregational records where civil registration is thin or absent.
 
+- **S80:** Family Tree Magazine, [The Mexican Cession: A Genealogist’s Guide (with Map)](https://familytreemagazine.com/history/mexican-cession/), 2026-02-18. Southwest settlement and statehood section read 2026-11-22. Community guide that links the two states’ statehood to late recordkeeping. The archival guides distinguish statehood from territorial and local sources.
+
+- **S81:** Arizona State Library, Archives and Public Records, [Arizona Genealogy Resources: Vital Records: Birth & Death](https://azsos.libguides.com/azgenealogy/birthdeath). Birth and death research guidance read 2026-11-22. Birth registration began in 1909, during the territorial period. County coverage varies and delayed birth certificates are listed by filing year.
+
+- **S82:** FamilySearch, [New Mexico, Deaths, 1889–1945](https://www.familysearch.org/en/search/collection/1546466?collectionNameFilter=false). Collection description and early death-record sources read 2026-11-22. The collection includes early death records from counties, churches and other organizations. Its first indexed date predates statewide coverage.
+
+- **S83:** New Mexico State Records Center & Archives, [Primary Sources for Genealogy](https://www.srca.nm.gov/primary-sources/). Diocese of Gallup holdings description read 2026-11-22. The archive describes microfilmed sacramental records for western New Mexico and eastern Arizona, with date and regional coverage.
+
+- **S84:** Family Tree Magazine, [Your Ultimate Guide to US Genealogy](https://familytreemagazine.com/us/american-genealogy-guide/), 2025-06-05. Vital Records section read 2026-11-22. The guide recommends the federal directory for identifying an ordering office and describes gaps after registration laws. Its broad historical dates and generalizations about access are outside the scope of the cited instruction.
+
+- **S85:** National Center for Health Statistics, [Where to Write for Vital Records](https://www.cdc.gov/nchs/w2w/index.htm). Directory introduction and jurisdiction selector read 2026-11-22. The directory routes researchers by the place and type of event.
+
+- **S86:** MyHeritage Blog, [18 Historical Record Collections Added in the Second Half of June 2023](https://blog.myheritage.com/2023/07/18-historical-record-collections-added-in-the-second-half-of-june-2023/), 2023-07-17. Arkansas Deaths announcement read 2026-11-22. Describes a compiled index with separate event and publication dates and underlying sources.
+
+- **S87:** MyHeritage, [Arkansas Deaths](https://www.myheritage.com/research/collection-20537/arkansas-deaths). Collection source and field descriptions read 2026-11-22. Distinguishes date of death from notice publication date and identifies the types of archival sources represented.
+
+- **S88:** Arkansas State Archives, [Researching Death Records](https://www.arkansasheritage.com/blog/dah/2021/08/19/researching-death-records), 2021-08-19. Death-registration history and alternative holdings read 2026-11-22. The Archives distinguishes the 1914 mandate and subsequent reporting gaps from earlier city, cemetery, funeral home and probate sources.
+
+- **S89:** MyHeritage Blog, [MyHeritage Adds 72 Million Records and 38 Historical Record Collections in March 2023](https://blog.myheritage.com/2023/04/myheritage-adds-72-million-records-and-38-historical-record-collections-in-march-2023/), 2023-04-20. Orleans Parish Births announcement read 2026-11-22. Describes the commercial index and its scope. The state and city archives identify certificate and earlier local-index routes.
+
+- **S90:** MyHeritage, [Louisiana, Orleans Parish Births](https://www.myheritage.com/research/collection-20418/louisiana-orleans-parish-births). Collection date range and index description read 2026-11-22. The catalogue gives an advertised 1800–1921 date range. It is an index of Orleans Parish births.
+
+- **S91:** New Orleans City Archives & Special Collections, [Birth](https://nolacityarchives.org/genealogy-guide/vital-records-2/birth/). Orleans Parish birth index microfilm description read 2026-11-22. Identifies the separate 1790–1897 microfilm index, annual alphabetical arrangement and custodian of the corresponding certificates.
+
+- **S92:** Louisiana State Archives, [Historical Birth Records](https://www.sos.la.gov/archives/historical-birth-records). Birth index and Orleans Parish custody guidance read 2026-11-22. The Archives identifies Orleans Parish as the source of its birth holdings before 1911 and distinguishes the index from the certificate.
+
+- **S93:** Louisiana State Archives, [Birth Search](https://vitalrecords.sos.la.gov/Births/DataView.aspx). Official index and pre-1819 certificate caveat read 2026-11-22. The search page distinguishes the 1790–1819 Orleans Parish index results from the availability of individual microfilmed certificates.
+
+- **S94:** MyHeritage Blog, [How to Find Your Heritage by Last Name In 5 Steps](https://blog.myheritage.com/2025/02/how-to-find-your-heritage-by-last-name-in-5-steps/), 2025-02-17. Birth-record access example and discussion read 2026-11-22. The writer describes obtaining a genealogy copy of a parent’s New York birth record after the parent’s death. The state form establishes the scope and supplies the eligibility and documentation rules.
+
+- **S95:** New York State Department of Health, [Mail-in Application for Genealogical Services, DOH-4384](https://healthweb-back.health.ny.gov/forms/doh-4384.pdf). Eligibility and coverage instructions on the agency form read 2026-11-22. For an uncertified birth copy the named person must be deceased. The form specifies the 75-year filing threshold, documentary proof for direct-line descendants seeking a waiver, and the state office’s jurisdictional limits.
+
+- **S96:** Family Tree Magazine, [Understanding Reclaim the Records – An Interview with Brooke Schreier-Ganz & Alec Ferretti | Ep. 208](https://www.youtube.com/watch?v=VvIY8fu4lao), 2026-06-26. Relevant passages read in the matching Family Tree Magazine episode transcript on Wave 2026-11-22. The interview describes Maryland access before the bulk release, a searchable New York index, a tentative Massachusetts transfer, New York City closure and omitted fields. The video player did not load. The transcript was read for these sections, and the cited custodians and release pages establish each current route.
+
+- **S97:** Reclaim The Records, [The New York State Death Index (1880–2017)](https://newyorkdeathindex.com/). Search form and release scope read 2026-11-22. Public index portal with an advertised 1880–2017 span and coverage caveats. No individual was searched.
+
+- **S98:** New York City Department of Health and Mental Hygiene, [Death Certificates](https://www.nyc.gov/site/doh/services/birth-death-records-death.page). Transfer notice and standard and confidential copy provisions read 2026-11-22. 1950 certificates were designated for transfer and the department stopped accepting new 1950 orders on 1 December 2025. The department distinguishes the standard copy from the confidential cause-of-death medical report and sets separate eligibility rules.
+
+- **S99:** NYC311, [Historic Birth, Death, or Marriage Record](https://portal.311.nyc.gov/article/?kanumber=KA-02750). Municipal Archives death certificate date scope read 2026-11-22. The city’s 311 service includes 1950 in the archive death certificate route.
+
+- **S100:** Massachusetts Archives, [Vital Records, 1841–1935](https://www.sec.state.ma.us/divisions/archives/collections/vital-records.htm). Registry transfer and digital access guidance read 2026-11-22. The Archives confirms that the 1930–1935 records transferred and that digitization is incomplete. Its archive-copy guidance includes an individual scan option.
+
+- **S101:** MyHeritage Blog, [MyHeritage Adds 20 Historical Record Collections in April 2023](https://blog.myheritage.com/2023/05/myheritage-adds-20-historical-record-collections-in-april-2023/), 2023-05-16. Baltimore City death index announcement read 2026-11-22. Community source for the Baltimore City lookup. The two archives give the separate city registration start and the exact official series to search.
+
+- **S102:** Maryland State Archives, [Guide to Government Records: Death Records](https://guide.msa.maryland.gov/pages/viewer.aspx?page=death). Baltimore City death index and certificate series read 2026-11-22. Identifies separate city series, including the vowel-indexed volumes and the Soundex sequence from 1950.
+
+- **S103:** Baltimore City Archives, [Vital Records of Baltimore City](https://msa.maryland.gov/bca/research-at-the-baltimore-city-archives/vital-records-of-baltimore-city/). City and state registration dates read 2026-11-22. Systematic Baltimore City registration began in 1875. Registration in the Maryland counties began in 1898.
+
+- **S104:** Reclaim The Records, [The Maryland Motherlode: Births, Marriages, Deaths, and Naturalizations](https://www.reclaimtherecords.org/records-request/31/). Digitization project scope and access links read 2026-11-22. Describes which series the bulk release puts online and the surviving differences in access by individual series.
+
+- **S105:** MyHeritage Blog, [46 Million Historical Records Added in May 2023](https://blog.myheritage.com/2023/06/46-million-historical-records-added-in-may-2023/), 2023-06-11. Missouri birth and death index announcements read 2026-11-22. Describes index products, including the then-announced 1968 start of the death index. Reclaim The Records documents different coverage for its expanded copy.
+
+- **S106:** Reclaim The Records, [Missouri Birth Index, 1920(ish)–2015](https://www.reclaimtherecords.org/records-request/6/). Birth index release description read 2026-11-22. Describes approximate birth index coverage and the separate certificate route.
+
+- **S107:** Missouri State Archives, [Death Records FAQs](https://www.sos.mo.gov/archives/resources/birthdeath/deathfaq.asp). Transfer, index and certificate guidance read 2026-11-22. The Archives describes its post-1910 death certificate project and the separate Missouri Bureau of Vital Records route.
+
+- **S108:** Reclaim The Records, [The Missouri Death Index](https://www.missourideathindex.com/). Expanded index coverage and search form read 2026-11-22. The public index lists deaths from 1954 through 2024. The site describes the index separately from certificate ordering.
+
+- **S109:** MyHeritage Blog, [The Great Miami Hurricane of 1926: What Its 100th Anniversary Means for Genealogy](https://blog.myheritage.com/2026/09/the-great-miami-hurricane-of-1926-what-its-100th-anniversary-means-for-genealogy/), 2026-09-17. Death-certificate search advice read 2026-11-22. The author suggests searching dates around landfall to test for later deaths or filings. No delay for a specific registration is asserted here.
+
+- **S110:** National Weather Service, [Great Miami Hurricane of 1926](https://www.weather.gov/mfl/miami_hurricane). South Florida landfall history read 2026-11-22. Confirms the date of landfall in the Miami area.
+
+- **S111:** Family Tree Magazine, [Preparing for the 1950 Census Release](https://www.youtube.com/watch?v=1Rx63oxxXAg), 2022-03-30. Supplied episode transcript excerpts reviewed 2026-11-22. The video did not load. In the supplied excerpt the presenter suggests looking for a delayed birth filing even with a known birth date, particularly when an adult needed proof for Social Security, enlistment or defense employment. The cited Utah archive verifies the defense-industry example. No timing or eligibility claim about Social Security or enlistment is made here.
+
+- **S112:** Utah Division of Archives and Records Service, [Office of Vital Records and Statistics Delayed Certificates of Birth](https://archives.utah.gov/research/digital/delayed-birth/). Series description and wartime proof of citizenship rationale read 2026-11-22. Describes the Utah delayed series and the demand for proof from defense-industry workers, chiefly from 1941 onward.
+
+- **S113:** MyHeritage, [Missouri Births](https://www.myheritage.com/research/collection-10932/missouri-births). Collection description and reported start year read 2026-11-22. The catalogue describes records from 1910 onward, earlier than the date in the 2023 announcement.
+
 ## Credits
 
 - Kinprove original procedural synthesis; presenter examples are cited as S1 to S10 and S14 and dates were checked against named archival and vital-records authorities, including the Pennsylvania State Archives municipal records inventory — FSL-1.1-MIT (kinprove-original)
@@ -162,3 +230,5 @@ Not verified:
 - Kinprove procedural synthesis from the catalogues, custodians and record-access authorities cited as S40 to S46, S48 to S56, S58 to S61, S63 to S66 and S68 to S70 — FSL-1.1-MIT (kinprove-original)
 - Esther Shuman and MyHeritage Blog, collection announcement and research advice cited as S71 and S78 — Third-party articles, paraphrased with attribution (adapted)
 - Kinprove procedural synthesis from the catalogues, custodians and research guide cited as S72 to S77 and S79 — FSL-1.1-MIT (kinprove-original)
+- Family Tree Magazine articles and episodes and MyHeritage Blog articles, cited as S80, S84, S86, S89, S94, S96, S101, S105, S109, S111 — Third-party works, paraphrased with attribution (adapted)
+- Kinprove procedural synthesis of the archival, catalogue and government sources cited in S80–S113 — FSL-1.1-MIT (kinprove-original)

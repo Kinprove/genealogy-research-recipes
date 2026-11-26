@@ -7,11 +7,11 @@ scope: {"platforms": [], "tasks": ["bride married as a widow under an earlier hu
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "MAIDEN-NAME-RECOVERY-01", "text": "A bride's surname on a marriage record is the name she used at that marriage."}, {"id": "MAIDEN-NAME-RECOVERY-02", "text": "Search her Italian civil records under her maiden name, never only under her husband's surname."}, {"id": "MAIDEN-NAME-RECOVERY-03", "text": "Read a name such as Leung Shee as a woman surnamed Leung, not as a given name."}, {"id": "MAIDEN-NAME-RECOVERY-04", "text": "Do not treat a miss as evidence that she never applied."}, {"id": "MAIDEN-NAME-RECOVERY-05", "text": "keep the request an unsent draft on the user's device until every item is answered"}]
-handoff: ["evidence-proof-judgment", "newspapers-com-search-recovery", "usa-immigration-search-recovery", "japanese-koseki-honseki-recovery"]
+handoff: ["evidence-proof-judgment", "newspapers-com-search-recovery", "usa-immigration-search-recovery", "japanese-koseki-honseki-recovery", "french-canadian-register-recovery", "dutch-civil-church-record-recovery", "philippine-surnames-and-registers", "us-church-record-custody", "burial-evidence-packet"]
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
-capabilities: {"browse": ["civil-registration indexes, locality guides, historical divorce files, census images, newspapers, probate and land records, Social Security indexes, First Families rosters, historical military pension files"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Research method", "group": "Search coverage and name searches", "order": 9}
+capabilities: {"browse": ["civil-registration indexes, locality guides, historical divorce files, census images, newspapers, probate and land records, Social Security indexes, First Families rosters, historical military pension files, parish and burial registers, published local and family histories"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 11}
 ---
 
 # Recover a woman's maiden name behind her married name
@@ -30,7 +30,7 @@ If she may be living, apply the [Living people rule](../SKILL.md#living-people):
 - 4\. Search newspapers under her husband's name
 - 5\. Read probate and land records for her as a relative
 - 6\. U.S.: read the Social Security application
-- 7\. Check First Families rosters for leads
+- 7\. Check published histories and First Families rosters
 - 8\. U.S.: read the widow's military pension papers
 - Return packet
 
@@ -56,7 +56,17 @@ In English-language records, "Shee" can transliterate the Cantonese use of 氏, 
 
 **Poland.** When a historical record uses the traditional Polish surname forms, read `-ówna` as a daughter’s form and `-owa` as a wife’s form [S37], [S38]. For example, use `Nowakówna` to look for her father’s family under `Nowak`. With `Nowakowa`, search for her marriage to a `Nowak` to reach her birth family [S38].
 
+On a Polish-language memorial, `z` or `ze` can introduce a place or a family name. When it introduces a family name, record it as the birth-family name whether it comes before or after the surname used on the memorial. Transcribe the inflected form and search under the base surname as well [S60], [S64].
+
+Read `z domu` or `z d.` as introducing her birth surname. Record the surname after `po pierwszym mężu` or `primo voto` under the first marriage in her marriage chain [S61], [S62], [S63], [S64], [S65].
+
 **Czech names.** Compare a married woman’s recorded surname with her husband’s to see if it is a feminine form of the same surname [S47]. Check for pairs such as `Nováková` and `Novák` [S48] or `Zelená` and `Zelený` [S49]. If the forms match, keep her birth surname open and search for her marriage under the groom’s surname (§2).
+
+**French Canada.** In Québec Catholic parish registers, search for a married woman under her maiden surname. When you know her only under her husband’s name, find a child’s baptism and read the mother’s surname in the parent fields, then carry that form into searches after her marriage [S50], [S51]. Use [French-Canadian register recovery](french-canadian-register-recovery.md) for the register search.
+
+**Netherlands.** Search Dutch civil acts made after a woman’s marriage under her birth surname. When searching for a child’s birth or death, use the two parents’ surnames if you know them. For church records, keep any local patronymic or married form in the search alongside her birth surname [S52], [S53], [S54]. Use [Dutch civil and church record recovery](dutch-civil-church-record-recovery.md) to locate the act.
+
+**Dominican Republic.** Search civil and parish records under the woman’s own surnames after marriage. Retain both surnames when she has two. If the record appends `de` and her husband’s surname to her own names, keep that married form separately and use her own surnames to look for her birth family [S55], [S56].
 
 ## 1. Read birth and death registrations
 
@@ -64,9 +74,19 @@ In English-language records, "Shee" can transliterate the Cantonese use of 氏, 
 
 Search the birth registration of every child, not just one [S1]. In England and Wales the birth certificate gives the name and maiden name of the mother [S2]. Record the maiden name each registration gives, child by child, with its locator. Treat a differing name as a conflict to resolve: it can be a previous married name or a different mother.
 
+Read the mother’s name in the parent fields of each child’s baptism. Include children from every marriage and those who died young when you check the children’s birth, baptism, marriage and death entries for her surname [S72], [S75].
+
 If the parent fields leave her birth surname unresolved, compare the children’s full middle names in birth and baptism records. Test a surname-like middle name as a candidate for the mother’s birth surname, especially in a family that passes names down [S44], [S45], [S46]. Compare it with the maternal grandfather’s surname and other family surnames [S44], [S46]. Search for her under her given name and that surname, then confirm the link to her birth family in an independent record.
 
+If the child’s surname-like middle name does not match a proposed name for the mother, test both grandmothers’ birth surnames as possible namesakes before discarding the clue [S71], [S46].
+
+**Philippines.** In a civil birth record for a child of married parents, use the middle name as a lead to the mother’s birth surname and verify it in her own records. If the record gives no middle name, read the parent and surname fields before applying the convention [S57], [S58], [S59]. Use [Philippine surnames and registers](philippine-surnames-and-registers.md) for the record search.
+
 For a historical New York City birth, read the mother's name on the birth return itself. Look for the maiden-name label under the mother's full name on forms that use it [S26], [S27]. Use the recorded surname to look for her birth family.
+
+In MyHeritage’s Pennsylvania Birth Index, 1900–1920, treat the mother’s surname, when shown, as a candidate. Record any certificate number and verify the surname on the underlying birth record. The index uses automated extraction [S68 @2026-11-22], [S69 @2026-11-22].
+
+Pennsylvania began statewide birth registration in 1906. For an earlier birth, look for surviving local birth registers [S70].
 
 In England and Wales, use the GRO's own online index before buying certificates. The GRO birth index includes the mother's maiden name from the September quarter of 1911, and the online index shows it where available [S2 @2026-11-16]. That online index covers births from 1837 to 1934 [S3 @2026-11-16] and includes the mother's maiden name before 1911 [S4 @2026-11-16]. Do not read the name's absence from an older printed or transcribed index as its absence from the GRO's online index.
 
@@ -76,6 +96,10 @@ On U.S. birth and death records for her children, read the form’s label before
 
 Read her own death certificate, when available, for any maiden surname and for her parents’ names [S9]. On a Scottish statutory death entry, look for her father’s surname and her mother’s maiden surname in the parent fields [S42]. For both her own certificate and her children’s, record who supplied the personal details and what that person could have known firsthand [S9], [S34], [S42]. Check how the surviving husband knew her parents’ names, especially if he never met them [S9]. Carry the reported names forward as leads.
 
+For a married woman in the Subcarpathia civil death registers indexed by JewishGen, search under both the birth and married surnames you know. If an entry does not label the name type, compare the surviving details with her marriage and relatives’ records before assigning the surname to her birth family [S66], [S67].
+
+If her death record gives her maiden name as unknown, look for an earlier death entry for a spouse or close relative that names her. Carry the gap forward until a record supplies the name [S75].
+
 ## 2. Rebuild her marriage chain, latest marriage first
 
 **Privacy gate:** <!-- privacy-gate: request --> A marriage-record order sends the couple's names, the marriage date and place and the requester's identity to the office that holds the record, and asks for a record that names the couple and may name their parents and witnesses. A marriage within living memory names people who may be living. Before ordering a marriage certificate or a copy of a license, answer every [privacy gate](../SKILL.md#privacy-gate) item, apply the same [Record requests](../SKILL.md#record-requests) rule, and keep the request an unsent draft until every item is answered.
@@ -83,6 +107,10 @@ Read her own death certificate, when available, for any maiden surname and for h
 Search each marriage under the groom's name, the place and the approximate date [S1], [S9]. The name the bride gives is the one she used at the time of that marriage [S7]. In England and Wales the certificate states her condition, such as spinster or widow, and her father's name and surname [S6]. A bride who had married before probably used her previous husband's surname; her father's name is then the lead to her maiden name [S8].
 
 If the groom-name search misses, look up the marriage locality in the FamilySearch Research Wiki. Use its local marriage-record guidance to check which collections to search for that place and year [S9 @2026-11-20], [S36 @2026-11-20].
+
+According to Shelley Bishop’s advice [S74†], [S75], search for a church marriage when the civil search misses. Use [U.S. church record custody](us-church-record-custody.md) to identify the congregation and register for the place and time. Where a traveling preacher served the settlement, look for the preacher’s surviving journal or published register as well [S75].
+
+When comparing an Orthodox marriage entry with a candidate baptism, preserve the surname form given for the bride and the form given for her father in separate fields. If they differ, test the link with the place, age and family details before selecting a search surname [S73].
 
 For a historical New York City marriage, read the bride's and groom's affidavits in the City Clerk license packet for each mother's full maiden name [S26], [S29]. If you have a Health Department marriage certificate for 1908–1937, check for a separate City Clerk record for the same couple [S28].
 
@@ -93,6 +121,8 @@ If those notes give the match’s married surname or leave the name type unclear
 Work backwards. When she married as a widow or divorced woman, search for the earlier marriage under her given name, her birth date and the surname she used at the later one [S1]. Repeat until you reach a marriage at which she had not married before; among her marriage records, that is the one that should give her maiden surname [S8].
 
 If a deceased woman's marriage ended in divorce, read her case papers for a former surname when you have the papers in hand or they are open for public inspection [S30]. The New Haven County divorce index for 1900–1922 can give a previous husband's surname in its former-name field [S31]. Use the name to search for her birth and census records and check for an earlier marriage before calling it her birth surname.
+
+Read any account of the marriage in the divorce petition or case papers for the names used when the couple married. Check a different surname against the marriage chain before using it to look for her birth family [S75].
 
 Keep one row per marriage: date and place, the surname she used, her condition, her father's name, how and when the marriage ended, and the children born to it [S1]. Do not assign every child in the household to the current wife; children with the family surname can be the husband's from an earlier marriage [S12].
 
@@ -106,11 +136,21 @@ If someone with a different surname lived with the couple, investigate whether t
 
 When tracing a divorced or widowed woman in censuses before her next marriage, search under both her last married surname and any candidate maiden surname. If the entry uses a different surname or lists her as single, check it against the dates and names in her marriage chain [S39].
 
+If an older widow lives with an unfamiliar household head, test whether another adult in the household is her child. Trace a possible daughter’s marriage to check whether the head is the widow’s son-in-law. If the woman died while her children were young, follow each child into the next available census and test any new household for her parents or a sister [S75].
+
+If a child died young, check the plot register or a gravestone transcription in burial order for the people buried with the child. Test whether the adults in the plot were maternal grandparents before carrying their surname forward as a candidate [S75]. Use [burial evidence](burial-evidence-packet.md) to capture plot and register locators.
+
+When an Irish family demonstrably repeats a distinctive naming sequence, compare daughters’ given names in birth order across nearby census households, as reported in Eliza Watson’s interview [S77†]. Reconstruct the order with birth or baptism entries and use a repeated sequence to choose which possible sisters’ marriages and parentage to check [S78], [S79].
+
 ## 4. Search newspapers under her husband's name
 
 Search engagement and wedding notices with the groom's name, the place and the approximate marriage date [S1], and look for marriage-license items and other articles that name husband and wife together [S14]. Search her obituary and her husband's: a woman's obituary may give her maiden name or name a parent, a brother or an unmarried sister [S9]. A brother or an unmarried sister usually carries her birth surname; a married sister does not. Search her as "Mrs." with her husband's given name or initials, for example `"Mrs. * Smith"` or `Mrs Smith NEAR/5 John` [S13]. Use [newspaper search recovery](newspapers-com-search-recovery.md) for search mechanics.
 
 Search obituaries of her parents and siblings for a survivor listed under her married name. If the notice identifies her as a daughter or sister of the deceased, test a father’s, brother’s or unmarried sister’s surname as a candidate for her birth surname [S9]. For a mother’s obituary, check which surname the mother used when the daughter was born and whether a later marriage accounts for the obituary surname [S9].
+
+Search short wedding notes in the social column as well as formal announcements. If the couple reached their fiftieth anniversary, search for a golden wedding notice around that anniversary. Record the marriage date and place it reports, parents it names and guests whose relationship to the woman you can test [S75].
+
+Search her children’s obituaries too. Check how each obituary names their mother and any surviving relatives before using a surname as a lead [S75].
 
 ## 5. Read probate and land records for her as a relative
 
@@ -130,9 +170,11 @@ For a copy of the SS-5 itself, follow the Social Security Administration's proce
 
 Do not treat a miss as evidence that she never applied. The MyHeritage post notes that only some people applied and that name changes and record errors get in the way [S1]. The NUMIDENT collection covers deceased people only [S16], and the Applications and Claims Index on Ancestry does not include everyone listed in the Social Security Death Index [S19]. Search under each surname in her marriage chain and through her children's entries.
 
-## 7. Check First Families rosters for leads
+## 7. Check published histories and First Families rosters
 
 For a family that lived in a U.S. state during the period covered by a First Families program, look for its published ancestor roster [S30]. Search under the known husband's name and read any spouse and county fields, as in the 2025 First Families of Ohio roster [S33]. Track the surname as a lead until the underlying records support it.
+
+Check county and town histories for early settlers and church members. Look for biographical sketches under the names of her husband, sons and grandsons in the places where they settled. Search published histories of the family she married into for a surname to test against the underlying records [S75], [S76].
 
 ## 8. U.S.: read the widow's military pension papers
 
@@ -142,10 +184,10 @@ When her husband served, look for the widow’s application in historical U.S. m
 
 - The naming custom applied for her country and period, and the surname each record type should carry.
 - A marriage-chain table: one row per marriage with the surname she used, her condition, her father's name, how the marriage ended and its children.
-- A child table: each child's birth and death registrations, the mother's maiden name each gives, and the locator.
+- A child table: each child's birth, baptism, marriage and death entries, the mother's maiden name each gives, and the locator.
 - Death-certificate leads with the informant and their basis for knowing each name, where established.
 - Household relatives: each in-law with census year, relationship, surname, age, birthplace and locator.
-- Newspaper, probate and land leads, each with its locator.
+- Newspaper, published history, probate and land leads, each with its locator.
 - Application records searched, copies requested or still in draft, and any redactions.
 - Pension papers with the file locator and the name and relationship each supporting document gives.
 - Each candidate maiden surname with the records that support it, and every conflict left open.

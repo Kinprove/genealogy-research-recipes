@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 35}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 44}
 ---
 
 # Stage and draft outreach to a DNA match or untested relative
@@ -54,7 +54,7 @@ It does not cover the following, which have their own recipes:
 
 ## 2. Stage the approach by relationship closeness
 
-**Privacy gate:** <!-- privacy-gate: contact --> Every message in this step goes to a living person and can disclose the tester's case; clear step 1 and answer the privacy gate in `SKILL.md` before any of them is sent. If a spouse passes on a message, clear what the tester shares with both the spouse and the eventual recipient.
+**Privacy gate:** <!-- privacy-gate: contact --> Every message in this step goes to a living person and can disclose the tester's case. A first message to a possible birth parent can disclose the tester's birth year. Clear step 1 and answer the privacy gate in `SKILL.md` before sending. If a spouse passes on a message, clear what the tester shares with both the spouse and the eventual recipient.
 
 Rank every planned recipient by how close the relationship is and how sensitive the case is. Then apply these tiers:
 
@@ -77,6 +77,10 @@ Rank every planned recipient by how close the relationship is and how sensitive 
 - **A previously responsive match goes quiet.** A participant reported that a 570 cM match initially discussed the connection and then stopped replying. Record the last exchange and any contact preference. If the person asked for no further contact, stop there. If the tester chooses to write again, Bardige recommended the following approach [S8]. Wait at least a year, then send a new sensitive-tier message, not a reminder.
 
 Contacting a more distant relative is still contact. It needs the same consent and disclosure limits as step 1.
+
+In a cleared first message to a possible birth parent, limit the tester's birth date to the year if that provides enough context [S49]. If the recipient volunteers the month and day, record the date privately as an attributed lead and note what the message disclosed. Compare the date with birth or adoption records already in the case file and consider where else the recipient could have learned it. Keep the relationship tentative pending independent corroboration [S50].
+
+If several relevant kits or linked trees list the same manager, confirm that they point to the same account. With the tester's clearance, send one branch-specific question to the recurring manager [S39]. Apply each kit's disclosure limits to the details you include.
 
 If two cleared MyHeritage recipients in the same tier are equally useful, check for last-visit dates on their match-linked member profiles in the user's account [S34 @2026-11-21]. If both dates are visible, put the more recent first. Leave willingness to reply unknown.
 
@@ -104,6 +108,8 @@ Check the match's linked tree for signs that someone other than the tester runs 
 
 To message a MyHeritage match, use **Contact** on the match [S25 @2026-11-20] or at the top of **Review DNA Match** [S26 @2026-11-20]. For a managed kit, you can contact the kit manager or, if the match has their own MyHeritage account, the match [S26 @2026-11-20]. Check the options in the user's account and confirm the selected recipient is cleared before sending.
 
+In the user's MyHeritage account, check the match card and, for a managed kit, the **Contact** menu for a bracketed transliteration of the cleared recipient's name. For a cleared tree manager, check the linked-tree manager's name on the card. If the selected person's given name is transliterated, use it in the greeting [S40 @2026-11-22]. Keep the exact kit labels in the kit pair.
+
 MyHeritage lets a collaborator contact matches for a shared kit after accepting the invitation [S36 @2026-11-21]. If the collaborator is cleared to write under steps 1 and 2, have them select the shared kit in the DNA Matches kit selector and send the message in their own name [S35 @2026-11-21]. Confirm the kit and recipient in the collaborator's account before sending.
 
 If a FamilyTreeDNA match already links to a MyHeritage tree, check the linked tree for a MyHeritage messaging option in the user's account [S37 @2026-11-21]. Treat a site-owner contact option as a route to the owner [S38 @2026-11-21]. Use MyHeritage messaging only if the recipient and channel are cleared. Otherwise use another cleared route if available. Name FamilyTreeDNA as the site where the kits match.
@@ -128,6 +134,14 @@ If a second-cousin match is on the line you need, ask whether the match would ar
 
 If a match's parent may have known the tester's mother, ask whether that parent would be willing to describe what they remember and how they knew her [S29]. Use the recollection as an attributed lead when evaluating candidate relationships.
 
+If a match can name a grandparent but cannot place a collateral branch, ask the match to put a narrow question to a willing parent who knows the family. Ask whether the grandparent had a sibling with the given name and where that sibling's children fit in the branch [S41]. Log who supplied the answer and include only cleared details about living people.
+
+If a match is reluctant to ask their parent about an adoption and the parent's sibling already knows about it, ask whether that sibling would be willing to share what they remember [S42]. Keep the invitation within the disclosure cleared for that sibling.
+
+When a birth-parent hypothesis turns on place and time, ask where the match's parent lived or served during the relevant period [S43] [S44]. Compare the reply with the dates and places already recorded for the tester's branch. If a relative may remember the tester's parent's partner, ask about the relevant year before bringing up a nickname the family recalls [S45]. Keep agreements and discrepancies as attributed leads for the record search.
+
+If a distant match cannot identify the person but names an ancestral region, record the region as an attributed locality lead for that branch [S44]. Use the ancestral region to narrow the historical record search.
+
 **Privacy gate:** <!-- privacy-gate: contact, publish --> A photo can show living people and would reach the match and the relative who sees it. A birth surname sent to the match may reveal a living person's name change or adoption. Answer the privacy gate in `SKILL.md` before either disclosure, including any onward sharing of the photo.
 
 Ask the match whether an older relative who may have known the person would be willing to look at the photograph. After clearing the photo for both recipients, share it through the match and ask who the relative recognizes without suggesting an identity [S18] [S19]. Log any recognition as that relative's attributed claim. Never use facial resemblance as identity evidence.
@@ -144,6 +158,10 @@ When following up on an unexpected match, share a birth surname of the tester's 
 - **Kits.** If the user is supplying kits, say up front that the recipient will not pay. The presenter treats a prepaid kit as removing a major barrier [S2].
 
 Address privacy in the initial invitation draft with a short, plain-language note [S32].
+
+Offer a cheek-swab kit when the relative says providing a saliva sample is a barrier and the kit supports the comparison you need [S45 @2026-11-22]. MyHeritage's collection instructions specify a cheek swab [S46 @2026-11-22].
+
+If the user already has MyHeritage **Cousin Finder** results, filter them to the target branch and open **View relationship** to inspect the suggested path [S48 @2026-11-22]. Verify that path against records and confirm the person's testing status before treating them as an untested candidate. If the tester clears the recipient, stage a test invitation through a cleared route [S47 @2026-11-22]. Check whether **Contact** is available in the user's account [S48 @2026-11-22].
 
 For a line from France, recruit testers among descendants of emigrants, such as Québécois or Acadian families, and expect few testers living in France [S11]. French law permits genetic examination of a person for medical or scientific-research purposes and for anti-doping, not for genealogy, and fines a person who requests one outside the legal conditions €3,750 (articles in force when checked on 2026-11-12) [S12], [S13]. Some people in France test anyway: a French law firm cited an estimate of three million in July 2026 [S14]. Do not read a lack of France-resident matches as evidence against a French origin.
 

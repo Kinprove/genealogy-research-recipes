@@ -31,6 +31,18 @@
 
 - **S12:** Landkreis Dahme-Spreewald, Kreisarchiv, [Genealogie (Familienforschung)](https://www.dahme-spreewald.de/de/verwaltung/verwaltungsstruktur/dezernat4/amt-fuer-kultur-sport-und-ausbildungsfoerderung/kreisarchiv/genealogie-familienforschung/). District archive’s description of the three district card files and address indexes read 2026-11-19.
 
+- **S13:** Esther Shuman, MyHeritage Blog, [MyHeritage Adds 450 Million Historical Records in September 2026](https://blog.myheritage.com/2026/10/myheritage-adds-450-million-historical-records-in-september-2026/), published 2026-10-06. Hamburg collection announcement read 2026-11-22 UTC.
+  - *Used for:* the community lead to the Hamburg index, the scope including arrivals from other German states, and the publisher’s description of indexed birth and registration fields and occupation.
+
+- **S14:** MyHeritage, [Germany, Hamburg Alien Registrations, 1868-1889](https://www.myheritage.com/research/collection-21085/germany-hamburg-alien-registrations-1868-1889). Public collection description and search form read 2026-11-22 UTC.
+  - *Used for:* the named collection, name search, and the fields documented by the index operator. Access was limited to the public collection page, with no individual results or source images inspected.
+
+- **S15:** Staatsarchiv Hamburg, [Meldewesen](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/einrichtungen/staatsarchiv/best332-8-meldewesen-1068974). Archive guide to the alphabetical registration registers read 2026-11-22 UTC.
+  - *Used for:* the archive’s surname registers, men’s A 5 and women’s A 6 protocol references, volume and page notation, and the separate microfilm order reference for men’s protocols. The guide illustrates entries with birthplaces in Bremen and Stade. The archive route follows the guide’s locators. The MyHeritage index and archival entries were not matched record by record.
+
+- **S16:** Staatsarchiv Hamburg, [Familienforschung im Staatsarchiv](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/einrichtungen/staatsarchiv/familienforschung-im-staatsarchiv-hamburg). Archive guide’s registration and citizenship sections read 2026-11-22 UTC.
+  - *Used for:* Hamburg’s own citizenship and the scope of police registration before general resident registration. Read together with S13, it supports including newcomers from other German states.
+
 ## Credits
 
 - Kreisarchiv Dahme-Spreewald (S12) — District collection description paraphrased with attribution (adapted)
@@ -41,3 +53,6 @@
 - Ahnenforschung.net Forum, thread Erfahrungen mit Archiven, started 2009-09-09 — All rights reserved by the individual forum post authors (adapted)
 - Ahnenforschung.net Forum, thread Suche nach meinem Urgroßvater, 2026-05-12 — All rights reserved by the individual forum post authors (adapted)
 - Kinprove original procedural synthesis drawing on lectures S1-S3, forum threads S4-S5, the archive holdings guide and index page S8-S9, the Danish National Archives guide S10 and the FamilySearch blog post S11; no additional current catalogue coverage is asserted — FSL-1.1-MIT (kinprove-original)
+- Esther Shuman and MyHeritage (S13–S14) — Rights in the blog and collection descriptions remain with their respective rights holders (adapted)
+- Staatsarchiv Hamburg (S15–S16) — Rights in the archive guides remain with their respective rights holders (adapted)
+- Kinprove original Hamburg search and retrieval workflow drawing on S13–S16 — FSL-1.1-MIT (kinprove-original)

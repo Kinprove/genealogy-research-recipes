@@ -26,6 +26,9 @@ Jewish lists. No archival case findings are asserted here.
 - B7 — State Archive of Odesa Oblast — guide to its metrical books, section on Judaism, 2011 — <https://archive.od.gov.ua/wp-content/old-files/PUBLIC/books/2011_metrichni_knigi/07_mk_judaizm.pdf> — read 2026-11-12 — Rights: cited reference, not reproduced. Used for the Ukrainian heading «Одеський міський рабинат» of fond 39, printed beside its Russian name «Одесский городской раввинат». Entries S1–S6 above have the ledger IDs B1–B6. This entry uses its ledger ID because the recipe cites it by that ID.
 
 - B8 — State Archive of Vinnytsia Oblast, [fond R-196, opys 1](https://davio.gov.ua/funds/r/r196-1.pdf). Official archive inventory read 2026-11-19. File 843 describes the Lityn Kloyz synagogue registration papers and lists.
+- S7 (B9) — MyHeritage Blog, Talya — "MyHeritage Publishes 30 New Historical Record Collections and 31 Million Records in September 2022" — 2022-10-21 — <https://blog.myheritage.com/2022/10/myheritage-publishes-30-new-historical-record-collections-and-31-million-records-in-september-2022/> — Community blog post read 2026-11-22. Its Ukraine, Revision Lists section points to Ternopil Oblast for Kremenets district. The announced date range describes the full index.
+- S8 (B10) — State Archive of Ternopil Oblast — Kremenets City Magistrate, fond 37, opys 2 — <https://archives.te.gov.ua/ocifrovanni-spravi/f37-kremeneckij-miskij-magistrat-opis-2/> — Official archive inventory read 2026-11-22. The section lists revision cases under the historical district and province names. Check limited to catalogue descriptions.
+- S9 (B11) — Ukrainian Wikisource contributors — Volhynia guberniya revision-list index for 1858 — <https://uk.wikisource.org/wiki/Архів:Ревізькі_казки_Волинської_губернії/1858> — Community catalogue read 2026-11-22. The Kremenets district table lists State Archive of Zhytomyr Oblast fond 118, opys 14, cases 142 and 144 as Jewish revision lists. Check limited to index descriptions and case locators.
 
 ## Practitioner example
 
@@ -38,4 +41,5 @@ or search behavior is not asserted. Captured article read 2026-11-19.
 ## Credits
 
 - J-Roots Forum contributors, Vera Miller and the State Archive of Vinnytsia Oblast — Forum leads, search examples and archival descriptions paraphrased with attribution (adapted)
+- MyHeritage, the State Archive of Ternopil Oblast and Ukrainian Wikisource contributors — Lookup lead and catalogue descriptions paraphrased with attribution (adapted)
 - Kinprove — original archival catalogue-triage procedure; title-word examples from the archive file titles cited as S6 — FSL-1.1-MIT (kinprove-original)

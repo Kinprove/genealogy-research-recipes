@@ -32,6 +32,18 @@ The candidate-row register, the separation of literal distinguishers from patron
 
 - **S21:** UK Parliament, [Sale and Transfer of Land in Ireland, 21 & 22 Vict. c. 72](https://www.legislation.gov.uk/ukpga/Vict/21-22/72/pdfs/ukpga_18580072_en.pdf), 2 August 1858, preamble and section II. Statute read 2026-11-19.
 
+- **S22:** Editors of Family Tree Magazine, [A Guide to Irish Genealogy Research](https://familytreemagazine.com/heritage/irish/a-guide-to-irish-genealogy-research/), updated 2026-08-04. Community article read 2026-11-22. The editors suggest Tithe Applotment Books when rural church registers start too late. Use the books for dated occupancy leads. S15 and S23 establish coverage by titheable holding. The article’s blanket exclusion of town residents and description of online access are outside the rule used here.
+
+- **S23:** PRONI, [Your Family Tree 6 – Census Substitutes – Eighteenth and Nineteenth Century](https://www.proni.gov.uk/files/proni/2025-12/Your%20Family%20Tree%206%20-%20Census%20Substitutes%20-%20Eighteenth%20and%20Nineteenth%20Century.pdf). Archive leaflet read 2026-11-22. The tithe section describes coverage by occupancy of titheable land and the omission of purely urban residents and labourers outside that coverage.
+
+- **S24:** MyHeritage Blog, [Irish Migration Patterns and How They Affected Irish Genealogy](https://blog.myheritage.com/2024/10/irish-migration-patterns-and-how-they-affected-irish-genealogy/), 2024-10-13. Community article read 2026-11-22. The article points to valuation records at the National Archives in Dublin for occupiers and holding details, and suggests looking for estate rent books and tenant lists in local offices and the two named repositories. S25 distinguishes the earlier working records from the printed valuation. S26 and S27 supply the finding aids and the documented cross-border scope; the article’s ranking of collection sizes is omitted.
+
+- **S25:** National Archives of Ireland, [Valuation Office records](https://nationalarchives.ie/help-with-research/research-guides/valuation-office-records/). Archive guide read 2026-11-22. The guide distinguishes working manuscripts from the printed Primary Valuation, names the House and Tenure Books, and describes the Reading Room list arranged by book type, county, barony and civil parish. Its reference to the genealogy microsites is outside the lookup route used here.
+
+- **S26:** National Library of Ireland, [Further Research](https://www.nli.ie/family-history/further-research). Library guide read 2026-11-22. The Landed Estates section gives the landlord or estate name as the catalogue search key and identifies rent ledgers among the estate papers.
+
+- **S27:** PRONI, [Your Family Tree 8 – Landed Estate Records](https://www.proni.gov.uk/files/proni/2025-12/Your%20Family%20Tree%208%20-%20Landed%20Estate%20Records.pdf). Archive leaflet read 2026-11-22. The guide points from the valuation lessor column to the estate finding aid and describes rentals arranged by townland, including holdings of estate papers for properties in the Republic. It gives the Kenmare estate in County Kerry as one example of a PRONI collection covering an estate wholly in the Republic.
+
 ## Credits
 
 - Genealogy Gems, Irish Genealogy Expert Research Strategies (YouTube, 2020-07-30) — YouTube Standard License; brief attributed quotation (quoted)
@@ -41,3 +53,5 @@ The candidate-row register, the separation of literal distinguishers from patron
 - Findmypast collection description quoted in S13 — Third-party text; short quotation with attribution, not relicensed (quoted)
 - Kinprove original procedural synthesis; worked examples and presenter statements cited as S1-S4 from Genealogy Gems and Lisa Lisson videos; custody and online access checked against archive and collection pages (S5–S14) — FSL-1.1-MIT (kinprove-original)
 - Donna Moughty’s account (S19) and the statutes of 1849 and 1858 (S20, S21) — Published research and enacted provisions paraphrased with attribution (adapted)
+- Family Tree Magazine and MyHeritage Blog (S22, S24) — Third-party research advice paraphrased with attribution (adapted)
+- PRONI, National Archives of Ireland and National Library of Ireland guides (S23, S25–S27) — Third-party archive guidance paraphrased with attribution (adapted)

@@ -11,12 +11,16 @@ handoff: ["us-federal-court-case-file-recovery", "evidence-proof-judgment", "pub
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 114}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 163}
 ---
 
 # Trace a sailor or vessel in piracy and prize records
 
 An account that calls someone a pirate or privateer leaves the status of the specific capture open. Use this route for a named vessel, sailor or seizure.
+
+## Find record leads
+
+If you have a possible pirate or privateer and no record location, browse Cyndi’s List under *Prisons, Prisoners & Outlaws* → *Pirates, Privateers & Buccaneers* [S6 @2026-11-22] [S7 @2026-11-22]. Use relevant listings to locate the underlying records before drawing a conclusion about the sailor or vessel.
 
 ## Trace a capture to its authority
 

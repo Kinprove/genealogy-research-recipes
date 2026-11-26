@@ -45,6 +45,68 @@ The decision order, the register-by-state table, the coverage-gap checklist, the
 
 - **S31:** Sistema informativo degli Archivi di Stato, [Comune di Palazzo San Gervasio. Ufficio di Stato civile](https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?Chiave=92398&RicProgetto=as&TipoPag=prodente). Read 2026-11-21. The historical note distinguishes Murat's decree of 29 October 1808, no. 198, for the Kingdom of Naples from the comuni's obligation to keep registers starting in 1809.
 
+- **S32:** Ministero degli Affari Esteri, [R.D. 9 luglio 1939, n. 1238](https://www.esteri.it/mae/doc/rd1238_39.pdf). Read 2026-11-22. Used for the historical provisions on register copies and indexes, births and birth annotations, banns and supporting papers, marriage and death register series, and the decree's effective date (arts. 28–34, 64–66, 71–78, 95–98, 116–126, 131–133, 137 and 205). The PDF reproduces the historical register rules alongside editorial updates.
+
+- **S33:** Clemente Suardi, Genealogia Familiare (community), [Matrimoni per procura](https://www.genealogiafamiliare.it/wp/matrimoni-per-procura/). Read 2026-11-22. The guide advises checking the locally printed register headings for earlier marriage acts and reading the mandate and annexes. Its Series C statement applies to civil celebration by proxy, with religious transcriptions classified by their own rules.
+
+- **S34:** Clemente Suardi, Genealogia Familiare (community), [Una procura che non era un matrimonio per procura](https://www.genealogiafamiliare.it/wp/matrimoni-per-procura/caso-mengoli-dallolio/). Read 2026-11-22. The Conselice case reproduces and transcribes a 1942 military mandate for banns. The author traces the incoming protocol, postings, parish act and signatures, and compares the mandate and parish birth details with the municipal birth register.
+
+- **S35:** Gazzetta Ufficiale, [Legge 27 maggio 1929, n. 847, issue 133](https://www.gazzettaufficiale.it/eli/gu/1929/06/08/133/sg/pdf). Read 2026-11-22. Used for arts. 8–9 and 12–13 on the second signed original, civil transcription, impediment checks and the ten-day post-celebration notice under the 1929 procedure.
+
+- **S36:** Clemente Suardi, Genealogia Familiare (community), [Sposarsi a undicimila chilometri](https://www.genealogiafamiliare.it/wp/matrimoni-per-procura/caso-fracaro-bovo/). Supplied verbatim passages read 2026-11-22. The public page did not open. The author describes the duplicate parish original, banns paperwork, and separate ceremony, notice and transcription dates in the Asiago case. The historical rule comes from the law; this account supplies the example only.
+
+- **S37:** Suzanne Russo Adams, FamilySearch, [Before They Married: Locating and Using Marriage Supplements](https://cms-z-assets.familysearch.org/63/fb/a14f3db6c833771d2a6183c8ec80/before-they-married-italian-marriage-supplements-adams.pdf). Read 2026-11-22. Used for matching a packet by year and cover number, and for examples of civil birth extracts, parish baptismal certificates and supporting papers. See the document checklist and the examples from Balestrate, Senigallia and Rome.
+
+- **S38:** Clemente Suardi, Genealogia Familiare (community), [Il registro rovinato di Gonzaga](https://www.genealogiafamiliare.it/wp/vicoli-ciechi/registro-rovinato-gonzaga/). Supplied verbatim passages read 2026-11-22. The public page did not open. The author traces Gonzaga Nati 1900, Parte I, no. 257 through the surviving annotation to Bologna Matrimoni 1928, Parte I, no. 1452, and its certified birth extract dated 23 August 1928. The packet and the custodian for this individual case were not independently inspected.
+
+- **S39:** Clemente Suardi, Genealogia Familiare (community), [Sposato a Castellammare, promesso ad Asti](https://www.genealogiafamiliare.it/wp/relax/curiosita/sposato-a-castellammare-promesso-ad-asti/). Supplied verbatim passages read 2026-11-22. The public page did not open. The author describes a surviving 1886 banns act, distinct posting dates and a registrar's refusal. The historical rules for searching and reading a banns file come from the separately cited decree.
+
+- **S40:** Clemente Suardi, Genealogia Familiare (community), [Grande Guerra 1915-1920: norme e archivi](https://www.genealogiafamiliare.it/wp/matrimoni-per-procura/matrimoni-per-procura-grande-guerra/). Read 2026-11-22. The guide advises searching the whole Parte II for First World War civil proxy marriages and using the corps and matriculation number from the mandate to find the service sheet.
+
+- **S41:** Gazzetta Ufficiale, [Decreto luogotenenziale 24 giugno 1915, n. 903, issue 158](https://www.gazzettaufficiale.it/eli/gu/1915/06/24/158/sg/pdf). Read 2026-11-22. Used for the military principal's rank, corps and rank-and-file matriculation number in art. 1 and the simplified form and formal-defect rule in art. 2.
+
+- **S42:** Elisabeth Zetland, MyHeritage Blog (community), [The Real Mario: The Family Story Behind a Global Icon](https://blog.myheritage.com/2026/04/the-real-mario-the-family-story-behind-a-global-icon/). Read 2026-11-22. The author describes a Favale di Malvaro act in which the birth and declaration dates differ and notes the registrar's exemption from presenting the newborn. Used for reading the date and marginal note.
+
+- **S43:** Regno d’Italia, [Codice civile del 1865, Libro I, Titolo XII](https://it.wikisource.org/wiki/Codice_civile_%281865%29/Libro_I/Titolo_XII). Read 2026-11-22. Transcribed historical statute with original page references. Used for arts. 371–374 on presentation, waiver, declaration and birth date, and art. 379 on the residence-comune copy of a birth registered elsewhere.
+
+- **S44:** MyHeritage Blog (community), [Historical Record Collections Added in April and May 2022](https://blog.myheritage.com/2022/06/historical-record-collections-added-in-april-and-may-2022/). Read 2026-11-22. The detailed collection descriptions are used as search leads. The roundup summary repeats the baptism dates for deaths. Use the death collection page’s 1567–1911 range.
+
+- **S45:** MyHeritage, [Italy, Diocese of Trento, Catholic Church Baptisms](https://www.myheritage.com/research/collection-20101/italy-diocese-of-trento-catholic-church-baptisms). Read 2026-11-22. Used for the collection identity, 1548–1937 coverage bounds and birth, baptism and parent fields. The check covered the public description and form.
+
+- **S46:** MyHeritage, [Italy, Diocese of Trento, Catholic Church Deaths](https://www.myheritage.com/research/collection-20103/italy-diocese-of-trento-catholic-church-deaths). Read 2026-11-22. Used for the collection identity, 1567–1911 coverage bounds and death, parent and spouse fields. The public description and form opened in German for the same collection ID.
+
+- **S47:** MyHeritage Blog (community), [MyHeritage Adds 152 Million Historical Records in July 2026](https://blog.myheritage.com/2026/08/myheritage-adds-152-million-historical-records-in-july-2026/). Read 2026-11-22. The roundup identifies the separate Calabria birth/baptism and death/burial indexes and the fields to look for, including possible godparents in baptisms.
+
+- **S48:** MyHeritage, [Italy, Calabria Parish Births and Baptisms, 1591–1963](https://www.myheritage.com/research/collection/italy-calabria-parish-births-baptisms-1591-1963/colid-21057). Read 2026-11-22. Used for collection identity and advertised dates. The public description and form opened in Polish for the same collection ID.
+
+- **S49:** MyHeritage, [Italy, Calabria Parish Deaths and Burials, 1593–1969](https://www.myheritage.com/research/collection-21059/italy-calabria-parish-deaths-burials-1593-1969). Read 2026-11-22. Used for collection identity and advertised dates. The public description and form opened in Polish for the same collection ID.
+
+- **S50:** Clemente Suardi, Genealogia Familiare (community), [Oltre i nomi e le date: i mestieri e la condizione economica dei tuoi antenati](https://www.genealogiafamiliare.it/wp/oltre-i-nomi-e-le-date-i-mestieri-e-la-condizione-economica-dei-tuoi-antenati/). Read 2026-11-22. The author suggests recording pre-service occupation and following residence changes in military records. The archive guide documents those fields for the Frosinone district. Read again 2026-11-23 for the author’s advice on using cadastral and contract records to interpret occupation labels. S55 and S56 support the work distinctions. The label *bracciante* alone leaves property ownership unresolved.
+
+- **S51:** Archivio di Stato di Frosinone, [I registri dei ruoli matricolari del Distretto Militare di Frosinone](https://archiviodistatofrosinone.cultura.gov.it/fileadmin/risorse/foto_pagine/DISTRETTO_MILITARE_DI_FROSINONE/Distretto_Militare_di_Frosinone.pdf). Read 2026-11-22. Used for the occupation field and annotations of changes of residence at home or abroad in this district’s service rolls.
+
+- **S52:** Clemente Suardi, Genealogia Familiare (community), [Centododici, o novantaquattro](https://www.genealogiafamiliare.it/wp/relax/curiosita/centododici-o-novantaquattro/). Supplied verbatim passages read 2026-11-22. The public page did not open. The author describes a 1796 baptism excerpted from a named parish book for an 1841 marriage. Used as an example of the archival route and the difference between event and extract dates.
+
+- **S53:** Clemente Suardi, Genealogia Familiare (community), [Il campo per «zingari» di Prignano sulla Secchia, 1940-1943](https://www.genealogiafamiliare.it/wp/percorsi-di-ricerca/minoranze/prignano-sulla-secchia/). Supplied verbatim passages read 2026-11-22. The public page did not open. The author describes using children's birth copies assembled in marriage packets to trace their family through several comuni. No case count, identity, custody claim or generalization about the community is used.
+
+- **S54:** Gazzetta Ufficiale, [Decreto luogotenenziale 14 ottobre 1915, n. 1496, issue 258](https://www.gazzettaufficiale.it/eli/gu/1915/10/20/258/sg/pdf). Read 2026-11-22. Used for art. 1 on royal legitimation where the military principal’s death prevented celebration of the marriage authorized by proxy.
+
+- **S55:** Treccani, Vocabolario on line, [Agricoltóre](https://www.treccani.it/vocabolario/agricoltore/). Read 2026-11-23. The general definition includes landholders, tenants and people who work in agriculture as laborers. The legal usage is narrower.
+
+- **S56:** Treccani, Vocabolario on line, [Bracciante](https://www.treccani.it/vocabolario/bracciante/). Read 2026-11-23. The agricultural sense refers to manual labor and especially temporary wage work. The definition supplies evidence about the work and leaves the worker’s property status open.
+
+- **S57:** Archivio di Stato di Vicenza, [Ricerche catastali](https://archiviodistatovicenza.cultura.gov.it/servizi/ricerche/ricerche-catastali/). Read 2026-11-23. The guide demonstrates searching by holder’s name in the historical cadastres and describes the *rubriche dei possessori*.
+
+- **S58:** Soprintendenza archivistica e bibliografica del Lazio, [Archivio Colonna di Cesarò](https://sab-lazio.cultura.gov.it/fileadmin/risorse/Strumenti_per/Inventari_on_line/FAMIGLIA/COLONNA_DI_CESARO_.pdf). Lease and sharecropping inventory entries read 2026-11-23. The descriptions of busta 23, item 14, and busta 25, fascicolo 2 document separate rural lease and sharecropping files. The underlying contracts were not inspected.
+
+- **S59:** Conferenza Episcopale Italiana, [Decreto generale sulle disposizioni per la tutela del diritto alla buona fama e alla riservatezza](https://giuridico.chiesacattolica.it/wp-content/uploads/sites/37/07-2018_05_Decreto-generale-privacy_OK.pdf). Article 8 §§ 2, 5 and 7 read 2026-11-23. The 2018 decree updates the 1999 rules. It requires transfer to the historical archive before direct consultation and distinguishes certificates and extracts subject to applicable conditions and third-party protections.
+
+- **S60:** Arcidiocesi di Udine, [Regolamento dell’Archivio parrocchiale](https://bbcc.diocesiudine.it/wp-content/uploads/sites/22/ArchiviParrRegolamento2021.pdf). Article 6 read 2026-11-23. Udine counts its 70-year consultation period from the last act or document entered in a register, including material transferred early. This is Udine’s rule.
+
+- **S61:** Genealogia Familiare (community), [Emigrazione 1929-1970: norme e archivi](https://www.genealogiafamiliare.it/wp/matrimoni-per-procura/matrimoni-per-procura-emigrazione/). Supplied verbatim passages read 2026-11-23. The public page did not open. The author suggests checking transfer and trying an individual certificate or extract when consultation is closed. S59 supplies the current CEI provisions and S60 limits the 70-year example to Udine.
+
+- **S62:** Diocesi di Belluno-Feltre, [Richieste certificati anagrafici](https://www.chiesabellunofeltre.it/wd-doc-ufficiali/richieste-certificati-anagrafici/). Read 2026-11-23. The diocesan rules describe an individual parish marriage certificate request for a descendant’s Italian citizenship application. This route illustrates purpose-specific eligibility and the marriage details to identify the record.
+
 ## Credits
 
 - Kinprove original procedural synthesis; civil-registration dates, decrees, series names, custody and portal origin checked against Italian State Archive pages, Ministero della Cultura pages, Normattiva legal texts, Regione Veneto, Provincia di Trento, BeWeB, a Soprintendenza parish-archive inventory, comune archive pages and Portale Antenati pages cited as S1 to S24 — FSL-1.1-MIT (kinprove-original)

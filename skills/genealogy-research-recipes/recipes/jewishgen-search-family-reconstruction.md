@@ -10,8 +10,8 @@ guardrails: [{"id": "JEWISHGEN-SEARCH-FAMILY-RECONSTRUCTION-01", "text": "Do not
 handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment", "russian-empire-jewish-identity-attribution"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["jewishgen"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 82}
+capabilities: {"browse": ["jewishgen", "myheritage"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": ["contact"]}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 127}
 ---
 
 # Recipe: JewishGen searches that recover families missed by a name-and-town query
@@ -22,6 +22,7 @@ router: {"section": "Records by country and region", "group": "Jewish records", 
 - The matching unit comes before the query
 - A query ladder, with an explicit reason for every change
 - Read the result set before counting it or accepting a negative
+- Translate an unreadable record
 - Geography has several roles
 - Ages: choose the observation date before choosing the search window
 - Double names and ambiguous patronymics
@@ -49,9 +50,11 @@ Three documented traps change how a result must be read:
 
 Save the broad results first. Apply one new constraint at a time and compare what disappeared; retain that rejected set for checking filter effects. These are query plans, not universal UI or CLI commands. Use only methods offered and documented for the selected database.
 
+**Keep the broad surname pass.** In Global Search, start with Surname and leave the place and collection restrictions open. For uncertain transliteration, start with Phonetically Like and try Sounds Like if an expected spelling is missing. When the surname alone yields too many results and the town is known, keep the surname and its match type in the first row and select Town as the second row's Data Type. Remove that row if expected hits disappear. [N34 @2026-11-22] [N35 @2026-11-22] [N17 @2026-11-22]
+
 | Problem | Next search | What it tests |
 | --- | --- | --- |
-| Known surname, uncertain spelling | Exact; Phonetically Like; Sounds Like in separate passes | Literal/synonym behavior versus two phonetic candidate sets |
+| Known surname, uncertain spelling | Phonetically Like; Sounds Like; Is Exactly in separate passes | Two phonetic candidate sets and exact/synonym behavior |
 | Stable beginning, changing ending | Starts With on the bare stem | Suffix and transliteration variants; do not append an invented wildcard |
 | Uncertain beginning, stable internal fragment | Contains when supported, or a documented wildcard query | Prefix loss or an internal spelling fragment |
 | One or two suspect letters | Fuzzy Match, then Fuzzier Match and Fuzziest Match, then plausible transcription variants | Edit-distance errors versus a different naming form |
@@ -65,6 +68,10 @@ Save the broad results first. Apply one new constraint at a time and compare wha
 **Do not substitute one phonetic pass for a variant matrix.** Hungarian census instructions distinguish Phonetically Like (Beider–Morse), Sounds Like (Daitch–Mokotoff) and fuzzy (Damerau–Levenshtein). Belarus instructions specifically warn that Chaia will not retrieve Khaika through the phonetic methods. Diminutives, religious/secular forms and double-name components need explicit passes. Build the matrix from attested name forms, preserving the source for each variant. [Hungarian methods](https://www.jewishgen.org/databases/Hungary/CensusOther.htm), [Belarus given names](https://www.jewishgen.org/databases/Belarus/BelarusRevisionLists.htm).
 
 **Do not improvise Boolean or wildcard syntax.** JewishGen's Search Guide documents comma as OR and space as AND for every Search Type, while its How-to FAQ says the comma works with every type except Is Exactly. A multiword name is therefore not automatically a literal phrase. Wildcard availability varies: the Anglo-Jewry 1851 instructions permit `*` and `?` under Is Exactly, while Starts With uses a bare beginning. Check the chosen interface before reusing either convention. [Search Guide](https://jewishgen.org/HowToFAQ/searchguide.html), [How-to FAQ](https://jewishgen.org/HowToFAQ/howto.html), [1851 search instructions](https://www.jewishgen.org/jcr-uk/1851/How_to_use_the_Database.htm).
+
+**Search a partly legible name with the wildcard mode.** In Global Search, switch to Is Exactly and preserve the legible letters around each gap, as in `Sp*l*ng`. Use that pattern in place of a phonetic query on a guessed transcription. [N34 @2026-11-22] [N17 @2026-11-22]
+
+**Search for both spouses when both surnames are known.** Where the marriage index searches both parties' surnames in one record and supports space as AND, enter both surnames in one Search Term separated by a space. Verify that the names belong to the bride and groom. Also search each surname alone if the pair yields nothing, since JewishGen can index the two spouses on separate rows. [N34 @2026-11-22] [N17 @2026-11-22] [N23 @2026-11-22]
 
 **Test a pinned letter in the selected search type.** JewishGen’s Search Guide uses `Sch[w]artz` to exclude Schvartz in phonetic or fuzzy searches and reserves the asterisk for Is Exactly [N17 @2026-11-19]. Its How-to FAQ assigns brackets to Is Exactly [N22 @2026-11-19]. Run the same surname with and without brackets in the same collection and mode. Compare the actual spellings returned as well as row counts. An unchanged count alone cannot establish how the engine handled the brackets.
 
@@ -87,6 +94,12 @@ For D–F, verify whose father the field represents. For every batch, inspect wh
 
 ## Read the result set before counting it or accepting a negative
 
+**Use the result groups to plan the review.** Use the counts beside the Global Search groups to estimate how much to inspect, then expand the groups that fit the documented places and record types. Check collection coverage before interpreting a concentration of hits as a geographic lead. [N34 @2026-11-22] [N22 @2026-11-22]
+
+**Read the entire household block.** When a results table shows common fields spanning several rows, read those fields with the individual relationship and name columns for all members, including parents and children whose names differ from the search term. [N34 @2026-11-22] [N23 @2026-11-22]
+
+**Open the collection title from the result group.** Record the dataset's source, coverage and directions for locating the original. Use the collection description even when the result row already gives an index citation. [N34 @2026-11-22] [N22 @2026-11-22]
+
 **Count distinct entries, not rows.** A result list is a list of rows, and rows are not people. A household-list database returns every member of a matching household; a birth row can match on a parent's name, so its subject is the child; and one original entry can come back from more than one database or index. Before reporting any number, remove repeated rows: two rows are one entry only when they give the same person from the same original record, with the same record locator and the same line or name in it. Then mark which person in each remaining row carries the searched name, and say what the number counts: rows per database, distinct entries, or people after identity work. A row total is never the number of people who bore a name; counting people needs the identity rulings in [evidence-proof-judgment](evidence-proof-judgment.md).
 
 **Key a household on its original record, not on a household number in the results.** Unless the collection's instructions say that a household number in the results is copied from the original list, do not use it to join, merge or split households, and do not expect the same entry to carry the same number in another query. Key each household on the household number written in the original list or, where the list has none, on the line where the household's entry begins. Add the link to its original record, the archive reference (for example archive, fond, opis and file), the date and the image or page number to locate it. A page alone does not identify a household: several households can share one page, and one household can continue onto the next. Even a number copied from the list identifies a household only within that list; the former-number pivot below explains how to follow it.
@@ -100,6 +113,14 @@ For D–F, verify whose father the field represents. For every batch, inspect wh
 
 **Run a positive control in the same batch.** Before accepting a NIL, query a person already known to be in the same database, in the same session, with the same region, database selection and search options. Prefer a person whose entry was found before through the same field. Log the control as its own row with its result. If the control fails, the empty result shows a broken session, a wrong region, a wrong database or a bad option, not an absence: fix the cause and run both queries again. A control that succeeds shows only that this field and scope worked; it does not cover other spellings, fields or databases.
 
+## Translate an unreadable record
+
+**Privacy gate:** <!-- privacy-gate: publish --> A ViewMate submission sends the record image and request, including any personal details they contain, to JewishGen for public viewing by volunteers and other visitors. The image and replies can enter the searchable archive. [N41 @2026-11-23] Before posting, crop a copy to the passage and any headings needed to read it. Remove unrelated entries and redact identifying details about anyone who may be living from both the image and the request. Answer the [privacy gate](../SKILL.md#privacy-gate) and keep the image local if the gate cannot be cleared.
+
+When you cannot read the handwriting or interpret historical terms, use [ViewMate](https://www.jewishgen.org/viewmate/) for a free volunteer translation. Treat automated readings of the passage as provisional. [N34 @2026-11-23] [N42 @2026-11-23]
+
+After clearing the privacy gate, sign in and submit the redacted excerpt through **Upload Your Image**. Point to the line or field you need and ask for its reading and the meaning of unfamiliar terms in context. [N43 @2026-11-23]
+
 ## Geography has several roles
 
 Keep separate fields for registration, residence, event place, birthplace and places in comments. The Belarus revision-list instructions distinguish the town of registration from residence [N18]. In an 1897 Odessa census result the family’s earlier town, Tulchin, appeared in comments [N2]. Compare surname + Town, surname + Any Field and surname alone. A place printed in comments can also have a hidden Other Towns index entry, so inspect the returned rows before concluding which query found it [N23].
@@ -108,9 +129,15 @@ The same indexing distinction applies to names: a surname mentioned inside free 
 
 Resolve ambiguous place names with historical jurisdiction, coordinates and nearby communities before applying a geographic restriction. Communities supplies historical Jewish names and jurisdictions; Gazetteer serves a broader set of localities. For vital records, also identify the community or registration office responsible for the village: a nearby settlement can hold its registers. An administrative catchment is a different search from an arbitrary radius. [Communities/Gazetteer](https://www.jewishgen.org/Communities/), [Polish records questions](https://jewishgen.org/InfoFiles/Poland/Questions.htm).
 
+In the Jeff Malka Sephardic Collection, Is Exactly can expand town synonyms. Preserve both the submitted town and the place printed on the returned row. For example, the collection documents that Lodz can also return Litzmannstadt. [N34 @2026-11-22] [N40 @2026-11-22]
+
 When a record names an origin or transfer destination, pivot to that collection and its additional lists. When a family merely vanishes, leave migration, missing coverage and name changes as separate retrieval branches. Do not turn an unexecuted all-region search into a claim that the family was absent.
 
 Before treating a region- or town-limited search as negative, open the [Records Catalog](https://www.jewishgen.org/catalog/) and filter by country, sub-region (historical gubernia) and town. Each dataset's page has an **At a Glance** block with its date range, total records and Last Updated date, as on [Ukraine Vital Records](https://www.jewishgen.org/databases/Ukraine/VitalRecs.htm). Use it to confirm that the dataset covers your years, and to choose which saved queries to re-run after a later update. For border or disputed territory, also run the search at country level, not only the sub-region. The [GeneaVlogger interview](https://www.youtube.com/watch?v=KWtdlADparw) motivates this check.
+
+**Find datasets before deciding which names to query.** In the Records Catalog, combine Region / Country with Record Type and the target Date Range. Use Search Datasets to check for a town mentioned in dataset titles or descriptions, and verify locality coverage in the description. To revisit a saved search, use the Show filter for recently updated datasets, then compare the relevant collection's Last Updated date with the date of the saved query. [N34 @2026-11-22] [N36 @2026-11-22] [N39 @2026-11-22]
+
+**Compare the Ukraine revision-list indexes by host.** For a historical household search, use MyHeritage's [Ukraine, Revision Lists from JewishGen](https://www.myheritage.com/research/collection-20234/ukraine-revision-lists-from-jewishgen), whose description gives 1795–1904, and check the locality and year separately in JewishGen's own Ukraine Revision Lists. Read the ages and household relationships alongside the residence. Keep the town, district (uyezd) and governorate (gubernia) together when disambiguating towns or routing a follow-up search. Treat a matching entry on both sites as one lead when they index the same original. [N37 @2026-11-22] [N38 @2026-11-22] [N39 @2026-11-22]
 
 ## Ages: choose the observation date before choosing the search window
 

@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "deed-content-relationship-clues", "evid
 checked: "2026-11-13"
 checked_basis: "read 2026-11-13"
 capabilities: {"browse": ["state archive and land office pages, databases and file images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 155}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 272}
 ---
 # Read Georgia and Texas original land grants: lottery draws, headright classes and the land office file
 
@@ -70,9 +70,15 @@ Link out for the shared steps:
 - **Name the role before you search.** A person can appear as a whole-lot grantee, a fractional-lot grantee, a participant, a fortunate drawer or a purchaser of land the state sold after a lottery. Each role has a different research route [S6], [S17]. Do not use one search strategy for all lotteries [S6].
 - **Do not apply neighbour-cluster reasoning to lottery lots.** Headright grantees chose their land [S16]. Lottery lots were assigned by draw, and winners did not choose where their land lay [S3], [S11]. A drawer's lot neighbours are not evidence of kin. The people who registered in the same county are the better cluster.
 
+**Identify the lottery from the tract.** Locate the land on the maps in Paul K. Graham’s *Georgia Land Lottery Research* to choose the lottery year [S6], [S33]. Check the headright and land-lot county table on *State of Georgia: Original and 1895 Counties and Land Lot Districts* when choosing between headright and lottery records [S34].
+
+**Find the records for the person’s role.** Start with Graham’s Participants or Fortunate Drawers chapter, according to the role you are tracing. Use the record list for that lottery year to check for an applicable index and identify the underlying series by its microfilm roll or box number [S6], [S33].
+
 **Read the bounty certificate before assigning military service.** A Georgia Revolutionary War bounty grant alone leaves Georgia military service unresolved. Georgia residents who enlisted in another state's units could qualify as refugees, and eligible residents who remained in Georgia could qualify as citizens without military service [S28], [S29]. Georgia also awarded bounty land to deserters from British service [S29]. Its 20 February 1782 proclamation offered land to Hessian and other troops who left British service and wished to settle in Georgia [S30]. Record the qualification stated on the certificate and corroborate any claimed unit in military records.
 
 **Find the papers behind the grant.** Match the grant to any surviving certificate, petition or warrant of survey in the Georgia Archives' Headright and Bounty Documents (RG 003.04.005) [S31 @2026-11-20].
+
+Search the supporting papers in FamilySearch’s *Georgia, Headright and Bounty Land Records, 1783–1909*. If the name search misses, browse the relevant county and record type [S31 @2026-11-22], [S38 @2026-11-22]. For a same-name hit, read the document to see whether its county describes the claimant or the land. Compare the date and county with independent evidence before linking the record to the ancestor.
 
 **Test bounty land as a reason for a postwar move from Virginia.** Search Georgia's Revolutionary War bounty grants and their supporting papers. Check who earned the bounty and who took up the land, since veterans could sell their warrants [S32]. Compare the petition or warrant date with the last evidence of residence in Virginia and the first in Georgia. Look for a record that ties the move to the claim before assigning a motive.
 
@@ -81,6 +87,8 @@ Both leads come from the available excerpt of Craig Scott's talk on state bounty
 ## 3. Georgia: read the lottery entry under that year's act
 
 Look up the eligibility list for the lottery year before you interpret any label. The rules changed between lotteries.
+
+**Check the entrant’s eligibility class before inferring military service.** The 1820 lottery admitted both qualifying veterans and civilians. An eligible married man and an indigent Revolutionary War veteran who had never won a Georgia lottery could each receive two draws [S6], [S35]. Identify the class from the registration or entry before using it as a clue to service. If the record gives only the draw count or a winning lot, leave service unresolved.
 
 | Entry or class | 1805 lottery | 1827 lottery | What it does not show |
 | --- | --- | --- | --- |
@@ -104,6 +112,12 @@ Look up the eligibility list for the lottery year before you interpret any label
 - **Date the draw and the grant separately.** Lot 18, district 20, first section, was drawn for John Royston’s orphan in 1827. The reported grant is dated 21 December 1831 [S1]. Search grant books beyond the lottery year.
 - **Residence comes from the registration, not the lot.** Entrants registered in their county of residence [S11]. The residence shown with the drawer, such as "of Gaines District, Morgan County", is the evidence of residence [S1]. Many winners sold their lots without moving there [S5], [S1]. Do not place the person on the lot without a later deed, tax entry or residence record.
 - **Keep a possible sale distinct from a recorded transfer.** The Royston and Vannoy researchers lacked surviving Lee County deeds that could establish a sale of their lottery lots [S2], [S3]. Log the draw, grant and registration residence separately; leave the later owner or sale unresolved without another record.
+
+**Look up an 1820 winner.** Use Silas Emmett Lucas Jr.’s *The Third or 1820 Land Lottery of Georgia* (Southern Historical Press, 1986) for the published winners. Take a hit to the grant books to see who took out the grant [S6], [S35], [S11].
+
+**Use the roster’s 1827 entries for a residence lead.** Find Capt. B. F. Johnson’s “Certified List of Revolutionary Soldiers” in Lucian Lamar Knight’s *Georgia’s Roster of the Revolution*, starting on page 342 [S37]. Use an entry marked `lottery 1827` to identify a candidate county of registration and check it in the lottery list [S37], [S11]. Verify military service in records independent of the lottery list.
+
+Keep a same-name headright hit provisional when it points to a different county, as in the case from the available excerpt of Just Genealogy’s 2022 video [S36].
 
 ## 5. Texas: read the class and the certificate, not just the cover label
 

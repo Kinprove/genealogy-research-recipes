@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "upload", "link", "export", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 205}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 355}
 ---
 
 # Take in, capture and hand over an inherited family collection
@@ -46,6 +46,12 @@ This recipe covers intake, capture and hand-off only. It prescribes no conservat
 
 If the user asks which papers to keep, check for an accessible library copy or digital equivalent before marking a book or record copy as replaceable, according to the podcast's discussion with Lisa Alzo [S50†], [S53], [S54]. Give priority to handwritten notes and family narratives [S55]. Inspect books and record copies for family annotations or loose notes before recommending disposal. Keep that material with its source.
 
+When clearing a deceased relative’s belongings and an expected photograph or paper is missing, check the drawers, wallets, luggage and jewelry boxes in the collection. Record the container and where the item lay before moving it [S89].
+
+For a locket that opens freely, record the full visible contents and inspect their exposed edges for signs of an additional insert. Treat layers that require lifting a mounted image or dismantling the locket as inaccessible. A published locket case revealed more portraits beneath the one first visible [S90].
+
+Inventory digital carriers alongside the paper boxes before deciding what to migrate. Include optical discs, USB and hard drives, memory cards and floppy disks. Check for interview audio and home movies as well as photographs and papers. Mark carriers without a suitable reader as uninspected [S87], [S88].
+
 ## Give every item a stable reference tied to its place
 
 Give items stable references that connect their physical location and received grouping to their files. Preserve album and page order, and link individual captures to their parent page. Capture every page in sequence, blank pages included. If a folded item opens safely, capture it closed and opened, and link both views to the same page or item. Do not lift or remove adhered material to finish the sequence [S3].
@@ -55,6 +61,14 @@ Keep existing files and the received order while preparing the packet. Do not de
 When the work moves on to photograph, papers or interview work, connect it back through these same stable item references.
 
 For a small task, an item reference, source and location, the files with their roles, the original's dimensions and format when accessible or stated, and a gaps note are enough. Record the original's physical dimensions and format whenever the original is accessible or its holder states them: a digital file's pixel size does not reveal the original's size, and size and format help date a photograph. Never infer object size from a resized image, and never ask anyone to handle a fragile original merely to fill a field. Add album position or capture settings when they are relevant [S2].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Opening the printed QR link sends the story locator to Storied and can display accounts and attachments about people who may still be living. Check who is authorized to view the story and answer the privacy gate in `SKILL.md` before opening the link.
+
+For a printed StoriedBook, scan the story’s QR code and open the matching online story [S109 @2026-11-23]. Check for details beyond the printed page and play any attached audio, according to the podcast’s Storied segment [S108† @2026-11-23], [S109 @2026-11-23]. Record the story locator and available attachments in the local inventory beside the printed page’s stable reference. If the link fails or access is denied, mark the online material as uninspected.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Recording a recollection stores the speaker’s voice and details about people who may still be living on the user’s VoiceGift Play recorder. Agree who can hear it and answer the privacy gate in `SKILL.md` before recording.
+
+For a VoiceGift Play companion to an album, keep the recording number in the item register beside the photo’s stable reference. Put any new label on a loose slip or enclosure. To add a recollection to VoiceGift Play, enter the chosen number in **PLAY** and press **PLAY/PAUSE** to check that the slot is empty. In **REC**, enter the empty slot’s number and press **PLAY/PAUSE** to start and again to stop [S111 @2026-11-23]. According to the podcast’s VoiceGift segment, use the same number in **PLAY** to retrieve the clip [S110† @2026-11-23]. Press **PLAY/PAUSE** and check the recording against the photo or album item before marking the pairing verified [S111 @2026-11-23].
 
 ## Keep each statement about an item separate
 
@@ -84,6 +98,10 @@ Inventory the media and their observed condition before proposing capture [S4]. 
 - **Film that may be cellulose nitrate** stays out of routine capture, on a flatbed and on a film scanner alike. Nitrate film was made from 1889 into the early 1950s, and acetate film overlapped it from the 1920s. Only Kodak published end dates. Amateur roll film was often unmarked, and a copy can carry its original's "NITRATE" edge printing. So, except for dated Kodak film, neither the film's date nor its edge marking settles whether it is nitrate [S17], [S18], [S19]. Nitrate is a fire risk: keep suspected nitrate apart from other material, record it, and leave its copying to a person or company trained to handle nitrate [S17], [S18].
 - **Film that smells of vinegar** (deteriorating acetate) is kept apart from other film, because film in good condition absorbs acid from it. The smell shows that the decay has already begun [S18], [S19].
 
+Match safely readable negatives to prints and contact sheets by strip and frame. Record unmatched frames as additional candidates for capture and keep the envelope’s information with the strip reference [S106]. According to Maureen Taylor’s interview advice, a blurry or textured print is a reason to locate the matching negative and try a scan from that source [S105†].
+
+On a film-capable flatbed, use the holder for the film’s format and preserve the existing strip and frame order. Use a holder that fits the strip without cutting frames apart [S106], [S107]. According to Taylor’s interview advice, keep the frames attached during capture [S105†].
+
 **Bound volumes** (a family Bible, diary, ledger, scrapbook or bound album) are captured open only as far as the binding opens without force. Never flatten one for capture, whether face down on a flatbed or under a lid or glass: that pressure can break the spine or loosen brittle pages [S27], [S28]. Rest a volume with weak joints or a restricted opening in a book cradle of polyethylene foam blocks or rolls, under capture equipment that adjusts to its height [S28]. The Library of Congress lists a binding that opens less than 90 degrees as a condition problem [S28]: capture what that opening shows and record the hidden gutter as inaccessible.
 
 **Loose paper.** Capture fragile or valuable originals one sheet at a time. Use a flatbed only when the sheet can rest safely and completely on the glass. Use an overhead camera when flatbed capture would require pressure or leave part of the sheet unsupported [S56], [S39]. Reserve automatic feeding for expendable, sturdy, unfastened sheets of similar size and paper stock. If both sides contain information, use a feeder that captures both sides or capture the sides individually. Check that both sides appear in the resulting files [S39].
@@ -102,6 +120,32 @@ For loose photographs you can safely reach, capture front and reverse and bind b
 
 When a print is stuck to an album page and a phone is the available camera, photograph it in place. Keep the phone parallel to the page and check the edges in the preview. If a wide-angle view bends the edges or the phone casts a shadow, step back and use a longer optical setting if the phone offers one. Use even, diffuse daylight or daylight-balanced light and avoid mixing light sources. If the page still reflects light, move the light or tilt the supported album and realign the phone. Use any locally saved scan-mode crop or perspective correction only as a working copy and retain the full page [S67], [S68], [S69].
 
+**Privacy gate:** <!-- privacy-gate: upload --> Saving an Adobe Scan PDF sends the captured pages, including records about people who may still be living, to Adobe cloud storage. Check the account and audience and answer the privacy gate in `SKILL.md` before using this capture workflow.
+
+In Adobe Scan for iOS, choose **Document** for a loose multipage item, use **Keep scanning** for subsequent pages, check the crop margins and order, and choose **Save PDF**. Keep separate local master captures and check for missing seals, marginal notes and edges in the working PDF [S91 @2026-11-22], [S92 @2026-11-22].
+
+For Adobe Scan’s **Book** mode, align the center divider with the gutter of the safely supported spread. Check both page edges and their order before saving the split pages to the working PDF. Capture individually if the spread will only fit under pressure [S91 @2026-11-22], [S92 @2026-11-22].
+
+Check the original or a full local capture before drawing conclusions from paper tone or marks in a cleaned PDF. In Crume’s Adobe Scan test, **Document** mode turned a cream background white [S91], [S92].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The Google PhotoScan workflow gives the Google app the captured photos of people who may still be living. Check the local destination and any photo-library sync and answer the privacy gate in `SKILL.md` before scanning.
+
+For a glossy print that can lie flat safely, use Google PhotoScan’s glare removal for a working copy. Frame the entire print, take the initial shot, move the phone to each of the four alignment dots and check the cropped corners against the local master [S91 @2026-11-22], [S69 @2026-11-22].
+
+Check the original or a separate uncorrected capture before interpreting faint writing or tone. Crume’s PhotoScan tests produced overly light photo scans and softer detail than his comparison scans [S91].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Photomyne receives the captured prints and page context or negatives, including images of people who may still be living, with possible backup to the Photomyne cloud. Check the app’s configured destinations and answer the privacy gate in `SKILL.md` before scanning.
+
+With a whole-page local master retained, try a Photomyne batch on a safely supported page or group of prints. Check each automatic crop. If a print is missing, check **Edit original scan shots** in the album menu for the full shot before rescanning. When a crop still obscures detail, try a separate capture that fills the frame. Check any automatic cloud backup in the user’s app before the trial [S91 @2026-11-22], [S93 @2026-11-22], [S94 @2026-11-22], [S95 @2026-11-22].
+
+According to Taylor’s interview advice, use phone positives as previews to select which negatives need full film scans [S105†]. Record the strip and frame reference with each selected preview [S106].
+
+After the Photomyne gate is cleared, use **Negatives** mode on sound film that has already cleared the handling checks. Backlight the frame for a positive preview and keep it as a working copy [S93 @2026-11-22], [S95 @2026-11-22].
+
+**Privacy gate:** <!-- privacy-gate: upload --> Saving a scan in OneDrive sends the captured photos or paperwork about people who may still be living to the selected OneDrive account and folder. Check who can see the folder and answer the privacy gate in `SKILL.md` before starting.
+
+If a OneDrive copy is wanted and approved, use **+ > Scan photo** in the OneDrive mobile app and select the approved folder. This scan workflow saves to OneDrive. For a device-only capture, use the phone camera and a local folder outside sync [S96 @2026-11-22], [S100 @2026-11-22].
+
 **Privacy gate:** <!-- privacy-gate: link --> Connecting Reimagine to a MyHeritage family site links the app to that site's photo collection and routes new photos of people who may still be living to that site and its album audience. Answer the privacy gate in `SKILL.md` for the chosen destination before linking.
 
 If the user manages more than one site, connect Reimagine to the intended MyHeritage family site using the user's existing account. Choose a dedicated family site if the scans need a separate collection. Verify the selected site and album audience in the user's account before capturing a batch [S81 @2026-11-21], [S83 @2026-11-21].
@@ -116,6 +160,8 @@ Once that upload gate is cleared, try capturing one facing-page spread in a sing
 
 In the MyHeritage mobile app, after the upload gate is cleared, use **Photos > Photo Scanner** or **Scan photos & albums** to batch capture. Retrieve the individual cropped and straightened working copies from the dedicated album in **Photos**, using the scan date and time to find it. Compare the crops with the local page master [S47 @2026-11-21], [S85 @2026-11-21], [S86 @2026-11-21].
 
+To resume a MyHeritage mobile batch, verify the existing destination album in the app. Once the upload gate is cleared for that album, open it and tap **+ > Scan photos to this album** if offered. Follow the processed-photo count beside the thumbnail while capturing successive pages and compare it with the local masters before closing [S86 @2026-11-22].
+
 According to Andrew Koch's preservation advice [S35†] and the U.S. National Archives [S36], house loose acidic newsprint apart from letters, photographs and other papers. Record where each clipping was found before moving it. Leave adhered clippings in place.
 
 For an undated newspaper clipping, capture the reverse even when its text concerns another person or event. Use reverse-side headlines and advertisements to search for candidate issues. Log that as a lead, search for the complete issue and test the date against independent records; an event mentioned on the reverse is not automatically the clipping's publication date [S31](https://genealogytipoftheday.com/index.php/2022/09/20/flipping-over-clippings-in-books/), [S32](https://threadingneedlesinahaystack.blogspot.com/2008/02/genealogical-mystery-when-did-john.html).
@@ -125,6 +171,22 @@ When the newsprint itself need not be retained, use a paper copy. According to t
 ## Keep received files, derivatives and versions apart
 
 Keep the full initial capture or received file. Make crops, resized copies and edits as separate derivatives. If a supplied image is already enhanced or cropped, describe it as received; do not claim that an untouched master exists. Record the source and role of each file. A new format extension cannot recover detail that the input lacks [S2]. An authored display or scrapbook page is also a derivative. It does not replace the source photograph, and it does not establish who is depicted.
+
+Copy selected files from readable drives or discs into a local intake folder, and use a cable for selected phone photos, audio and video when supported. Keep received filenames, relative paths and companion metadata with the copies. Use the highest-quality accessible version as the capture source and keep variants that carry distinct captions, crops or provenance [S87], [S88].
+
+Keep an additional copy on separate storage and test it by opening an image, recording or document with its companion metadata. Record the backup location in the collection note. A preview in the importing app leaves the backup untested [S87], [S88].
+
+**Privacy gate:** <!-- privacy-gate: export --> A VoiceGift Play backup copies voices and recollections about people who may still be living from the recorder to the user’s computer. Use a local folder outside shared storage and answer the privacy gate in `SKILL.md` before copying.
+
+Connect the VoiceGift Play recorder to the user’s computer by USB and copy the recordings from the mounted drive to the local intake folder [S111 @2026-11-23]. Keep the received filenames and the album’s item-to-number register with the copy. Play the copied files against the numbered album items and log missing or mismatched clips before relying on the backup.
+
+**Privacy gate:** <!-- privacy-gate: export --> Saving a Messages attachment copies the sender’s image or video, possibly depicting people who may still be living, to the user’s Photos library and any configured sync destinations. Check the destination and answer the privacy gate in `SKILL.md` before saving.
+
+On iPhone, open the source Messages conversation, find the attachment and tap the Save Photo button beside the photo or stack. Confirm that the saved item opens in Photos. Keep the sender’s caption and message date separately under the same item reference [S96 @2026-11-22], [S97 @2026-11-22].
+
+**Privacy gate:** <!-- privacy-gate: export --> An Instagram export writes selected posts, photos and associated details about people who may still be living to the user’s device. Keep the destination local and answer the privacy gate in `SKILL.md` before exporting.
+
+Before taking family photos off Instagram, request Instagram’s own download through the account’s information settings. Open the relevant files locally and keep any captions delivered alongside them. Mylio removed direct Instagram import, so use the downloaded files as the intake source [S96 @2026-11-22], [S98 @2026-11-22], [S99 @2026-11-22].
 
 For a new scrapbook, mount prints made from the photo scans and print document copies on acid-free paper or as photographic prints. Keep the originals in their enclosures and record which source item each print came from [S74], [S75].
 
@@ -160,7 +222,17 @@ If a known photo, document or recording is missing from the expected person's vi
 
 For photos already on the MyHeritage website, check the user's Photos page for List view. Review thumbnails beside titles, existing tags, dates and places [S62 @2026-11-20], [S63 @2026-11-20], [S64 @2026-11-20]. Once the gate is cleared, enter supported titles, dates or places inline if the account offers those fields [S63 @2026-11-20]. Keep each value's basis and any unresolved details in the local item register. Treat existing tags as leads for locating the file.
 
+In MyHeritage **Photos**, check for the List toggle beside upload. Click a thumbnail or use **View** on the row when the thumbnail omits detail. Keep the result list open while inspecting the individual photo page in the other tab [S63 @2026-11-22].
+
+Use **Year range** for a decade or custom period. Under **Places**, expand a recorded location to inspect its subdivisions. Choose **Missing dates** or **Missing places** to make a worklist for that field. Clear filters when starting a new search and use the upload gate above before entering established values inline [S63 @2026-11-22].
+
+In **People**, select multiple names to find photos with any selected tag. Enable **Show photos of these people together** when every selected tag must be present. Combine person, year and place filters when the question needs all three. Use **Untagged photos** to find rows needing review. An empty result only describes the tags and filters on that site [S63 @2026-11-22].
+
+Sort by date taken to review photo chronology and use the direction arrow to put the oldest first. Choose upload date to review batches, or title or place when those fields suit the search. Search with a title word or a tagged name and clear restrictive filters if the expected item is missing [S63 @2026-11-22].
+
 **Privacy gate:** <!-- privacy-gate: link --> Saving a person tag links a name and pictured person, who may still be living, to a photo in the MyHeritage family site and exposes that association to its permitted audience. Answer the privacy gate in `SKILL.md` before saving a tag.
+
+For a photo on the untagged worklist, open **Tag people** on the row to inspect the individual photo page. After clearing the link gate, save a tag only when a documented identification supports it. Keep recognition attributed in the local register and leave evidence gaps open [S63 @2026-11-22].
 
 For a Reimagine scan, add a supported person tag manually on the linked MyHeritage family site, using the website or MyHeritage mobile app. Keep the basis in the local item register and record a person's recognition there only as their attributed claim. Leave suggested identities unassigned until corroborated [S81 @2026-11-21], [S84 @2026-11-21].
 
@@ -186,7 +258,13 @@ Contact the receiving society or archive before handing anything over, and recor
 
 In the United States, a signed deed of gift transfers ownership of the physical or digital items. Apart from a will, an inheritance or another transfer made by law itself, a transfer of copyright needs a signed writing, such as a clause in the deed; a donor who keeps the copyright can grant a separate licence instead. A donor can transfer only the rights the donor holds: a donor may have inherited the copyright in a relative's own letters, while the copyright in a studio portrait, or in letters other people wrote, may not be the family's to give [S22], [S23]. Record what the deed says about copyright: transferred, licensed or not addressed.
 
+For succession planning, prepare a local handover inventory with the contents, locations and owner’s wishes for the physical materials and digital files or accounts. Keep the intended disposition separate from the recipient’s actual acceptance and any legal authority. Keep credentials out of the inventory [S104].
+
 ## Check the hand-off from the delivered copy
+
+**Privacy gate:** <!-- privacy-gate: export --> Copying clips onto a recipient’s Play device gives that named recipient and anyone with access to the device the speakers’ voices and recollections about people who may still be living. Answer the privacy gate in `SKILL.md` before making a recipient copy.
+
+Copy only the cleared recordings to the recipient’s Play device [S111 @2026-11-23]. On that device, enter each copied clip number in **PLAY**, press **PLAY/PAUSE** and check the recording against the numbered item in the book [S111 @2026-11-23]. According to the podcast’s VoiceGift segment, hand over the companion device with the recipient’s copy of the book when sharing the recordings [S110† @2026-11-23].
 
 When preparing a multipage item for a tree or hand-off packet, assemble one working PDF locally and retain the individual master captures. Lead with a labelled, researcher-written description giving the item reference and source citation [S57]. Keep a Bible's register together with captures of its safely accessible inserts, and record where each insert was found [S58]. For a postcard, include both the front and reverse after the description [S59]. Open the assembled copy and check page order and legibility.
 
@@ -197,6 +275,10 @@ For a found photograph with a name on the back, use the inscription to look for 
 **Privacy gate:** <!-- privacy-gate: upload, link --> The upload sends both views and any names or other details about people who may still be living to FamilySearch. Linking associates the copy with a tree profile and exposes the source details to its viewers. Answer the privacy gate in `SKILL.md` before either action.
 
 For an authorized FamilySearch hand-off, upload a two-page PDF with the front and reverse in one Memory [S43 @2026-11-18]. Link the Memory as a source only to a corroborated profile for a deceased person, and give the basis for the link [S49 @2026-11-18]. Check the Memory's visibility and omit living-person details from the source title and notes. Other tree users can see source information even when the Memory is private [S44 @2026-11-18].
+
+For a past ScanCafe transfer to MyHeritage, check the site that was open when the order was started through MyHeritage, since the transfer was routed to that site. Check **Photos > Albums** there for a name beginning with ScanCafe and the upload date. Correlate the contents with the order before marking the batch received [S101].
+
+For a received ScanCafe album, check the receiving site under **My privacy > Content > Photos**. If the owner wants to exclude the album from MyHeritage search and Photo Discoveries, uncheck it and save. Check site access and the album’s actual audience separately [S101 @2026-11-22], [S102 @2026-11-22], [S103 @2026-11-22].
 
 Open a representative delivered item and its companion files from the location they were delivered to. Check that the item reference leads to its page or context, its accessible reverse and its source note. Check that captions and other required metadata survived the actual export. Where the software allows it, also embed dates, sources, captions, places and people in each file's own metadata so they travel with the image [S12]. When an application drops those fields, preserve them in an accompanying register or plain-text sidecar file and record the gap [S1]. A passed check covers only the item you opened.
 

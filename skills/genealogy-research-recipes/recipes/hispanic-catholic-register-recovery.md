@@ -10,8 +10,8 @@ guardrails: [{"id": "HISPANIC-CATHOLIC-REGISTER-RECOVERY-01", "text": "**Never c
 handoff: ["brazilian-parish-civil-registry-recovery", "portuguese-parish-civil-register-recovery", "spanish-civil-parish-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 179}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "request"], "contact": []}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 315}
 ---
 
 # Recover a Mexican or Hispanic Catholic ancestor across parish and civil registers
@@ -67,6 +67,8 @@ The start years in step 5 come from FamilySearch and the laws and archive pages 
 
 Record the parish name, its jurisdiction and the Catalog entry used. These locators are separate from the town name.
 
+**Browse the Slave Societies Digital Archive for Cuban baptisms.** Open its Cuba collection [S46 @2026-11-22]. Narrow by province, city and parish, then check the dates of the volumes for that parish [S47 @2026-11-22]. For Havana in 1590–1600, check the Catedral de La Habana's *Libro de Barajas: Bautismos* [S48 @2026-11-22]. Record the parish, volume and folio or image number.
+
 **Search the Early California Population Project for Alta California.** According to Family Tree Magazine’s California guide [S42† @2026-11-20], use the project for mission baptisms, marriages and burials. Search the 1769–1850 transcriptions [S43 @2026-11-20] one event type at a time [S45 @2026-11-20]. Record the mission code and register entry number for each hit [S44 @2026-11-20], [S45 @2026-11-20].
 
 Check coverage by place and event before treating a failed search as evidence of absence. The project also includes records from Los Angeles Plaza Church (1826–1848) and Santa Barbara Presidio (1782–1848) [S44 @2026-11-20]. If a Mission Soledad burial search comes up empty, log the lost burial register as a coverage gap [S44 @2026-11-20].
@@ -92,6 +94,10 @@ Extract each field separately [S10], [S2]:
   When grandparents are missing, compare the civil birth with the baptism [S17]. Check any family certificate against the register before marking a birthplace unknown. In the Norte de La Habana entry, the grandparents' birthplaces were missing only from the family's transcription [S13]. If the parents of a marriage partner remain unknown, check a full sibling's marriage for the same parents [S15].
 
 For machine- or AI-indexed versions of these entries, use the correct-and-verify loop in the AI-for-documentary-records recipe.
+
+**Use *natural de* as a place-of-origin lead.** In a marriage or death entry, copy the place given after *natural de* (native of) and use it to look for the person's baptism or birth record [S55], [S56]. If the entry also gives *vecino de*, record that place separately as residence or local affiliation [S57].
+
+**Follow up on the informant.** When a death or burial entry names an *informante*, copy the name and any stated relationship in separate fields. If the relationship is unstated, look for the informant in baptisms and marriages that could establish a link to the deceased [S55].
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Putting an entry's text or image into an online translator sends what it records to a third party: names, parents, residence and any legitimacy note such as hijo natural. A 20th-century entry can name someone still living. If the entry names anyone who may be living, answer the privacy gate in `SKILL.md` before any of its text or image goes to an online service. Until then, read and translate it without one.
 
@@ -122,6 +128,14 @@ Read the Spanish handwriting from the image; use an online translation only for 
 When a date is missing, search the register around the given-name saint's feast day first, then widen the search [S39], [S40]. The naming custom can concern birth or baptism [S40]; use it as a search window, not an individual event date to enter.
 
 ## 5. Pair the civil and church records
+
+**Check both FamilySearch collections for Dominican events.** For early events, start with Catholic Church Records (1918910), labelled from 1590 [S49 @2026-11-22]. Also check Civil Registration (1619814), labelled from 1744 [S50 @2026-11-22]. Use both routes where the local books cover the event [S46 @2026-11-22]. Browse the church images by parish and the civil images by municipality. Use the local volume dates and event types to judge coverage.
+
+**For Dominican research before 1920, start with the registers.** The first national population census was in 1920 [S52]. For earlier families, reconstruct relationships from parish entries and any available civil acts for the locality [S51].
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for a Dominican civil act sends the named person's identifying details and civil act locator to the Oficialía del Estado Civil. For anyone who may be living, verify the record's access rule and complete the privacy gate in `SKILL.md` before sending. Keep the draft local until the gate is cleared.
+
+**Request a Dominican civil act through an Oficialía del Estado Civil.** If the images do not supply the act, find the civil registry office in the Junta Central Electoral's directory [S51 @2026-11-22], [S53 @2026-11-22]. Gather the registering office or district, municipality, book, folio, act number and registration year. If you have a copy with a 19-digit event number, the JCE accepts that number as an alternative locator [S54 @2026-11-22].
 
 - **Direction of search.** The civil birth registration usually came before the baptism [S10]. From a baptism, search backward for the civil birth. From a civil birth, search forward for the baptism. If nothing turns up, reverse the direction [S10].
 - **Search civil records only after civil registration began there.**
@@ -157,6 +171,10 @@ When a date is missing, search the register around the given-name saint's feast 
 - **A death entry can point to a will.** In Puerto Rico a death entry can name the notary, the filing date and the executors of a will; the source finds this mostly in civil death records and occasionally in church ones [S19]. Record the notary and the date as the lead to the will. The source points to the Last Wills and Testaments series at the Archivo General de Puerto Rico in San Juan [S19]. Read the death entry for this note before you conclude that no will exists.
 - **In Argentina, search the gazette for a succession edict.** A court edict that "cita y emplaza … a herederos y acreedores de …" (summons the heirs and creditors of …) names the deceased, the court (juzgado and its number) and the secretaría handling the sucesión (probate file) [S25]. Use the court and secretaría to find the sucesión file. The edict shows only that the death came before its first publication, which can be months or years after the death; do not record the publication as a death date. The national Boletín Oficial is on the Internet Archive from its 1893 issues [S26], [S27]. Its OCR is noisy, so search spelling variants of the name. From January 1950 the court edicts are in the segunda sección (second section). Before that they are in the first section [S25].
 
+**Compare godparents across siblings' baptisms.** If a sponsor recurs, check that person's baptism and marriage records for a link to the parents [S55]. Keep the person recorded as a godparent until you can distinguish a family relationship from a social tie [S58].
+
+**Compare marriages when siblings married siblings.** If two siblings married two siblings from another family, find both couples' marriage entries. Use the fuller entry to investigate missing parent names or places of origin on either side, and cite the entry that supplied each detail [S55].
+
 ## 7. Check the diocesan copy before calling an entry missing
 
 - **Two copies often exist:** the parish original and a copy held by the diocese or archdiocese [S8]. One presenter describes the copy as made many years after the event [S8].
@@ -164,6 +182,10 @@ When a date is missing, search the register around the given-name saint's feast 
 - **The diocesan copy can be harder to find.** The same presenter says fewer diocesan records are digitized than parish registers [S4].
 - **When an entry is missing, damaged or unreadable,** search the diocesan copy and compare it with the original [S1], [S8].
 - **Keep each copy's locator separate,** and state which copy supplied each reading.
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for a Santo Domingo parish entry sends the named person's identifying details and parish event information to the archdiocese. For anyone who may be living, verify the record's access rule and complete the privacy gate in `SKILL.md` before sending. Keep the draft local until the gate is cleared.
+
+**Ask the Santo Domingo archdiocese about older parish entries.** If the online books leave a gap, check the Archivo Histórico del Arzobispado de Santo Domingo's holdings before assuming the parish still has its books [S51 @2026-11-22], [S59 @2026-11-22]. The archive lists the Sagrario de la Catedral's baptism, marriage and burial books [S59 @2026-11-22]. For a parish listed there, give the Partidas department the parish, event type and year so it can look in the archive [S60 @2026-11-22].
 
 ## Close with a coverage packet
 

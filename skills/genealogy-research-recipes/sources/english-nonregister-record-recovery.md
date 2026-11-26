@@ -130,6 +130,32 @@ S41 to S102 were read on 2026-11-14; the community posts were read both in a sav
 
 - **S111:** [Marriage Act 1835](https://www.legislation.gov.uk/ukpga/Will4/5-6/54/pdfs/ukpga_18350054_en.pdf), 5 & 6 Will. IV, c. 54. Statutory text read 2026-11-19. Sections I and II distinguish earlier affinity marriages and pending suits from future marriages within the prohibited degrees.
 
+- **S112:** Gavin Crawley, [Being Welsh: Traditions and Genealogy](https://blog.myheritage.com/2025/09/being-welsh-traditions-and-genealogy/), 2025-09-01. Community blog post read 2026-11-22. Crawley suggests starting with county archives and the National Library of Wales for chapel registers, minutes and membership lists. The recipe makes no claim about how often these records survive.
+
+- **S113:** National Library of Wales, [Nonconformist Records](https://www.library.wales/catalogues-searching/help-to-search/family-history-help/records/nonconformist-records). Library guide read 2026-11-22. Lists chapel vital registers and manuscript membership lists, points to the Main Catalogue and explains why dissenting couples could have Anglican marriages while their baptisms were recorded elsewhere.
+
+- **S114:** Glamorgan Archives, [A Research Guide to Sources for the Study of Minority Ethnic History](https://glamarchives.gov.uk/wp-content/uploads/2024/03/Guide-FINAL-1.pdf), 2024. Archive guide read 2026-11-22. The nonconformist holdings section lists chapel minutes and membership registers, including Bethel Baptist Church’s membership register D472/3 and an example of a named transfer.
+
+- **S115:** Esther Shuman, [Now Live: 4 Major U.K. and Ireland Collections — Passenger Lists and Nonconformist Vital Records](https://blog.myheritage.com/2026/01/now-live-4-major-u-k-and-ireland-collections-passenger-lists-and-nonconformist-vital-records/), 2026-01-15. Community blog post read 2026-11-22. Used for the event-specific search, inclusion of Catholic entries, and extractable fields including burial place when present. The publisher’s example gives two name forms for the same parents, William Godwin and Mary Wollstonecraft, for a birth in St Pancras, Middlesex, on 30 August 1797. The two MyHeritage hits and any relationship between their underlying images were not independently checked. No frequency or denomination inference is taken from the example.
+
+- **S116:** MyHeritage, [MyHeritage Adds 210 Million Historical Records in January 2026](https://blog.myheritage.com/2026/02/myheritage-adds-210-million-historical-records-in-january-2026/). Publisher collection description read 2026-11-22. Confirms the catalogue title, date range and described birth and baptism fields, including denomination in some records. Its collection link identifies 20981, whose landing page did not render readable content during this check.
+
+- **S117:** MyHeritage, [England & Wales, Nonconformist Deaths and Burials, 1665–1837](https://www.myheritage.com/research/collection-20980/england-wales-nonconformist-deaths-burials-1665-1837). Public catalogue entry read 2026-11-22. Confirms collection 20980, the years covered and the described death, burial, residential and relationship fields. The entry also lists Catholic material and notes uneven deposit of registers across faiths. The entry describes the burial date, while the blog also describes burial place.
+
+- **S118:** TheGenealogist, [Mary Shelley and the Curse of Frankenstein](https://www.thegenealogist.co.uk/featuredarticles/2010/mary-shelley-and-the-curse-of-frankenstein-80/). Publisher feature read 2026-11-22. Independently identifies the parent pair and locates Mary’s birth in the Dr Williams’s Library registry. It describes a birth certificate, with no comparison of the two MyHeritage hits.
+
+- **S119:** Esther Shuman, [MyHeritage Adds 450 Million Historical Records in September 2026](https://blog.myheritage.com/2026/10/myheritage-adds-450-million-historical-records-in-september-2026/), 2026-10-06. Community blog post read 2026-11-22. The Norfolk row identifies the 1796–1900 index and links to collection 21104. The search route uses the collection description and archive series, with no release totals.
+
+- **S120:** MyHeritage, [England, Norfolk, Poor Law Union Registers, 1796–1900](https://www.myheritage.com/research/collection-21104/england-norfolk-poor-law-union-registers-1796-1900?tr_country=US&tr_creative=Sep26&tr_funnel=complete&utm_campaign=complete&utm_content=Sep26&utm_medium=blog&utm_source=organic_blog). Public catalogue entry read 2026-11-22. Describes the record types and the variable birthplace, residence, parish, union and kinship fields. No named record was opened.
+
+- **S121:** FamilySearch, [England, Norfolk, Poor Law Union Records, 1796–1900](https://www.familysearch.org/lv/search/collection/1824706). Public catalogue entry read 2026-11-22. Credits Norfolk Record Office, distinguishes parish and union records across 1834, and describes rates, relief, admissions and discharges, and vital registers. Its holdings description does not establish item-for-item coverage in the MyHeritage index.
+
+- **S122:** Kaisa Kyläkoski, [Suomalaisten saama apu 1810-luvun Englannissa](https://sukututkijanloppuvuosi.blogspot.com/2022/02/suomalaisten-saama-apu-1810-luvun.html), 2022-02-07. Community blog post read 2026-11-22. Discusses a Finnish seaman’s family aided by the society as described in an 1814 newspaper account of its 1813 report. The author notes anonymous cases and lists of donors. The report and newspaper story were not independently inspected. The lookup does not adopt the post’s blanket assertion about foreigners’ eligibility for parish relief.
+
+- **S123:** Andrew Rudd, [Knight Errant of the Distressed: Horace Walpole and Philanthropy in Eighteenth-Century London](https://walpole.library.yale.edu/sites/default/files/files/HW-Philanthropy_booklet%281%29.pdf), 2022. Library exhibition checklist read 2026-11-22. Identifies the Lewis Walpole Library’s copy of the society’s 1814 *Account*, printed in London by W. Marchant, at 63 814 So678. The checklist supplies a shelfmark for the printed volume.
+
+- **S124:** Antiquariat Bierl, [Antiquariatskatalog Winter 2017](https://www.bierl-antiquariat.de/tools/kataloge/katalog_171.pdf), item 94. Bookseller catalogue entry read 2026-11-22. Describes a copy of the same 1814 imprint and identifies the list of subscribers and appendix of selected cases as separate parts. The individual cases in the volume were not read.
+
 ## Credits
 
 - The National Archives, UK Parliament and University of York (S103–S111) — Archive guidance and statutory text paraphrased with attribution (adapted)
@@ -140,3 +166,6 @@ S41 to S102 were read on 2026-11-14; the community posts were read both in a sav
 - English Ancestors blog, posts cited as S42, S43, S45, S51, S57, S59, S63, S65, S67, S72, S73, S79, S82, S85, S87, S89, S97 and S101 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Price Genealogy blog, posts by Diane Rogers and Richard Price cited as S55, S70, S74 and S94 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Untangling Family History, I Nearly Added the Wrong Person to My Family Tree (Here's How to Avoid It) (2026-03-29), cited as S52 — Short attributed paraphrase of one worked example; video remains under its publisher's terms (adapted)
+- Gavin Crawley, Esther Shuman and MyHeritage (S112, S115–S117, S119–S120) — Third-party blog and catalogue material paraphrased with attribution (adapted)
+- National Library of Wales, Glamorgan Archives, TheGenealogist and FamilySearch (S113–S114, S118, S121) — Third-party guides, feature and catalogue descriptions paraphrased with attribution (adapted)
+- Kaisa Kyläkoski, Lewis Walpole Library and Antiquariat Bierl (S122–S124) — Third-party blog and catalogue descriptions paraphrased with attribution (adapted)

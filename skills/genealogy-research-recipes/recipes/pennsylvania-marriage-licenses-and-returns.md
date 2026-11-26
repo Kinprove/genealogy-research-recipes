@@ -4,19 +4,19 @@ title: "Recover Pennsylvania marriage licenses, returns and state copies"
 summary: "Recover Pennsylvania county marriage packets from 1885 and compare them with early state copies and older marriage bonds."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "PENNSYLVANIA-MARRIAGE-LICENSES-AND-RETURNS-01", "text": "Search the county that issued the license for each part of the filing."}]
 handoff: ["missing-marriage-jurisdiction-search", "us-period-law-record-reading"]
 checked: null
 checked_basis: null
-capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 144}
+capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 257}
 ---
 
 # Recover Pennsylvania marriage licenses, returns and state copies
 
-Use this recipe when an early Pennsylvania marriage index gives only a couple and date, or when a county marriage could identify parents before civil birth and death registration reached statewide coverage. Search the county that issued the license for each part of the filing.
+Use this recipe when an early Pennsylvania marriage index gives only a couple and date, when a county marriage could identify parents before civil birth and death registration reached statewide coverage, or when you need an index to locate a Lancaster County filing. Search the county that issued the license for each part of the filing.
 
 ## Use the county marriage filing before statewide vital records
 
@@ -29,6 +29,14 @@ According to the podcast adviser, start a colonial search with a marriage bond w
 According to the marriage-record presenter, look for a bond, license and return as distinct records where they were created. [S2†]
 
 Check separately for the application, issued license and officiant’s return or duplicate. Record what the applicants reported and what the officiant certified. Franklin County, for example, describes applications and returns as separate archival series. [S3 @2026-11-18], [S5 @2026-11-18]
+
+## Search the Lancaster County marriage index
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the gate before sending either spouse’s name or the marriage year to MyHeritage if either spouse may be living.
+
+For a marriage recorded in Lancaster County in 1944 or later, search MyHeritage’s *Pennsylvania, Lancaster County Marriage Licenses* by either spouse’s name and the marriage year if known. [S12 @2026-11-22], [S13 @2026-11-22] Use a hit to locate the county filing. Continue in the county docket even if MyHeritage returns no match.
+
+For Lancaster County licenses from 1937 through 1972, browse the county archives’ separate bride and groom indexes and record the book, volume and license number to locate the filing. [S14 @2026-11-22]
 
 ## Check the incomplete state copy series
 

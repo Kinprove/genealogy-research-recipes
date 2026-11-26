@@ -69,9 +69,40 @@ screenshots, index entries and real family examples are not reproduced.
   coverage catalogue read 2026-11-18. The St James’s entry lists IrishGenealogy
   baptisms from 1752 to 1882 and a later start for marriages. Used for the
   eighteenth-century baptism example. The date span is catalogue coverage.
+- **S9:** Editors of Family Tree Magazine, [A Guide to Irish Genealogy Research](https://familytreemagazine.com/heritage/irish/a-guide-to-irish-genealogy-research/),
+  community article with an April 2025 version and an August 2026 update date in the page header.
+  Church-records, geography and website sections read 2026-11-22. Used for the RootsIreland search
+  lead and the distinction between Catholic and Church of Ireland parish boundaries. The site's
+  general end date is replaced by county-level coverage in the recipe.
+- **S10:** Galway County Council, [Places and placenames](https://www.galway.ie/en/libraries-archives/places-and-placenames),
+  official genealogy guide read 2026-11-22. Uses the townland to distinguish civil, Catholic and
+  Church of Ireland parish labels, which can share a name.
+- **S11:** RootsIreland, [Church Records help](https://www.rootsireland.ie/help/help-church-records/),
+  provider documentation read 2026-11-22. Describes county-level coverage, dates beyond the NLI
+  microfilms and the inclusion of death or burial records in participating centres' databases.
+- **S12:** RootsIreland, [Full List of Genealogical Sources Available Online](https://rootsireland.ie/ifhf/online-sources.php),
+  provider catalogue read 2026-11-22. Used for the public county or genealogy-centre selector.
+  No named record query was submitted.
+- **S13:** RootsIreland, [Genealogical Sources Available Online for County Cork (North & East)](https://www.rootsireland.ie/cork-genealogy/cork-online-sources/),
+  provider coverage table read 2026-11-22. The Roman Catholic rows show event-specific date ranges,
+  blank columns and stated gaps. The table describes those indexed series.
+- **S14:** Family Tree Magazine, [Discover Your Irish Heritage with RootsIreland.ie-Interview with Dr. Brendan Scott | Best Websites](https://www.youtube.com/watch?v=4Iy6uPmYV8A),
+  community interview published 2025-03-20. Preserved transcript excerpt read 2026-11-23. Scott
+  describes Kerry as an example of coverage added after an earlier absence. The supplied excerpt
+  supports the search lead. Video playback and the estimated Kerry total were unverified.
+- **S15:** RootsIreland, [New Cork and Kerry records added!](https://www.rootsireland.ie/2023/06/new-cork-and-kerry-records-added/),
+  provider announcement published 2023-06-07 and read 2026-11-23. The notice identifies a batch of
+  Roman Catholic marriages for Moyvane, County Kerry, dated 1831–1905. Used for checking whether
+  a dated addition matches the parish, event type and year of a prior miss.
+- **S16:** RootsIreland, [County Kerry Genealogy Sources Available Online](https://rootsireland.ie/kerry/online-sources.php),
+  provider coverage table read 2026-11-23. The Moyvane row under Roman Catholic Parish Registers
+  lists marriages for 1831–1905, matching the series in S15. The public table was read without
+  submitting a named search.
 
 ## Credits
 
 - Community sources S3, S4 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Community interview S5, transcribed in S6 — Third-party content, rights retained by its owners. Attributed paraphrase of Loftus’s early parish-record lead (adapted)
+- Family Tree Magazine editors (S9) — Third-party content, rights retained by its owners. Paraphrased RootsIreland lead and parish-boundary distinction (adapted)
+- Family Tree Magazine interview with Brendan Scott (S14) — Third-party content, rights retained by its owners. Paraphrased coverage-change lead (adapted)
 - Kinprove — original procedural synthesis of NLI Irish Catholic parish-register image recovery; coverage and access facts checked against NLI, Findmypast, RootsIreland and FamilySearch pages (O3–O5) — FSL-1.1-MIT (kinprove-original)

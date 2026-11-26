@@ -28,7 +28,7 @@ Forum participants (S7–S11) supply worked examples of home-side local records,
 
 Corrections to the lectures rest on outside authorities.
 
-## Sources S17–S26
+## Sources S17–S42
 
 - **S17:** German Influences in the United States Part 2, [German Influences in the United States Part 2](https://www.pricegen.com/german-influences-in-the-united-states/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
 - **S18:** U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals, [U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1870/1870-instructions.html), opened 2026-11-16. Read column 10 instructions: name the German state instead of Germany. The instruction does not prove enumerator compliance or a precise town.
@@ -47,9 +47,42 @@ Corrections to the lectures rest on outside authorities.
 
 - **S26:** Landesarchiv Nordrhein-Westfalen, Abteilung Rheinland, [Sachthematische Inventare Abteilung Rheinland](https://www.archive.nrw.de/sachthematische-inventare-abteilung-rheinland). Rhineland emigration inventory guide read 2026-09-19. Lists the offices covered by Findbuch 200.01.01, its 1816–1934 span and its surname-arranged PDFs. Explains the archival reference and where to look for the application.
 
+- **S27:** Family Tree Magazine / Stephen Wendt, [A Guide to German Genealogy Research](https://familytreemagazine.com/heritage/german/a-guide-to-german-genealogy-research/), published 2024-12-20. Community article read 2026-11-22. Wendt suggests using associates' hometowns and church records in European colonies and points to departure ports and named compilations. He describes a Damme, Kreis Prenzlau, family example with emigration approved on 6 March 1846. He reports that an Ancestry hit led to a FamilySearch copy whose reverse listed the children and their birth dates, and that he also inspected the archival record. His follow-up account and the archive guide identify the Ancestry route as a permissions index. His manumission section links to the same Hacker title listed in his bibliography under its full title.
+
+- **S28:** Brandenburgisches Landeshauptarchiv, [Wissenswertes für die Familienforschung](https://blha.brandenburg.de/blha/de/rechercheratgeber/familienforschung/). Archive emigration guide read 2026-11-22. The *Auswanderung* section identifies the Potsdam and Frankfurt (Oder) card indexes, catalogue and Ancestry routes, card fields, parent fonds and fallback search keys. The guide describes collective files from 1809–1873 as a principal basis of the index and warns of incomplete coverage. The Ancestry collection page returned a 403, and the historic FamilySearch fiche holdings and current access could not be independently confirmed from the catalogue.
+
+- **S29:** Germanology Unlocked / Stephen Wendt, [Auswanderungsakten: How an Emigration Record Got Me Across the Pond!](https://germanologyunlocked.com/emigrationrecord_acrossthepond/). Community case study read 2026-11-22. The same researcher identifies the Ancestry hit as derived from permission records, names the FamilySearch microfiche as *Auswanderungskartei* and says the children's details appeared after advancing the fiche. The article describes one historical use of a fiche, with no implication about the availability of a film or scan today.
+
+- **S30:** Rijksarchief te Antwerpen, [Inventaris van het archief van de Waterschout, later het Schepenbeheer te Antwerpen](https://agatha.arch.be/data/ead/BE-A0511_110851_109580/annexes/EP5168.pdf). Antwerp inventory entry read 2026-11-22. Inventory K001, no. 1309, describes the 1855 register for emigrant ships to America and identifies errors in Hall's printed index. The inventory describes restricted access to the original. The register itself was not inspected.
+
+- **S31:** Archives municipales du Havre, [Demande d’information concernant un émigrant ayant pris le bateau au Havre](https://archives.lehavre.fr/sites/default/files/2021-09/Emigrant-passager-navire.pdf), revised 2021-09-22. Municipal archive research guide read 2026-11-22. Describes the French-liner and return-voyage conditions, shipping press, INV 334, microfilm series 1 Mi and 2 Mi, and gaps in passenger names in third class.
+
+- **S32:** German Roots / Joe Beine, [Stettin, Germany Passenger Records Information](https://www.germanroots.com/stettin.html). Port records guide read 2026-11-22. Identifies the Stettin and Swinemünde series and the shorter Stettin span within the Ancestry collection. The collection title matched the provider's public page metadata. The signed-out collection pages did not expose the browse controls in this check.
+
+- **S33:** Google Books, [Eighteenth Century Register of Emigrants from Southwest Germany (to America and Other Countries)](https://books.google.co.in/books?id=sdJrAAAAMAAJ&lr=&num=20). Book description read 2026-11-22. The listing identifies Werner Hacker, Closson Press, 1994, and describes place of origin, source fields and manumission papers among the compilation's inputs. The complete register was not inspected.
+
+- **S34:** Heritage Books, [Master Index to the Emigrants Documented in the Published Works of Annette K. Burgert](https://heritagebooks.com/products/118-2387). Book listing read 2026-11-22. The revised edition's description identifies its coverage as Burgert's published volumes and explains the short citation that points to the relevant work. The complete index was not inspected.
+
+- **S35:** Henry Z. Jones Jr., [The Palatine Families of New York - 1710](https://www.hankjones.com/palantines-families-of-ny). Author's book description read 2026-11-22. Identifies the 1710 colonial New York migration group and the name and place index. The volumes were not inspected.
+
+- **S36:** MyHeritage Blog, [MyHeritage Adds 72 Million Records and 38 Historical Record Collections in March 2023](https://blog.myheritage.com/2023/04/myheritage-adds-72-million-records-and-38-historical-record-collections-in-march-2023/), published 2023-04-20. Hesse collection announcement read 2026-11-22. The announcement describes the Hessian index's stated start and its record fields.
+
+- **S37:** MyHeritage, [Germany, Hesse Emigrants](https://www.myheritage.com/research/collection/germany-hesse-emigrants/colid-20395). Public collection description and search form read 2026-11-22. Confirms the advertised 1539 start, name search and described fields, including the departure place. The description gives no complete calendar of places or years and does not establish the index's relationship to LAGIS.
+
+- **S38:** Just Genealogy, [Germans in Quincy, Illinois - Genealogically Speaking - JG0229](https://www.youtube.com/watch?v=_7apdFJjAk0), published 2022-10-25. Preserved transcript excerpts read 2026-11-22. The presenter suggests using the compilations to identify fellow migrants and using their origins as clues. The video page did not open during review. The publisher's descriptions supply the corrected place names and coverage.
+
+- **S39:** Heritage Books / Michael K. Brinkman, [Quincy, Illinois, Immigrants from Emsland, Oldenburger, Munsterland and Osnabrucker Land](https://heritagebooks.com/products/101-b5671). Book listing read 2026-11-22. The description identifies the three origin areas, the surname index and the addendum with corrections to Volume II of the earlier set. The book itself was not inspected.
+
+- **S40:** Heritage Books / Michael K. Brinkman, [Quincy, Illinois, Immigrants from Munsterland, Westphalia, Germany: Volume II](https://heritagebooks.com/products/101-b5047). Book listing read 2026-11-22. Describes the two-volume structure, the alphabetical biographies and the entry numbers linking Volume I to Volume II. The book itself was not inspected.
+
+- **S41:** Karl Stumpp, [The Emigration from Germany to Russia in the Years 1763 to 1862](https://fliphtml5.com/lecjp/ufvd/StumppBook/), American Historical Society of Germans from Russia edition. Author's introduction read 2026-11-22. Stumpp describes looking for origins in the records of the original Bessarabian colonies and using them to compile emigrant entries. The scope here is that documented use of colony registers.
+
+- **S42:** Germans from Russia Heritage Society, Bessarabian Regional Interest Group, [Church Books](https://www.grhs.org/chapters/bess/records/besschurchbooks.htm). Society's register guide read 2026-11-22. Describes the surviving Bessarabian village registers, gaps and the film list arranged by village, record type and years.
+
 ## Credits
 
 - BYU Family History Library / Larry Jensen, Understanding German Records and Jurisdictions, lecture 2022-10-20 — All rights reserved; short attributed quotation (quoted)
 - Kinprove original procedural synthesis drawing on lectures S1-S6 and forum threads S7-S11 as cited, and on the archive and society pages S12-S15, paraphrased — FSL-1.1-MIT (kinprove-original)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
 - Kinprove original Rhineland search guidance from the MyHeritage announcement and catalogue and the Landesarchiv NRW inventory guide — FSL-1.1-MIT (kinprove-original)
+- Kinprove original guidance for place-of-origin searches, drawing on community sources S27, S29 and S38 and the archive, catalogue and book references as cited — FSL-1.1-MIT (kinprove-original)

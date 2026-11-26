@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "dna-match-outrea
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["ancestrydna"], "local_script": [], "extensions": ["browser extension view comparison (optional)"], "data_transfer": ["link", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 26}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 34}
 ---
 
 # AncestryDNA: eight practical ways to investigate matches
@@ -88,6 +88,13 @@ One who shares little with you, like Ruth in the worked example, identifies the 
 side of your connection. Treat the choice as work order, not exclusion: under endogamy a relative
 can share with you through another line.
 
+**Privacy gate:** <!-- privacy-gate: contact --> A message to the target's living cousin carries the sender's identity and a family-history question about the cousin's own deceased grandparents. Answer the privacy gate in `SKILL.md` and stage it through [DNA match outreach staging](dna-match-outreach-staging.md) before sending. Keep the target's DNA results and tentative relationships out of the message.
+
+If the target's sparse tree leaves a branch unnamed and you already have an authorized
+contact route to a cousin on that branch, ask the cousin for their deceased grandparents'
+names, birth years and birthplaces. Use those details to search for records and verify the
+cousin's connection to the target separately [S21].
+
 **Output:** the target's identity and sourced parents or grandparents, obtained through a relative whose tree is informative.
 
 ## 2. Work a branch with a small anchor table
@@ -142,6 +149,25 @@ When compiling one parent's match list, also review the Both and Unassigned sets
 Search Ancestry matches for surnames along the descent paths, including spouses who married in, and for birthplaces along those paths (Bartlett, 2024-07-19). A match's married surname can hide the connection that its parent's or grandparent's surname reveals.
 
 Surname and birthplace searches require no membership; viewing tree details does.
+
+When a match's tree names an immigrant ancestor, use records for that person to verify
+the birth village and parents. Compare the village's parish at the time of the event
+with the documented parishes in your pedigree. Search the nearby branches first and
+keep the others open. Carry any unresolved parent link as a hypothesis [S22].
+
+On the branch you are testing, build a generation-by-generation list from parish
+marriage and baptism records, including birth surnames. If a generation has no surname
+in common with your pedigree, extend the search one generation where records permit
+[S22]. Use dates, places and documented parent links to test any surname overlap [S24].
+
+If the match's tree shows a deceased couple without showing how the tester descends
+from them, trace both spouses' ancestry and leave the tester's generation open. Keep
+parents, grandparents and great-grandparents in play where the evidence allows [S23].
+
+When a shared parish points to a possible connecting family, look for the marriage
+act of the couple whose parentage would test that connection [S23]. Record any parents
+the act names for each spouse and check those lines against the candidate family [S24].
+Keep the connection open if the act is missing or names no parents.
 
 **Privacy gate:** <!-- privacy-gate: contact --> Confirming a tester with a kit manager is contact with a living person about their DNA; answer the privacy gate in `SKILL.md` and stage it through [DNA match outreach staging](dna-match-outreach-staging.md).
 
@@ -281,6 +307,10 @@ assertion and retain its evidential basis where known; if the capture omits its
 origin, leave it unknown. See [Assigning Relationships](https://help.ancestry.com/hc/en-us/articles/53933287432211-Assigning-Relationships-to-AncestryDNA-Matches)
 and [Matches by Parent](https://help.ancestry.com/hc/en-us/articles/53933348047251-Matches-by-Parent).
 
+In the match list, open the relationship link to see the other possible relationships
+and their estimated likelihoods [S26 @2026-11-22]. Compare those alternatives with
+the documented generations before assigning a cousin degree [S25 @2026-11-22].
+
 Before mapping an Ancestry amount to a relationship, record the weighted headline, unweighted amount, segment count, longest segment, kit and view date. If the longest segment alone exceeds the headline, mark it possibly reduced by weighting. If a figure still looks low for a documented path, use the match-to-match view to find the match's close relatives and compare your and your tested relatives' sharing with them through the same line; consistently larger amounts make the low figure doubtful, not the path. Keep the low figure recorded as observed and check the relationship range against each figure separately. The [Timber-weighting discussion](https://genarchivist.net/showthread.php?tid=576) and a [match-to-match comparison discussion](https://genarchivist.net/showthread.php?tid=137) motivate these flags. Close relatives inherit different segments; the sourced pedigree decides the relationship.
 
 Pair the longest segment only with the unweighted amount, because Ancestry reports it before
@@ -302,6 +332,12 @@ Keep three columns: observed cM, dated label with its origin, and sourced pedigr
 ## 7. Recover a missing row through another view
 
 **Use when:** a relative is absent from a shared list or cluster.
+
+If the initial match list yields only distant candidates, date the observation and
+revisit the same kit later [S22 @2026-11-22] [S27 @2026-11-22]. Use **Filter → New →
+Apply filters** to inspect recently added matches, then clear the filter to review the
+full list [S28 @2026-11-22]. Treat a newly displayed closer label as a lead and check
+the relationship as in [section 6](#6-detect-a-label-that-already-uses-your-shared-match-evidence).
 
 Standard Matches by Cluster uses **65–1300 cM** to the tester as its window and excludes closest relatives, inter-match links below 20 cM and SideView-unassigned matches.
 

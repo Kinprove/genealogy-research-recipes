@@ -72,8 +72,14 @@ The Covenanter and Cromwellian-era gaps and "clandestine" marriage entries are n
 
 - **S47:** MyHeritage, [Scotland, Selected Births & Baptisms, c. 1640 - c. 1860](https://www.myheritage.com/research/collection-10321/scotland-selected-births-baptisms-c-1640-c-1860). Public collection catalogue page. Collection title, Free label and scope description read 2026-11-21 from the signed-out collection page. The description identifies selected Church of Scotland kirk-session, other Presbyterian and Quaker records, with parish and event details among the possible fields.
 
+- **S48:** Yan Sandler, MyHeritage Blog, [The Monkland and Kirkintilloch Railway at 200: Tracing Scotland’s Industrial Families](https://blog.myheritage.com/2026/10/the-monkland-and-kirkintilloch-railway-at-200-tracing-scotlands-industrial-families/), published 2026-10-22. Community article. Census and church-register research advice read 2026-11-22. Sandler suggests tracing earlier residences through children’s baptisms and widening a parish search to nearby industrial communities and places associated with relatives.
+
+- **S49:** Scotland’s People, [Church registers](https://www.scotlandspeople.gov.uk/guides/church-registers). Search guidance and baptism-entry contents read 2026-11-22. The guide describes residence and parents’ names as possible fields and recommends using baptism locations to follow families through census records.
+
 ## Credits
 
+- Yan Sandler, MyHeritage Blog (S48) — Third-party content, rights retained by the owner, with an attributed paraphrase (adapted)
+- Scotland’s People (S49) — Crown copyright, with an attributed paraphrase (adapted)
 - Melina Papadopoulos, Family Tree Magazine (S46) — Third-party content, rights retained by the owner, with an attributed paraphrase (adapted)
 - MyHeritage (S47) — Third-party collection description, rights retained by the owner, with an attributed paraphrase (adapted)
 - Scottish Government Citizen Space (S45) — Registration services: Fees review, paraphrased with attribution (adapted)

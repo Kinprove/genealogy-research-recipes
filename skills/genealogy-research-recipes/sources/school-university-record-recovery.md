@@ -84,6 +84,110 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 
 - **S52:** Cambridge University Library, [University Archives](https://www.libraries.cam.ac.uk/collections-and-archives/special-collections/university-archives). Reviewed university archive guide opened 2026-11-21. The Student records section identifies the matriculation series and distinguishes it from other records such as examination lists and student record cards.
 
+- **S53:** [El Seminario Metropolitano de San Atón de Badajoz receptor de alumnos extranjeros: análisis del alumnado a través de su archivo](https://chdetrujillo.com/el-seminario-metropolitano-de-san-aton-de-badajoz-receptor-de-alumnos-extranjeros-analisis-del-alumnado-a-traves-de-su-archivo/), published 2022-11. Reviewed the conference paper’s classification, descriptions and specimen locators on 2026-11-22. The authors summarize the seminary’s classification and give academic and personal-file references. They quote the 1664 constitutions and distinguish applicants, enrolled pupils and examined pupils.
+
+- **S54:** [Guía del Archivo del Seminario Metropolitano San Atón. Organización de los fondos documentales](https://www.dip-badajoz.es/cultura/ceex/reex_digital/reex_LXX/2014/T.%20LXX%20numero%20extraordinario%202014/67959.pdf). Reviewed the seminary archive guide’s published series and inventory on 2026-11-22. The guide lists the dated Informaciones volumes, the start of Expedientes Personales, enrolment registers and the 1893–1897 Actas de exámenes. Use series titles and volume or box locators because the published classification schemes differ.
+
+- **S55:** [La sección Secretaría de los Archivos Históricos de Seminarios, un referente para estudios de Historia de la Educación](https://revistas.ucm.es/index.php/RGID/en/article/download/56562/51117/). Reviewed the sections on Secretaría and student records on 2026-11-22. The archival study describes applications, personal files, conduct reports, marks, certifications, scholarships, and the Informaciones covering 1683–1853. Its classification numbers differ from the conference paper’s.
+
+- **S56:** [El seminario metropolitano San Atón de Badajoz: de la Universidad de Extremadura primera sede](https://chdetrujillo.com/el-seminario-metropolitano-san-aton-de-badajoz-de-la-universidad-de-extremadura-primera-sede/), published 2024. Reviewed the sections on academic affiliation and Civil War transfers on 2026-11-22. This history distinguishes the teaching in Badajoz from affiliation with Salamanca and cites the diocesan bulletin for transfers during the Civil War.
+
+- **S57:** [Guadalupe Pérez Ortiz and Francisco González Lozano, Tirso Lozano Rubio: un sacerdote al servicio de la sociedad y de la Iglesia](https://cdiex.es/storage/files/2023_08/cnuXMAfbhonayQwW3OyiyQz9OZnmRMdAu7iB4cWA.pdf). Reviewed the section on the seminary during the Civil War on 2026-11-22. The account places older students at San Carlos Borromeo and younger students at Villafranca de los Barros.
+
+- **S58:** [How to Navigate Dead Fred’s Genealogy Photo Archive](https://familytreemagazine.com/websites/dead-fred-genealogy-photo-archive/), published 2022-09-29. Reviewed the section on school annuals on 2026-11-22. The author suggests searching the Annuals archive for school yearbooks.
+
+- **S59:** [Dead Fred’s Annuals](https://deadfred.com/annuals_05.html). Reviewed the list of school annuals and its links on 2026-11-22. The collection links lead to uploaded images for the listed volume. The list does not establish that a school or edition is complete.
+
+- **S60:** [MyHeritage Publishes 65 Million Records in November and December 2022](https://blog.myheritage.com/2023/01/myheritage-publishes-65-million-records-in-november-and-december-2022/), published 2023-01-17. Reviewed the description of the Leuven collection on 2026-11-22. The release describes the records as successful entrance examinations and calls the origin field a birthplace. The archive’s documentation establishes the scope of the underlying enrolment series.
+
+- **S61:** [MyHeritage, Belgium, Leuven University Matriculations](https://www.myheritage.com/research/collection/belgium-leuven-university-matriculations/colid-20334). Reviewed the Leuven collection description on 2026-11-22. The description attributes the source to the Belgian State Archives. Use the archive description and original wording to interpret the entries.
+
+- **S62:** [KU Leuven matrikels online](https://www.kuleuven.be/lectio/ku-leuven-matrikels-online). Reviewed the database’s provenance and field descriptions on 2026-11-22. KU Leuven identifies historic enrolments, dates of enrolment, origin and diocese, and gaps across the full span.
+
+- **S63:** [State Archives of Belgium, Old University of Leuven enrolment registers](https://agatha.arch.be/en/data/ead/BE-A0518_104297_108072). Reviewed the enrolment-register inventory on 2026-11-22. The inventory gives the register date ranges and identifies a register lost in the 1914 fire.
+
+- **S64:** [Ylioppilasmatrikkelin käytettävyydestä](https://sukututkijanloppuvuosi.blogspot.com/2024/01/ylioppilasmatrikkelin-kaytettavyydesta.html), published 2024-01-06. Reviewed the sections on the two editions and original records on 2026-11-22. Kaisa Kyläkoski describes the paired editions, their navigation and the separate archive scans.
+
+- **S65:** [University of Helsinki, Yliopistomatrikkelit](https://www.helsinki.fi/fi/tutustu-meihin/arkistopalvelut-ja-kirjaamo/yliopistomatrikkelit). Reviewed the archive’s guide to student and faculty registers on 2026-11-22. The guide identifies the 1640–1852 and 1853–1899 editions and directs readers to digitized historical faculty registers and degree lists in Arkki1640.
+
+- **S66:** [Yrjö Kotivuori, Ylioppilasmatrikkeli 1640–1852](https://www.ylioppilasmatrikkeli.fi/). Reviewed the earlier register’s search and source options on 2026-11-22. The 1640–1852 edition identifies its coverage and provides person and source routes.
+
+- **S67:** [Veli-Matti Autio, Ylioppilasmatrikkeli 1853–1899, Esipuhe](https://ylioppilasmatrikkeli.fi/1853-1899/esipuhe/). Reviewed the editor’s introduction to the compilation on 2026-11-22. Veli-Matti Autio describes the original registers behind the compilation and distinguishes the digital compilation’s running numbers from numbering in the archival volumes.
+
+- **S68:** [Ylioppilaiden "osoitekalenterit"](https://sukututkijanloppuvuosi.blogspot.com/2024/02/ylioppilaiden-osoitekalenterit.html), published 2024-02-10. Reviewed the historical roster descriptions and address-search example on 2026-11-22. Kyläkoski identifies the Swedish- and Finnish-language series and suggests searching a shared address in adjacent terms to find possible acquaintances.
+
+- **S69:** [National Library of Finland, Förteckning öfver embets- och tjenstemän samt närvarande studerande](https://kansalliskirjasto.finna.fi/Record/fikka.2268950). Reviewed the National Library’s Swedish-language roster entry on 2026-11-22. The title identifies the roster as a list of staff and students registered present, and the entry links to the publication.
+
+- **S70:** [National Library of Finland, Luettelo virka- ja palvelusmiehistä ynnä läsnä olevista ylioppilaista](https://kansalliskirjasto.finna.fi/Record/fikka.5867389). Reviewed the National Library’s Finnish-language roster entry on 2026-11-22. The catalogue dates the Finnish-language issues to spring 1870 through spring 1873 and links to the publication.
+
+- **S71:** [National Library of Finland, Suomen yliopiston luettelo](https://www.finna.fi/Record/fikka.5866480). Reviewed the National Library’s later university roster entry on 2026-11-22. The entry gives 1875–1918, alternate Finnish and Swedish titles, and access at legal-deposit workstations for the linked set.
+
+- **S72:** [Ikuinen ylioppilas G. W. Fagerlund](https://sukututkijanloppuvuosi.blogspot.com/2025/04/ikuinen-ylioppilas-g-w-fagerlund.html), published 2025-04-15. Reviewed the term-by-term comparison and its cited rosters on 2026-11-22. Kyläkoski compares the matriculation date with later registrations and distinguishes work elsewhere from periods registered present.
+
+- **S73:** [Ylioppilasmatrikkeli 1853–1899, entry 17632](https://ylioppilasmatrikkeli.fi/1853-1899/henkilo.php?id=17632). Reviewed the dated matriculation entry and its education details on 2026-11-22. The register entry separately names the school and forestry study at Tharandt. It does not establish a complete study chronology.
+
+- **S74:** [Miten houkutellaan tutustumaan arkistoaineistoon?](https://sukututkijanloppuvuosi.blogspot.com/2026/09/miten-houkutellaan-tutustumaan.html), published 2026-09-29. Reviewed the Astia route and the reported application-file lead on 2026-11-22. Kyläkoski describes opening the institution’s creator page and relays a reader’s find of an application letter and recommendations. The reader’s own file was not inspected.
+
+- **S75:** [National Archives of Finland, Jyväskylän seminaari](https://astia.narc.fi/uusiastia/kortti_toimija.html?id=EAC_710083534). Reviewed the Astia creator record on 2026-11-22. The creator record names Jyväskylän seminaari for 1863–1937. The date range is the creator’s span.
+
+- **S76:** [National Archives of Finland, Jyväskylän seminaarin arkisto](https://finna.fi/Collection/narc.VAKKA-10647.KA). Reviewed the archive hierarchy for pupil lists and applications on 2026-11-22. The hierarchy separates the seminary’s own pupil registers from those of its practice school and kindergarten and identifies separate application series.
+
+- **S77:** [Ei kaikkia väitöskirjoja hyväksytty](https://sukututkijanloppuvuosi.blogspot.com/2024/01/ei-kaikkia-vaitoskirjoja-hyvaksytty.html), published 2024-01-23. Reviewed the dissertation cross-check and discussion of printing approval on 2026-11-22. Kyläkoski compares listed dissertations with the matriculation register, leaves the explanation for missing awards open pending a check of minutes, and describes a scholarly study of examination decisions.
+
+- **S78:** [Ilmestynyt: Historiankirjoittajan kaksi väitöskirjaa](https://sukututkijanloppuvuosi.blogspot.com/2023/09/ilmestynyt-historiankirjoittajan-kaksi.html), published 2023-09-23. Reviewed the appendix and degree counterexamples on 2026-11-22. Kyläkoski reports finding a dissertation decision in an attached evaluation and contrasts it with an accepted dissertation for which the intended degree was not established.
+
+- **S79:** [Elise Garritzen, Lähteiden lumoamat](https://www.doria.fi/bitstream/10024/182924/1/BH130_opt.pdf). Reviewed printed pages 131–134 on dissertation examinations on 2026-11-22. The study uses faculty minutes and examiners’ reports to distinguish repeated discussions, votes and decisions and describes preliminary permission to print.
+
+- **S80:** [Neljä opettajaa ja seitsemän oppilasta](https://sukututkijanloppuvuosi.blogspot.com/2024/09/nelja-opettajaa-ja-seitseman-oppilasta.html), published 2024-09-02. Reviewed the comparison of school statistics with an anonymous memoir on 2026-11-22. Kyläkoski suggests a candidate from school-year figures, compares newspaper figures from other dates, and checks acting teachers against official posts. She keeps the identification provisional.
+
+- **S81:** [Statistics Finland, school statistics for 1885–1886](https://otos.stat.fi/items/9f981d6e-d880-4cd7-92f7-b5d103f98bed). Reviewed the Statistics Finland repository record for the 1885–1886 issue on 2026-11-22. The catalogue identifies the school year and links the printed statistical report.
+
+- **S82:** [Statistics Finland, school statistics for 1886–1887](https://otos.stat.fi/items/6f00ce58-87e6-4c08-9d8f-aa62da371a4f). Reviewed the Statistics Finland repository record for the 1886–1887 issue on 2026-11-22. The catalogue identifies the school year and links the printed statistical report.
+
+- **S83:** [Statistics Finland, school statistics for 1887–1888](https://otos.stat.fi/items/05a988d9-305e-424d-ab49-d57a03f5faca). Reviewed the Statistics Finland repository record for the 1887–1888 issue on 2026-11-22. The catalogue identifies the school year and links the printed statistical report.
+
+- **S84:** [MyHeritage Adds 414 Million Historical Records in June 2026](https://blog.myheritage.com/2026/07/myheritage-adds-414-million-historical-records-in-june-2026/), published 2026-07-07. Reviewed the description of the Athens student registers on 2026-11-22. The publisher introduces the index and identifies the father’s name and reported birth details, plus the faculty and registration date where present.
+
+- **S85:** [MyHeritage, Greece, Attica, Athens University Student Registers](https://www.myheritage.com/research/collection-21051/greece-attica-athens-university-student-registers). Reviewed the Athens collection description and coverage on 2026-11-22. The provider states the 1837–1938 span and describes the registration fields.
+
+- **S86:** [Historical Archive of the National and Kapodistrian University of Athens](https://en.archive.uoa.gr/). Reviewed the Historical Archive’s guide to university and faculty records on 2026-11-22. The archive describes its institutional records and their arrangement in archival series, which is the route for checking the underlying registration.
+
+- **S87:** [Texas Scholastics 1854 -1855: A Texas genealogy book for your research library - JG0053](https://www.youtube.com/watch?v=Z8tf9gAIJzE), published 2022-05-02. Reviewed the supplied transcript excerpts for the early scholastic census on 2026-11-22. Only the packet’s excerpts were read. The live video page did not expose the video or transcript. The presenter discusses White’s transcription, incomplete county returns, and separately filed lists. Independent sources supply the locators and coverage.
+
+- **S88:** [Texas State Library and Archives Commission, Texas Education Records](https://www.tsl.texas.gov/sites/default/files/public/tslac/arc/Overview_Texas_Education_Records_public.pdf). Reviewed the scholastic census series description and box inventory on 2026-11-22. Box 2-9/662 includes lists of names for the 1854–1855 Ellis–Wood span. The guide separates this box from other boxes dominated by summaries and describes transfer of county records after 1989.
+
+- **S89:** [Hopkins County Genealogical Society, Public School Records](https://hcgstx.org/schools). Reviewed the library’s description of Gifford White’s transcription on 2026-11-22. The society holds the book and distinguishes the county returns with names from missing and statistics-only returns.
+
+- **S90:** [5 Questions to Determine Your Ancestor’s Correct Birth Date](https://familytreemagazine.com/records/vital/5-questions-to-determine-your-ancestors-correct-birthdate/), published 2022-05-24. Reviewed the supplied excerpts about a Girard College admission on 2026-11-22. The public page displayed only the introduction. The supplied excerpts describe the applicant’s 1864 admission and documents about his father, and conjecture about the birth date. The 1868 report verifies requirements for that period and does not verify the author’s conjecture.
+
+- **S91:** [Girard College for Orphans, Annual Report for 1868](https://upload.wikimedia.org/wikipedia/commons/a/ab/Annual_report_of_the_Board_of_Directors_of_the_Girard_College_for_Orphans%2C_for_the_year_1868_%28IA_1868_20200501%29.pdf). Reviewed the historic admission requirements on printed page 7 on 2026-11-22. The report asks for evidence of the parents’ marriage, the child’s date and place of birth, the father’s death, and lack of means of support.
+
+- **S92:** [Girard College Museum, Student Record Searches](https://www.girardcollege.edu/museum/collections-research/student-record-searches/). Reviewed the museum’s description of its student archive searches on 2026-11-22. The museum describes student records varying by pupil and date and the separate evidence of admission and departure that its searches can retrieve.
+
+- **S93:** [Varhaisista maalaiskouluista](https://sukututkijanloppuvuosi.blogspot.com/2025/01/varhaisista-maalaiskouluista.html), published 2025-01-22. Reviewed the community post’s recommendation of Werkko’s register on 2026-11-23. Kaisa Kyläkoski suggests looking there for founding years of early schools.
+
+- **S94:** [National Library of Finland, Finna catalogue record for Werkko’s school register](https://kansalliskirjasto.finna.fi/Record/doria.10024_119476). Reviewed the catalogue description, imprint and identifiers on 2026-11-23. It gives the 1909 imprint, describes the arrangement by diocese and supplies the URN.
+
+- **S95:** [National Library of Finland, Suomen pikku- ja kiertokoulujen matrikkeli ynnä pikku- ja kiertokoulujen opettajista tiedonantoja](https://urn.fi/URN:NBN:fi-fd2015-00008067). Reviewed the digitized work’s landing page on 2026-11-23. The URN resolved to the National Library’s reader with the work’s title and 1909 date. The scan pages were not inspected.
+
+- **S96:** [Surkein suomalainen kulttuurihistoriallinen tietokanta?](https://sukututkijanloppuvuosi.blogspot.com/2024/01/surkein-suomalainen-kulttuurihistoriall.html), published 2024-01-19. Reviewed the community post’s Helsinki school searches on 2026-11-23. Kaisa Kyläkoski describes out-of-range results from a date-only search in the former standalone register, leaving the cause open. Her Hesperia lookup showed missing annual location fields alongside a building address and an unknown archive location. An 1898 city directory supplied a parallel address lead. Newspaper references using the Töölö name led her to ask how the two school entries were related. The post documents the former interface. The current listing and municipal reports support the updated search steps.
+
+- **S97:** [City of Helsinki, Historia Helsinki Koulurekisteri](https://historia.hel.fi/fi/koulurekisteri). Reviewed the current register’s published name-search guidance on 2026-11-23. The landing page directs readers to look up schools by name.
+
+- **S98:** [City of Helsinki, Koulurekisteri entry for Hesperian kansakoulu](https://historia.hel.fi/fi/koulurekisteri/hesperian-kansakoulu). Reviewed the official school entry’s dates, premises and archive field on 2026-11-23. The building section lists Mannerheimintie 13e for 1896–1905. The school type is dated separately and the archive field says *Tuntematon* (unknown).
+
+- **S99:** [Helsinki City Archives, Helsingin kaupunginarkiston kouluaineistot](https://kaupunginarkisto.hel.fi/aineistoesittelyja-fi/kouluaineistot/). Reviewed the City Archives’ guide to school holdings and Sinetti on 2026-11-23. It names the Finnish-language elementary schools office fond and identifies leaving certificates, teacher applications and class diaries. The guide describes shared holdings rather than confirming a surviving pupil file for Hesperia.
+
+- **S100:** [Helsinki City Archives, Helsingin kaupungin kansakoulupiirien kartta, pohjoinen](https://finna.fi/Record/hka.139879555512900_168148645303900/HierarchyTree?hierarchy=hka.139879555512900&source=Solr). Reviewed the northern school-district map’s catalogue entry and archive context on 2026-11-23. The description places the two sites under district 12 and gives reference 963Ia:1 in the Finnish-language elementary schools office fond. The map image was not inspected.
+
+- **S101:** [City of Helsinki, 1904 municipal report, Kaupunginvaltuusto](https://www.hel.fi/static/tieke/digitoidut_asiakirjat/helsingin_kunnalliskertomukset/pdf/1904/1904_02.pdf). Reviewed the council report on the Töölö school building, pp. 34–36, on 2026-11-23. It describes the school then housed at Hesperia villa, the proposed new building in Hesperia Park and the decision to build on the Töölönkatu lots.
+
+- **S102:** [City of Helsinki, 1906 municipal report](https://www.hel.fi/static/tieke/digitoidut_asiakirjat/helsingin_kunnalliskertomukset/pdf/1906/1906.pdf). Reviewed the council report’s section on reuse of the Hesperia premises on 2026-11-23. The section records the school having moved from the Hesperia building into the new Töölö elementary school building.
+
+- **S103:** [Dreijerin pelto Helsingissä (Pellosta kaupungiksi)](https://sukututkijanloppuvuosi.blogspot.com/2024/08/dreijerin-pelto-helsingissa-pellosta.html), published 2024-08-23. Reviewed the community post’s use of the Kotivuori entry on 2026-11-23. Kaisa Kyläkoski cites entry 13622 for the origin and trade of a Helsinki leaseholder. Those details appear in the parent statement of the student’s entry.
+
+- **S104:** [Yrjö Kotivuori, Ylioppilasmatrikkeli 1640–1852, entry 13622](https://ylioppilasmatrikkeli.fi/henkilo.php?id=13622). Reviewed the entry’s student and parent statements on 2026-11-23. It identifies Karl Gustaf Dreijer as the student and ascribes the Danzig origin and clock manufacturing to his father, Abraham Mikael Dreyer.
+
 ## Credits
 
 - Tomsk State University, State Archives of Chernihiv Oblast, Electronic Library of Historical Documents and UkrFamily (S39–S42) — Histories, register and catalogue descriptions paraphrased with attribution (adapted)
@@ -118,3 +222,55 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - Jewish Insider, Chicago History Museum, Scioto County Public Library and Rutherford B. Hayes Presidential Library & Museums (S44–S46, S48) — Reporting, guidance and catalogue descriptions paraphrased with attribution (adapted)
 - Melanie, MyHeritage Blog (S49) — Copyright of the rights holder, with the search advice paraphrased and attributed (adapted)
 - Archives de Paris, University of Cambridge and Cambridge University Library (S50–S52) — Rights retained by the respective holders where applicable, with catalogue locators and published section titles cited with attribution (adapted)
+- El Seminario Metropolitano de San Atón de Badajoz receptor de alumnos extranjeros: análisis del alumnado a través de su archivo (S53) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Guía del Archivo del Seminario Metropolitano San Atón. Organización de los fondos documentales (S54) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- La sección Secretaría de los Archivos Históricos de Seminarios, un referente para estudios de Historia de la Educación (S55) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- El seminario metropolitano San Atón de Badajoz: de la Universidad de Extremadura primera sede (S56) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Guadalupe Pérez Ortiz and Francisco González Lozano, Tirso Lozano Rubio: un sacerdote al servicio de la sociedad y de la Iglesia (S57) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- How to Navigate Dead Fred’s Genealogy Photo Archive (S58) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Dead Fred’s Annuals (S59) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- MyHeritage Publishes 65 Million Records in November and December 2022 (S60) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- MyHeritage, Belgium, Leuven University Matriculations (S61) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- KU Leuven matrikels online (S62) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- State Archives of Belgium, Old University of Leuven enrolment registers (S63) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Ylioppilasmatrikkelin käytettävyydestä (S64) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- University of Helsinki, Yliopistomatrikkelit (S65) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Yrjö Kotivuori, Ylioppilasmatrikkeli 1640–1852 (S66) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Veli-Matti Autio, Ylioppilasmatrikkeli 1853–1899, Esipuhe (S67) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Ylioppilaiden "osoitekalenterit" (S68) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- National Library of Finland, Förteckning öfver embets- och tjenstemän samt närvarande studerande (S69) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- National Library of Finland, Luettelo virka- ja palvelusmiehistä ynnä läsnä olevista ylioppilaista (S70) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- National Library of Finland, Suomen yliopiston luettelo (S71) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Ikuinen ylioppilas G. W. Fagerlund (S72) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Ylioppilasmatrikkeli 1853–1899, entry 17632 (S73) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Miten houkutellaan tutustumaan arkistoaineistoon? (S74) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- National Archives of Finland, Jyväskylän seminaari (S75) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- National Archives of Finland, Jyväskylän seminaarin arkisto (S76) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Ei kaikkia väitöskirjoja hyväksytty (S77) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Ilmestynyt: Historiankirjoittajan kaksi väitöskirjaa (S78) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Elise Garritzen, Lähteiden lumoamat (S79) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Neljä opettajaa ja seitsemän oppilasta (S80) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Statistics Finland, school statistics for 1885–1886 (S81) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Statistics Finland, school statistics for 1886–1887 (S82) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Statistics Finland, school statistics for 1887–1888 (S83) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- MyHeritage Adds 414 Million Historical Records in June 2026 (S84) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- MyHeritage, Greece, Attica, Athens University Student Registers (S85) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Historical Archive of the National and Kapodistrian University of Athens (S86) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Texas Scholastics 1854 -1855: A Texas genealogy book for your research library - JG0053 (S87) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Texas State Library and Archives Commission, Texas Education Records (S88) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Hopkins County Genealogical Society, Public School Records (S89) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- 5 Questions to Determine Your Ancestor’s Correct Birth Date (S90) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Girard College for Orphans, Annual Report for 1868 (S91) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Girard College Museum, Student Record Searches (S92) — Rights retained by the holder where applicable, with the evidence paraphrased or its locator cited with attribution (adapted)
+- Kaisa Kyläkoski, Varhaisista maalaiskouluista (S93) — Rights retained by the holder, with the recommendation paraphrased with attribution (adapted)
+- National Library of Finland, Werkko catalogue record (S94) — Rights retained by the holder where applicable, with the catalogue description paraphrased with attribution (adapted)
+- National Library of Finland, Werkko digitized work landing page (S95) — Rights retained by the holder where applicable, with the locator cited with attribution (adapted)
+- Kaisa Kyläkoski, Surkein suomalainen kulttuurihistoriallinen tietokanta? (S96) — Rights retained by the holder, with the account paraphrased with attribution (adapted)
+- City of Helsinki, Historia Helsinki Koulurekisteri (S97) — Rights retained by the holder where applicable, with the guidance paraphrased with attribution (adapted)
+- City of Helsinki, Koulurekisteri entry for Hesperian kansakoulu (S98) — Rights retained by the holder where applicable, with the entry paraphrased with attribution (adapted)
+- Helsinki City Archives, Helsingin kaupunginarkiston kouluaineistot (S99) — Rights retained by the holder where applicable, with the guide paraphrased with attribution (adapted)
+- Helsinki City Archives, northern school-district map catalogue entry (S100) — Rights retained by the holder where applicable, with the description and locator cited with attribution (adapted)
+- City of Helsinki, 1904 municipal report (S101) — Rights retained by the holder where applicable, with the proceedings paraphrased with attribution (adapted)
+- City of Helsinki, 1906 municipal report (S102) — Rights retained by the holder where applicable, with the proceedings paraphrased with attribution (adapted)
+- Kaisa Kyläkoski, Dreijerin pelto Helsingissä (Pellosta kaupungiksi) (S103) — Rights retained by the holder, with the account paraphrased with attribution (adapted)
+- Yrjö Kotivuori, Ylioppilasmatrikkeli 1640–1852, entry 13622 (S104) — Rights retained by the holder where applicable, with the entry paraphrased with attribution (adapted)

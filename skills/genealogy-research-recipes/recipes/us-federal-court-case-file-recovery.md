@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
 checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 159}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 276}
 ---
 
 # Recover a U.S. federal court case file
@@ -117,7 +117,7 @@ film, so check that catalog before you plan a visit.
 
 ## Search the index first, then request the file
 
-If you have only a name, start with the finding aid for the court and filing period. Use its index or docket to obtain the case reference before requesting the papers [S2], [S20 @2026-11-19].
+If you have only a name, start with the finding aid for the court and filing period. Use its index or docket to obtain the case reference before requesting the papers [S2], [S20].
 
 **Privacy gate:** <!-- privacy-gate: request --> A case-file or index request names the parties,
 who may be living for a 20th-century case; answer the privacy gate in `SKILL.md` before you send
@@ -134,6 +134,28 @@ it.
 4. If the index and the file are in different record groups, make a separate request for each.
    The presenter reported in 2019 that different record groups were pulled at separate pull
    times [S2]. Ask the facility for its current retrieval schedule.
+
+For a Chinese Exclusion Act court case tied to arrival at or departure from San Francisco,
+check the court register for about 1883–1916 [S32 @2026-11-22], [S33 @2026-11-22].
+In Ancestry collection 1242, check the NAID browse choices in the user’s account for the register
+on NARA microfilm A3381 (National Archives Identifier 4477273) [S34 @2026-11-22], [S35 @2026-11-22].
+Use FamilySearch collection 2443318 as the alternate route and browse the court cards by
+case number when you have it [S33 @2026-11-22]. Copy the court and court case number for the
+RG 21 file and keep any immigration agency case number as a separate RG 85 lead [S34 @2026-11-22], [S36 @2026-11-22].
+
+For Fort Smith criminal cases (a collection tip from the available excerpt [S37 @2026-11-22]),
+search the Western District of Arkansas defendant jacket series for 1866–1900 by name in the
+National Archives Catalog (identifier 201532), including for Indian Territory leads through
+1896 [S38 @2026-11-22].
+Use the jacket number to browse Ancestry collection 2117 and match the folder by defendant and
+case date, since a jacket can hold papers for several defendants [S38 @2026-11-22], [S39 @2026-11-22].
+For a victim, search the separate surname index in the NARA guide [S38 @2026-11-22].
+
+For a Maryland federal criminal case (a collection tip from the available excerpt [S40 @2026-11-22]),
+use the Maryland portion of Ancestry’s *U.S., Circuit Court Criminal Case Files, 1790–1871*,
+collection 1248. Its Maryland images cover 1795–1860 (RG 21, microfilm M1010) [S41 @2026-11-22].
+If the name search misses, use the M1010 roll list to browse by court term and then by
+defendant surname [S41 @2026-11-22], [S42 @2026-11-22].
 
 Arrange the visit directly with the facility. Philadelphia lists its research room as appointment-only, Monday to Friday, 9 a.m. to 4 p.m., and gives <philadelphia.archives@nara.gov> and 215-305-2044 [S9 @2026-11-19]. Recheck the hours and booking instructions before travelling.
 

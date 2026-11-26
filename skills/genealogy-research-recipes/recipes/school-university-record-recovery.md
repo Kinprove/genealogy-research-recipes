@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 75}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 119}
 ---
 
 # Recover a pupil or student through school, district, copy and later-file layers
@@ -59,6 +59,14 @@ For a U.S. school in an area with township government, identify the family's civ
 
 The Rutherford B. Hayes Presidential Library & Museums lists the 1840 enumeration for School District #2 of Green Creek Township, Sandusky County, Ohio, in *Green Creek Township Records*, inventory item 3, Loose papers. [S48 @2026-11-20]
 
+If a Finnish school memoir names only a town initial, compare its class, pupil and teacher counts with the *alkeisopistot* tables in the Finnish school statistics for each plausible academic year. Use the initial and the place of publication to rank the towns and keep the resulting identification provisional. For a late-1880s memoir, start with the 1885–1886, 1886–1887 and 1887–1888 issues. [S80], [S81], [S82], [S83]
+
+For an early Finnish small school or itinerant school, start with the historical diocese in Kaarle Werkko’s 1909 *Suomen pikku- ja kiertokoulujen matrikkeli* (URN:NBN:fi-fd2015-00008067). Look for the locality and school, then note any founding year and teacher named. Use those details to narrow the search for records from the school’s years of operation. [S93 @2026-11-23], [S94 @2026-11-23], [S95 @2026-11-23]
+
+For a historical Helsinki elementary school, search by name in Historia Helsinki’s *Koulurekisteri*. Open each candidate and match its name, school type and operating dates to the years you need before adding it to your list. When the address for a year is missing, check *Rakennukset ja sijainnit* for the building’s address and years of use. For Hesperian kansakoulu, start with Mannerheimintie 13e, listed for 1896–1905. If the site for the target year is still unclear, check a period city directory or district map. The northern school-district map (963Ia:1) lists Hesperia and Töölö under district 12. [S96 @2026-11-23], [S97 @2026-11-23], [S98 @2026-11-23], [S100 @2026-11-23]
+
+When a Helsinki newspaper notice names a school, compare the notice date and venue with municipal building decisions and documented moves before assigning it to a register entry. [S96], [S101], [S102] The 1904 city report (pp. 34–36) distinguishes the school already using Hesperia villa from the new building approved for Töölönkatu lots 41 and 43, and the 1906 report’s *Hesperian rakennusten käyttö* records the school’s move to the new building. [S101], [S102]
+
 ## 2. Judge the school's own fond from its inventory
 
 - For the two Pryluky girls’ gymnasiums, use the Chernihiv archive’s published register to choose the inventory [S40]. The forum suggested both fonds from their size [S1].
@@ -76,6 +84,18 @@ When a historical school or university award is the clue, search the prize lists
 
 For Collège Rollin, the Archives de Paris finding aid lists prize distributions for 1909–1912 at D2T2 482–483 and attendance certificate stubs covering those years at D2T2 289, in a gap between the listed pupil entry and exit registers. [S50 @2026-11-21]
 
+For a historical Badajoz seminarian, start in San Atón’s *Secretaría*. Use the series titles alongside the shelfmarks because the published classification numbers differ. For early pupils, search *Informaciones* (1683–1853) before *Expedientes Personales*, which begin in 1853. The 1664 constitutions, title 27, prescribe separate admission and absence books: check for admissions and oaths in one, and authorised absences and returns in the other. A prescribed book needs a surviving locator. In a personal file, look for the admission application and baptismal, conduct and medical certificates, with confirmation, scholarship and dispensation papers where included. [S53 @2026-11-22], [S54 @2026-11-22], [S55 @2026-11-22]
+
+At San Atón, cross-check *Solicitud/Justificantes*, *Matrículas*, *Listado de Alumnos*, and *Actas de Exámenes* for application, enrolment, roster appearance and exams respectively. Compare the application addressed to the bishop with the personal file for parentage, origin and the stated reason for entry. Use the *Matrículas* for age and origin where given. In *Fondo Histórico, Secretaría*, start with Caja 57 for the exam minutes of 1893–1897 and Libro 70 bis (20) for 1913–1941. Check *Notas* and *Certificaciones* for subject grades, and check the personal file for exam evidence too. Cite an *Extracto de partida de bautismo* to the student file and record it as a copy extracted from the baptism entry. [S53 @2026-11-22], [S54 @2026-11-22], [S55 @2026-11-22]
+
+At San Atón, check *Expedientes de Conducta* for the parish priest’s report, relatives and place of origin. In *Becas*, log each application and any decision separately. Check the *Actas Academias Literarias* for lecture summaries and names of participating seminarians, and *Administración General, Pagos* for named board and tuition payments. Use the *Seminario Menor*’s own *Asuntos Académicos* for matriculation, marks and bursaries. Follow a student who pursued ordination into *Órdenes Sagradas, Expedientes de órdenes*. [S53 @2026-11-22], [S54 @2026-11-22], [S55 @2026-11-22]
+
+For Jyväskylä teacher training, open the *Jyväskylän seminaari* creator in Astia (EAC_710083534), then work through the seminary’s own inventory. The *Seminaarin oppilasluettelot* list teacher trainees separately from the kindergarten and practice-school pupils. Use the incoming pupil application series to look for the application letter and its enclosures, including recommendations. Check curricula, annual reports and student work for the school context, and check access for the specific item. [S74 @2026-11-22], [S75 @2026-11-22], [S76 @2026-11-22]
+
+For a Girard College pupil in the 1860s, use the college museum’s student-record search to locate the admission papers. Use the application for the reported birth date, as illustrated by the case from the inspected excerpt [S90 @2026-11-22]. Check for supporting evidence of the parents’ marriage, the pupil’s birth and the father’s death, as specified in the 1868 annual report. Keep each reported date tied to the document that supplied it. [S91 @2026-11-22], [S92 @2026-11-22]
+
+If *Koulurekisteri* gives an unknown archive location, as it does for Hesperian kansakoulu, use the Helsinki City Archives’ *Kouluaineistot* guide and search Sinetti. For a Finnish-language municipal elementary school, check the shared *Suomenkielisten kansakoulujen kanslia* inventory by school and year for leaving certificates, teacher applications and class diaries. [S96 @2026-11-23], [S98 @2026-11-23], [S99 @2026-11-23]
+
 ## 3. If the school's fond is lost, go to the district curator and cross-district lists
 
 - Search the chancellery fond of the educational-district curator for the date. For Kremenchuk, participants named the Kiev district curator's chancellery. [S4]
@@ -87,6 +107,10 @@ For Collège Rollin, the Archives de Paris finding aid lists prize distributions
 - The archive’s reply transcribed in [S16] distinguishes records it received. For an out-of-district pupil, look in a general list. To request a personal file, name the Moscow higher school the pupil later attended. The contributor describes f.363 op.3 as graduate lists for specified years. Use the case title to establish which school and cohort it covers [S16].
 - Participants reported that the Vilnius archive holds cases on graduates of schools across several districts of the Empire for 1910–1911. Lists for Vyazma (Moscow district, 1909–1911) were found there, but without patronymics. [S13]
 - If the catalogue gives only a title, quote the full case reference in a request for the list or arrange an on-site inspection [S4], [S16].
+
+When San Atón’s wartime rolls break, follow the 1937–1938 cohort to Villafranca de los Barros, starting with the diocesan bulletin of 31 December 1937, p. 248. In 1938–1939 search San Carlos Borromeo in Salamanca for Theology and Philosophy and Villafranca for the younger pupils. For Villafranca, also test San Atón’s related-institutions series *Seminario Menor Nuestra Señora de la Coronada* for accounts and grades. [S56], [S57], [S53]
+
+In San Atón’s *Instituciones Dependientes*, search *Colegio-Seminario Menor de San Benito* for applications, matriculation and grades in Villanueva de la Serena. For Elvas and Olivenza, check *Seminario Menor Elvas-Olivenza* for correspondence, accounts and reports. [S53 @2026-11-22], [S54 @2026-11-22]
 
 ## 4. Compare parallel custodial copies entry by entry
 
@@ -101,6 +125,8 @@ For Collège Rollin, the Archives de Paris finding aid lists prize distributions
 - The indexer reported that more than 600 of roughly 2,000 names on the film also appear in a ЦИАМ list. The Moscow list covers fewer schools but gives patronymics. The indexer marked merged entries "ЦИАМ_459.14.61_1911" and said this was probably the case signature. Treat ф.459 оп.14 д.61 as a presumed locator until you see the case. [S2]
 - Credit each reading to the copy it comes from: a patronymic, a fuller double given name, or a different surname form. Never silently choose one reading. A reading or date in one copy may disagree with your estimate for the person. That ranks the candidate lower but does not exclude them. [S2]
 - Treat "он же / она же / см." pairs as two-way pointers to one entry. They are not two people. Also keep source marks, such as a crossed-out town in a school name or a note that the pupil was an adopted daughter. [S2]
+
+For the Texas scholastic censuses of 1854–1855, start with Gifford White’s *Texas Scholastics 1854–1855* and check the county’s return type before drawing conclusions. Treat county and state returns as separate series, following the distinction from the inspected excerpt [S87 @2026-11-22]. Look for the state return in the Texas State Archives’ *Scholastic census*, box 2-9/662 for Ellis–Wood, and search the archive’s regional depository inventories for any surviving county counterpart. Treat missing A–D county returns as a gap in this search. A totals-only return can supply counts but cannot resolve a family’s presence. Where the return names families, record each named child and the adult’s stated role as parent or guardian. [S88 @2026-11-22], [S89 @2026-11-22]
 
 ## 5. For higher schools, check every index hit against the inventory and the file
 
@@ -147,6 +173,14 @@ For Collège Rollin, the Archives de Paris finding aid lists prize distributions
 
 Distinguish the respondent or doctoral candidate from the *praeses*, who presided. CompGen reproduces a 1710 Danzig dissertation naming Johannes Gottfried Drave of Belgard, Pomerania. Record the stated origin separately from the place of the disputation [S30].
 
+For the Old University of Leuven, use the MyHeritage matriculation index as a lead and compare it with the Belgian State Archives’ enrolment-register inventory (1426–1797, with gaps). Record the date of enrolment and the place of origin as written. Establish any birthplace separately. A missing name leaves attendance unresolved: check the surviving years and the underlying roll before drawing an inference about the person. The roll records enrolments. It does not document who tried an entrance examination and failed. [S60 @2026-11-22], [S61 @2026-11-22], [S62 @2026-11-22], [S63 @2026-11-22]
+
+Choose the Helsinki *Ylioppilasmatrikkeli* compilation by the historical date: Kotivuori for 1640–1852 and Autio for 1853–1899. Check the year range at the top of each edition. The menu links to the other edition, and *Ylioppilasmatrikkelin etusivulle* returns to the edition you are already using. Use the compiled entry for earlier schools and family leads. For the archival register, use the archival indexes’ volume, page and entry numbers. Keep those numbers separate from the running number in the compilation. Search Arkki1640 by faculty for the original digitized registers and the historical degree lists where available. [S64 @2026-11-22], [S65 @2026-11-22], [S66 @2026-11-22], [S67 @2026-11-22]
+
+In Kotivuori’s entries, take any stated origin and occupation as leads for the person to whom the entry assigns them. If you are tracing a relative, check the parent and kin details as well as entries headed by the target’s name. [S103], [S104] In entry 13622, the clock manufacturer from Danzig is the student’s father, Abraham Mikael Dreyer. [S104]
+
+For a University of Athens student in 1837–1938, search the Attica student-register index for the stated father and year and place of birth. Record any faculty and registration date, then use them to locate the entry in the university’s Historical Archive. Keep registration and degree dates separate. [S84 @2026-11-22], [S85 @2026-11-22], [S86 @2026-11-22]
+
 ## 6. Read the full original list, not a filtered extract
 
 - In the published Kharkiv student lists, read the recorded confession alongside course, admission, estate, support and previous school. A confession-filtered extract excludes entries recorded under other confessions. Search the full roll under spelling variants and compare identifying details. A surname alone cannot establish the student’s confession [S5].
@@ -164,6 +198,10 @@ A list of admissions to examinations is not a list of graduates or of years of s
 - Lyceum lists distinguish a действительный студент from a candidate of legal sciences. [S3]
 - A 1913 Kremenchuk women's-gymnasium list records certificates issued for completing the 7th class, each with a certificate number. Record it as 7th-class completion, as the list states. These are certificates of completion: do not read the entry as a sign that the pupil left early. [S13]
 
+In the Finnish *Ylioppilasmatrikkeli*, log the reported matriculation date separately from the first term of study. Test enrolment in the spring and autumn lists of students registered present. Autio’s entry 17632 records matriculation and lists forestry studies at Tharandt, so use the named place of study as its own lead. [S72], [S73], [S69]
+
+For a historical Helsinki dissertation, compare the printed dissertation list and any public-defence notice with the matriculation entry and faculty degree register. Record permission to print, defence, faculty decision and degree separately. If the degree is missing or the title stays the same, check successive faculty meetings and their attached examiners’ reports for approval, rejection, a vote or another unfinished requirement. An accepted dissertation could still leave the candidate without the intended degree. For the historical-philological section’s early twentieth-century procedure, use Garritzen’s *Lähteiden lumoamat*, pp. 131–134, to identify the minutes and reports to check. Check the manuscript itself if completeness is in question. [S77], [S78], [S79], [S65]
+
 ## 8. Build a dated career series from serial yearbooks
 
 - Compare the same graduating cohort in later volumes of the institution’s yearbook. The Demidov Lyceum’s *Временник* records Lavr Popov’s qualification in the 1881 cohort (book 27), then his posts as an investigating magistrate in Yekaterinburg district (book 53, 1891) and a deputy prosecutor in Yekaterinburg (book 81, 1900), as transcribed in [S3]. Cite each volume for the post it names.
@@ -178,6 +216,10 @@ If the school's own holdings turn up no yearbook for the year you need, check th
 When tracing a former community from a yearbook group photo, work through the whole group by row and position. Use captions or annotations to propose names. Where the school and year are known, check those names against class lists. Require evidence linking each name to its position in the photo, and record a recognition only as the claim of the person who made it. Search local records from the period for each candidate name, including classmates outside the family you started with. Leave unsupported positions unresolved. [S43], [S44], [S45]
 
 The reverse of *Unknown School Class Photo* (item 32500) supplies names by row, with the school still unidentified. [S46]
+
+For a historical Helsinki student’s term address, search the Swedish *Förteckning* of staff and students registered present, its Finnish *Luettelo virka- ja palvelusmiehistä ynnä läsnä olevista ylioppilaista* (spring 1870 to spring 1873), or the later *Suomen yliopiston luettelo* (1875–1918; check its alternate titles). In the Finnish roster, look for staff at the front and students under their student nations. Record an address as reported for that term. Look for the same address in that issue and the next, using full-text search or scanning the list. Use repeat appearances as leads to possible housemates or acquaintances. [S68], [S69], [S70], [S71]
+
+For a historical U.S. yearbook missing from the school and local library, check Dead Fred’s *Annuals* by school and year. Open the listed edition to see which pages or photos were uploaded. An edition entry leaves the completeness of the upload open. [S58 @2026-11-22], [S59 @2026-11-22]
 
 ## 9. When institutional files are lost, recover the school from later files
 

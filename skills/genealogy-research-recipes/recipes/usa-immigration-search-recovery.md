@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "russian-empire-jewish-identity-att
 checked: "2026-10-26"
 checked_basis: "checked 26 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 131}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 244}
 ---
 
 # Recover U.S. immigration and naturalization records
@@ -117,6 +117,11 @@ surviving port series such as Philadelphia (1800–1819) and New Orleans (1813�
 Allow for a list never having been created. Venezia raises that possibility
 in his advice from the available excerpt. [N87] [N88]
 
+Use Filby’s *Passenger and Immigration Lists Index* as a finding aid for early arrivals.
+Copy its source code and page number and retrieve the cited record. Its dates
+and places can come from a naturalization or another record, so establish the
+event type before adding an arrival to the journey table. [N167] [N168] [N146]
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> A Boston index query sends the passenger's name and any birth, residence or travel details entered to MyHeritage. Apply the privacy gate in `SKILL.md` first.
 
 For Boston arrivals in 1848–1891, search the [MyHeritage Boston manifest index](https://www.myheritage.com/research/collection-20681/massachusetts-boston-passenger-manifests-1848-1891).
@@ -141,6 +146,17 @@ read the birth and departure fields there. If the site query misses, use the
 archive's port listing to locate the 1908–1958 series by port and date.
 [N149 @2026-11-21] [N151 @2026-11-21] [N108 @2026-11-21]
 
+Use MyHeritage’s Louisiana, New Orleans, Passenger Lists for a New Orleans ship
+lead in 1901–1960. Match the index hit to the manifest by ship and arrival date,
+then copy the recorded embarkation and any birthplace or named relatives.
+Keep New Orleans in the arrival-port field and copy the stated final destination
+separately. [N186 @2026-11-22] [N187 @2026-11-22]
+
+Use MyHeritage’s California, San Diego Passenger Lists (20779) for a San Diego
+arrival from 1904. Match the ship and arrival details to the manifest, then
+check any indexed birth details against the image. When the viewer presents a
+joined manifest, inspect both halves and match the line across them. [N188 @2026-11-22] [N189 @2026-11-22]
+
 If the evidence supports a flight, search the airport's passenger-arrival series,
 not only ship lists for the nearest seaport. Keep any supplied airport, airline
 and flight details with the date and traveler category. NARA lists airplane and
@@ -149,6 +165,13 @@ check the selected series' description and access before inspecting its manifest
 A ship-list miss does not test the airplane series. The Cuban-research article
 names plane manifests as a possible hometown source; it establishes neither a
 particular person's route nor that a manifest supplies a birthplace.[33,34]
+
+For a late-1950s or early-1960s New York flight, check A3998 for arrivals from
+1 December 1957 and A3665 for passenger manifests from 1 May 1959. A3665
+includes departures too, so confirm the direction on the document. [N108 @2026-11-22] Copy
+the route and date from the form. If the image shows only an aircraft itinerary,
+crew list or health declaration, find a passenger row before identifying the
+traveler as a passenger. [N178 @2026-11-22]
 
 **Output:** a coverage-backed route shortlist. **Check:** a negative result
 applies only to the searched series and window. The Foundation's current
@@ -210,6 +233,12 @@ check the Russian, German, Italian or New York Irish Famine series in NARA's
 retrieve the original by ship, port and date. Series labels do not restrict every
 passenger to the named nationality [N103 @2026-11-18]. The account from the available excerpt identifies all four series [N101 @2026-11-18].
 
+Use the port encoded in the Balch manifest ID to choose the arrival series.
+Read the ship, departure port and arrival date in the linked header and use
+them with the decoded arrival port to retrieve the original list. [N103]
+The Just Genealogy example from the available excerpt illustrates the
+passenger-to-header lookup. [N183]
+
 For an 1846–1851 New York lead, check the Irish Famine series even if the
 traveler's origin was elsewhere. Use the dates listed for each of the German,
 Italian and Russian series when searching those files. The Irish Famine window
@@ -236,6 +265,18 @@ testimony as statements made to win admission, not as independent proof of kinsh
 [My China Roots demonstration](https://www.youtube.com/watch?v=x5P9fKp25lw) shows these record
 types through one vendor's images. Confirm the custodian and the file locator separately.
 
+For a San Francisco arrival, require a record that places the traveler at
+Angel Island before naming the station. In late 1940, look for the inspection
+site and any detention or transfer date in the case file. The administration
+building burned on 12 August 1940 and the station moved to mainland San Francisco
+on 5 November. A detainee's file can span both sites. [N169] [N170]
+
+For a Chinese arrival at San Francisco, use M1414 (1882–1914) to check the
+separate Chinese passenger lists and M1476 (1903–1947) for the admission or
+denial in the indexed registers. For a returning Chinese laborer in 1882–1888,
+use M1413 to connect the recorded departure and return ships and dates and to
+look for the stated original arrival. [N169] [N171]
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> A Chinese arrival index query sends the traveler's name and any entered birth or arrival details to Ancestry. Apply the privacy gate in `SKILL.md` first.
 
 For the San Francisco arrival lead from the available excerpt, search Ancestry's Chinese Arrival Case Files Index (1884–1940). [N120 @2026-11-20]
@@ -250,6 +291,20 @@ Request the original investigation file by case number from NARA at San Francisc
 in San Bruno. If the index misses, use the San Francisco vessel manifest M1410
 to reconstruct the case locator from the ship's arrival number and the ticket
 number or, after 1910, the manifest page and line. [N121 @2026-11-20] [N122 @2026-11-20]
+
+For a return through San Francisco, rebuild the case locator from that
+arrival’s manifest and retain it beside the earlier locator. [N169] If the
+arrival leads to a file gap, check the series for the most recent port or the
+INS office near the last documented residence for a consolidated case. [N172]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A Riverside catalog query sends the traveler’s name and any entered travel details to NARA. Apply the privacy gate in `SKILL.md` first.
+
+Search the Riverside series in the NARA Catalog for a Chinese exclusion case
+with a Los Angeles, Calexico, Nogales or San Diego office lead. Use the office
+series and retain its case locator. [N172 @2026-11-22] The digitization project covers a
+subset, so keep the underlying office series in the recovery queue after an
+online miss. [N185 @2026-11-22] The Genealogy Gems discussion
+from the available excerpt points to this release. [N184 @2026-11-22]
 
 ### 3. Recover the recorded name without inventing a renaming event
 
@@ -422,6 +477,15 @@ and sailing are known.
 Two websites reproducing one manifest are alternate access paths to that
 record, not two independent attestations.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A British outward-list query sends the passenger’s name and any entered residence or voyage details to FamilySearch. Apply the privacy gate in `SKILL.md` first.
+
+If a U.S. arrival search stalls and the route may have crossed Britain,
+test the Atlantic leg from Liverpool even for a traveler with a non-British
+nationality. Treat a Hull lead as a possible transfer into Britain. [N176 @2026-11-22]
+For an 1890–1960 lead, search the BT 27 outward passenger lists through
+FamilySearch’s *United Kingdom, Outgoing Passenger Lists*. Keep the original
+embarkation leg separate from the Atlantic sailing you recover. [N177 @2026-11-22]
+
 For a Swedish arrival in 1820–1850, look up Nils William Olsson and Erik Wikén's
 *Swedish Passenger Arrivals in the United States, 1820–1850* through the
 [Library of Congress passenger-list guide](https://guides.loc.gov/nordic-scandinavian-emigration/passenger-lists).
@@ -493,6 +557,13 @@ the apparent destination does not fit.
 **Check:** the headings govern the interpretation. A contact recorded as an
 uncle, cousin or friend is a lead to investigate, including its address; it
 does not establish that relationship without further records.[6,11]
+
+In the Foundation’s Arrival Details, take the line number and image reference
+to View Full Image. Read that row on the image. Use the text view as a
+locator. [N182 @2026-11-22] Check adjacent images for a continuation, matching the
+list and line numbers. Use the Foundation’s [Tips & Tricks guide](https://www.statueofliberty.org/wp-content/uploads/2026/04/Arrival-Records-Collection-Tips-Tricks-1.pdf)
+for the carousel and list-number procedure. [N190 @2026-11-22] The Genealogy Gems tour
+from the available excerpt demonstrates how to follow the line number. [N181 @2026-11-22]
 
 In MyHeritage's New England and North Carolina passenger and crew collections,
 check both halves when the viewer joins a two-page manifest. If the second half
@@ -593,6 +664,13 @@ the traveler. The San Francisco registers of persons held for inquiry
 (February 1910–May 1941, NAID 4468084) are a separate route when the vessel's
 images lack the appended sheets. Check the recorded disposition before assigning
 an admission or exclusion outcome. [N128 @2026-11-20] [N129 @2026-11-20] [N130 @2026-11-20]
+
+For a San Francisco inquiry, browse FamilySearch’s *Immigration Office Special
+Inquiry Records* (collection 2299374, M1388) by date and ship if the name index
+misses or the vessel images omit the inquiry. [N173 @2026-11-22] For a Japanese, Filipino
+or Hawaiian inquiry in 1928–1942, also check the separate registers for those
+held for inquiry (NAID 4497860). These are inquiry registers, so keep a
+separate passenger-arrival search open. [N169 @2026-11-22] [N172 @2026-11-22]
 
 Read a left-margin `X` as a detention lead and `S.I.` as a special-inquiry lead.
 Browse the sailing's appended sheets, starting at the end of its image sequence,
@@ -702,6 +780,13 @@ years before accepting a same-name court hint elsewhere. Use changes from alien 
 papers to naturalized to rank the court-search window and residences. Keep each census answer
 as an informant's report: an inconsistent answer does not by itself exclude a court record.
 [N72], [N73]
+
+When a naturalized voter’s court is unknown, read the historical voter
+registration for the documented jurisdiction. Read the naturalization date
+and court where supplied, and use them to locate the proceeding. [N174]
+In California, check the Great Register and use the underlying registration
+affidavit when a later printed index omits naturalization particulars. Treat
+the voter registration as a lead to the court record. [N175]
 
 For a foreign-born man aged 21 or older in 1870, read column 19 of the
 population schedule as a reported citizenship clue and seek the underlying
@@ -899,6 +984,14 @@ catalog miss leaves custody unresolved.
 **Privacy gate:** <!-- privacy-gate: request --> A USCIS index search, a visa-file request or an
 alien-registration request names an immigrant who may be living, and the files can name family
 members; answer the privacy gate in `SKILL.md` before sending any of them.
+
+For an intended journey under the Immigration Act of 1924, distinguish
+a visa issued abroad, inspection at the U.S. port and the admission decision.
+If the visa survives, check the inspection endorsement for the arrival date,
+port and means of transport. Use these details to find the manifest
+and any separate disposition. Visa issuance alone leaves entry unresolved.
+If a quota might explain a missing journey, check the applicable category and
+year before attributing the gap to the law. [N179] [N180]
 
 Keep the visa number printed on the manifest separate from the INS Visa File number. INS assigned its own number and indexed by name, birth date and birthplace [N105]. If the file number is unknown and USCIS holds the series, request a USCIS index search for the arrival first to get the file number, then make a separate records request.
 

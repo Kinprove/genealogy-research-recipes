@@ -143,6 +143,10 @@ independent corroboration.
 
 **Trace repeated newspaper claims to their reporting.** Check the byline, source credit and shared wording, distinguish opinion from reporting, and count reprints together [N315], [N316]. A witness who had known Butch Cassidy since childhood reportedly rejected the identification repeated in the press [N317]. Record what each witness recognised and how they knew the subject. A single article may contain conflicting accounts [N318].
 
+**Test a reported eyewitness’s opportunity to observe.** Put each version of the witness’s account on a timeline. When the versions disagree about whether the witness was there, compare dates of employment, departure or travel with the incident date and check who supplied each date [N362]. For a claimed recognition, check when the witness could have met the people named and what the lighting, distance and viewing time allowed [N362], [N363]. Keep the observation and the identification attributed to the witness, and distinguish testimony from a later writer’s account of it.
+
+**Separate an announced event from its occurrence.** Record what the circular directs or the advertisement promises, with its date and intended locality. Search after the scheduled date for a local account or the organiser’s record that documents what happened there. Keep a specific venue separate from a claim about the whole town. A published notice with no account of the outcome leaves the event unresolved [N364].
+
 **Keep local news as context when it does not name the ancestor.** If an ancestor held office, check the office’s records for the local incident. A justice of the peace’s job alone left his role in a search for Butch Cassidy unresolved [N317]. Describe the event as community history until a record links the person to it [N319].
 
 Treat an accepted lineage-society application, a patriot-database entry or a society's compiled
@@ -273,6 +277,10 @@ For a Russian Orthodox household, run the one-off-name test across consecutive c
 
 **Separate same-named testators and beneficiaries.** Make a row for each appearance, with the county, will date, probate date and role [N320], [N322]. In one transcribed will, the testator’s same-named son also served as executor [N321]. Check the roles in the will and leave index hits unassigned until other evidence identifies the person.
 
+**Use later testimony to link an earlier case to a namesake.** When a conviction or prison entry might belong to either of two people, search later hearing reports for the person’s own reference to the earlier case [N365]. Compare the offence, court or place, sentence and time served with the earlier case and prison records [N365], [N366]. Record mismatches and distinguish what the witness said from what the reporter inferred. Keep the earlier conviction unassigned if the details cannot distinguish the two people.
+
+**Search for the fatal incident when the printed surname yields no match.** Use the reported incident date and site to choose the death register and browse entries around that date. Allow for a later registration date. Compare the place, circumstances, occupation and any other victims before attributing an entry under a different name [N367], [N368]. In one reported well-collapse case, the market-square site and circumstances led to a death entry under a different surname [N367]. Cite the report and the entry separately.
+
 **Use probate heirs to test an out-of-town death report.** Take the reported name, death date and residence to the historical probate index for the likely court and use its case number or volume and page to find the file [N355]. Compare named heirs and stated relationships against the documented family of each plausible decedent, using the comparison reported in the interview [N354†]. Cite the newspaper and probate file separately. Keep the identification open if the heirs fit more than one family or the file supplies no discriminating names.
 
 **Compare wills on both ends of a proposed move.** Look for the mother's will naming a son at his destination [N326] and the son's will identifying the property he received from her [N323]. Match the property descriptions and check deeds or distributions if the transfer is unclear [N327]. Record what each document says about residence separately from ownership.
@@ -339,6 +347,8 @@ mother's or grandmother's generation. Motivating examples:
 [entry guide](https://www.youtube.com/watch?v=Y4vkJheOo80). Not finding a name in the records you
 inspected does not prove it was never used. A custom of passing on maternal surnames must be shown
 from the records, and any such clue is a search lead, not parentage.
+
+**Trace a disputed middle initial to its source.** Compare the birth or baptism entry with the earliest record you can find that uses the alternate form. Check who supplied the later name. If a nickname uses the same initials, establish which form came first. Cite each form as written and leave the initial unexpanded until a record supports an expansion [N374]. The 1839 West Point nomination used Ulysses S. Grant for Hiram Ulysses Grant, and those recorded initials gave rise to his nickname Uncle Sam [N375].
 
 **Compare independently documented middle names for namesakes.** When candidates share a first name and surname, compare any middle name in the candidate birth or immigration record with the middle names supported for each person. Record the literal name and its source in the dossier. Use a distinctive match alongside dates, places and relatives to rank the candidates. Keep the identity open if only the name agrees [N348], [N349].
 
@@ -449,11 +459,15 @@ When the image of a birth entry is available, look for papers inserted between t
 
 **Date a passport application against the obituary subject’s death.** Use the destination and approximate travel dates in the obituary to find candidate historical passport papers. Read the application’s own date, distinguish it from any later issue or index date, and compare it with an independently established death date [N360]. Set aside an application made after the death and keep searching for an earlier record. In a case reported in the talk, a match on name, home county and destination still led to an application dated after the obituary subject’s death, which is also recorded in a probate index [N359†], [N361].
 
+**Test a letter’s date and addressee independently.** If a letter appears to postdate its catalogued recipient’s death, re-read the date on the image and keep a wrong addressee open alongside a misread year. Compare any office, appointment or place recalled in the letter with each candidate’s chronology. Look for a reply or another letter from the same sender that connects a candidate to the same detail [N369], [N370]. In one reported case, the date read on the letter fell after the catalogued recipient’s death, while a later letter pointed to a different addressee [N369], [N371]. Preserve the original catalogue attribution separately from the proposed correction.
+
 If a disputed year comes with a month/day and liturgical observance, preserve the literal
 forms and test candidate years against the documented calendar/tradition. Compare independent
 chronology, considering a later-added signature only where the document supports it.
 Report compatibility or an unresolved calendar basis; compatibility does not prove the year.
 Check the recorded observance against the calendar in use, then test a proposed signatory against independent dates of activity [N174].
+
+**Check 30 February 1712 against the period Swedish calendar.** If the date is reported in a later account, look for the literal date in the register [N372†]. In a Swedish or Finnish register, preserve that reading and compare the neighbouring dates with the February 1712 almanac reproduced in *Aikakirja*. The almanac includes 30 February [N373 pp. 44–45]. Check which calendar the register used before correcting the transcription or applying a Julian offset.
 
 Old Style dates can also explain a gap of days. If a pre-1918 date from the former Russian Empire differs from a later Soviet-era document by about 13 days, or by nearly a year across a December–January boundary, test for a conversion that shifted the day without changing the year. If a remembered or gravestone birthday differs by days from the metrical birth date, test whether it is the name-day of the child's saint, converted to New Style. Keep each literal date with its calendar and role, and look in the register for dual dates or later issue notes that add 13 days. Motivating discussions: [calendar conversion](https://forum.j-roots.info/viewtopic.php?f=75&t=7576), [name-day](https://rodgersforum.borda.ru/?1-2-0-00000862-000-0-0-1778497763=). They give no rule for how any office converted dates and show no general practice. A fitting explanation does not prove which date is correct.
 

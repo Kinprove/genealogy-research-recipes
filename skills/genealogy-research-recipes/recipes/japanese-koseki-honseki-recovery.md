@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 183}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 319}
 ---
 
 # Recover the kanji name and honseki before requesting a Japanese koseki
@@ -19,6 +19,8 @@ router: {"section": "Records by country and region", "group": "Canada, Latin Ame
 Use this recipe when someone wants a Japanese family register (koseki) for an emigrant ancestor and has only a romanized name, a remembered region or a prefecture. It covers the steps that come before the request: get the exact kanji name and the full historical permanent domicile (honseki), then trace that domicile to the municipal office that holds the register today. It also covers eligibility and retention checks. The record routes in steps 1 and 2 are for emigrants to Brazil. Routes for other destinations such as Hawaii, the US mainland or Peru are not covered here. Do not use this recipe to rule on identity. A passenger-list or emigrant-list hit is a candidate, so route identity questions to [evidence/proof judgment](evidence-proof-judgment.md). Record locators with [source citation](source-citation.md).
 
 ## Avoid the usual errors
+
+Treat an empty online search for a koseki as inconclusive [S25 @2026-11-22]. Computerized koseki remain subject to municipal certificate eligibility rules [S26 @2026-11-22]. Recover the registered name and honseki, then check the municipal request route in steps 3 and 4.
 
 - **Searching on a romanized name.** One spoken reading can be written with many kanji combinations, so a romanized name does not identify the person. The request needs the exact registered Japanese spelling, kanji or kana as recorded ([Kagoshima City naming FAQ](https://www.city.kagoshima.lg.jp/faq-kurashi/shimin/q113.html)). Retain the romanized reading for index searches and confirm the written form in a record [S1 @2026-11-19], [S2 @2026-11-19], [S3 @2026-11-19].
 - **Identify the registered domicile before choosing an office.** Sekiguchi traced one family's honseki to the Tokyo area despite a remembered origin in western Japan [S1 @2026-11-19], [S2 @2026-11-19]. The proposed western visit never established a search result. Kagoshima says it will not confirm a honseki or its lot number by telephone [S4 @2026-11-19]. For requests by mail or proxy, identify the municipality of the honseki. Since 1 March 2024 an eligible person attending in person can obtain eligible computerized certificates at a nearer municipal office under wide-area issuance [S22 @2026-11-19]. Check the certificate type and the eligibility rules in step 4.
@@ -28,6 +30,8 @@ Use this recipe when someone wants a Japanese family register (koseki) for an em
 ## 1. Get the exact kanji from emigration records
 
 For Japanese emigrants to Brazil, search the São Paulo Japanese immigration museum's passenger database by romanized surname, ship, prefecture or period [S23]. In Sekiguchi's demonstration, the family entry supplied the kanji spelling, ship, departure and arrival dates, and relatives who travelled together [S2]. Preserve the travelling group and dates so that you can distinguish people with the same reading in the next index.
+
+If the passenger-list search for a deceased emigrant yields no match under the surname used in Brazil, rerun it with the earlier Japanese surname documented in a public historical record, such as a passport [S27], [S28]. Record each surname with its source.
 
 Record the kanji exactly as shown, together with the database, the search terms and the returned entry. A kanji form taken from one index entry is still a reading to confirm against the passport or emigrant record or the koseki.
 

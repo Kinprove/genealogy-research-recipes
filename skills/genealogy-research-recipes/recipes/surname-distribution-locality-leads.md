@@ -11,7 +11,7 @@ handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Research method", "group": "Search coverage and name searches", "order": 8}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 10}
 ---
 
 # Rank localities to search from dated surname-distribution sources
@@ -82,6 +82,28 @@ Keep each dated attestation separate. A forum contributor transcribed a Perfiley
 To test the proposed identification, compare the household members in the original entries. The 1710 transcription names a wife Natalia, daughter Katerina and brother Arkhip. The two reported ages advance twelve years over a nine-year interval. The shared forename, patronymic and district leave the identity open. The contributor likewise treated the earlier Ustyug material as fragments [S7].
 
 **If a candidate village’s registers are missing, look for namesakes in neighbouring settlements.** A researcher reported an unlocated birthplace written as Рбинское in a civil-registry reply. A suggestion of Зябень and a reported gap in its metrical books prompted a search for Силкин in service records. She found two namesakes associated with Зябенская Дубровка in Pamyat Naroda and another database she called «Гвара» [S19]. These are leads to a different locality. Check the original entries, their dates and place fields, and the register inventory before linking either man to the family. See [military and Soviet-repression record episodes](russian-military-repression-record-episodes.md#start-from-the-event-and-source-scope).
+
+### Virginia will and tax indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject's surname alone goes to the Library of Virginia's online index. Clear the gate first if the subject may be living.
+
+**When an emigrant's Virginia county is unknown, search the surname in Virginia will indexes**, even if the emigrant's own will was recorded elsewhere [S33 @2026-11-22]. Start with the Library of Virginia's *Wills and Estate Records Index* for the early period. Check its coverage table for the counties, cities and years it indexes [S34 @2026-11-22]. Use each hit's recording date and jurisdiction to queue searches of the local will books and estate records. Keep unindexed places open.
+
+**When 1787 is near the target period, look up the surname in volume 3 of Schreiner-Yantis and Love's *The 1787 Census of Virginia*.** Use the library index to shortlist counties, then read the corresponding county tax lists or their published booklets [S33], [S35], [S36], [S37], [S38]. Read the county booklet’s introduction and roll headings. Record the underlying personal property tax list’s jurisdiction and actual year for each hit. Keep other counties open and check tax lists nearer the emigrant's known dates when 1787 is too early or too late.
+
+### Irish townland leads
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject's given name alone goes to John Grenham's Irish Ancestors. Clear the gate first if the subject may be living.
+
+**When an uncommon given name is the better clue, enter the given name alone in the “Forename only” search on John Grenham's Irish Names page** [S39 @2026-11-22], [S40 @2026-11-22]. Use the localities returned to rank register searches, even when the name sounds as though it came from outside Ireland. Label the distribution as birth registrations from 1864 to 1913 and weigh it against the target generation [S40 @2026-11-22].
+
+Use the surname cluster to choose which registers to search. Assign the county from a family record that identifies the townland. In Watson's account, a Coffey surname cluster prompted a Cork guess for the branch she traced to Westmeath [S39], [S41]. See [Irish emigrant origin locality](irish-emigrant-origin-locality.md) for tracing the family's own locality.
+
+### First World War service records
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject's surname alone goes to the Russian First World War portal (Памяти героев Великой войны). Clear the gate first if the subject may be living.
+
+**If the Russian First World War portal (gwar.mil.ru) opens and the ancestor's locality is unknown, search the portal by surname alone** [S42 @2026-11-22], [S44 @2026-11-22]. Use same-surname entries for Russian Army personnel to shortlist places for register searches. On each original, record the date and the exact place field. Separate birthplace and residence from the place of a military event before ranking the leads [S42 @2026-11-22], [S43 @2026-11-22].
 
 ## Size the bearer pool country-wide
 

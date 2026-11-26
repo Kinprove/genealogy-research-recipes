@@ -11,7 +11,7 @@ handoff: ["us-military-service-type-record-routing", "us-military-pension-file-r
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 170}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 287}
 ---
 
 # Trace a civilian or soldier in U.S. Army quartermaster records
@@ -23,6 +23,8 @@ A search of military service files does not cover the Quartermaster General's re
 According to the presenter, use §92.1 of the Guide to Federal Records to identify the quartermaster office responsible for the activity [S1† @2026-11-20] [S2 @2026-11-20]. Record office or post, date range and whether the person was a contractor, employee or officer. Check the headquarters and field series separately [S2 @2026-11-20].
 
 According to the presenter, search the supply and accounting records by the date, place, goods or service and contractor name [S1† @2026-11-20]. Use the series descriptions for contracts, fiscal records and correspondence to find the transaction, and keep any supply order separate from a record of delivery or payment [S2 @2026-11-20].
+
+According to the presenter, check RG 92 for an expedition supply lead [S15† @2026-11-22]. Search entries 189 and 190 for supply correspondence, telegrams and related papers for a proposed expedition during the Mexican Revolution [S16 @2026-11-22]. For the 1916–1917 Mexican Punitive Expedition, check the indexed headquarters correspondence and the telegrams in RG 395 (§395.7.1) [S17 @2026-11-22].
 
 According to the presenter, a hospital lead in these records should first be treated as a facilities question [S1† @2026-11-20]. Search the construction, repair or supply series by installation and dates. For an officer, use the separate personnel and correspondence series [S2 @2026-11-20].
 

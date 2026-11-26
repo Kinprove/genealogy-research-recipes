@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "scandinavian-parish-record-recovery", "sca
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 127}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 185}
 ---
 
 # Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period
@@ -19,7 +19,7 @@ router: {"section": "Records by country and region", "group": "Western and North
 Use this recipe when a Swedish or pre-1809 Finnish parish entry, census, emigrant record or family story calls a man *soldat*, *ryttare*, *dragon*, *husar*, *grenadjär*, *artillerist*, *båtsman*, *korpral*, an NCO or officer title, *värvad*, *volontär* or *värnpliktig*, or gives a military number. Swedish military records are not one searchable pool. Each index covers one series, one branch and one period, so classify the man first and read every miss against the coverage of the index you searched. It prevents these failures:
 
 - reading a miss in the Central Soldiers Register (Centrala soldatregistret) as covering enlisted men, NCOs, officers or every corporal
-- reading a miss in the general-muster name index as covering the years between musters, the years after 1883, or the navy
+- reading a miss in the general-muster name index as covering every regiment and year, the years between musters, or the navy
 - treating a soldier name as one man's identity when it passed to his successor on the same *rote*
 - expecting a home-parish entry before 1860 for a man who died and was buried away on campaign or detachment, or skipping the home register for a death from 1860 on
 - searching a conscript's card by his enrolment number, or searching the 1902-1950 cards for a man enrolled before 1902
@@ -62,9 +62,11 @@ Record three things, each with the entry that supports it. If one is uncertain, 
 - **Rank class.** Private or corporal; NCO (for example *rustmästare*, *furir*, *sergeant*, *fältväbel*); or officer. The series differ by rank class (steps 2 and 6).
 - **Period.**
   - Before 1683: the army rolls of 1620-1723 (step 4).
-  - 1683-1883: the general muster rolls (step 3).
-  - 1884-1901: no indexed series. Use the regiment's unindexed rolls, including *stamrullor* (step 3).
+  - Main general-muster period, 1683-1883: check the regiment's dated rolls (steps 2 and 3).
+  - 1884-1901: check for late general musters under the specific regiment and year, then use the regiment's own rolls, including *stamrullor* (steps 2 and 3).
   - Conscripts 1812-1901 (*beväring*) and 1902 onward: enrolment records and cards (step 7).
+
+**Look for the regiment in the Finnish children's book.** If a pre-1809 baptism calls the father an enlisted soldier and leaves the unit unstated, find the family in the parish's *lastenkirja* where one survives. Copy the regiment and the volume and page before searching the musters. Give the stated recruitment type precedence over the household's location. [S52] [S53] [S54]
 
 ## 2. Read a nil only against what the index actually covers
 
@@ -78,6 +80,10 @@ Record three things, each with the entry that supports it. If one is uncertain, 
 
 Record the index, the fields you searched and its coverage in the routing row. A miss outside these limits is *not searched*, not *absent*.
 
+**Check the exact regiment and muster year in the name index.** The October 2024 catalogue gives 1683–1883. ArkivDigital's 2023 completion notice gives 1660–1887 and lists individual years for nine Finnish regiments. Use the unit's year list before logging a miss, including at either edge of the catalogue range. If the year is missing from the list, browse the surviving rolls. [S17 @2026-11-22] [S36 @2026-11-22] [S37 @2026-11-22]
+
+**Use Quick Find when you know the unit.** Open ArkivDigital's *Quick Find: General Muster Rolls* by regiment, year and company for allotted regiments within present-day Sweden. Use those hits as page locators. For a person's name, or for enlisted or pre-1809 Finnish regiments, start with the main name index and browse by regiment and year if needed. [S17 @2026-11-22] [S35 @2026-11-22]
+
 ## 3. Work the general muster rolls as dated snapshots, not a career file
 
 - **Use each general muster as a dated snapshot.** Check the regiment’s own interim rolls and commanders’ papers for detachments, punishments or deaths between musters [S20], [S9], [S5].
@@ -88,14 +94,28 @@ Record the index, the fields you searched and its coverage in the routing row. A
 - **Before 1860, trace an absent soldier to the place of burial.** A parish recorded burials in its own church or churchyard, and could omit a resident buried elsewhere [S31]. In a reported 1808 death the home-parish search failed and the burial place remained unknown [S10]. Read the muster remarks for illness abroad or capture [S9], [S12]. A detachment for canal or lock construction can point to another parish’s burial book [S5], [S9]. If the place is unclear, check the regiment’s or company commander’s notes [S10].
 - **From 1860, search the home parish's death register first.** From 1860 a death was to be entered in the parish where the man was last registered, and also in the parish of burial if that was another parish [S31].
 - **Identify the copy you searched.** The War Office, county governor and regimental commander received copies. A fourth was divided among company commanders [S20]. The name index in the ArkivDigital demonstration used the War Office copy. A miss leaves other copies to check [S5].
-- **After the index ends.** ArkivDigital’s October 2024 catalogue lists general muster rolls indexed through 1883 [S17]. Some rolls in the military archive extend to about 1885 [S20]. For the transition to 1901, look in the regiment’s records for *stamrullor*, introduced at enlisted regiments in 1885 and allotted regiments in 1889 [S20], [S33].
+- **After the last general muster for the regiment.** For the transition to 1901, look in the regiment’s records for *stamrullor*, introduced at enlisted regiments in 1885 and allotted regiments in 1889 [S20], [S33].
+
+**Browse surviving musters by regiment and year.** When a name search misses, use *Generalmönsterrullor*, Krigsarkivet finding list 23, to locate the regiment's volumes. Start at the known muster and work backward through the dated rolls. Use the rank to find the right part of the roll, and retain the volume and page for each hit. [S35] [S38] [S39]
+
+**Date the event and the roll separately.** Read later rolls for an explicit appointment date in the rank you are tracing. In a reported name-card lookup, a skipped 1684 entry dated an officer's appointment to 1678. If an entry says only that he was married, use the muster date as an upper bound and leave the spouse's identity open until a record identifies her. [S38] [S39]
+
+**Compare the age column with the departure remark.** When the two give different ages for the same entry, log both with their fields and any stated dates. Carry both into the candidate comparison with the preceding or following muster and the parish evidence. In a reported 1782 search, the departure remark and age column in the same roll gave different ages. [S52]
+
+**Read the birthplace cells immediately above and below the candidate.** If the same birthplace repeats, keep the candidate's birthplace provisional and check it against another muster and the parish records before using it to exclude the man. In a reported 1804 Asikkala company muster, the neighboring entries repeated the province. [S52]
+
+**Check the next surviving muster for a death away from home.** Follow the soldier's entry to the next muster and copy any earlier death date and place into the event record. A reported 1775 Österbottens regemente entry dates a death at Sveaborg (Viapori) to 1773. Use the place in the remark to choose the burial register. [S51]
 
 **War years: also search *Rullor 1724–*.** Besides the rolls of 1620-1723, Riksarkivet's Arméns rullor database has the series *Rullor 1724–*: rolls of Swedish army units from 1724 to about 1865. Riksarkivet says this series holds almost the same information as the general muster rolls. Those are often incomplete in war years, so this series is often the only place to find a man, especially in the war of 1808-1809. Search it by regiment and year before you read a war-year gap as a negative. [S34 @2026-11-13]
+
+**Use the 1858 survivors' notice for missing unit leads.** For a possible survivor of the 1808 campaign, consult *Sanan-Lennätin*, 30 July 1858, no. 30, under *Vanhoja soturia 1808 vuoden sodasta*. Record the reported unit, rank, residence, birth and enlistment dates, battles and wounds where given. Search the rolls under the reported unit and dates. Follow the notice's regional credits. Try *Helsingfors Tidningar* for Espoo, *Wasabladet* for the Vaasa area and *Suomen Julkisia Sanomia* for northern Savonia. Search by veteran and locality in issues up to the reprint date and compare the text before assigning the source. Preserve the stated speaker when comparing accounts. In the transcribed Iisalmi account, *niinkuin itse sanoo* identifies the veteran himself as the source for the reported Norway service. Test that lead in dated unit records. [S59] [S60] [S65] [S66] [S67]
 
 ## 4. Before 1683 and in the Great Northern War: browse by regiment and year
 
 - The army rolls of 1620-1723 (*Rullor 1620-1723*) are the main source for the period, with large gaps [S20]. Riksarkivet offers them as the Arméns rullor database [S19]. Open the volumes for the year itself before you call a war year lost: volumes survive for 1709, for example SE/KrA/0022/1709/8 [S32]. For officers, open the series' personnel register first [S2].
 - For losses and prisoners in the Great Northern War (1700-1721), search ArkivDigital for the Defensionskommissionen archive (rolls sent home from the field) and for the war-document collections titled *Krigshandlingar ... Stora nordiska kriget*, which include prisoners. There is no name index: you need the regiment and the period [S1].
+
+**Follow every roll reference on the name card.** For officers and NCOs in *Rullor 1620–1723*, look up the surname alphabetically in *Registerkort över namn i rullorna (1620–1723)*. Open each cited entry, including years you already searched. If the name card is absent, use the regiment or regimental commander's register to locate the rolls. [S38] [S39]
 
 ## 5. Treat a soldier name as the *rote*'s label, not the man's identity
 
@@ -119,6 +139,14 @@ Record the index, the fields you searched and its coverage in the routing row. A
   - Look up inspections (*husesyn*) of officers’ and NCOs’ official farms (*boställen*) by holder in the typed register, then read the inspection at the change of occupant to date the handover [S7], [S9].
 - **After 1885** the *stamrulla* replaced the general muster rolls for officers and NCOs. From 1945 the *tjänstekort* (service record card) replaced it [S20].
 
+**Follow officers and their children across Lewenhaupt entries.** Copy the rank, regiment and entry or departure date where given, and record any approximate birthplace, parentage and dated list of children as separate leads. Look up a child who also served under the child's own name and verify those leads in the relevant rolls and parish books. [S37] [S39] [S40]
+
+**Check a civil record's title against the last dated service evidence.** A reported 1731 court entry still styles one officer as an ensign of a commander's regiment, although a published account dates his discharge to 1722. Compare the unit and commander's tenure with the rolls. Keep conflicting discharge dates by source until the rolls resolve the discrepancy. [S48] [S49] [S50]
+
+**Trace Finnish postings through official residences.** Use the surname index to Kaarlo Wirilander's *Suomen armeijan upseeristo ja aliupseeristo 1718–1810: Virkatalonhaltijain luettelot*. Follow the entries through each rank, regiment, parish and named *boställe*. Copy the start and end dates and any stated transfer or resignation. Use the date and regiment to locate the rolls, and the named property to locate the parish books. Record the appointment to the property and the household's residence separately. If Wirilander has no match, search the regiment's rolls under variants of the given names and keep each hit provisional until the entries link. [S37] [S41] [S42] [S43]
+
+**Follow a widow's grace-year grant back to the register.** In a Swedish-era Finnish case, use a dated citation from Yrjö Kotivuori's *Ylioppilasmatrikkeli 1640–1852* to identify the grant in the *valtakunnanregistratuura*. Retrieve the cited date and folio. Extract the widow's name and her late husband's name, rank and regiment where given, then use the unit to find his rolls. [S39] [S44]
+
 ## 7. Conscripts: search the card by name, read both sides, and follow the number
 
 - **Before 1902.** Conscripts (*beväring*) were enrolled from 1812. From 1885 the three-part number in the parish book records the serial number, roll-keeping area and enrolment year. Use it to identify the enrolment roll [S25]. ArkivDigital’s October 2024 catalogue dates the conscription-card index to 1902–1950 [S17].
@@ -138,12 +166,24 @@ Record the index, the fields you searched and its coverage in the routing row. A
 - **Pensions:** *båtsmän* and navy officers and NCOs all belonged to the navy pension fund (Flottans pensionskassa), 1642-1937 [S18].
 - **A *sjöman* on a merchant ship is a civilian.** He is in the seamen's house (*sjömanshus*) records, not the *båtsman* rolls [S3], [S15].
 
+**Choose the seamen's house from the parish registration.** Start with the district serving the seaman's parish at the time of enrolment. Check the house and the years of its surviving series in the regional archive guide. Copy the house, enrolment number, birthplace and parish of registration from the enrolment register (*inskrivningsregister*) where given. Follow its references to the signing-on and signing-off ledgers (*på- och avmönstringsliggare*) and the crew roll (*sjömansrulla*). Record the vessel and each signing date and port separately from the house enrolment. [S61] [S63] [S64]
+
+**Use the MyHeritage collection as a lead for a deceased merchant seaman.** The 2023 announcement for *Sweden, Sailors and Seamen’s House Enrollments* gives an overall span of 1752–1941 and labels the two record types *Tjänstematrikel* (enrolment register) and *Mönstringsliggare* (signing ledgers). Check access and the specific house and year in the user's account before interpreting a miss. Verify birth and residence details in the enrolment record and the ship, signing dates and ports in the ledgers or crew roll. [S61 @2026-11-23] [S62 @2026-11-23] [S64 @2026-11-23]
+
 ## 9. Enlisted men: rolls survive only for garrisoned regiments, and contracts sit in the regiment's archive
 
 - Surviving general muster rolls of enlisted regiments cover those garrisoned in Sweden, Finland or Swedish Pomerania [S20]. Open the roll image for a former surname, birth date and parish. The entry for a hussar recruited in 1880 gives his former name as Christian Johansson and his birthplace as Sövde, enough to check the parish register [S4].
 - Do not compute a birth year from an enlisted roll's age. Recruits older than about 20-23 were not normally accepted, which gave older men a reason to state a lower age [S20]. Take the birth year from the baptism or household entry.
 - **Contracts.** Search the National Archival Database (NAD) under the regiment’s archive for enlistment and soldier contracts, including those of Skåne regiments [S1], [S15]. If the inventory lists none, record the regiment, years and series examined.
 - For a recruit thought to have enlisted between 1912 and 1920, seek the conscription or service card. If the regiment is unknown, follow the man through parish books. A residence entry on regimental grounds may identify the regiment and company [S3].
+
+**Search Finnish enlisted units under their dated names.** Use the Finnish National Archives' Arkistojen Portti guide to match the name in the parish book to the unit's name at the muster date. For Adlercreutz's regiment before the 1804 name change, include *Uusi jääkärirykmentti* and *Suomalainen värvätty jalkaväkirykmentti*. Try *Adlercreutzka värvade regementet*, the Swedish heading in ArkivDigital's 2023 index announcement. Check the company and year in the roll before assigning the entry. [S52] [S55] [S56]
+
+**Check the garrison's communion books alongside civilian baptisms.** When a pre-1809 Finnish civilian baptism gives a military rank, use the likely posting to identify the military parish and check it for a household entry. At Viapori (Sveaborg), distinguish the fortress parish's 1796–1808 book from the Dowager Queen's Life Regiment's 1798–1808 book, *Viaporin seurakunnan arkisto*, I Aa:2. Record any dated communion entries separately from the civilian baptism. Leave the household's precise residence open when the books establish church affiliation or attendance alone. [S55] [S57] [S58]
+
+**Check newspaper notices for departures from a garrisoned company.** In *Svenska tidningar*, select the newspaper title and search the relevant dates by garrison and the regiment's name at the time. Record each man's stated birthplace, age, departure date and reason where given. The transcribed Lovisa (Loviisa) notice in the 3 April 1776 issue of *Dagligt Allehanda* gives separate dates for deaths, removals at a muster and desertions. Use the event wording to choose the next record. [S45 @2026-11-22] [S47 @2026-11-22]
+
+**Check commander names against the unit's aliases.** For *Kongl. Skyttiska Regementet* in the Lovisa notice, look up HisKi entry 690 under *Jägerhornska regementet*. Use the successive names and dates there to search the rolls. Compare the date and garrison before accepting a match. [S45 @2026-11-22] [S46 @2026-11-22]
 
 ## Close with a routing packet
 

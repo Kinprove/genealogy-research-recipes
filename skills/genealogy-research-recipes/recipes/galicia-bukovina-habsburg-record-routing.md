@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing", "bessarabia-moldova-record-r
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 57}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 83}
 ---
 
 # Route a Galician or Bukovinian record by date, confession and custodian
@@ -114,6 +114,14 @@ Transcarpathia is not covered. Link out for the shared steps:
 - **Check survival before an exhaustive search for a Jewish town.** Open Gesher Galicia's record inventories (geshergalicia.org/inventory/, including its inventory of AGAD Fond 300) [S17], [S39]. Then search the Routes to Roots Foundation Archive Database (rtrfoundation.org/search.php), which lists by town the surviving Jewish and civil records of Eastern European archives, with years and holding archive; use its "Begins With" town search so district-level records also appear [S40].
 - **A book on no list is "not located", not lost.** Record each archive and catalogue you checked.
 
+- **Find Moldavian civil registers in today's Suceava County.** Browse the alphabetical commune headings in [Genealogica's Suceava list](https://genealogica.ro/blog/articol/registre-istorice-de-stare-civila-judetul-suceava) and check the years on the historical locality's own row [S63 @2026-11-23]. Follow its modern locality link to **Externe**, match the historical locality, year and event type, and open the eANR catalogue link for the volume. Record the archive call number (*Cotă arhivistică*) and check the archive entry for images [S64 @2026-11-23]. The shared Suceava page lists a Burdujeni Sat volume for 1869 (`SV-F-00012-1-040-009`), a year missing from that locality's row in the commune list, alongside a separate Burdujeni Târg volume for 1869 (`SV-F-00012-1-039-005`) [S63 @2026-11-23], [S64 @2026-11-23], [S59 @2026-11-23]. If the list skips the locality or year, check the archive catalogue and fond 12 inventory. For Habsburg parish books, choose the register by locality and confession.
+
+- **Use the Suceava inventory for a Southern Bukovina Orthodox register.** Check the locality in [Descoperă Arhivele Naționale](https://descopera.arhivelenationale.ro/) for a scan [S58 @2026-11-22], [S60 @2026-11-22]. If no scan is available, open the Suceava County Branch's *Colecția de stare civilă*, *Exemplarul I*, fond 12, inventory 513. Match the locality, Orthodox parish, event type and year. Record the inventory number, unit number and date span from the matching row [S59 @2026-11-22]. Consult the volume by its locator at a scheduled reading-room visit [S61 @2026-11-22]. Log the register as *not searched* until you can inspect it.
+
+**Privacy gate:** <!-- privacy-gate: request --> A copy or extract request to the Suceava County Branch can disclose the record subject's name and vital-event details and the requester's identity and proof of kinship. If anyone whose data would leave may be living, answer the privacy gate in `SKILL.md` before sending it.
+
+- **Request a copy or extract from the Suceava County Branch.** If you need a copy or extract, check the record's access rules. If eligible, submit a written request and use the inventory locator to identify the volume [S62 @2026-11-22].
+
 - **Search a Southern Bukovina Jewish event in JewishGen's Bucovina Vital Records index before the Suceava books.** The index covers the Jewish civil registers of Kimpolung (Câmpulung Moldovenesc), Gurahumora (Gura Humorului), Radautz (Rădăuți), Solka (Solca) and Suczawa (Suceava), with registrations from many neighbouring villages; the originals are at the Suceava County Branch [S52 @2026-11-16]. On 2026-11-16 it listed births of 1843–1909, marriages and divorces of 1834–1909 and deaths of 1855–1910, but each town covers only part of that span, and Kimpolung has no marriages [S52 @2026-11-16]. Check the town's years before you search; for a year the index does not cover, record the books as *not searched*, not as *searched without a match*. A birth entry can name grandparents, the mother's maiden surname, the declarant and witnesses, and every entry gives its register, page and record number and an archive reference [S52 @2026-11-16]. Record these in the Suceava holdings row as the locator of the original.
 
 - **Do not stop at MyHeritage's birth collection.** MyHeritage's "Bucovina, Jewish Birth Records" collection, announced in April 2022, was provided by JewishGen, and its description says a birth entry may also give grandparents' names, witnesses and a date of death [S51]. Treat it as JewishGen's birth data, and search the JewishGen index itself for marriages, divorces and deaths.
@@ -122,6 +130,8 @@ Transcarpathia is not covered. Link out for the shared steps:
 
 - **Start a Galician or Bukovinian man born about 1865–1900 with the Austro-Hungarian army.** Galicia and Bukovina were Cisleithanian (Austrian) provinces under the conscription introduced in 1868, and the Grundbuchblätter of their men from the 1865 cohort survive in Lviv [S25]. Take the Austro-Hungarian records first and the Russian WWI databases as a second branch.
 - **Do not let birthplace decide the army.** Check subjecthood, moves, volunteer service and captivity, and confirm the army from a document. When a record ties him to service in 1914–18 but not to an army, keep both branches open. For the Russian branch, including captivity in Russia, use the Russian episodes recipe.
+
+- **Compare the entry date with the ordinary draft cohort.** Use the soldier's birth date and date of entry to distinguish possible voluntary enlistment from the ordinary draft [S55]. In peacetime in Galicia and Bukovina, the ordinary obligation began on 1 January of the year a man turned 20 in 1869–1888 and 21 from 1889 [S56]. A volunteer could enter from age 17 [S57]. Treat age as a lead and look for an enlistment or call-up notation in the service papers in step 7 before classifying the entry. For wartime entry, check the applicable call-up.
 
 ## 6. Search the Austro-Hungarian casualty lists
 

@@ -11,7 +11,7 @@ handoff: ["german-register-image-recovery", "russian-empire-emigrant-origin-reco
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 93}
+router: {"section": "Records by country and region", "group": "Germany", "order": 142}
 ---
 
 # Trace a German emigrant's home town through emigration files, indexes and the parish register
@@ -61,6 +61,33 @@ to give the state, such as Prussia, Baden or Bavaria. Keep the literal answer as
 lead; the instruction does not guarantee compliance and a state is not the home town.
 [S17], [S18]
 
+For a nineteenth-century German emigrant whose route passed through a Bessarabian colony,
+identify the colony's parish and confession and read its early registers for a named place of
+origin. Keep the colony, any previous residence and the candidate birth parish as separate
+places. Check the candidate parish in § 7 [S27], [S41], [S42].
+
+### Follow a Brandenburg emigration permission to the file
+
+When a nineteenth-century lead points to Brandenburg, search the *Auswandererkartei* for
+the Regierungsbezirk Potsdam or Frankfurt (Oder), including for departures before the
+Hamburg lists begin. Use the Brandenburgisches Landeshauptarchiv catalogue or the Ancestry
+index. Search for the head of household when the emigrant was a child. Copy the birth date,
+birthplace, residence and archive signature when given. The main group of permissions
+behind the index spans 1809–1873. On a miss, search Rep. 2 A for Potsdam or Rep. 3 B for
+Frankfurt (Oder) by year, last residence and destination
+[S27 @2026-11-22], [S28 @2026-11-22].
+
+Use the signature to locate the original permission file. For a copy of the index card,
+check the FamilySearch catalogue under *Auswanderungskartei* and match the district and
+surname range before using a filmed card [S27], [S29]. Verify the index and card's
+household, locality and dates against the file. Count the card and its transcription
+as one evidence trail [S28].
+
+Record the date labelled *Auswanderungskonsens* as the approval date. Establish the actual
+departure separately from voyage evidence [S27], [S28]. Read both sides of a family card.
+A card side that gives only the parents, residence, approval date and number of children
+can have the children's names and exact birth dates on the reverse [S27], [S29].
+
 ## 2. Separate official records from compiled resources
 
 Classify every catalogue item by its author:
@@ -74,6 +101,22 @@ Examples from the lectures:
 - Two Rheinhessen emigration compilations listed under the province: one on emigration in the 1700s and 1800s, credited to Helmut Schmahl, and one on emigration to Texas, credited to Hans Richter (names spelled from the lecture audio; the Richter work has not been located). [S2]
 
 The presenter says these compilations were built from passenger lists and port records, so they often include people who left without permission and are missing from the official files. [S2] Search them, but list them in your source register as compilations. Agreement between a compilation and the passenger list it was built from is not two independent sources.
+
+### Choose a compilation by migration group
+
+For eighteenth-century emigration from southwest Germany, look up the surname in Werner
+Hacker's *Eighteenth Century Register of Emigrants from Southwest Germany (to America and
+Other Countries)* (Closson Press, 1994). Copy the named locality and source reference.
+If an entry cites a manumission, follow it to the release record [S27], [S33].
+
+Use Annette K. Burgert's *Master Index to the Emigrants Documented in the Published Works
+of Annette Kunselman Burgert* to identify the volume that contains the emigrant. Carry the
+short citation to that volume and read the entry there for the origin clue [S27], [S34].
+
+For a family in the 1710 migration to colonial New York, search the name and place index
+in Henry Z. Jones Jr.'s *The Palatine Families of New York — 1710*. Use the family's entry
+to identify the German records to check. A broad label of Palatine by itself gives no
+reason to expect an entry [S27], [S35].
 
 ## 3. Record each index's stated coverage before searching
 
@@ -106,7 +149,33 @@ Findbuch 200.01.01, by surname. Check the listed offices and the finding aid’s
 folio records only the formal release, look on the preceding folios for the application
 [S26 @2026-09-19].
 
+**Hesse.** For a deceased emigrant tied to Hesse, search MyHeritage's *Germany, Hesse
+Emigrants* by name. Its stated dates start in 1539. Copy the birth date, departure date
+and place, and reported destination wherever the entry gives them. Use the departure place
+to choose a district or locality to investigate. Compare the index hit with the LAGIS
+entry and follow any archival reference before naming a birth parish
+[S36 @2026-11-22], [S37 @2026-11-22].
+
 A miss counts only for the index's stated extent. Record it as "not in [index], which covers X and excludes Y". Do not record it as "not from [state]". Also search across levels and landscape areas, not just the one unit you first identified. [S1], [S2]
+
+### Check the departure port's coverage
+
+Use ship and route evidence to choose which port records to search. Check the surviving
+years and record type for that port before drawing a conclusion from a miss [S27].
+
+**Antwerp, 1855.** Use Charles M. Hall's *The Antwerp Emigration Index* as a locator for
+the Antwerp shipping register (inventory K001, no. 1309). Check the ship and passenger in
+the register when accessible. Hall's index contains errors and covers that year's register
+only [S30].
+
+**Le Havre.** For a French liner that returned to Le Havre, find the return date in the
+local shipping news. Use it with INV 334 to locate the *rôle de désarmement* in series 1 Mi
+or 2 Mi and check it for a passenger list. A missing name leaves the crossing unresolved,
+especially for a third-class passenger [S31].
+
+**Stettin and Swinemünde.** Search the port indicated by the route in Ancestry's *Pomerania,
+Germany, Passenger Lists, 1869–1901*. Check the port's own years before searching. The
+dates in the collection title combine coverage from both ports [S32 @2026-11-22].
 
 ## 4. Search the series for people who left without permission
 
@@ -142,6 +211,18 @@ Steps [S4]:
 The presenter says the series is print-only and recommends buying a volume only once you know it extracts your ancestor's church. If the ancestor's congregation is not on the list, a miss says nothing about them. [S4]
 
 ### Read the destination community for chain migration
+
+When the target's village is unknown, search the U.S. records of neighbors, coworkers and
+extended family who may have migrated with them. Test those people's named hometowns
+against the target's own records [S27].
+
+For a Quincy, Illinois, cluster, look up the emigrant in Michael K. Brinkman's compilations.
+Use the suggestion from the available excerpt of the Quincy talk and test the home villages
+of fellow migrants against the target's own records [S38]. For Emsland, Oldenburger
+Münsterland and Osnabrücker Land, use the surname index in the single volume, which also
+includes corrections to entries in the Westphalia set [S39]. For Münsterland, Westphalia,
+search Volume II by surname or use the numbers in Volume I to reach the biographies in
+Volume II [S40].
 
 Test chain migration by comparing households at the destination with emigrants recorded at the candidate village [S11].
 

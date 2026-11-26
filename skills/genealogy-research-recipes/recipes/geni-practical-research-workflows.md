@@ -10,8 +10,8 @@ guardrails: [{"id": "GENI-PRACTICAL-RESEARCH-WORKFLOWS-01", "text": "Distinguish
 handoff: ["evidence-proof-judgment", "ydna-mtdna-interpretation"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["geni"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 40}
+capabilities: {"browse": ["geni"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 49}
 ---
 
 # Recipe: Practical Geni research workflows
@@ -49,6 +49,11 @@ below are documented paths, not checks in a signed-in account. Confirm the offer
 permissions before acting. Preserve URLs as the working identity keys;
 display names alone cannot distinguish same-named people.
 
+Have the researcher operate Geni directly, including opening profiles and source links and using
+the account controls. Geni's terms prohibit AI tools from accessing the site, collecting its data,
+interacting with its features or using Geni content to operate an AI model. Use independent records
+and notes free of Geni content for AI-assisted analysis. [H25 @2026-11-22]
+
 These procedures own Geni operations. Use [Evidence and proof judgment](../../genealogy-research-recipes/recipes/evidence-proof-judgment.md)
 for identity decisions and relationship conclusions, and [Y-DNA and mtDNA interpretation](../../genealogy-research-recipes/recipes/ydna-mtdna-interpretation.md)
 for lineage-test interpretation. Follow your citation guide for record citations.
@@ -82,6 +87,14 @@ the profile unchanged.
    supported alternate name and record the result; do not promise that every language entry is
    indexed by every search route.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The search engine receives the historical farm and village names.
+Use public place names alone in the search. Keep personal names and private family details out of the query.
+
+For a deceased person, retry the profile search with a patronymic from a contemporary notice or a
+farm name from the parish register. If the name search stalls, search the public web for the
+documented farm and village together to find candidate Geni profiles. Compare the candidate's
+household and dates with the records before accepting the identity. [S5, S6, S7, S8]
+
 **Artifact schema:** `observed_at, query, search_route, language, candidate_profile_url,
 recorded_name, name_source, family_comparison, disposition, next_action`.
 
@@ -106,6 +119,18 @@ mistaken for a different person or a duplicate profile.
 5. Save the result and remaining unsupported links. Reset the pushpin to your own profile after
    the comparison so the next task does not silently use A as its focus. [H3]
 
+When a profile shows only one marriage or an incomplete set of children, use dated marriage,
+baptism and household entries to reconstruct each household. Use the mother's age in an earlier
+baptism to screen a candidate and corroborate her identity before adding the child to the local
+reconstruction. For a child missing from the father's profile, look for named heirs and their
+stated relationships in the mother's estate inventory. Compare the full documented sibling group
+with the profile before attributing an omission to an editor. [S9, S10, S11, S12, S13, S14]
+
+If a household entry gives no clear departure, check the next volume at that locality. Use a
+later appearance cited on the profile to locate the entry. For a proposed family move, use both
+spouses' profiles and any compiled genealogy covering the family to locate dated entries on each
+side of the move. Record which people each entry actually places there. [S14, S15, S16]
+
 **Artifact schema:** `observed_at, focus_profile_url, target_profile_url, path_category,
 ordered_profile_urls, calculation_information, inconsistency_results, unsupported_links,
 saved_path, next_action`.
@@ -114,6 +139,22 @@ saved_path, next_action`.
 dated tree observation until its required links are supported.
 
 ## 3. Attach a document to the facts and relationships it supports
+
+### Audit the profile's existing sources
+
+When a profile biography repeats a Wikipedia article, trace the article's references and the
+profile's attribution back to the text they drew on. Count demonstrated copies or adaptations
+as one evidence chain and cite the earliest version you can inspect. [S17, S23]
+
+For a profile's account of a property sale, check the contemporary notice for the parties, date
+and price. Track claims about the parties' prior dealings or motives separately. Assign them
+evidentiary weight only when a source addresses them. [S18, S23]
+
+When a proposed death year follows the last listed child, look for a later dated record placing
+the parent alive. Kyläkoski reports that a royal decision placed a mother alive after her
+profile's proposed death year. [S19]
+
+### Attach or cite a document
 
 1. **Privacy gate:** <!-- privacy-gate: upload --> An uploaded document can name or show family
    members who may be living; answer the privacy gate in `SKILL.md` before uploading it.
@@ -165,6 +206,11 @@ unchanged and keep the material in the local register.
 5. Give each lead a concrete next action and supporting record URL. Project membership is a
    research grouping, not evidence that its members belong to one family.
 
+For farm succession, inspect any farmholder list in the locality project for changes of holder,
+tenure dates and farm divisions or reunifications. Use those clues to identify which dated tax
+rolls and land records to compare. Keep succession and ownership provisional until the records
+support them. [S20, S21]
+
 **Artifact schema:** `project_url, project_type, topic_or_locality, profile_url, inclusion_reason,
 record_url, contribution_or_request_status, next_action, observed_at`.
 
@@ -179,6 +225,10 @@ or a collaborator's public profiles. Otherwise Geni sends a merge request, and e
 must accept it; you can never complete a merge when one of the profiles has been claimed. Curators
 can approve merges. Pending merges can be viewed, completed or undone in the Match Center.
 [H19 @2026-11-12], [H20 @2026-11-12], [H21 @2026-11-12], [H22 @2026-11-12], [H24 @2026-11-12]
+
+When same-name candidates share a birth year, identify the spouse in the later household entry
+and compare their marriage date with the dated end of the earlier marriage. If the dates overlap,
+test the two-person explanation before deciding whether to merge. [S14, S22, S23]
 
 1. Preserve both candidate URLs, immediate families and sources. Open the second candidate before
    starting **Actions → Merge This Profile** on the first; the documentation recommends this to
@@ -321,8 +371,8 @@ a portable tree file, and an export limit has not been presented as missing gene
 
 ## Prompt pattern
 
-"For these Geni profile URLs and this question, perform only procedure [number]. Return its
-register, saved artifact and checkpoint result. Keep the relationship focus explicit. Distinguish
+"Guide me through procedure [number] for this research question. Give me the register fields
+and the checkpoint to check in my own account. Keep the relationship focus explicit. Distinguish
 tree assertions, source-supported statements, pending requests and completed changes. Draft any
 manager or curator request for my review; do not send it. Report unavailable access separately
 from an unsuccessful search."
