@@ -360,7 +360,9 @@ files. It fails on missing allowlisted inputs. Claude's tree omits scripts and t
 `sources/` sidecars, renames each `NOTICE` to `NOTICE.md`, and points every link and path
 mention of `sources/` at the same files on GitHub, pinned to the release SHA. Claude's
 directory validation timed out on the full 9.4 MB tree and passed at 6.5 MB, so the
-policy check refuses a Claude tree over 6 MiB. Hermes and OpenAI retain the offline
+policy check refuses a Claude tree over 8 MiB, below the size that timed out. A tree
+between 6.5 MB and 8 MiB has not yet been validated in the portal; record each new
+measurement in this paragraph. Hermes and OpenAI retain the offline
 Beider helper; the OpenAI ZIP has sorted entries, fixed timestamps and fixed permissions.
 The Hermes catalog page renders the Hermes tree's `README.md`, so that copy keeps only the
 Hermes install steps. Each platform's install steps in `README.md` sit between
