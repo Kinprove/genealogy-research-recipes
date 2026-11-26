@@ -11,7 +11,7 @@ handoff: ["research-documentation", "source-citation"]
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 45}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 54}
 ---
 
 # Recover a RootsTech session or its handout
@@ -35,4 +35,4 @@ If returning to multiple sessions, sign in and save them in a topic playlist. Ke
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/rootstech-on-demand-session-recovery.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/rootstech-on-demand-session-recovery.md).

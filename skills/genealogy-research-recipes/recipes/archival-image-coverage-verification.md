@@ -10,8 +10,8 @@ guardrails: [{"id": "ARCHIVAL-IMAGE-COVERAGE-VERIFICATION-01", "text": "A comple
 handoff: ["ai-for-documentary-records", "corpus-seeded-name-search", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "muscovite-census-settler-origin-recovery", "russian-revision-list-household-chaining"]
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Research method", "group": "Search coverage and name searches", "order": 6}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 8}
 ---
 
 # Recipe: Verifying archival images, case boundaries and search coverage
@@ -46,11 +46,17 @@ Scroll through the thumbnails to gauge the group's extent and look for a later t
 
 For the requested item, inspect opening and closing material and representative interior pages. Reconcile its covers, title boards, headings, foliation and entries with the catalogue. A readable copy's own page count is not independent evidence that it contains the whole case. If an inventory, certification or other copy establishes a boundary, cite that evidence; otherwise report inspected pages with completeness unresolved.
 
+When using a scan of a loose document, check both faces and the full margins even if the visible face is legible. Inspect any face or margin the scan omits in another exposure or the original when available. Record any area you still cannot inspect as a coverage gap [S70].
+
 **Privacy gate:** <!-- privacy-gate: request --> A request for further sheets of a case file asks for more about the people it names, who may be living; answer the privacy gate in `SKILL.md` before you send it, and apply its rule for third persons named in the file.
 
 When an archive sends copies it selected from a case file, list the archival sheet numbers actually received. The highest number shows only that the file was at least that long; gaps in the foliation mark sheets not supplied. Record the packet as an excerpt with its known minimum extent, not as the case. Request the remaining sheets, citing the sheet numbers already received, and record whether the archive supplied them or withheld them. The [repression-file copy reports](https://forum.j-roots.info/viewtopic.php?f=64&t=561) motivate this. Sheet numbers do not show what omitted sheets contain or whether they can be released, and an unexplained gap is not evidence that nothing more was recorded.
 
+When a repository directs you to microfilm and the item is absent, compare the series description with the roll's scope and inspected frames, following the example from the available excerpt [S71]. Request access to the unfilmed material once the comparison locates the gap, giving the series entry, the film and roll identifiers, and the frame range that shows where the item should fall [S72].
+
 When reading a case file in a reading room, record three categories by sheet number: sheets inspected, sheets kept in sealed envelopes or otherwise withheld, and sheets shown without permission to copy and noted only by hand. Withheld is not missing, and neither status shows what those sheets contain. Note the viewing date and any further release after a request, because access to the same file can change. Originals released to the family may have been replaced by copies with receipts. The [sealed-envelope reports](https://forum.j-roots.info/viewtopic.php?f=64&t=561) and a [quoted access regulation](https://forum.j-roots.info/viewtopic.php?f=64&t=564) motivate this. They do not establish any archive's current practice.
+
+On a record page in Romania’s Descoperă Arhivele Naționale portal, open the "Media / Fișiere" list and save every numbered scan PDF when keeping a local copy of the register [S86 @2026-11-22], [S87 @2026-11-22]. If listed, keep the separate `_IDX.pdf` with the finding aids. Record each scan PDF's page range and reconcile the transitions and volume boundaries before reporting coverage.
 
 When a supplied archival image package includes a repository-produced HTML companion, retain
 it beside the images. It may preserve the archival signature, reported image count, repository
@@ -71,7 +77,17 @@ Classify a disputed number before correcting it: archive case, old office refere
 
 Treat a fund/inventory/case citation from older notes or a publication as a dated, second-hand lead recorded with its citing source, not as a current locator. If it does not match the current inventory or cover label, check for renumbering, splitting during restoration, or parts moved into separate units. Map it through an archive conversion table where one is available, then read the sheet numbers again and keep the old and new locators. Recheck 'lost' conclusions made under the old numbering. The [renumbered-inventory discussion](https://rodgersforum.borda.ru/?1-3-0-00000102-000-0-0-1780133454=), [separated-lists note](https://rodgersforum.borda.ru/?1-36-0-00000063-000-0-0-1769266561=) and [secondary-citation caution](https://forum.j-roots.info/viewtopic.php?f=181&t=4753) motivate this. They do not supply a conversion table.
 
+If separately catalogued sections have continuous page numbers, test whether they came from one binding. Compare the end of one section with the start of the next, then check the physical binding and section markers if available. Record the separate catalogue locators and carry the proposed binding as a hypothesis until the original or other binding evidence confirms it [S73].
+
+When consecutive files of minutes appear to leave a date gap, read the entire finding aid and follow each labelled date sequence separately. Distinguish draft minutes from regular minutes. If the filename leaves their status unclear, use the section headings and check the end of the original binding for appended drafts [S74].
+
+If a later minute cites a missing earlier minute, record the cited date and section alongside the later minute's locator and use them to search the correct run [S74]. When minutes record a submission whose attachment is missing, cite the minute for the dated submission and leave the attachment's contents unresolved [S75].
+
+For historical building-permit drawings, use the property or project identifier to group the catalogue entries, such as district, block and plot [S77]. Date each relevant sheet from its approval stamp or drafter's annotation before using it to establish a building sequence. If a sheet shows only the floor plan, search the other entries for its elevation and verify that both sheets belong to the same project [S76].
+
 Check sequence independently from totals. Compare foliation, headings and entries continuing across pages, including transitions between digital parts. Repeated page labels can represent recto/verso, restarted numbering or another section. A complete image set can still be in the wrong order. Do not renumber or merge items from filenames alone.
+
+Check a newspaper page's printed title, date or issue number against the issue under which it appears. Use printed pagination and continuations to check the order of neighbouring images. If the grouping conflicts with the printed identifiers, resolve the issue and page from another copy or hold the citation open [S78].
 
 Before jumping through an unindexed group, inspect title/end cards and readable internal
 labels to establish its arrangement and direction. An end-of-roll card at the first image
@@ -125,6 +141,14 @@ Where a register carries running numbers or a clerk's summary, use them to check
 
 Before reporting an expected entry absent from a metrical book, check whether a leaf is missing. Trace boys’ and girls’ birth-entry numbers separately [S61]. A jump from girls’ entry 286 to 289 in a 1909 Bogoroditsk uezd book led a researcher to look for the intervening leaf [S59]. A clerk may also have skipped a number, so confirm the loss from page continuity, the dates of the neighbouring entries or another copy before you report a leaf missing. A gap in the archive's leaf numbers, or a spread whose birth entries on the left do not pair with the godparent entries on the right, is also a reason to look for a lost leaf [S60]. Read the certification sheet (лист-заверитель) at the end of the file: it gives the number of leaves and records lettered leaf numbers and numbers skipped in error, so a skipped number listed there is not a lost leaf [S62], and archive staff sometimes list missing leaves there [S60]. A leaf lost before the file was numbered leaves no gap in the leaf numbers, so check the entry runs as well [S60]. Check the other churches bound in the same file. The researcher found the missing Bogoroditsk leaf among another church’s entries at the very end [S59]. A leaf that stays missing is a coverage gap, not negative evidence.
 
+If a numbered spread appears to be missing and the register carries totals forward, compare the total at the foot of the preceding spread with the corresponding figure at the head of the following one. Check that both are for the same column or category. Use a mismatch with a break in sequence to flag a suspected omission and compare with another copy or the original to distinguish it from a clerk's error. Keep other flagged spreads unresolved until checked individually [S79].
+
+When a jump in page numbers leaves a verso unaccounted for, look for text showing through from the reverse on the adjacent image. Use it to locate the suspected side and verify it in another exposure or the original before transcribing it. In the reported Helsinki parish volume I Ja:1, show-through on the sheet before page 17 flagged an unphotographed page 16 that comparing the last page number with the image count would have missed [S80].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A scan-gap report sends record locators and a description of the break to archive staff. If those details disclose data about anyone who may be living, apply the privacy gate in `SKILL.md` before sending. Omit personal names and record text unless necessary and authorized.
+
+Report a suspected scan omission to the archive with the archival unit, digital file number and the printed numbers of the adjoining spreads. Say whether you found a break in the contents as well as in the numbering, and label the omission suspected if the scan alone leaves it unresolved [S79].
+
 After a jump to the expected date in a chronological roll or image group, and before reporting an entry absent, inspect the group's final images for out-of-sequence additions and any roll index, and record in the coverage statement that the end was checked. A roll index is a finding aid; still read the original entry it points to. The [microfilm rule of thumb](https://www.youtube.com/watch?v=5Rcm-OakCes) motivates this check. It does not establish how often appended images or indexes occur, or that every digitized image group keeps its roll ending.
 
 In a revision list or other listing of several places, a place need not form one continuous block. It can have a main section, a separate section for those who died or departed since the previous count, or a short later entry under its heading that continues another place's numbering. Before reporting a household absent or counting a place's households, read the case's full leaf sequence and record every leaf range bearing its heading. A compiler's place index is a finding aid; verify its ranges on the images. In the coverage statement, record a missing beginning or end, or missing old-numbered leaves, as ranges in both old and current leaf numbering. The [revision-list leaf discussion](https://rodgersforum.borda.ru/?1-14-0-00000057-000-0-0-1768992933=) and [1744 revision-list place index](https://rodgersforum.borda.ru/?1-7-0-00001243-000-0-0-1778141289=) motivate this. Each concerns one case, and the index's leaf numbers were not checked against images.
@@ -173,6 +197,12 @@ For manual review, provide the exact full source page, citation and neutral ques
 ## Scan availability and index coverage are different questions
 
 A catalogue entry, a working scan and a searchable name index establish different things. Verify the actual file and case/part correspondence; a repository page or predicted filename alone does not prove scan availability. A failed retrieval leaves availability unknown. In Russian archive catalogues, an оцифровано (digitised) or ЭФП (электронный фонд пользования, the electronic use copy) flag shows that a use copy exists, not how it can be viewed: in the reading room only, by paid remote viewing (see the RGADA example in [muscovite-census-settler-origin-recovery.md](muscovite-census-settler-origin-recovery.md)) or free. [S33] Check that file's access terms before telling the user it is online; until then, keep the cipher and continue with open catalogues and other copies.
+
+For a partly digitised series, enumerate the catalogue units across the required dates and open the scans for each one. Log isolated units without accessible scans and longer gaps between units that open [S81]. When the archive announces an addition or completion, reopen the exact unit and check the previously missing pages before changing their coverage status [S82].
+
+If a web archive recovers a lost image directory, open the links for the pages you need and verify each image and its capture date independently of the directory snapshot [S84]. If only the directory was captured, cite it for what was listed and seek the actual pages in another copy [S83].
+
+If previously available images stop opening, recheck the same unit and look for a repository notice that identifies it for rephotography. Check for the earlier film or another copy while a confirmed replacement is pending. Reopen the target frames before marking them available again [S85].
 
 **Privacy gate:** <!-- privacy-gate: request --> A request about a file withheld for its condition tells the archive whose records you are researching and why; answer the privacy gate in `SKILL.md` before you send it.
 
@@ -223,6 +253,8 @@ An upload for a case does not establish that its supplementary, merchant or othe
 
 Before reading a no-hit in a name index as an absence, test what the index covers against the original. Pick a few entries at random in the original pages, including people in minor roles such as witnesses or neighbours, and look each one up in the index; then check a few index entries against their originals. Record which roles are indexed, how names were transcribed and which sampled entries are missing. An index can include a baptism's child and parents but not its witnesses, or a deed's grantor but not its grantee or neighbours. [S53], [S54] A no-hit counts only for the roles and spellings the sample shows the index covers.
 
+Before ending a card-index search at the expected alphabetical position, compare the order of the headings at several points in the relevant filing block. If the sequence breaks, browse the block by image and log the range you actually checked [S88]. In the Dahlström card index, follow reference cards from the name section to the relevant subject, topographic or probate section [S89].
+
 Before ordering or citing a file by an index's fund/inventory/file reference, query an archive holdings database or published inventory by place, year and record type. Compare the returned file number and description with the citation. A file of a different record type at the cited number signals a likely citation error; keep both references until the file is opened. A holdings database lists surviving files and their references, not their entries. A surname search there therefore fails, and a matching file does not show that the person's entry exists. The [Vilnius holdings-database exchange](https://forum.j-roots.info/viewtopic.php?f=164&t=5924) motivates this from one example.
 
 A compiled reference database or online fond list can omit a fond it never processed, or fail to display one. Before reporting a fond or file as not held, establish whether that finding aid covers the fond at all, and consult the archive's own inventories. For LVIA fond 1046, a reference-database contributor reported that its signatures had not been entered. A second reader found the fond in the online list where another had seen a jump from 1043 to 1049 [S18]. Check the fond and its inventory separately from the referenced file and any scan.
@@ -239,4 +271,4 @@ Record which sides of loose documents an image copy shows; filming can miss a pa
 
 Deliver the literal passage and verified fields, the exact inspected locator, coverage actually achieved and remaining gaps. For OCR retrieval use [corpus-seeded-name-search.md](corpus-seeded-name-search.md); for household reconstruction use [jewishgen-search-family-reconstruction.md](jewishgen-search-family-reconstruction.md).
 
-Sources and the distinction between provider facts and workflow synthesis: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/archival-image-coverage-verification.md).
+Sources and the distinction between provider facts and workflow synthesis: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/archival-image-coverage-verification.md).

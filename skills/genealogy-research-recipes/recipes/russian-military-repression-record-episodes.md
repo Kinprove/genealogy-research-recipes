@@ -10,8 +10,8 @@ guardrails: [{"id": "RUSSIAN-MILITARY-REPRESSION-RECORD-EPISODES-01", "text": "a
 handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "research-documentation"]
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 78}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": ["contact"]}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 122}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes
@@ -94,6 +94,15 @@ publishes S. B. Patrikeev's consolidated lists of the cross's holders for 1914�
 900,000 names, as PDF volumes by class and cross number; its own name search for WWI covers only
 six regiments, so read the volumes for the class and number range. [H121 @2026-11-15]
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> MyHeritage searches send the servicemember's name to MyHeritage,
+along with any dates, places or father's name entered. Clear the privacy gate in `SKILL.md` before
+submitting data about anyone who may be living.
+
+Search MyHeritage's **Former Russian Empire, World War I Casualties** (20771) for military events
+dated 1913–1921. Record the residence, event type, date and place, and any separately recorded
+death date. The index also covers wounds, disappearances and awards. Check the event type before
+using the military event date as a death date. [H154 @2026-11-22], [H155 @2026-11-22]
+
 For a woman who may have nursed in WWI, read the Russian Red Cross Society's printed list of sisters
 of mercy assigned to Red Cross, military, public and private hospitals (Petrograd, 1915; 924 pages),
 compiled from the Main Directorate's records as of 1 August 1915 and open in the Russian State
@@ -127,6 +136,18 @@ variant, birth year, unit or loss date in an alert to locate the underlying repo
 or the repository named in the result. Keep the alert as a lead until the report supports the
 identification.
 
+Search MyHeritage's **Soviet Union, World War II Jewish Casualties** (20285) for Jewish soldiers
+of the former Soviet Union killed or missing at the front, chiefly in 1941–1945. Compare the birth
+year and father's name across hits, and check any reported death year against the attached scan
+when one is available. [H156 @2026-11-22], [H157 @2026-11-22]
+
+Search MyHeritage's **Ukraine, World War II Casualties** (20302) for memorial entries for Ukrainian
+soldiers killed or missing who fought in or alongside the Red Army, Soviet resistance or other
+independent organizations. Compare the birth date and place, enlistment year and father's name.
+Read the notes for service and burial details. For either MyHeritage WWII casualty collection,
+check the individual outcome before recording a death. Keep a disappearance as missing and
+seek a record that establishes any later death. [H156 @2026-11-22], [H157 @2026-11-22], [H158 @2026-11-22]
+
 Search Pamyat Naroda (pamyat-naroda.ru) using Cyrillic name variants. In a dated FamilySearch demonstration, Иванов returned matches where the Latin spelling Ivanov returned none [H75 @2026-11-12]. Include the following record types:
 it also holds conscription and demobilisation records from enlistment offices, navy and officer
 card files, burial details and loss and POW documents [H76 @2026-11-12], and Vera Miller reports added card
@@ -137,6 +158,12 @@ raion or oblast rather than the village, because the search handles place names 
 expect the village to be spelled several ways and placed under more than one raion. [H79 @2026-11-12] New
 documents are loaded periodically, so repeat a failed search after an update. [H77 @2026-11-12] Search women
 and people who were teenagers during the war as well, as Miller advises. [H80 @2026-11-12]
+
+For a Stalingrad lead, take the unit and event date from the Red Army missing-person or casualty
+report. Use them to find orders and operational reports in the Presidential Library's **World War II
+in Archival Documents** project. Compare the unit's dated location with the servicemember's record
+before assigning the person to the battle. If the documents place only the unit there, leave the
+individual's participation unresolved. [H159 @2026-11-22], [H160 @2026-11-22], [H161 @2026-11-22]
 
 If the remembered birthplace yields no match, search by name and birth year alone. A serviceman remembered as born in Pereslavl-Zalessky gave Gorodishche in its district as his birthplace. The researcher found his birth in the village’s metrical books [H124]. Copy the place from the original record, then search for other natives of that village and raion. In a Tula-region search the starting place was Kobylinka, named in a woman’s 1944–1945 award papers [H125]. Use a shared village and surname as leads to parish or household records that can establish kinship.
 
@@ -184,6 +211,12 @@ POW records at about 700,000, from an international research project the Dokumen
 run since 2000, and said the online entries give basic data only. [H60 @2026-11-08] Before counting
 a Dresden entry and an OBD Memorial POW card as two sources, check each one's stated archival
 origin: if both reproduce the same German registration card, that is one source reached twice.
+
+Search MyHeritage's **Soviet Prisoners of World War II Held in Germany** (20309) for a Soviet
+servicemember possibly captured by German forces, even if no death in captivity is known. Compare
+the birth date and place and father's name. The collection credits the Saxon Memorial Foundation.
+Check the underlying record before counting a MyHeritage match and a Dresden match as independent
+evidence or assigning a camp. [H159 @2026-11-22], [H162 @2026-11-22]
 
 **Privacy gate:** <!-- privacy-gate: request --> A Dresden or Bundesarchiv enquiry transmits
 personal and family details; answer the privacy gate in `SKILL.md` before sending either form
@@ -382,6 +415,30 @@ families, Polish archives and institutions, and post-Soviet archival data obtain
 Memorial (Moscow); Ośrodek KARTA published 21 volumes from it in 1995–2013. Check each card's
 provenance before treating it as an archival record. [H41]
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> An index query sends the subject's name
+and any pseudonym or birth year entered to the Lithuanian Special Archives. An EAIS lookup sends
+the subject's file locator to the Electronic Archives Information System. Clear the privacy gate in
+`SKILL.md` before submitting data about anyone who may be living.
+
+For a Soviet surveillance or prosecution lead in Lithuania, use the Lithuanian Special Archives'
+**Electronic Surname Archive** (*Elektroninis pavardžių archyvas*). The archive holds Lithuanian
+SSR security-police files on dissidents and political cases. [H165 @2026-11-23], [H166 @2026-11-23]
+Use this general name index for Jewish subjects with the same kind of lead. Search by surname and
+given name, try Lithuanian and Russian-derived spellings, and use a known pseudonym or birth year
+to narrow results. Record the indexed name, birth year if shown, and the fond, inventory and file
+numbers for each plausible hit. Check why the person was named in the underlying file. An index
+miss leaves the archive's holdings untested. [H167 @2026-11-23], [H168 @2026-11-23]
+
+Check the EAIS digital reading room for a scan of the cited file. [H167 @2026-11-23]
+
+**Privacy gate:** <!-- privacy-gate: request --> A KGB file order sends the subject's file locator
+to the Lithuanian Special Archives, and registration supplies the reader's identifying details
+to the same archive. Clear the privacy gate in `SKILL.md` before submitting either form.
+
+If a scan is unavailable, register as a reader and order the KGB file for the archive's KGB
+documents reading room. Put the fond, inventory and file numbers and the requested consultation
+date on the document order form. [H165 @2026-11-23], [H169 @2026-11-23]
+
 For Western-Ukrainian deportation and repression in 1944–1953, search published documentary
 series as well as databases. 'Літопис УПА. Нова серія' (Chronicle of the UPA, New Series)
 publishes documents from ЦДАГОУ and ЦДАВОУ (the central state archives of public
@@ -416,6 +473,14 @@ every collection supplies every field:
 The date cautions are inferences about what a document actually asserts. In particular, an
 award order after a missing report does not, by itself, establish survival between those dates.
 Obtain an event-specific source before extending a life or death interval.
+
+Before assigning a WWI wound to an engagement, put the recorded wound date and the campaign
+chronology on the same calendar, then compare the unit and locality. Near Baranowicze,
+Russian movements peaked on 12–14 July 1916 during preparations for another offensive, and the
+German counterattack at Skrobowa began on 14 July. A wound date in that interval alone cannot
+distinguish preparations from fighting.
+Leave the engagement unresolved until a dated unit record places the unit at the relevant action.
+[H163], [H164]
 
 Before you read a WWII loss document's dates, open its first page and tell a front-line loss report
 from a post-war household-survey sheet. The district military commissariats compiled the sheets
@@ -741,4 +806,4 @@ or seeking rehabilitation is a separate action requiring the user's scope and cu
 
 ## Sources
 
-[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).
+[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).

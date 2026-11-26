@@ -11,7 +11,7 @@ handoff: ["canadian-provincial-record-routing", "evidence-proof-judgment"]
 checked: "2026-11-21"
 checked_basis: "read 2026-11-21"
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 188}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 324}
 ---
 
 # Find a cross-border enlistment in the Canadian Great War Project
@@ -33,4 +33,4 @@ According to the presenter, when testing a co-enlistment lead, try the known enl
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/canadian-great-war-project-cross-border-enlistment.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/canadian-great-war-project-cross-border-enlistment.md).

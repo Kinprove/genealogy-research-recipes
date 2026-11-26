@@ -6,7 +6,7 @@ kind: "judgment"
 scope: {"platforms": [], "tasks": ["research logs, research reports, NIL searches, coverage and linked next actions"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches and unsearched collections with their actual status."}]
+guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches and unsearched collections with their actual status."}, {"id": "RESEARCH-DOCUMENTATION-02", "text": "When analysis produces another search, retain a separate pending-action field linked to the originating document number or correspondence entry."}]
 handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-empire-emigrant-origin-recovery", "source-citation", "unknown-parentage-wato"]
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"
@@ -61,6 +61,11 @@ Date | Repository | URL / Call # / Microfilm # | Research question / what search
 Assign each inspected record a local document number, such as `R1`. Record the collection,
 place/date coverage, exact query or browsing range, and the result. Link the entry to its
 [source citation](source-citation.md) and saved images when available.
+
+When browsing annual runs of a newspaper such as *Posttidningar*, log one row per inspected
+issue with its title, publication date, issue number if shown and copy locator [B51]. If a saved
+issue link stops opening, keep the row and use the title and issue date to check the provider's
+coverage and look for another digitization or a microfilm copy [B51], [B52].
 
 Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches
 and unsearched collections with their actual status. Keep literal record wording and uncertain
@@ -137,6 +142,12 @@ Keep a locality guide bounded to the question and period: historical jurisdictio
 series and dates, known loss, present custodian, access and collection/finding-aid links.
 Include geography or administrative history when it changes where to search. A described
 collection remains uninspected until its contents have actually been examined.
+
+When using Finnish *henkikirjat* to bracket a move, list the register links and record each
+closing date from the notation at the end of the register [B56]. Keep the volume year and
+closing date separate from the date the household information represents. If the timing affects
+the bracket, check contemporary newspaper notices for the relevant district or block's
+enumeration date and keep the move interval as broad as the evidence requires [B56], [B57].
 
 For an initial U.S. county survey, search by place in the FamilySearch Catalog with availability set
 to Any. Check each relevant entry's access route, including physical holdings and restricted images
@@ -302,6 +313,13 @@ The [research-log views example](https://familylocket.com/rlp-258-saving-views-o
 demonstrates filtering next steps and grouping them by repository. These are companion
 views of the log, not replacement search results or a requirement to use Airtable.
 
+Keep a working bibliography of publication leads, including unread ones. When a secondary
+work's footnote supplies a lead, record the citing work and footnote locator, the cited work
+and the question you expect it to answer [B54]. For an online copy, note the URL that opened
+and the access you used, or record where a previously saved copy is kept. Track inspection
+separately from access [B54]. When a gap emerges in the report's citations, review the unread
+leads for that gap before rerunning the literature search [B55].
+
 Give each sent request its own dated correspondence entry. Retain the channel, the
 question asked and a private locator for the message. Link each reply to the request and
 record what the sender actually confirmed, including the scope they checked if stated.
@@ -422,6 +440,12 @@ does not establish that every tree was updated. The [project-tracking example](h
 supplies this handoff without requiring a particular database or treating custom status
 labels as proof grades.
 
+When revisiting a family account of schooling, retrieve any dated coursework that records it.
+Compare the institution name and chronology with your current recollection. Follow the
+coursework's citations and check surviving records to resolve discrepancies. In one case,
+a remembered one-year seminary course conflicted with an earlier assignment that distinguished
+admission from the start of instruction [B53].
+
 Before extending an earlier phase's log for a new phase, keep a dated copy of that log linked
 to the earlier report. Add later observations in a new working copy or as dated rows, so what
 was known at the earlier conclusion stays distinguishable. The [research-planning](https://familylocket.com/rlp-247-rlp-with-dna-9-research-planning/)
@@ -432,4 +456,4 @@ Original Kinprove reference, licensed FSL-1.1-MIT.
 
 ## Sources
 
-[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/research-documentation.md).
+[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/research-documentation.md).

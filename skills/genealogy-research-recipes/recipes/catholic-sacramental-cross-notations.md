@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 191}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 337}
 ---
 
 # Follow Catholic baptism–marriage cross-notations between parishes
@@ -35,7 +35,11 @@ Indexes can leave out the baptism-parish statements and the marriage notes, so n
 3. Search the stated baptism parish even when the marriage took place overseas or decades later. In Lisson’s interview with Jen Baldwin, an 1877 County Cork baptism entry reportedly carried the later Philadelphia marriage [S4]. Check the margin and remarks column of the original baptism page [S5].
 4. The marriage may have taken place in a third parish. Ideally the bride's baptism parish, the groom's baptism parish and the marriage parish all refer to each other, but not always [S1]. Treat each of the three as a separate retrieval target.
 
+If a Latin American Catholic marriage entry gives no baptism parish, include the marriage parish in the baptism search, especially for the bride if the entry places her family there [S14], [S15]. Also search the parish serving any specific place of origin the entry names. Treat the ceremony location as a search lead and verify birthplace separately.
+
 ## Baptism → marriage (when the marriage is missing)
+
+When the archive lists the parish baptism entries under births, choose the birth volume by the person's birth year and check the original entry for the later marriage note [S16], [S17].
 
 1. Open the original baptism page, including its margin and far-right column. Read the heading across the whole spread, then identify what the individual note records. The Philadelphia register discussed in the Findmypast demonstration had space for several later events, including confirmation and marriage [S5].
 2. Transcribe the spouse, church, marriage date, witnesses and officiant where present [S2], [S5]. The Philadelphia demonstration traces a note on a 1919 baptism to a marriage dated 14 February 1943 at the Cathedral of Saints Peter and Paul [S5]. Use that date and church to distinguish the marriage entry from the later note about it.

@@ -11,7 +11,7 @@ handoff: ["illegitimacy-record-recovery", "child-placement-and-orphan-train-reco
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 212}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 362}
 ---
 
 # Trace a Vaud foundling from baptism to a naming decision
@@ -37,4 +37,4 @@ If a later parish entry cites the earlier register, follow the named parish and 
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/vaud-foundling-baptism-and-naming-records.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/vaud-foundling-baptism-and-naming-records.md).

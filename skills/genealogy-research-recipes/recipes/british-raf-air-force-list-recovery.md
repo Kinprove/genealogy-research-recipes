@@ -11,7 +11,7 @@ handoff: ["british-army-first-world-war-service-records", "evidence-proof-judgme
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 115}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 164}
 ---
 
 # Trace British RAF service through Air Force Lists and personnel records
@@ -41,4 +41,4 @@ Use the MyHeritage United Kingdom, Royal Air Force Personnel collection when its
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/british-raf-air-force-list-recovery.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/british-raf-air-force-list-recovery.md).

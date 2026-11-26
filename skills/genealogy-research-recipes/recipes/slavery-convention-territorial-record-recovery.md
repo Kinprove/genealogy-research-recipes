@@ -11,7 +11,7 @@ handoff: ["british-colonial-slave-registers", "manuscript-collection-recovery", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 54}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 71}
 ---
 
 # Trace implementation records of the 1926 Slavery Convention
@@ -38,4 +38,4 @@ Follow the relevant government’s correspondence and legislative records, then 
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/slavery-convention-territorial-record-recovery.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/slavery-convention-territorial-record-recovery.md).

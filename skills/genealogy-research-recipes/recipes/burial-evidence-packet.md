@@ -11,7 +11,7 @@ handoff: ["german-military-record-period-routing", "immigrant-congregation-origi
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 194}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 341}
 ---
 
 # Build a burial evidence packet from cemetery records
@@ -67,6 +67,13 @@ registered cemetery number as a separate locator. A listing locates a burial gro
 in it. For older compiled transcriptions, check the local-history collection of the library or
 historical society near the cemetery. Some hold 1930s WPA tombstone transcripts [P4], [P61], [P65].
 
+For a Finnish archaeological register entry, save the site ID and read **Kuvaus** (description)
+alongside **Tutkimukset** (investigations). Record the date and scope of fieldwork separately from
+each reported feature or find and its source. The 2002 inventory did not visit
+Sahrajärvi-Kuoliosaari (1000030045), even though it recorded the witness account behind the grave-like
+depressions and skull finds reported in Kyläkoski’s excerpt. [P296† @2026-11-23], [P297 @2026-11-23],
+[P298 @2026-11-23]
+
 FamilySearch lists Full-Text under its Search menu. Sign in and try `cemetery` with the place name to locate digitized transcriptions [P64 @2026-11-19].
 
 Keep each survey’s date with its reading of a stone that later broke or disappeared. Record whether the compiler read the inscription, relied on a local account or located the grave by dowsing. The Berks County preservation group reported that its compilation included dowsing-based locations and that it still found errors [P192].
@@ -81,6 +88,18 @@ In Interment.net, open the cemetery’s individual transcriptions and record the
 date and underlying source where given. Keep a register-based entry separate from a reading of a
 stone. Before using any survey’s silence, compare the candidate’s burial date with the fieldwork
 cutoff for that section. Carry a later or undated burial to the cemetery register. [P226 @2026-11-21], [P227 @2026-11-21]
+
+On a Find a Grave cemetery page, read **Photographed** as the share of that cemetery’s listed
+memorials with photos. In the cemetery’s memorial map, a pin requires memorial GPS. Use the
+memorial list as well as the map when looking for a name, and use the interment register to
+check which burials the site omits. [P258 @2026-11-22] [P259 @2026-11-22] According to the supplied Morton tutorial excerpt,
+check the cemetery-level photo counts. [P264† @2026-11-22]
+
+For an Ulster burial, use the Ulster Historical Foundation’s **Graveyards in Ulster** to identify
+candidate grounds and their records. Then check the separate gravestone inscription collections.
+The **North Ulster Gravestone Collection** lists its burial grounds in the search form and contains
+a partial upload. Leave the burial open after a miss.
+[P269 @2026-11-22], [P270 @2026-11-22], [P271 @2026-11-22]
 
 For a burial ground with no surviving markers, use deeds and local histories to locate the ground.
 Build the burial list from named burials in church records, newspapers or histories that identify
@@ -162,6 +181,23 @@ Gate IV. Record the section with the grave locator. Use the Jewish Community of 
 online burial database through 1945. A later burial lies outside that database's stated
 coverage. [P205 @2026-11-20], [P206 @2026-11-20]
 
+For a South African burial, open the province’s photo collection in **eGGSA Graves**. If the
+locality is uncertain, also check **Location Unknown**. Keep the photographed inscription with
+its gallery or cemetery heading and take a burial or kinship claim to the underlying record.
+[P278 @2026-11-22], [P279 @2026-11-22]
+
+For an Estonian burial, check whether the cemetery participates in Haudi before searching its
+burials. Save the plot locator and open the cemetery map when supplied. A hit can come from a
+cemetery book or a marker inventory. Record the basis if given and use the underlying entry or
+stone to settle a conflict. A miss leaves an unrecorded burial or a lost source possible.
+[P280 @2026-11-22], [P281 @2026-11-22]
+
+According to Scott’s supplied transcript excerpt, a Chalmette headstone search can miss an
+earlier interment or a burial without an individual marker. [P294†] For a Confederate prisoner
+originally buried at Chalmette, check Cypress Grove Cemetery in New Orleans for the reinterment.
+The National Park Service documents the transfer there and records mass burials at Chalmette.
+Use a dated burial or transfer record to place the individual. [P295]
+
 For a death in war or a veteran's burial, search the official registers, which governments and
 war-graves bodies compile, each as its own surface. A miss outside a register's stated coverage
 is not a negative.
@@ -185,6 +221,14 @@ is not a negative.
   World War and after, gives the original burial places of more than 5 million soldiers and
   officers. [P73] An original burial place can differ from the present grave after a reburial, so
   look for the present grave separately.
+
+For a death in Finnish military service in 1939–1945, search Sotasampo’s **Menehtyneet** by name.
+Keep any **Hautausmaa** (cemetery) value separate from the place of death. The linked cemetery view
+draws on the same casualty data. Check the interment register or a dated transfer record before
+assigning a grave. [P300 @2026-11-23], [P301 @2026-11-23] For a 1918 Finnish Civil War death, search
+**Sotasurmasampo 1914–1922** and use the death details to narrow the burial search.
+[P300 @2026-11-23], [P302 @2026-11-23] According to Kyläkoski’s excerpt, these services carry data
+from the National Archives’ older casualty searches. [P299† @2026-11-23]
 
 When you need a photograph of a military grave or memorial, search The War Graves Photographic
 Project by name and match the cemetery and unit to the official register. Search beyond Commonwealth
@@ -276,6 +320,21 @@ photo available | image examined | next source`.
 
 ## 2. Search the recorded name fields separately
 
+According to the supplied tutorial excerpt, Morton demonstrates broadening Find a Grave memorial and
+cemetery searches using the available search controls. [P264† @2026-11-22] In **More search options**, enter a maiden surname in the surname field
+and enable **Maiden name**. Run separate passes for the other options, such as similar spellings or a known spouse, parent, child or sibling.
+Use `?` for one missing letter and `*` for zero or more. Add a cemetery location to narrow results.
+Run a biography keyword as its own pass because it excludes entries without that word in their
+biography. [P266 @2026-11-22] Where the burial ground is uncertain, open **Cemeteries** and search by name
+or browse and zoom the map around the locality. [P267 @2026-11-22] Open a candidate cemetery and run separate surname
+searches there for birth and married names, including for relatives absent from memorial links.
+[P265 @2026-11-22]
+
+If a common first and last name swamp the Find a Grave results, try the known distinctive
+middle name alone. Compare the names and dates on any hit against the candidate’s records.
+A miss leaves memorials that omit the middle name in play.
+[P268]
+
 For Manchester, use MyHeritage's *England, Lancashire, Manchester Burials* for entries from
 1850 onward. Save the deceased's name and the stated date and place of burial. For parish
 burials, search its separate Diocese of Manchester collection (1603–1910). The similar
@@ -295,6 +354,12 @@ For Stockton-on-Tees, search MyHeritage's Durham burial index from 1871 onward f
 and stated date and place of burial. Check the council's burial register search as well.
 Leave a miss unresolved. The council says its online entries are incomplete.
 [P186 @2026-11-18], [P187 @2026-11-18], [P188 @2026-11-18]
+
+According to the supplied interview excerpt, try the National Burial Index after a miss in an
+index created by FamilySearch. [P292† @2026-11-22] In Findmypast’s **National Burial Index for England & Wales**,
+search by name, year and locality. Keep the stated age, burial date and burial place. Check which
+register or earlier transcription supplied the entry before treating a hit in another index as
+independent. [P293 @2026-11-22]
 
 For a French hit in MyHeritage's *France, Church Burials and Civil Deaths*, read the underlying
 entry and label it as a parish burial or a civil death. The combined index gives the death
@@ -401,6 +466,14 @@ For Rockhampton, use MyHeritage’s *Australia, Queensland, Rockhampton Burials*
 alongside the Regional Council’s cemetery indexes. Search North and South Rockhampton separately
 when the cemetery is uncertain. Record age and death date apart from interment date and cemetery.
 For 1858–1864, check the council’s listing for the separate Rockhampton Court House records. [P238 @2026-11-21], [P239 @2026-11-21], [P240 @2026-11-21]
+
+For a Hart Island burial, check MyHeritage’s index, which describes entries from 1872 onward,
+and the city’s **Cemetery Management Tracking System**, which starts in 1977. Keep the place
+and date of death separate from the interment. Use the Medical Examiner number if available and
+carry a supplied plot number to the city’s plot map. A fire destroyed some burial records, so leave
+a miss unresolved. Record the circumstances of public burial only when a source supplies them.
+Families could choose public burial for a claimed relative.
+[P274 @2026-11-22], [P275 @2026-11-22], [P276 @2026-11-22], [P277 @2026-11-22]
 
 For Denver’s Riverside Cemetery, search MyHeritage’s *Colorado, Denver, Riverside Cemetery Burials*
 and Denver Public Library’s *Riverside Cemetery Burial Register Index, 1876–1963*. The library dates
@@ -529,11 +602,34 @@ writing the transcription on site. Check for footstones, cornerstones and enclos
 and visible repairs with the affected face so later readings can be checked against the right
 feature. [P226], [P230]
 
+When a monument has an inset or added plaque, transcribe the original stone, the inset and
+any maker’s mark on the enclosure under their own photo locators. Label a named maker and
+place with the object they identify. In the Fasty survey, a Russian dedication surrounded
+a Polish plaque naming a different set of people as buried there. [P290] Read each
+surface’s burial statement on its own before checking the interment register. [P230]
+
+When reading Polish and Lithuanian names in a burial group, retain each spelling as carved
+and log any supplied variant separately. Repeat the search with both forms and include nearby
+family stones outside a language-specific survey’s selection. A Pivašiūnai survey omitted a
+stone it found because the surname was written in a Lithuanianized form. [P291]
+
 For each person named on a family monument, retain the literal burial-place statement and its
 image/surface locator separately from the monument's physical cemetery and plot. A family
 monument can name people buried elsewhere; compare their location statements with available
 burial records instead of assigning everyone named on the monument to its plot.
 Unresolved burial locations stay open. [P26]
+
+For a marker built into a wall or laid as paving, record its observed location and look for a
+heritage survey or earlier description that traces its previous setting. Leave the grave location
+open until burial evidence places the remains. [P287] The 1600 Mościcki slab in the church
+vestibule at Jabłonka Kościelna had reportedly served as paving after the family chapel at
+Tybory-Kamianka was demolished. [P285] [P286]
+
+In a columbarium inscription, record a stated place of origin and any permitted destination
+for a future transfer in their stated roles. Look for a dated record of an actual transfer before
+changing the interment location. A published selection organized around stated origins can omit
+people whose plaques give no origin. Keep the burial open and look for a fuller inventory or the plaques themselves.
+[P288]
 
 A name cut on a stone before that person died records where they meant to be buried when the
 stone was set, not a burial. A couple's stone put up at the first death, or a stone bought at a
@@ -649,6 +745,13 @@ one year. In a leap year a bare Adar is ambiguous unless the stone says Adar I o
 both candidate dates. [P45, P46] נלב"ע expands to נפטר לבית עולמו ('departed to his eternal
 home'). [P47]
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Calendar conversion sends the deceased’s transcribed Hebrew date to JewishGen. Answer the privacy gate in `SKILL.md` before submitting it and keep names, images and other details local.
+
+For a legible Hebrew day, month and year, use JewishGen’s standalone
+[Calendar Converter](https://jewishgen.org/JOS/josdates.php). Submit only those three fields.
+Keep the Gregorian result in the Converted date row beside the literal Hebrew date and preserve
+the inscription’s event label. [P306 @2026-11-23], [P307 @2026-11-23]
+
 A Hebrew day begins at sunset. Converters return the civil date of the daytime part, so a death
 after sunset may have fallen on the civil evening before the converted date: keep both civil dates
 unless the time of death is known, and compare each with the civil record. [P74, P75] Most Hebrew
@@ -723,6 +826,19 @@ and marker before comparing the cemetery or any GPS point, and log the source of
 BillionGraves distinguishes GPS headstone records from photos without coordinates. A shared
 photo counts once for what is visible on the stone. [P160 @2026-11-18], [P161 @2026-11-18]
 
+On a Find a Grave memorial page, use **Show Map** when available to inspect the contributed
+marker location. GPS can be added separately from a photo. Read **Add to Map** as a prompt to add
+coordinates, and check the photos separately. Confirm a plotted point against the section and plot
+reference before using it on a visit.
+[P258 @2026-11-22], [P260 @2026-11-22]
+
+For an Arlington National Cemetery hit in MyHeritage, retain the interment date separately from
+the death date. Save the service details and whichever locators appear, including a court, column
+or niche for a columbarium burial. Open the cemetery’s **ANC Explorer** to check the locator
+and both headstone faces where available. The MyHeritage collection comes from Arlington, so
+matching entries there and in ANC Explorer can share a source.
+[P272 @2026-11-22], [P289 @2026-11-22], [P273 @2026-11-22]
+
 If the section or plot is unknown, inspect the posted gravesite photos for the marker's
 position in the grounds and its size relative to nearby stones. Use those features to choose
 where to look on an authorized visit. Match the inscription before assigning the plot. [P209]
@@ -770,6 +886,13 @@ grave's type and status when contact is authorized. Is it a war grave? Was the s
 example as unstable? Record any reported grave status and the current section, row and number
 beside the original locator. If the office reports an anonymous interment, ask for the recorded
 field. A Berlin cemetery inquiry located a surviving war grave by section and row; in a separate anonymous-burial inquiry the discussion suggested asking for the field but recorded no answer [P19]. Log the locator the office actually provides.
+
+For a civil burial permit in Spanish-language records, search the jurisdiction’s finding aids
+under the locally used term. Try `pase de sepultación` for Chile or `licencia de enterramiento`
+for Spain. Search alongside the civil death registration. Compare the permit’s death details against that entry. If the permit names
+the intended cemetery, use that name to find its interment register and check whether burial went
+ahead there.
+[P282], [P283], [P284]
 
 Custodians may produce only what is asked for by name. Request each record type separately:
 interment register, plot purchase or deed, burial or grave-opening permit, transit permit,
@@ -1043,10 +1166,24 @@ plot reference and specify the face or detail needed, including why a new image 
 if one already exists. Request the surviving marker without presuming it is a headstone.
 [P166 @2026-11-18]
 
+**Privacy gate:** <!-- privacy-gate: link --> Putting memorials into a Virtual Cemetery sends the memorial IDs and the user’s list name to Find a Grave. Grouping can reveal the user’s family connections or visit plans if made public. Check visibility and answer the privacy gate in `SKILL.md` before saving.
+
+If the user wants a grave-visit list across physical cemeteries, save the memorials to a Virtual
+Cemetery with **Save to**. Choose **Private** and reopen the list from the user’s profile before
+the visit. [P262 @2026-11-22] [P261 @2026-11-22] [P258 @2026-11-22] According to the supplied Morton tutorial excerpt, the
+Save to menu offers the Virtual Cemetery option. [P264† @2026-11-22]
+
 Before an authorized visit where the user wants to help, open the cemetery's **Photo Requests**
 list. Use the requested memorial's supplied grave location and any cemetery plan to locate
 the marker. Check the inscription and plot against the request before taking the picture.
 [P167 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Claiming a photo request sends the user’s account and chosen memorial request to Find a Grave. Check who can see the volunteer’s claim and answer the privacy gate in `SKILL.md` before confirming it.
+
+If the user can visit the grave and wants to take responsibility for the photo request, select and
+confirm Claim only after checking that the request has a usable locator. Reopen it through
+**Requests I Claimed** before the visit.
+[P258 @2026-11-22], [P263 @2026-11-22]
 
 **Privacy gate:** <!-- privacy-gate: upload --> Sending a grave photo gives Find a Grave and memorial viewers the deceased's inscription and any included coordinates, which can disclose the photographer's location at capture. Crop bystanders and keep incidental living-person details local. Answer the privacy gate in `SKILL.md` before sharing.
 
@@ -1098,6 +1235,15 @@ Compare the inscription, online transcription and available cemetery record. If 
 differs from a civil or Social Security entry, preserve both values with their sources. The
 gravestone webinar specifically recommends recording the discrepancy, because errors can occur
 in either the stone or a government database. [P1]
+
+**Privacy gate:** <!-- privacy-gate: contact --> A family marker correction request shares the deceased service member’s grave locator and evidence of religious identity, and the signing relative’s name and relationship, with Operation Benjamin and ABMC. Answer the privacy gate in `SKILL.md` before sharing either the inquiry or supporting documents.
+
+For a U.S. World War II grave under a Latin cross at an ABMC cemetery, record the marker and grave
+locator, then check independent military and family records for evidence of Jewish identity.
+According to the Just Genealogy excerpt, a family request and Operation Benjamin’s research led
+to replacement markers. [P303† @2026-11-23] If the records support a correction, have a family member
+work with Operation Benjamin and sign the request for ABMC to review.
+[P304 @2026-11-23], [P305 @2026-11-23]
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> An obituary phrase sent to Google can disclose details of the deceased and anyone named in the text. Use a short phrase free of living people's details and answer the privacy gate in `SKILL.md` before sending.
 

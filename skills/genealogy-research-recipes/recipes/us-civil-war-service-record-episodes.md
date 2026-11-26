@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 149}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 266}
 ---
 
 # Read Civil War registration, service cards and unit events as separate episodes
@@ -27,6 +27,7 @@ Related recipes:
 ## Contents
 
 - Record a draft registration as registration only
+- Trace Confederate conscription and exemptions
 - Build the soldier's card timeline before writing a narrative
 - Place unit events beside the timeline as labelled inferences
 - Bound a transfer instead of guessing it
@@ -48,6 +49,28 @@ Related recipes:
 **Read commutation against the date of the draft.** Use the commutation lead from the available excerpt [S14]. Section 13 of the Enrollment Act of 3 March 1863 allowed a notified draftee to furnish an acceptable substitute or pay the amount set for that draft, up to $300. Either action released him from liability under that draft [S21]. Check for a payment or substitution entry before inferring what happened to the man.
 
 **Identify who granted a Quaker exemption.** The amounts and salt-work lead come from the available excerpt [S14]. North Carolina's ordinance of 12 May 1862 required eligible Friends called to service to pay $100 for exemption and allowed the governor to detail those unable to pay to salt manufacture or hospital work [S22]. The Confederate act of 11 October 1862 required eligible members to furnish a substitute or pay a $500 tax [S23]. For a Wilmington salt-works entry, check state exemption or detail records before treating the work as Confederate Army service. The Jonathan Worth papers are a lead for both exemptions and the Wilmington salt works [S24].
+
+**Start with state records for a draft before 3 March 1863.** According to the presenter’s advice, start with the state adjutant general’s records for earlier drafts [S75†]. Use the enrollment locality to identify the state’s draft or militia records. The federal bureau took over functions previously carried out by the states [S77].
+
+**Identify the Union enrollment district by wartime residence.** According to the presenters’ advice, crosswalk the locality to its wartime congressional district and use the district finding aids [S75† @2026-11-22] [S90† @2026-11-22]. Check the resident’s ward or township against the enrollment subdistrict if a city or county is split. Use the RG 110 preliminary inventory named in §110.1 to identify the series [S76 @2026-11-22]. Check the catalog for the holding unit by enrollment district. For Illinois, start with National Archives at Chicago and NM 82, entries 5358–5892 [S77 @2026-11-22].
+
+**Choose the RG 110 inventory part by creating office.** According to the presenter’s advice, select the geographic part for a district search [S75†]. Match the district’s state or territory in §110.4 to the eight-part preliminary inventory listed in §110.1 [S76]. For records created by the central Provost Marshal General’s Office or its successor Enrollment Division, use Part I (NM 65) [S76].
+
+**Follow a Union call-up through examination and muster-in.** According to the presenters’ advice, follow the consolidated list with a search of examination and exemption records [S75†] [S90†]. Choose the district series for the man’s recorded status, such as enrolled exemption claimant, draftee, recruit or substitute [S78] [S79]. Check the district’s exemption list or register for a stated medical or alienage ground, then record the decision, date, place of enrollment, identifying details and remarks as given. A call-up documents selection. Look for acceptance and a mustering-in entry before recording service.
+
+**Date a Union alienage claim.** According to the presenter’s advice, start with Lincoln’s 8 May 1863 proclamation [S75†]. Check for a sworn declaration of intent. For a declarant, test U.S. presence at or after the end of the 65-day period while the rebellion continued. Check separately whether he had exercised suffrage or another political franchise, which also barred the plea under the proclamation [S80].
+
+## Trace Confederate conscription and exemptions
+
+**Test age and any extended term against the dated Confederate act.** According to the presenter’s advice, use the conscription statutes to test for local defense [S75†]. Read the 16 April 1862 act for the initial call of nonexempt white male residents aged 18–35. For a man already serving in that age band, count the three-year retention from his original enlistment and check the act’s provisos [S81]. The 27 September 1862 amendment authorized calls up to age 45 [S82]. Under the 17 February 1864 act, check reserve and detail records for the 17–18 and 45–50 age bands before inferring field service [S83].
+
+**Verify the grounds and outcome of a Confederate exemption or detail.** According to the presenter’s advice, use occupation or disability to choose which records to search [S75†]. Compare the dated entry with the applicable law. The October 1862 act names specified railroad and telegraph jobs, civil offices, some artisans and suppliers, certain plantation owners or overseers, and people found unfit under the rules [S106]. Check the recorded job, conditions and decision. For later agricultural cases, check the February 1864 act and any bond or supply obligation associated with the exemption [S83]. Record eligibility, an exemption granted, a detail and a military muster as separate events.
+
+**Find Confederate conscription records by creating office.** According to the presenter’s advice, search federal and state or local holdings [S75† @2026-11-22]. Search the Adjutant and Inspector General’s conscription, exemption and detail records in RG 109, §109.7.1 [S86 @2026-11-22]. For a Virginia case, also search the Library of Virginia’s indexed 1862–1863 Conscript Journal (accession 34000) for the ruling and named authority. For the 10th Virginia Congressional District, use its 1863–1865 register (accession 43957, miscellaneous reel 5495) for the enrollment, exemption or company assignment [S84 @2026-11-22].
+
+**Identify the Confederate conscription office from orders and notices.** According to the presenter’s advice, use orders and wartime newspapers to identify the state commandant and his office [S75†]. Use General Orders No. 112 of 30 December 1862 to trace camp reports and returns to the Bureau of Superintendent of Conscripts [S88]. For North Carolina, search the name Peter Mallett from the commandant’s notice in the Raleigh Daily Progress of 20 August 1863 [S87].
+
+**Check the separate register for enrollment and detail of free Black people.** The Confederate enrollment and detail register is a separate lead according to the presenter [S75† @2026-11-22]. Search the Library of Virginia copy, *Register of Free Negroes Enrolled and Detailed, May 1864–January 1865*, miscellaneous reel 2055 [S85 @2026-11-22]. Record what the entry documents about enrollment or assignment before attributing any military service.
 
 ## Build the soldier's card timeline before writing a narrative
 
@@ -85,6 +108,18 @@ Related recipes:
 
 **Test a justice-of-the-peace discharge against the rule in force on its date.** When a Confederate entry says “being justice of peace,” use the exemption lead from the available excerpt [S54]. For a June 1862 discharge, read Confederate General Orders No. 37, 19 May 1862, which lists justices of the peace as exempt from enrollment under the act of 21 April [S56] [S57]. For later entries, date the applicable rule because the act of 11 October 1862 repealed the April act [S58]. Compare the county record of appointment or qualification with the discharge order before attributing the discharge to the exemption.
 
+**Keep the declared enlistment age and service name.** According to the presenter’s advice, read the reverse of the enlistment paper for the recorded age [S97†]. Compare that age with independent birth evidence. For an apparent minor, check the enlistment rules in force on that date before looking for a consent paper. Link the service name to the civilian name with dated evidence. Sarah Rosetta Wakeman enlisted as Lyons Wakeman and gave an age of 21 despite a birth date in 1843 and enlistment in 1862 [S98].
+
+**Follow a missing muster entry into the prisoner records.** According to the presenter’s advice, check casualty sheets for capture [S89†]. According to the presenter, the upper-right notation identifies the underlying record on the forms shown in the POW and Union medical examples [S89†] [S90†]. Copy it when the form supplies one. Record capture, confinement and any death in prison with their own dates and places. Use the memorandum to identify prisons, and check the jacket for a separate casualty or death report [S91] [S105].
+
+**Check enclosures when successive musters still say missing.** The presenter reports a case in which enclosures recorded hospitalization and parole while the company muster still said missing [S90†]. Check the prisoner memoranda, hospital cards and disability discharge certificate together. Read both sides of the prisoner memoranda and disability discharge certificate. Look on the certificate’s reverse for the wound account and save both informative sides when making a local copy. Use each enclosure’s own date and check any underlying hospital record it names [S105] [S92].
+
+**Choose the medical-card route by army.** According to the presenter’s advice, check a Confederate jacket for medical abstracts and search a separate series for Union volunteers [S89†]. Look for hospital-derived cards in the Confederate CMSR [S86]. For a Union volunteer, check RG 94, entry 534, by state, organization number and surname initial even when the jacket already gives a hospitalization lead [S92].
+
+**Locate the Union volunteer medical-card series by catalog ID.** According to the presenter’s advice, start with the Adjutant General’s preliminary inventory (PI-17) in RG 94 [S90† @2026-11-23]. Look up entry 534 by National Archives Identifier 655646 [S26 @2026-11-23]. Check whether the catalog shows images covering the soldier’s unit before treating an online miss as evidence about the cards [S107 @2026-11-23].
+
+**Check exchange before recording eligibility to fight again.** According to the presenters, capture, parole and exchange are separate events [S93†] [S90†]. Record a parole as release under terms barring further fighting until exchanged and keep a Camp Parole reporting date separate. Look for a dated exchange or return-to-duty record before closing the parole episode [S94].
+
 Make one row per muster period: muster period | status as written (present, absent, sick, deserted, transferred, promoted) | rank | station if given | card/source locator. Leave periods without a card blank. Do not fill them in.
 
 ## Place unit events beside the timeline as labelled inferences
@@ -109,6 +144,8 @@ Make one row per muster period: muster period | status as written (present, abse
 
 **Match capture to the dated engagement.** Use the date-and-place comparison from the available excerpt [S17]. A Winchester capture on 15 June 1863 fits the Second Battle of Winchester of 13–15 June 1863. The Third Battle was on 19 September 1864 [S37]. Record capture as the documented event and label the battle association as inferred unless the record names the engagement.
 
+**Find the Confederate unit in the correct branch.** According to the presenter’s advice, use the Virginia volume of Stewart Sifakis’s *Compendium of the Confederate Armies* [S95†]. Select artillery, cavalry or infantry, then match the organization and size. Use the entry to trace organization, command assignments, battles and surrender where given. Follow its bibliography or suggested reading to check the dates [S96]. Place the resulting dates on the unit timeline.
+
 ## Bound a transfer instead of guessing it
 
 - **Check the abbreviation key.** Keep the literal roster remark `tr.` alongside its expansion as transferred when the destination unit and the roster key support that reading [S3].
@@ -119,6 +156,8 @@ Make one row per muster period: muster period | status as written (present, abse
 - **Assign movements only where his own records place him in that unit.** Give a unit's movements to the soldier only for periods his cards or other dated records show him in it. Inside the uncertain transfer interval, leave attribution unresolved.
 
 Check the current CMSR digitization listing for the supported army, state and organization before choosing an access route. NARA lists all Confederate and some Union organizations on Ancestry/Fold3, so do not assume that a Union record always requires an offline request or that an online Confederate index is the full file. Open the available jacket and card images and record their extent; use the established custodian route for material not digitized. [S11 @2026-11-16](https://www.pricegen.com/remembering-appomattox-the-civil-wars-end-160-years-later/) [S12 @2026-11-16](https://www.archives.gov/research/military/army/compiled-military-service-records)
+
+**Find a jacket under each independently documented unit.** Crume reports separate files for a soldier who served in two units [S65]. Search the name under both the losing and receiving organizations and use the custodian route above for any jacket that is unavailable digitally. Compare each record’s unit, enlistment details and date range before combining the episodes [S105].
 
 ## Check database coverage before calling a miss negative
 
@@ -150,6 +189,20 @@ Check the current CMSR digitization listing for the supported army, state and or
 **Browse the Maryland Union jackets by unit and surname.** Use the browse sequence from the available excerpt [S17 @2026-11-18]. For a name-search miss, start with the M384 Maryland Union CMSR run that NARA lists on Fold3 [S39 @2026-11-18]. Find the regiment and the surname range before looking for the soldier's jacket. Within each unit M384 is arranged by surname [S38 @2026-11-18].
 
 **Check a Sixth Maryland Company J reading against Company I.** Test the Company I reading suggested from the available excerpt [S17] against the muster records. The Maryland muster-roll index lists Company I followed by Company K for the Sixth Maryland Infantry [S40]. Preserve the original reading and use the man's muster record to confirm the company.
+
+**Use the 1890 veterans schedule’s unit to select wartime records.** On a surviving M123 return, take the company and regiment or vessel from the military columns [S66]. Search the organization’s state even when the veteran or widow lived elsewhere in 1890. Crume’s New York schedule pointed to a Pennsylvania regiment [S65].
+
+**Search the soldier indexes on both sides.** Family Tree Magazine recommends the NPS search [S102 @2026-11-22]. According to the presenter’s advice, check both sides and use state indexes when needed [S75† @2026-11-22]. Search the Civil War Soldiers and Sailors System or the FamilySearch *United States, Civil War Soldiers Index, 1861–1865*. Both use the general service index cards, so a matching hit across the two sites gives one lead [S103 @2026-11-22] [S67 @2026-11-22]. If the combined index misses, check the separate Union or Confederate index for the state [S71 @2026-11-22]. The National Archives lists digitized indexes on Fold3 or Ancestry [S104 @2026-11-22]. Follow a hit to the full jacket and leave the other side open until searched.
+
+**Retry a middle-initial miss and test a brother’s unit.** Run the same Civil War Soldiers index search in your own account without the middle initial. Use a brother’s known unit to pick candidate hits and compare company and enlistment year in the underlying entries. Crume’s search missed with the middle initial but found a plausible hit without it in the brother’s unit [S65]. Use that overlap as a lead to identity-matched records.
+
+**Find Pennsylvania volunteers in the card file, then open the unit history.** Search the Civil War Veterans Card File by surname through the Pennsylvania State Archives route or Ancestry collection 62200 [S68 @2026-11-22] [S69 @2026-11-22]. Use the unit on the card to select the regiment in Samuel P. Bates’s *History of the Pennsylvania Volunteers, 1861–1865* and compare the company’s enlistment entries, following Crume’s use of the history [S65 @2026-11-22]. Search both 13th Pennsylvania Reserves and 42nd Pennsylvania Volunteers for that unit [S70 @2026-11-22].
+
+**Follow an Indiana muster index hit back to the roll.** Search MyHeritage’s *Indiana, Civil War Muster Rolls* [S72 @2026-11-22] [S73 @2026-11-22]. Record age, place and date of enlistment, discharge date, branch, regiment and company when given. The state adjutant general’s office made the cards after the war to index original rolls [S74 @2026-11-22]. Use the company and regiment to locate the underlying wartime roll and cite the index with its own date.
+
+**Check New York’s state muster abstracts when you lack a federal jacket.** According to the presenter’s advice, use the New York muster cards as a second route [S97† @2026-11-22]. Use the New York State Military Museum’s volunteer unit roster or muster-roll route and the New York State Archives’ Civil War Muster Roll Abstracts [S99 @2026-11-22]. Compare the state entries against any federal index hit and keep each source’s coverage separate.
+
+**Read each date column on a Marine muster roll separately.** According to the MyHeritage excerpt, the form shown separates enlistment and disciplinary events into their own columns [S100† @2026-11-22]. For Civil War U.S. Marine Corps service, use the T1118 rolls in FamilySearch, by month and then post, station or ship [S101 @2026-11-22]. When the form gives them, record enlistment, re-enlistment, last desertion, apprehension and court-martial sentence on separate dated rows. Copy the offense and remarks with the event they describe.
 
 For the Navy pension route above, approved pension files of Navy veterans themselves are a separate series from M1279: NARA M1469, "Navy Survivors' Certificates", 1861–1910, arranged by certificate number [H9].
 

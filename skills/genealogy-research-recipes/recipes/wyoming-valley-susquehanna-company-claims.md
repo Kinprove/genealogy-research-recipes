@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "deed-content-relationship-clues", 
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 175}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 292}
 ---
 
 # Trace a Wyoming Valley settler or claimant through the Susquehanna Company
@@ -38,4 +38,4 @@ Use Munger’s volume III, *Claimants*, to trace a lot in a certified township t
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/wyoming-valley-susquehanna-company-claims.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/wyoming-valley-susquehanna-company-claims.md).

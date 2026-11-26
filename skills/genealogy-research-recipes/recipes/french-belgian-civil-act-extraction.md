@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 118}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 176}
 ---
 
 # Extract French and Belgian civil acts field by field
@@ -44,7 +44,15 @@ After clearing the gate, search the matching MyHeritage collection using the sub
 
 For Val-de-Marne, use the **Civil Births** index for 1792–1900 and the **Civil Deaths** index for 1792–1937 [S14 @2026-11-20], [S16 @2026-11-20]. Open the associated image where available. The death collection’s coverage varies by commune [S17 @2026-11-20]. When either index misses, check the commune and year in the departmental tables and registers [S22 @2026-11-20].
 
+When the French commune is uncertain, use **France, Church Burials and Civil Deaths** or **France, Church Marriages and Civil Marriages** as a locality lead [S42 @2026-11-22], [S43 @2026-11-22], [S44 @2026-11-22]. Read the heading and text of the image to distinguish a civil act from a burial, church marriage or banns entry. Record the actual type and use any stated commune as a lead to an applicable civil register.
+
 For Belgium, use **Civil Birth Registers** for 1800–1925, **Civil Marriage Registers** for 1800–1938 and **Civil Death Registers** for 1800–1950 [S15 @2026-11-20], [S18 @2026-11-20]. Apply the end year for each act type. Use any registration place, date or act number in the hit to locate the register entry. If the index misses, check the commune’s own tables and available images in AGATHA [S19 @2026-11-20].
+
+If the national index misses and the province is known, try the corresponding **Civil Registration of Births** collection for Antwerp, East Flanders, Hainaut, Liège, Limburg or Namur [S28 @2026-11-22], [S29 @2026-11-22], [S30 @2026-11-22], [S31 @2026-11-22]. For deaths, look for **Civil Registration of Deaths** under Antwerp, Brabant, East Flanders, Hainaut, Liège, Limburg or Namur [S28 @2026-11-22], [S29 @2026-11-22], [S32 @2026-11-22]. For Limburg deaths, check the target year against the collection description and check the commune’s own registers before ruling the year out [S35 @2026-11-22].
+
+For a Liège or Hainaut birth-index hit, read the image to determine whether the date and place refer to a birth or a baptism. Record each event separately as stated and leave the birth fields open if the entry gives only a baptism [S28 @2026-11-22], [S29 @2026-11-22], [S33 @2026-11-22], [S34 @2026-11-22].
+
+For Aalst and its villages, also check **Belgium, Aalst Births** or **Belgium, Aalst Deaths** [S36 @2026-11-22], [S37 @2026-11-22], [S38 @2026-11-22], [S39 @2026-11-22]. When the lead names Baardegem, Erembodegem, Gijzegem, Herdersem, Hofstade, Meldert, Moorsel or Nieuwerkerken, retain that locality for the register lookup [S36 @2026-11-22], [S38 @2026-11-22].
 
 ## Find Belgian register images in AGATHA
 
@@ -85,7 +93,15 @@ In a French birth act, copy the child’s name and birthplace and each parent’
 
 In a French death act, record the deceased’s name, stated birth date and place, and any named parents or spouse [S14]. Capture each declarant’s role and any explicit degree of kinship. The 1918 text of Code civil article 78 allowed neighbors and other nonrelatives to declare a death. Leave a declarant’s kinship open if the act gives none [S21].
 
+On the French death-act image, look for stated marital status, any date or place given for a spouse’s death, and each parent’s life status. Keep the deceased’s domicile separate from the place of death. Copy the declarants’ stated ages, occupations and domiciles, and record the civil officer separately [S21], [S41], [S42], [S45].
+
+When coworkers declare a widower’s death, record his stated marital status and each declarant’s role separately, and require explicit evidence for any shared household or partnership [S21], [S40].
+
+On a French marriage-act image, record each spouse’s birth date and place. Read the witness clause and attach each stated relationship to the spouse it names. Classify any reported parental death under the parental death rules below [S42], [S45].
+
 In a Belgian birth act, record the child’s name and keep the place of birth separate from the place of registration. Copy each parent’s name, residence and any stated birth date. For a death, capture the deceased’s birth and death places and dates, marital status and any named parents or spouse. For a marriage, capture the place and date of marriage, both spouses’ names and birth details, and their parents’ names. Leave fields open where the act is silent [S15], [S19].
+
+On an Aalst birth-act image, copy each parent’s stated birthplace and occupation alongside the residence. Keep the declarant, witnesses and registrar in their stated roles [S19], [S37], [S38]. On an Aalst death-act image, record the deceased’s residence separately from the place of death and distinguish the witnesses from the registrar [S19], [S36].
 
 ## Convert Republican dates with a tool, never by arithmetic
 
@@ -152,7 +168,8 @@ For each act, return a table with these fields:
 - act date
 - event date (literal, converted or resolved, and the converter used)
 - names, places and family details stated for the act type
-- declarants, in order, with their roles and any stated kinship
+- declarants, in order, with their roles, stated particulars and any stated kinship
+- witnesses and civil officer, where stated, with each witness’s stated relationship
 - the status limit for each spouse and parent
 - *je dis* corrections (kept value / superseded value)
 - the basis of each parental death statement

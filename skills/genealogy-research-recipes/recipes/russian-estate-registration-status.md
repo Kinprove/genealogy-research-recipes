@@ -11,7 +11,7 @@ handoff: ["russian-revision-list-household-chaining"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 70}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 114}
 ---
 
 # Read a Russian-Empire estate label as a dated registration status and choose the series by date
@@ -82,6 +82,8 @@ Test every status before you search for it:
 ## 3. Date when the person acquired the status
 
 A status in one record does not show the status at birth, the status of siblings, or the status of the father.
+
+In an Orthodox marriage entry, record each spouse’s stated мещанин or мещанка status and registering town on the marriage date [S63]. Keep a family tradition of noble descent as an open lead and test it in records of the earlier generations [S62].
 
 - **Service (formulary) records.** These record grants. The wording in participants' extracts includes "пожалован в звание личного почетного гражданина", "утвержден в звании потомственного почетного гражданина" and "за выслугу 10 лет в гражданской службе утвержден в звании личного почетного гражданина". They give the estate of origin separately, as "из мещан", "из солдатских детей", "из заводских детей" or "сын личного почетного гражданина". Date each transition separately. An 1859 discharge from the military department and admission to the Perm мещане preceded an 1871 grant of personal honorary citizenship to the same man [S9].
 - **Date a transfer from the revision remark.** Read «причислен из» and «записался … из» for the former estate and year of admission. The cited 1858 return dates a former serf’s admission to 1852 (GAPK f. 111, op. 1, d. 1890), and the 1850 return dates another admission to 1849 (ГАШ f. И-605, op. 1, d. 8) [S7]. Preserve the direction of a transfer: «выбыл в Екатеринбургское купечество» in 1831 and «перешел из Екатеринбургского купечества» in 1843 point to opposite sides of the register. Record exactly who moved when a remark names more than one person, as in the father and son admitted to the Yekaterinburg мещане in 1818 [S11].

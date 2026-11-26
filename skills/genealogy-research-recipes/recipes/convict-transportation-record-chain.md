@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 111}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 160}
 ---
 
 # Reconstruct a transported convict as a chain of record episodes
@@ -31,6 +31,10 @@ Start with the record you already have. From a colonial indent, work back throug
 7. A ticket of leave, conditional pardon or absolute pardon. Each is its own row. On Ancestry these appear in "New South Wales and Tasmania, Australia, Convict Pardons and Tickets of Leave" (1834–1859) and the NSW register of conditional and absolute pardons (1788–1870) [S2], [S3].
 8. A permission to marry, then the marriage record itself. Each is its own row. NSW convicts needed the Governor's permission, recorded in NRS 12212, Registers of convicts' applications to marry, 1825–1851, apart from the marriage register [S2].
 
+**Check whether the transportation sentence was carried out.** Match the prisoner's name against HO 11, using the conviction date and place when recorded. Read the register entry for the ship, departure date and any note of death at sea [S24], [S25]. Keep embarkation open if you have only a sentence or an order to board. Look for a muster taken at boarding to establish embarkation and a disembarkation muster or arrival indent to establish landing [S26].
+
+MyHeritage lists *United Kingdom, Convict Transportation Registers* (1787–1867) as another index lead for the ship and conviction details [S24 @2026-11-22], [S27 @2026-11-22].
+
 **For a convict tried in Ireland, add the National Archives of Ireland's convict records.** NAI lists these among the collections that can be viewed in its Reading Room while its genealogy microsites are offline: the Chief Secretary's Office Convict Department's Transportation Registers (Ireland to Australia), 1836–1857; its Prisoners' Petitions and Cases, 1788–1836; and its Convict Reference Files, 1836–1856 and 1865–1868 [S12 @2026-11-13]. Search these series before you log a stage as missing.
 
 Between these stages, the colonial lists in TNA HO 10 (1787–1859) can place a convict in New South Wales or Van Diemen's Land with their sentence, employment, land or pardon: convict and settler lists, general musters and the NSW census of 1828 [S10]. Give each list you inspect its own row with its date.
@@ -43,6 +47,12 @@ Stages 5 to 8 name New South Wales series; only the stage 7 pardons collection a
 
 - **Van Diemen's Land (Tasmania), from 1803** [S5]. Libraries Tasmania holds the conduct registers, indents (CON14 to CON16) and description lists (CON18, CON19) [S6]. Choose the conduct register by sex and period: men under the assignment system, 1803–1843 (CON31), and under the probation system, 1840–1853 (CON33); women under assignment, 1803–1843 (CON40), and under probation (CON41) [S6]. A miss in CON31 says nothing about a man who arrived under probation. Search the person by name in the Tasmanian Names Index, whose convict records cover people transported to Tasmania and people convicted locally, and which also indexes convict permissions to marry [S5].
 - **Western Australia, June 1850 to January 1868.** The State Records Office of Western Australia holds the convict registers and character books, ticket-of-leave, expiree and reconviction registers, medical records and correspondence [S7].
+
+**For an early NSW arrival, search by fleet.** On Ancestry, choose the fleet-specific *Australian Convict Transportation Registers* for the First Fleet (1787–1788), Second Fleet (1789–1790) or Third Fleet (1791) [S28 @2026-11-22], [S21 @2026-11-22].
+
+**If the Second Fleet arrival search misses, keep embarkation open.** Look for a boarding muster and search surviving records of the ship for a death before landing [S26]. Convicts aboard the *Neptune* died at sea on its 1790 voyage [S28], [S29].
+
+**For a Port Phillip exile, follow the landing record.** The *Maitland* called at Hobart on 27 October 1846 before continuing to Port Phillip in November, so check the ship's nominal or disposal list in VPRS 14 to establish where the person landed [S33], [S34].
 
 **If the receiving colony is unknown for an Irish convict sent to Australia,** start with the New South Wales convict indents and the Tasmanian Names Index for Van Diemen’s Land, using any known voyage date to narrow the search [S20], [S21]. For a case tied to the 1867 Fenian Rising, search the Western Australian convict registers for a match on the *Hougoumont*, which arrived in January 1868 [S21], [S22], [S23].
 
@@ -64,9 +74,13 @@ Bound each search by court and year. Old Bailey Online covers published trials a
 
 Match the name, age, offence, court and vessel across each pair of records [S3], [S15]. Search for competing people at the same court or on the same voyage, including when the surname seems uncommon. A tree attachment supplies a candidate. Mark each link as proposed until the records distinguish the people. See [evidence/proof judgment](evidence-proof-judgment.md).
 
+In later NSW convict indents, transcribe the recorded age, trade and offence in the arrival row and compare them with the details in the earlier records before linking the person to the voyage [S28], [S21].
+
 ## Read pardons and marriage from the documents
 
 A marriage alone cannot establish emancipation. The conditional pardon read in the lecture referred to Rodwell’s good conduct since arrival [S2]. Transcribe the terms of the pardon and distinguish a ticket of leave, a conditional pardon and an absolute pardon [S17]. In NSW, check both grants and refusals in the marriage application registers (NRS 12212), then seek the marriage entry itself [S18]. A later return to Britain needs a separate passenger, residence or other dated record [S1], [S3].
+
+**Read “exile” in its Port Phillip context.** Treat it as a lead to a transportation sentence and a conditional pardon. Search *Notification of Pardon of Exiles, 1844–1849* by ship and read the individual's terms [S32]. The restriction on returning to Britain ran for the remainder of the original sentence [S30], [S31].
 
 ## Close with an episode table
 

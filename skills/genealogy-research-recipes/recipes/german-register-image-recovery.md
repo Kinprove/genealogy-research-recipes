@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Germany", "order": 92}
+router: {"section": "Records by country and region", "group": "Germany", "order": 141}
 ---
 
 # Recover a German register entry through its locality, record offices and register version
@@ -109,6 +109,10 @@ Before browsing baptisms, enter the birthplace and the serving parish as separat
 - **Search the holding town only for entries about your village.** Search its records under the holding town's name. [S7]
 - **Widen the year window.** A birth year worked out from an age at marriage or death is often rounded, so search several years either side. [S5], [S6]
 
+**Use the Meyers map to find alternative churches.** Open **Map**, then use the Protestant or Catholic option under **Toggle Historical Map** and click a pin to identify the church town. In **Ecclesiastical**, read the stated serving parish above the nearby-church table. Use the denomination columns and the approximate distances in miles to shortlist candidates for the event year [S106 @2026-11-22], [S107 @2026-11-22], [S85 @2026-11-22].
+
+**Widen a fruitless parish search in passes.** Start with the serving parish, then search nearby churches of the relevant confession in distance bands, for example within about 5 km (3 mi), then out to about 10 km (6 mi). Record the books and years covered in each pass. Use distance to order the search and confirm jurisdiction separately [S106], [S107].
+
 **Open the place's GenWiki article for each confession's parish and for where the books are.** Search the place in CompGen's GenWiki (wiki.genealogy.net) [S77 @2026-11-16]. A place article usually gives a short history, notes on the church books and civil-registration records, where the church books are kept, and references to microfilms and digitised copies [S78 @2026-11-16]. Read *Kirchliche Einteilung/Zugehörigkeit* for the parish each confession belonged to and *Genealogische Quellen* for the books [S79 @2026-11-16]. Treat the article as a lead, not as the jurisdiction row: confirm the parish against Meyers and, for the event year, GOV (section 2), and confirm the holdings with the custodian or portal (section 6).
 
 Worked example, for the Weikersheim of section 2: the article (Internet Archive capture of 13 November 2025; page last edited 24 May 2024) assigns Catholic Weikersheim to Laudenbach parish and gives start years for the Protestant books of Weikersheim, Elpersheim, Nassau and Schäftersheim. It says the Württemberg Protestant books can be consulted on microfilm at the Landeskirchliches Archiv Stuttgart and, for many parishes, as images on Archion, and it links the digitised second copies of the Catholic books (1808–1875) in Staatsarchiv Ludwigsburg, holding F 901. [S79]
@@ -141,6 +145,16 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
   - A listed archive may still lack the parish or years. Open the parish page and note the years shown.
   - Use the Ancestry collection titles for the Württemberg family tables and Protestant registers of Baden, Württemberg and Hesse as search terms. Check the specific book for images or an index [S66], [S71], [S86]. For Brandenburg and Posen duplicates, FamilySearch’s July 2026 update identifies collection 1491272. Check image access for the parish and year [S72], [S84].
 
+**Find Archion books by parish.** Use **Location Search** with the parish town or browse **All Archives** down to the parish, then choose the book type and years. Look for the person inside the volume. Existing machine transcriptions for selected books are found through the place search and read in the viewer [S98 @2026-11-22], [S101 @2026-11-22], [S99 @2026-11-22], [S100 @2026-11-22].
+
+**Find Matricula books by locality.** Use **Search for Places** with the parish town. If the place search misses, browse **Fonds** by country, holding archive and parish. Leave the date filter broad for the first pass and inspect the full parish book list, including additional pages. Narrow by register type or year once you know which book you need [S98 @2026-11-22], [S101 @2026-11-22], [S102 @2026-11-22], [S103 @2026-11-22], [S126 @2026-11-22].
+
+**Use the Matricula camera link to open the book's images.** If you cannot open the images, save the book's archival identifier and check the holding archive's catalogue for access or another copy. A listing alone establishes neither online access nor the reason images are unavailable [S101 @2026-11-22], [S103 @2026-11-22], [S126 @2026-11-22].
+
+**Check the confession and record type of a Matricula fonds.** For Protestant military church books, check the Evangelical Church in the Rhineland's Boppard archive listing for the Koblenz and Cologne garrisons [S101 @2026-11-22], [S105 @2026-11-22].
+
+**Look for a parish book's own name index before scanning images in order.** Check the first and last images for a surname index and the parish list for a separate *Namensregister* covering the event. Use the page or folio it gives to reach the entry. If the index misses, browse the relevant event and year in the book [S101], [S103], [S104].
+
 - **Hesse: open the civil-register second copies in Arcinsys Hessen.** The digitised Personenstandsnebenregister (the registry offices' second copies, now archive holdings) sit under Staatsarchiv Marburg > H Personenstandsarchiv Hessen, holdings HStAM 900–926. [S44 @2026-11-19]
 
   - A thumbnail beside the archival reference marks a digitised volume. Open it with 'Digitalisate öffnen' or in the DFG-Viewer. LAGIS lists the online volumes by registry office. [S44 @2026-11-19]
@@ -149,6 +163,10 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
 
   - A missing thumbnail means the volume is not yet digitised or not yet cleared for publication, not that it is lost. [S44 @2026-11-19]
   - Check other Länder on their own official sites.
+
+  **Privacy gate:** <!-- privacy-gate: third-party-tool --> The Hesse death query sends the deceased person's name and any birth or death dates and places entered to MyHeritage. Clear the gate in `SKILL.md` before searching and omit living relatives' details.
+
+  **Search MyHeritage’s Hesse death index** (*Germany, Hesse, Deaths*, collection 11007) for selected communities in present-day Hesse, 1848–1990. Open the entry image when available and extract the birth and death dates and places and the names of parents, including the mother's birth surname, where recorded. If the office or year is absent, return to the archive's Standesamt and volume search above [S117 @2026-11-22], [S118 @2026-11-22].
 
 - **North Rhine-Westphalia: check the Landesarchiv NRW's second registers before writing to a Standesamt or municipal archive.** Marriages 1874/1876–1899 and deaths 1874/1876–1938 are digitised; coverage is partial and growing, and birth registers are not on the list. Start from the Landesarchiv's [Digital family research](https://www.archive.nrw.de/en/landesarchiv-nrw/geschichte-erfahren/familienforschung/digital-family-research) page. Westphalia-Lippe registers open through the archive.nrw.de search; Rhineland volumes (PA 3102 marriages, PA 3103 deaths) open through the department's online pages. [S50 @2026-11-19], [S51 @2026-11-19]
 
@@ -160,6 +178,10 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
 
   **Search MyHeritage's separate collection** *Germany, North Rhine-Westphalia, Deaths 1874-1938* (10864) for civil deaths in that span [S87 @2026-11-20], [S88 @2026-11-20]. Use a hit to identify the Standesamt, registration year and certificate number, then verify the date of death on the register image [S88 @2026-11-20], [S89 @2026-11-20]. Coverage is incomplete, so on a miss check the Landesarchiv's holdings for the office and year and browse the volume if available [S88 @2026-11-20].
 
+  **Use collection 10864 for Arnsberg, Detmold and Münster deaths.** Its district coverage differs from the archive's keyword index above. Check the specific Standesamt and year in the archive holdings when the commercial index misses [S111 @2026-11-22], [S117 @2026-11-22], [S114 @2026-11-22].
+
+  **Browse Rhineland deaths by registry office in PA 3103.** For Düsseldorf or Köln districts, open the alphabetic group containing the Standesamt and choose the year. For a closed office, check its successor office's group. For a volume missing from the sequence, check the *Nachträge* (additions) [S112 @2026-11-22], [S115 @2026-11-22].
+
   **Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased spouses' names and any birth or marriage dates and places entered go to MyHeritage. Clear the gate in `SKILL.md` before submitting the query and leave out living relatives' details.
 
   **Search MyHeritage's NRW marriage index** (*Germany, North Rhine-Westphalia Marriages, 1874-1899*, collection 20726) for civil marriages, including those in the Münster, Detmold and Arnsberg districts [S93 @2026-11-21], [S94 @2026-11-21], [S95 @2026-11-21]. Use a hit to find the register image and read the spouses' birth dates and places, the marriage date and place, and the names of parents and witnesses where recorded [S93 @2026-11-21], [S94 @2026-11-21]. If the name search misses or you cannot open the image, browse the Landesarchiv NRW's digitised marriage registers by Standesamt and year [S97 @2026-11-21].
@@ -170,6 +192,10 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
 
   - The second copies are at the Generallandesarchiv Karlsruhe (390) for northern Baden and at the Staatsarchiv Freiburg (L 10) for southern Baden, both fully digitised by the Landesarchiv Baden-Württemberg. [S48 @2026-11-19], [S49 @2026-11-19]
   - For a Baden event of 1810–1870, check this copy as well as the parish original. Classify it as a church-kept duplicate (section 7), not a Standesamt record.
+
+  **Privacy gate:** <!-- privacy-gate: third-party-tool --> The South Baden query sends historical subjects' names and any event dates or places entered to MyHeritage. Clear the gate in `SKILL.md` before searching and omit living relatives' details.
+
+  **Search MyHeritage's South Baden duplicate indexes** for 1810–1870 by event type, using births (21126), marriages (21127) or deaths (21128). For a birth, capture both the birthplace and place of baptism. For a marriage, record the birthplaces and residences of both spouses. For a death, keep the death and burial details separate. Check those leads against the Freiburg L 10 volume above and classify the image as a duplicate [S119 @2026-11-22], [S123 @2026-11-22], [S125 @2026-11-22], [S124 @2026-11-22].
 
 - **Württemberg from 1808: check the parish Familienregister.** From 1 January 1808 the Protestant and Catholic parishes of Württemberg kept a Familienregister (family register) on printed forms, one sheet per couple with the couple's parents and children. [S65] Use the Ancestry collection title "Württemberg, Germany, Family Tables, 1550-1985". [S66] Classify a Familienregister line as a parish family register (section 7) and check it against the baptism, marriage and burial books.
 
@@ -190,6 +216,14 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
 **Privacy gate:** <!-- privacy-gate: contact --> The message gives an existing village contact the historical parish, register type and years. Omit family identifiers, follow the Living people rules in `SKILL.md` and clear the gate before sending it.
 
 **Ask an existing village contact** whether the present Catholic parish has the former Lutheran parish's books or scans and where they can be consulted [S90], [S92]. Record the holding parish or archive and the book reference for any scan you receive, then classify the register version (section 7).
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The Berlin birth or death query sends the subject's name, any parent names entered and any event dates and places to MyHeritage. Clear the gate in `SKILL.md` before searching. Keep any possibly living person's details local until the gate is cleared.
+
+**Search MyHeritage's Berlin civil birth index** (21095, 1874–1915) for the child's birth date and place and parents' names. Save the registration date and the Standesamt when supplied [S119 @2026-11-22], [S120 @2026-11-22].
+
+**Search the Berlin civil death index** (MyHeritage 21124, 1874–1994) for the person's death date and place and birth date. Save the Standesamt when supplied [S119 @2026-11-22], [S121 @2026-11-22].
+
+**Continue in the Landesarchiv Berlin name lists.** If a commercial index misses or omits the entry number, use the archive's *Standesamtsabfrage*. Select the Standesamt and register type, then browse the office's name lists for the register number and year. Use that locator to recover the full entry (section 7) [S122 @2026-11-22].
 
 **Brandenburg and Berlin: also search the Brandenburg-Datenbank** (db-brandenburg.de), a volunteer database of transcribed sources [S76 @2026-11-12]. Its categories include church books, civil registers, address books, cemeteries and graves, war memorials including the fallen, genealogical evaluations (OFB), and Familienstammbücher und Ahnenpässe. Civil registers are added office by office and year by year, each marked as a name index (*Namensindex*) or a full transcription (*Vollabschrift*), for example "Standesamt Berlin 10b (B) Geburten 1904 (Namensindex)" [S74 @2026-11-12]. The Metasuche searches only the databases you select, also matches birth names, and does not yet cover every database [S75 @2026-11-12].
 
@@ -229,6 +263,16 @@ Record the databases, offices and years you searched and the form each was in. A
   - Check every entry against the parish images before you use it. [S21], [S22]
 
 ## 8. Read the full entry, including the bottom of the page
+
+**Read the historic Standesamt form letter where present.** Under the 1899 forms, A is birth, B is marriage and C is death. Confirm the event type from the text. Read both facing pages of a B entry, including the witnesses and signatures on the continuation [S98], [S108], [S109], [S116].
+
+**In a birth entry, capture the child's event details and the parents' own fields.** Record the child's name and birth date and place. Read the parents' names, residence and religion where stated [S98], [S109], [S110].
+
+**In a marriage entry, read the bride and groom separately.** Record the entry number and registration date, the marriage place and date, and each spouse's birth details, occupation and residence where given. Record who signed as a witness from the continuation [S98], [S108], [S109], [S110], [S116].
+
+**In a death entry, record event and registration separately.** Transcribe the death date from the death statement and log the date of registration as a separate fact. Read the deceased's name, birth or maiden name, occupation and residence separately from the reporter's name, occupation and residence. Capture age, religion, birthplace and any spouse, parents or other relatives named, with each role or relationship as written. Transcribe an explicit birth date as given. Label any birth year worked out from the age at death as inferred [S98], [S109], [S110], [S111], [S112], [S113], [S114].
+
+**Check the upper right and other margins of a marriage entry for a spouse's death note.** If the note identifies a death registration, record its date, office and entry number where given, then follow it to the death register [S109], [S110], [S116].
 
 - **Keep a named sponsor separate from a proxy.** When a baptism names someone acting in the sponsor’s place, transcribe the clause, record each person’s role, and mark an uncertain reading for image review. A translated extract can suggest which words to check in the original [S43].
 - **Check illegitimate baptisms for a later note.** Read to the foot of the page for a father’s name, the later act and its date. If the note or another source identifies the local Amt, search its records for the legitimation separately [S24], [S25].

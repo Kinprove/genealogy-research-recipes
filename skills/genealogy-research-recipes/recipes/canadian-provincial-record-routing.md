@@ -11,7 +11,7 @@ handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-rec
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 176}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 312}
 ---
 
 # Route a Canadian vital, estate, military or Indigenous-series record to its province, custodian and access category
@@ -67,7 +67,7 @@ Gather these before searching:
 
 ## 2. Read a miss against the coverage row
 
-**Privacy gate:** <!-- privacy-gate: request --> A request to a provincial archive or registry for a birth, marriage or death registration, online or not, can name people who are still living; answer the privacy gate in `SKILL.md` before you send it.
+**Privacy gate:** <!-- privacy-gate: request --> A request to a provincial archive or registry for a birth, marriage or death registration can send event details and identity or eligibility documents for the applicant and people named in the record. For a Québec civil act the recipient is the Directeur de l’état civil. If anyone named may be living, answer the privacy gate in `SKILL.md` before sending the request.
 
 - **Past the archive cut-off, route to the provincial registry.** Ask the Archives of Ontario first for an Ontario birth, marriage or death; a registration it does not hold is with ServiceOntario [S2], not missing. A Nova Scotia birth of 1925 is at the Nova Scotia Archives although it is not yet online; request it there [S4]. A BC birth after 1904 is outside the BC Archives index, not absent [S3].
 - **Inside Nova Scotia's 1877–1908 gap, do not search for a birth or death registration.** The province did not record them [S4]. Search instead:
@@ -77,6 +77,12 @@ Gather these before searching:
   - church registers, through the parish recipe.
 - **In Ontario's first years, do not read a missing registration as an absence.** Registration began on 1 July 1869 but was not widely followed for some years [S1]. Search church and census substitutes before you call the event unrecorded.
 - **Write the row on every negative.** Record the province, the series, the years it covers and the cut-off date you read. A miss without that row is not a negative search.
+
+**Request an official Québec civil-status document through the Directeur de l’état civil.** Check that the event is entered in the Québec register and confirm eligibility before applying. The applicant must be named in the act or establish an interest in obtaining it. For a deceased subject, a qualifying spouse, child or sibling can establish eligibility by documenting that relationship. Apply the proof rule for the act and applicant. An age threshold alone does not determine the request route [S39 @2026-11-22] [S40 @2026-11-22] [S64 @2026-11-22].
+
+**Use Library and Archives Canada for named historical series.** Open LAC's *Birth, marriage, death and divorce records* guide and choose the series listed for the place and event. For an early Upper or Lower Canada marriage, search the marriage bonds in Collection Search and use a bond as a lead to the ceremony record. A miss in LAC's selected collections leaves the provincial or parish search open [S37 @2026-11-22] [S38 @2026-11-22].
+
+**Find the Newfoundland and Labrador death registration for 1950–1968.** Search The Rooms' *Vital Statistics Database – Deaths (1950–68)* by the deceased person's name, death date or death place [S44 @2026-11-22] [S45 @2026-11-22]. Open the attached registration and check for a birth year and birthplace to carry into the birth search [S43 @2026-11-22] [S45 @2026-11-22].
 
 Establish the denomination and actual register holder before selecting an archive. Anglican historical parish registers are with the diocese, sometimes housed in a university or provincial archive [S14 @2026-11-16]. Follow the parish-record recipe for the chosen denomination. Only a transcript excerpt was inspected for the video’s custody suggestion [S19 @2026-11-16].
 
@@ -96,6 +102,16 @@ Search the named collection for the province, event and year. Log its range sepa
 
 **Choose the Québec index for the event and date.** Search MyHeritage's *Canada, People of Quebec* for birth, baptism, death or burial and the parents' names [S25 @2026-11-21] [S26 @2026-11-21]. For a Québec death from 1926 through 1997, choose the distinct *Canada, Quebec Civil Deaths, 1926–1997* index [S27 @2026-11-21] [S28 @2026-11-21]. Read the deceased person's birth date, residence, parents and spouse where recorded [S27 @2026-11-21].
 
+**Search the Montréal synagogue index for Jewish vital events.** Use MyHeritage's *Canada, Montréal Jewish Synagogue Vital Records*, 1828–2007, for births, marriages and deaths. Include outlying entries when the locality fits, such as Québec City, Sherbrooke, Lachine or La Macaza. Read the image where available and check death entries for age, spouse and both parents' names [S41 @2026-11-22] [S42 @2026-11-22].
+
+**Use Prince Edward Island's event-specific indexes.** Check the Public Archives and Records Office service notice before counting an archive lookup. If its database is offline, log the access problem and use the MyHeritage indexes as leads [S47 @2026-11-22]. In *Canada, Prince Edward Island Births and Baptisms* (from 1702), record the birth and baptism separately and use the parents, church and officiant to locate the register [S46 @2026-11-22] [S48 @2026-11-22]. In *Canada, Prince Edward Island Deaths and Burials* (from 1779), use residence to distinguish namesakes and record death and any burial date separately [S46 @2026-11-22] [S49 @2026-11-22]. In *Canada, Prince Edward Island Marriages* (1827–1920), match the couple and residence. Use any officiant as a lead and distinguish the ceremony from the licence and registration dates [S50 @2026-11-22] [S51 @2026-11-22].
+
+**Separate British Columbia births from baptisms.** Search MyHeritage's *Canada, British Columbia Births and Baptisms* (from 1773) using the child and any known parent. Copy birth and baptism dates and places into separate fields [S50 @2026-11-22] [S52 @2026-11-22] [S53 @2026-11-22]. Record any BC Archives (BCA) and Genealogical Society of Utah (GSU) microfilm numbers and any registration number. Use the church-register route for a baptism and the civil registration route for a birth registration. A BCA reel number on a baptism hit does not establish that BC Archives holds that reel [S50 @2026-11-22] [S53 @2026-11-22] [S54 @2026-11-22].
+
+**Carry British Columbia marriage and death locators to the archive.** Search MyHeritage's *Canada, British Columbia Marriages* (1800–1946) for both spouses and the marriage date and place [S56 @2026-11-22] [S57 @2026-11-22]. Search *Canada, British Columbia Deaths* (from 1872) for the death date, place and age [S50 @2026-11-22] [S55 @2026-11-22]. Check any linked image. When following a civil registration to BC Archives, use the event date, registration number and BCA reel where supplied. Keep the GSU number as a separate locator [S54 @2026-11-22].
+
+**Verify Alberta marriage index hits against the provincial locator.** Search MyHeritage's *Canada, Alberta Marriage Index, 1877–1950* for both spouses and use the year, place and any residence to narrow the match. The entries were extracted from index cards with AI. Check the hit in the Provincial Archives of Alberta marriage indexes and copy the registration number, place and year for retrieval [S58 @2026-11-22] [S59 @2026-11-22] [S60 @2026-11-22].
+
 ## 3. Route a military personnel file by war and access category
 
 **Privacy gate:** <!-- privacy-gate: request --> An ATIP request for the file of a veteran who survived the war sends the veteran's identity, and the veteran may be living; answer the privacy gate in `SKILL.md` before you send it.
@@ -111,6 +127,10 @@ Search the named collection for the province, event and year. Log its range sepa
 - **For an American volunteer, search under other names and birthplaces.** Search for the Canadian Expeditionary Force attestation paper under the names the family used [S13]. Library and Archives Canada warns that some American volunteers supplied both a different name and a different birthplace [S6]. If a search restricted to a U.S. birthplace fails, remove that filter and try the aliases separately. Compare next of kin, date of birth and residence on the candidate's attestation with independent records before attaching the file.
 
 **Carry a Canadian Great War Project hit into the file search.** Follow the suggestion from the available excerpt [S33 @2026-11-21] and copy the name, unit and enlistment date from the hit [S34 @2026-11-21]. Search LAC's *Personnel Records of the First World War* by name or regimental number [S35 @2026-11-21]. Compare the unit and enlistment date in the digitised papers with the project's entry.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A personnel-index query sends the service member's name and any birth or enlistment details entered to MyHeritage. Use only the service member's details and answer the privacy gate in `SKILL.md` before submitting data about anyone who may be living.
+
+**Use enlistment details to narrow a First World War name search.** If a LAC name search leaves several candidates, use the birth or enlistment date and place fields in MyHeritage's *Canada, World War I Personnel Files*. Take any regimental number and unit back to LAC to locate and compare the service file [S61 @2026-11-22] [S63 @2026-11-22].
 
 **Trace what happened on leaving the Canadian unit.** For a U.S.-born volunteer, check whether the record supports discharge home or onward service in a U.S. unit, the alternatives from the available excerpt [S33]. Read the service file's record of service and casualty forms and record the action, its effective date and any stated destination [S36]. Treat an entry that only records departure as an unresolved destination.
 
@@ -131,6 +151,10 @@ For possible HBC or North West Company employment, browse HBCA’s alphabetical 
 - **Search LAC's Home Children index in Collection Search.** It is built mainly from passenger lists. Where lists were missing or unreadable, LAC filled gaps from other immigration records, and it added a Boards of Guardians register [S10].
 - **Search the party, not the family.** The child usually travelled in an agency party, not with relatives. LAC gave each group of children travelling together a code [S10]. Search by that code to see the whole party and its arrival.
 - **Request the agency's own case records.** Barnardo's holds the records of its child migrants and also those of the Marchmont, Annie Macpherson and Liverpool Sheltering Homes. It releases them through its Family History Service, with the signed consent of the nearest surviving descendant [S11].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A Home Child index query sends the child's name and any birth, travel and destination details entered to MyHeritage. If the child may be living, answer the privacy gate in `SKILL.md` before submitting the query.
+
+**Narrow a Home Child lookup by birth date or destination.** If the name search leaves several candidates, use those fields in MyHeritage's *Canada, Home Children Immigration Index, 1869–1932*. Copy the departure and arrival dates and ports and the Canadian destination where stated. Use a placement note as a lead for the agency search and verify the party in LAC. Keep the index's date range separate from the span of the migration [S61 @2026-11-22] [S62 @2026-11-22].
 
 ## 6. Recover Ontario estate files through their indexes
 

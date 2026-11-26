@@ -11,7 +11,7 @@ handoff: ["hebrewbooks-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 47}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 64}
 ---
 
 # Find a published local history, compiled genealogy or family book across catalogues and full text
@@ -73,11 +73,25 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 
 **Write the queries as subject descriptions.** For a Joseph City settler, try Arizona history, early settlement and the town or religious community [S2]. A catalogue record can describe the community while omitting the settler. Search that person's name inside the books the subject search identifies.
 
+**Reconstruct a short book citation before choosing an edition.** Read the citing work's bibliography and compare its other short references. Search distinctive title words with the known author, imprint year, publisher or place of publication. Retry with a shorter title and the author's name when an ISBN search fails. Compare the candidate's subtitle, imprint and edition with what the citation actually supplies [S132].
+
+**When a footnote's title and year disagree, search them separately.** Look up the exact title and the same author's works from the cited year. Compare the citing bibliography, title pages and date ranges. If the cited pages land in front matter, use the event date to find the relevant chapter in each plausible volume. Keep the citation unresolved if no passage matches [S138]. The footnote Kyläkoski transcribes gives 1951 for Castrén's *Nuori Arwidsson ja hänen ympäristönsä* [S138], whose Helka record gives 1944 [S139].
+
+**Check contemporary trade bibliographies when the accessible periodical copy omits the editor.** Search the journal title and volume years in digitized book-trade listings [S170]. For the St. Petersburg society's *Mittheilungen der Kaiserl. freien ökonomischen Gesellschaft*, look in *Bibliotheca mechanicotechnologica et oeconomica* for the listing of the 1861 and 1862 volumes, which credits Dr. J. Johnson as editor [S171]. Record the credit with the years named in the listing and compare it with the corresponding volumes when available.
+
+**If the catalogue cannot identify an original from a translated title, search for an intermediary edition.** Search both halves of the title in the likely intermediary language, including any subtitle. Search under the credited writer, translator or editor to find candidates. Check original-title links, title-page credits and prefaces before matching editions [S140], [S141]. If the source garbles the original author's name, search for the translator and subject together, then use the resulting edition's credits to identify the original author [S157], [S158]. Keep the original, translation and adaptation as separate candidates until their credits or texts establish the relationship.
+
 **Use P. William Filby's *A Bibliography of American County Histories* as another title finder.** The Family History Library's Ohio research outline recommends the 1985 bibliography for local histories [S54]. Carry a discovered title, author and edition into current catalogues, and also search regional titles covering the locality rather than limiting the query to a single-county title [S58].
 
 **Look up the surname in Munsell's *Index to American Genealogies* for early published U.S. research.** Use the 1900 fifth edition and search the *Supplement, 1900 to 1908* separately. The Genealogical Publishing Company reprint issued in Baltimore in 1979 contains both [S113], [S114]. Carry each cited book or article into the catalogue search. Search later publications separately. According to the chapter transcript, Jacobus describes the index as useful for the earlier literature [S112†].
 
 **Search the catalogue of each library that serves the county, not only WorldCat and the FamilySearch Catalog.** WorldCat shows a library's copy only when the library is an OCLC member, has chosen to represent its collection in WorldCat and keeps the subscription that makes its holdings visible [S48 @2026-11-16]. The FamilySearch Catalog describes material that FamilySearch has collected [S49 @2026-11-16]. A book held only by a local library can be missing from both. Find the online catalogue of the public library or libraries serving the county and run the subject queries there too. The Just Genealogy video on county research makes this a step of its own for that reason (known here only from transcript excerpts; the video itself was not read) [S46† @2026-11-16]. Log each of these catalogues as a separate catalogue-search tool in the register.
+
+**Retry a Finna title or author search with the book material-type filter cleared.** Inspect results under other types, including archival material, and compare the holding institution and imprint. A museum copy of a printed work can be excluded by the book filter [S135 @2026-11-22]. Remove the individual filter and log both searches [S136 @2026-11-22].
+
+**Test a narrow subject search against titles already known to fit.** When using Melinda to find Finnish biographies, query a known title or author without the *henkilöhistoria* subject heading and century limits. Read the returned subject terms. If a known title disappears under either restriction, rerun the discovery search with that restriction cleared and assess the time period from the item itself [S137], [S136].
+
+**Keep publication status open when a notice only announces a plan, a manuscript submission or an intended sale.** Record the exact stage that the notice describes and search later notices for evidence of issue [S153], [S155]. Check whether a catalogue date was projected [S154]. If you have an ISBN, compare dated publisher, catalogue and bookseller records for that identifier and log each separately [S159]. Search under the author as well as the proposed title. Confirm the edition from an issued copy or a verified holding for that edition.
 
 **Record WorldCat's holding libraries for each title.** Enter a postal code or location and WorldCat lists the nearest libraries that hold the title [S2], [S6].
 
@@ -100,6 +114,8 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 ## 3. Browse the classification range from a relevant hit
 
 **Use a relevant WorldCat record to start a new subject or author search.** In the item details, expand **Show More** under **Subjects** and click the heading that matches the place, topic and period [S100 @2026-11-21]. Run a separate **Author** search in **Advanced Search** for other works by the author [S101 @2026-11-21]. Log both queries. According to the episode transcript, Sunny Jane Morton demonstrates following a subject heading and suggests searching by author [S99† @2026-11-21].
+
+**Search across separate author entries when one heading yields only part of a writer's work.** Query the credited name and documented variants, open each relevant author entry, and compare dates, roles and attached titles before combining the results [S142], [S143]. Keep title searches separate when the entries cannot be reconciled.
 
 **Use WorldCat's public lists as another source of titles.** Once you have a relevant family history, use its historical surnames and localities as leads for list names in **Lists** search. Open promising lists and check each title against your scope [S107 @2026-11-21]. According to the episode transcript, Morton suggests looking for overlap in surnames and places and revisiting a relevant list for later additions [S99† @2026-11-21]. Record the list locator with the [book-discovery register](#9-close-with-a-book-discovery-register).
 
@@ -139,6 +155,12 @@ without evidence that it applies there.
 **For a late-nineteenth- or early-twentieth-century mug book, check its subscription and biography-selection process.** Frevert describes advance subscribers buying inclusion and sometimes portraits, and subjects editing their sketches [S52]. A missing biography does not establish absence from the locality or lack of status. Treat the published sketch as a contributed account and pursue its named people, places and events in other records [S56].
 
 **Search a compiled-genealogy collection by surname keyword.** A search inside a book titled for another family turned up several familiar names and a possible collateral relative [S5]. Record the page and the proposed relationship separately, then look for each link in independent records.
+
+**Rerun the target term inside the Internet Archive book.** After opening a result from a compound query, enter the historical name or phrase on its own in **Search Inside** so the broader term's highlights do not determine what you inspect [S144 @2026-11-22]. Select the hit markers to reach the corresponding pages and record the printed pages you read [S145 @2026-11-22].
+
+**Use the American Genealogical-Biographical Index to find a published mention of a deceased person.** Search the name, then follow the result's source reference to the printed work or newspaper column. Godfrey Memorial Library's index covers both [S146], [S147]. Record the index locator separately from the edition, issue and page read.
+
+**Look for the alphabetical subscriber list in the first annual volume of *Den Swänska Mercurius*.** Use the National Library of Finland's *Den svenske mercurius* record in Finna (`fikka.1529443`) to identify volume 1 (1755/56) [S168 @2026-11-23]. Look for the list in the opening material of the volume beginning in July 1755 [S169 @2026-11-23]. Record the subscriber's name, title or office and any locality given. According to the blog excerpt, the author's transcriptions from the paper copy include entries with Finnish localities [S167† @2026-11-23].
 
 **Search Google Books for the ancestor's name across all books, not only full-view ones.** For a common name, put the full name in quotation marks and add a place or occupation qualifier [S6]. Record every query string exactly as you ran it.
 
@@ -194,9 +216,13 @@ Fold3 has page images of all ten series, which you can search by name or browse 
 
 **For Brent Town and the Elk Run Valley in Fauquier County, Virginia, choose the volume by question.** Use Joan W. Peters's *Brent Town and the Elk Run Valley, A History*, volume I (*From Acquisition to Settlement, 1688–1800*) for land and settlement [S126]. Use volume II (*The Families and Homes, 1759–1800*) for family entries arranged by surname, and follow the probate records behind the family charts [S127]. According to the episode transcript, the presenter recommends both volumes [S123†].
 
+**For a line from an early Virginia settler or Virginia Company investor, check whether the founder appears in John Frederick Dorman's fourth edition of *Adventurers of Purse and Person, Virginia, 1607–1624/5*.** Use the founding family's surname to choose volume 1 (A–F), 2 (G–P) or 3 (R–Z) [S165]. Start in volume 3 for Woodson [S166]. Trace each claimed path from the later generation back to the founding entry. Record marriages along each path and verify the parent–child links against the underlying records. According to the supplied transcript excerpts, the presenter recommends the compilation [S163†] and points to volume 3 for Woodson [S164†].
+
 **For the Newton County, Mississippi, Amis compilation, choose the chapter by the family branch's earlier locality.** Search Lucius F. Wright's edition by ISBN 9780788455667 or by title words *Amis*, *Brewer* and *Newton County*. Use the chapters for Lewis or William Amis of Granville County, North Carolina, John Amis of Maury County, Tennessee, or the Brewer families of Sumter County, Alabama, through 1860 [S124]. According to the episode transcript, the presenter describes Wright's edition as an expansion [S123†]. Use Wright's second-edition introduction to identify what he added or recast in Register format and what comes from the 1936 manuscript by A. B. Amis. Count a claim carried over from the manuscript as one account [S125].
 
 **For a Charleston patriot thought to have been exiled to St. Augustine in 1780, check the appendices in *Patriots in Exile*.** In the book by James Waring McCrady and C. L. Bragg, start with appendix A for the exiles and appendix C for sources identifying them [S130]. Use those citations to follow the individual into the underlying records. According to the episode transcript, the presenter suggests using the names, sketches and citations in the book [S129†].
+
+**For someone who disappears from Memphis-area records around 1878, search J. M. Keating's *The Yellow Fever Epidemic of 1878, in Memphis, Tenn.* (1879).** Check the Memphis mortality index [S162] and the lists of deaths elsewhere, physicians and nurses, contributors, and names associated with the Howard Association [S161]. Record the page and list heading so each name hit retains its role. According to the supplied transcript excerpt, the presenter suggests looking up names in Keating's volume [S160†].
 
 **If a Missouri county history omits the ancestor, read the county section and search its sketches for documented associates.** Look for Goodspeed's *History of Franklin, Jefferson, Washington, Crawford & Gasconade Counties, Missouri* (1888) and the added index in Southern Historical Press's 2001 reprint [S122]. Treat anyone found as an associate only when a record or passage supports the connection. According to the episode transcript, the presenter suggests the county history and the sketches of possible associates as alternate leads [S121†].
 
@@ -246,6 +272,14 @@ verified here; use the procedure to check the actual case rather than copy its e
 
 - the catalogue of each library serving the county ([section 2](#2-query-catalogues-the-way-a-cataloguer-would-describe-the-item))
 
+**Open the electronic-access links in the catalogue record before planning a visit.** Check which links lead to the edition, which describe another format, and which lead to related material. Confirm that the linked copy contains the pages you need [S132], [S156].
+
+**Use a bookseller listing to recover bibliographic clues for a scarce title.** At AbeBooks, try the full title, a distinctive title fragment and the author's name [S133 @2026-11-22]. Extract any author, edition and imprint details visible in the listing or title-page photographs. Carry those details back to a library catalogue and verify them against the copy you open [S132 @2026-11-22].
+
+**Check a multi-volume work volume by volume.** Start with the catalogue's stated extent and search for the needed volume or part by number and individual title. Match each scan to its own title page. Log duplicates as additional copies of the same volume, and record which part is still missing from the holders checked [S148], [S134].
+
+**For Finnish almanacs, choose the National Library collection by the year of the issue.** For an issue before 1810, start at *Almanakat* under Swedish Era Literature in Books [S149 @2026-11-22], [S150 @2026-11-22]. For later issues, start at *Almanakat ja kalenterit* under Journals [S151 @2026-11-22]. Open the collection's online-material link and check the individual issue's access. Check the Almanac Office guide for Helsinki-horizon issues and distinguish free online reading from on-site access [S152 @2026-11-22].
+
 **Treat each platform's statement as that platform's own knowledge only:**
 
 - **Check the book's viewing options separately from its purchase options.** Google Books showed “No eBook available” for a 1964 volume on Henry Martin Tanner of Joseph City, Arizona. A search by name and place located a complete downloadable copy at FamilySearch Books [S6], [S15]. Record the holding and the extent actually visible at each host.
@@ -283,6 +317,8 @@ verified here; use the procedure to check the actual case rather than copy its e
 
 **Verify a claimed digital copy.** A result advertising a free copy of the 1964 Tanner book led to advertisements [S6]. Open the title page and the relevant printed page. If neither is available, record the listing as a lead and try a library holding.
 
+**Match the physical features your question needs to the copy you choose.** For a map, plate or foldout cited in the text, check the physical description and any accompanying-material field, then locate it in the actual scan or holding copy [S134]. Compare its locator with the edition cited. A reprint can serve a text lookup if the needed passage is present. For missing supplements, check another copy for the specific item [S132].
+
 **Use an aggregator hit to find the host institution's item, then cite that host:**
 
 - DPLA collects other institutions' metadata and does not hold the objects. Follow the hit to the host's item page for the object, its rights and download options [S7].
@@ -304,6 +340,8 @@ Photographs, plates and other items without searchable text can be found only th
 - if the "exclude full text sources" box is on the home page, tick it so newspaper OCR hits don't bury these items.
 
 **Browse the illustrations in a county history or a town's anniversary book.** According to the author's search-result excerpt, county histories and commemorative books are places to look for photographs [S77†]. Search library and historical society catalogues for the place with `history`, `centennial` or `bicentennial` [S78], [S79]. Once you have the book, browse its plates and captions even when the name search is empty. Record the edition, page or plate and the exact caption. Use a person's recognition only as their attributed claim. Facial resemblance carries no weight for identity.
+
+**Search KB Digitalt for historical illustrations, portraits and catalogued texts from Sweden's National Library.** Query the historical place and compare matches in the title (**Titel**) and subject (**Ämne**) fields. When an item credits a deceased creator (**Upphov**), run that name on its own as a separate search [S173 @2026-11-23], [S174 @2026-11-23]. Log these queries as metadata searches. According to the blog excerpt, the author compared fields for `Finland` and suggests `Sveaborg` for eighteenth-century imagery [S172† @2026-11-23]. Check the date and Regina ID on each `Sveaborg` hit to distinguish records with the same title [S175 @2026-11-23].
 
 ## 8. Treat snippets, incidental mentions and transcriptions as leads
 

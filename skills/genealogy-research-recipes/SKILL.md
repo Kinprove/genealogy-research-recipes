@@ -19,34 +19,17 @@ ordered actions and investigator-created schemas with dated platform-documentati
 The research methods apply across platforms, including work from exported data. Kinprove
 authorship does not require a Kinprove account, connector or scoring engine.
 
-## Version and updates
-
-This copy is version 2.2.0, released 2026-11-22.
-
-Many installations do not update by themselves. If today's date is more than 7 days after
-that release date, end your first answer in the conversation with one short note: this copy
-of the recipes was released on that date, and a newer version may be available. Give the
-update step for the user's installation, or the applicable options if the host is unclear:
-
-- Copies installed from a plugin directory (Anthropic's Claude directory or the ChatGPT/Codex
-  plugin directory): updates arrive through that directory.
-- Claude Code: `claude plugin update genealogy-research-recipes@kinprove`. For automatic
-  updates, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
-  **Enable auto-update**.
-- Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
-  the `kinprove` marketplace, or turn on **Sync automatically**.
-- Hermes Agent: `hermes plugins update genealogy-research-recipes`.
-  If Hermes reports no update, check the
-  [Hermes Marketplace listing](https://hermes-agent.nousresearch.com/marketplace/genealogy-research-recipes)
-  for the version available through the catalog.
-- OpenClaw: `openclaw plugins update genealogy-research-recipes`.
-  ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
-  `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
-
-Give this note once per conversation, after the answer itself. Skip it when you do not know
-today's date. Do not check for a newer version over the network yourself.
-
 ## How to use
+
+Come back to this skill as the work moves on. When the question turns to another record type,
+place, period, platform or DNA question, check the open recipe's `handoff` list and then the
+recipe list below. If that list is no longer in your context, for example after the conversation
+was summarized, load this skill again. When an investigation takes more than one step, open
+`recipes/research-documentation.md` and read its
+[Research log](recipes/research-documentation.md#research-log) section before you answer. Then,
+without waiting to be asked, keep three things: the research question, a log of the searches run
+(including searches that found nothing), and a list of next actions that you update as results
+come in.
 
 1. Match the user's requested output to the most specific recipe below. A task recipe
    retrieves records, prepares an artifact or carries out a platform workflow; a judgment
@@ -86,9 +69,15 @@ today's date. Do not check for a newer version over the network yourself.
    sections relevant to the question. A router summary or first page does not complete
    the task-recipe read.
    Carry any material source limitation alongside the claim it affects: a search-result extract,
-   unread page or unavailable recording is a lead, not a verified reading. Consult the paired
-   `https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
-   explicitly rather than treating an inaccessible additional citation as confirmation.
+   unread page or unavailable recording is a lead, not a verified reading. For a run of scanned
+   pages, narrow it first with an index or finding aid, read in small batches, and report the pages
+   not yet read as unread: see
+   [coverage as pages × targets](recipes/archival-image-coverage-verification.md#report-coverage-as-pages--targets)
+   and the reader-workload step of
+   [a bulk register run](recipes/ai-for-documentary-records.md#gate-a-bulk-handwritten-register-run).
+   Consult the paired `https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an
+   independently read source explicitly rather than treating an inaccessible additional citation
+   as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
    reading a WATO ranking as a verdict, ignoring endogamy). Before you conclude that records
@@ -115,10 +104,10 @@ Permission item.
 ## Read source limits
 
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
-every sentence. Most cited passages lack a recorded review against their sources, and a marker or
-a date alone does not show that one was reviewed. When relying on a factual passage, read the
-entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the limitations
-that entry states.
+every sentence. Not every cited passage has a recorded review against its sources yet, and a
+marker or a date alone does not show that one was reviewed. When relying on a factual passage,
+read the entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the
+limitations that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
 unavailable access: preserve the attributed observation and qualification rather than restating
@@ -251,6 +240,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/genealogy-standards-audit.md` — Audit a report, proof or documented tree against professional standards by tracing each claim to examined sources and reasoning.
 - `recipes/source-citation.md` — Write citations that let a reader retrieve the source and see which evidence each citation supports.
 - `recipes/research-documentation.md` — Keep a log and report of searches, results and analysis so an investigation can resume.
+- `recipes/finnish-commemorative-plaque-evidence.md` — Use Finnish installation reports, inscriptions and dated building records to identify the person, event and site commemorated by a wall plaque.
+- `recipes/heraldic-arms-bearer-recovery.md` — Trace arms on a gravestone or in a genealogy to a documented bearer, then test descent under the relevant heraldic authority.
 
 ### AI and long projects
 
@@ -276,6 +267,12 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/cousin-relationship-paths.md` — Calculate cousin degree and removal, and distinguish double or half cousin paths when pedigrees intersect more than once.
 - `recipes/myheritage-profile-hint-extraction.md` — Review the evidence behind a MyHeritage Hint, compare conflicting values and save only the supported facts or relationships.
 - `recipes/myheritage-country-coding-place-audit.md` — Use MyHeritage Country Coding to review uncoded locality names and modern flags that can misrepresent historical jurisdictions.
+- `recipes/myheritage-ai-biography-source-audit.md` — Generate a scoped MyHeritage AI Biography and trace conflicts, footnotes and photo omissions back to the underlying records and profiles.
+- `recipes/myheritage-cousin-finder-audit.md` — Use Cousin Finder to find and audit tree-derived relationships, separate DNA matches from profile matches, and act on documented links.
+- `recipes/myheritage-family-statistics-worklists.md` — Open the profiles behind MyHeritage Family Statistics groups to investigate disconnected profiles, recorded relationships and unusual event data.
+- `recipes/myheritage-online-parent-relationships.md` — Inspect, correct and display multiple sets of parents on a MyHeritage online tree.
+- `recipes/myheritage-tree-event-and-place-audit.md` — Use MyHeritage profiles, consistency flags, timelines and PedigreeMap to turn date and location anomalies into an evidence worklist.
+- `recipes/myheritage-photo-tag-review-and-retrieval.md` — Find tagged MyHeritage photos, verify the identities and add supported tags by hand.
 
 ## Recipes: DNA
 
@@ -296,6 +293,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-dna-match-investigation.md` — Investigate MyHeritage DNA matches: the right kit, filtered shortlists, shared-match values, triangulation and Theory of Family Relativity.
 - `recipes/dnapainter-practical-dna-workflows.md` — Use DNA Painter to map segments, combine phased maps, estimate missing intervals, plan tests and check shared-cM ranges.
 - `recipes/myheritage-kit-processing-and-downloads.md` — Identify how MyHeritage processed a kit, distinguish its raw autosomal file from CRAM, and check options for a legacy result.
+- `recipes/banyandna-complex-pedigree-analysis.md` — Test a pedigree with more than one relationship path using BanyanDNA validation and alternative placements with documented autosomal comparisons.
 
 ### Ethnicity, admixture and match outreach
 
@@ -319,6 +317,14 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/familysearch-research-wiki-locality-routing.md` — Use FamilySearch Research Wiki jurisdiction and record-type pages to locate online and offline holdings before running a name search.
 - `recipes/rootstech-on-demand-session-recovery.md` — Find a relevant RootsTech session across location, language and speaker filters and check for a recording or downloadable handout.
 - `recipes/rootsweb-broken-link-recovery.md` — Recover a vanished RootsWeb publication, society page or tree lead through archived URLs and successor hosts.
+- `recipes/elephind-historical-newspaper-search.md` — Choose Elephind’s keyword or semantic search, check the indexed newspaper title and verify the article at its host.
+- `recipes/filae-historical-record-search.md` — Choose the Filae collection that covers a French event, narrow by relatives and carry the result to the underlying record.
+- `recipes/finland-astia-creator-and-material-search.md` — Find a Finnish National Archives holding by separating the record creator from the material description and checking the resulting archive hierarchy.
+- `recipes/finnish-astia-archival-unit-recovery.md` — Find a Finnish archival unit from its call number, series or creator and determine how to consult it when Astia search or images fail.
+- `recipes/finnish-online-news-version-recovery.md` — Trace a missing or revised Finnish web article through dated captures and legal deposit access, keeping its print counterpart separate.
+- `recipes/myheritage-gaia-research-review.md` — Check the tree GAIA is using, open the records behind its findings and approve individual MyHeritage tree changes after reviewing the evidence.
+- `recipes/stockholm-transkribus-historical-record-search.md` — Search Stockholm City Archives’ transcribed manuscripts for people in church and court proceedings, then verify the original page and bound misses by volume.
+- `recipes/vatican-wartime-civilian-inquiries.md` — Use Vatican Information Office index cards and correspondence to trace inquiries about civilians separated during the Second World War.
 
 ### Books, periodicals and manuscripts
 
@@ -330,6 +336,15 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/olympic-participation-records.md` — Check Olympic results and trials, then route Olympic publications and archival files to the right finding aid.
 - `recipes/slavevoyages-person-and-voyage-linkage.md` — Choose the named-person dataset that fits the route, then trace the candidate through the underlying record and voyage.
 - `recipes/slavery-convention-territorial-record-recovery.md` — Find the records a jurisdiction created while accepting, excluding or implementing obligations under the 1926 Slavery Convention.
+- `recipes/finnish-historical-newspaper-issue-recovery.md` — Use publication language, title runs, topic indexes and dated follow-ups to recover a newspaper item about a historical event in Finland.
+- `recipes/finnish-newspaper-byline-attribution.md` — Identify a writer behind initials or a pen name by linking Finnish local letters, pseudonym indexes and explicit period attributions.
+- `recipes/finnish-newspaper-correspondent-recovery.md` — Trace Finnish local letters across pen names and titles using Translocalis, issue images and independent biographical evidence.
+- `recipes/finnish-translocalis-local-letter-recovery.md` — Find local letters by parish or byline in Translocalis and test the collection's coverage and author identifications against the original issues.
+- `recipes/finnish-newspaper-serial-recovery.md` — Assemble a Finnish newspaper serial from issue pages, missing supplements and alternate printings before attributing an episode or dating its publication.
+- `recipes/finnish-pseudonymous-author-recovery.md` — Trace a Finnish periodical signature through published credits, the Kanto name authority and university matriculation records.
+- `recipes/posttidningar-issue-recovery.md` — Trace a missing early Posttidningar issue through title variants, archived annual directories and surviving microfilm.
+- `recipes/finnish-newspaper-reprints-and-serials.md` — Trace Finnish newspaper reprints, translations and serial instalments to recover missing details, corrections and editorial notes.
+- `recipes/swedish-illustrated-press-finland-views.md` — Find published views of Finnish places or events in Swedish illustrated periodicals and trace each view to its credited source image.
 
 ### Places and maps
 
@@ -346,6 +361,24 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/austrian-confessional-register-routing.md` — Route an Austrian or Czech-lands birth, marriage or death to the confessional or civil register that legally recorded it.
 - `recipes/polish-index-original-record-recovery.md` — Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or document the retrieval gap.
 - `recipes/polish-parish-and-civil-register-routing.md` — Identify the relevant Polish registration district by date and confession, then locate the parish, civil or archival copy.
+- `recipes/romanian-chamber-of-labour-personnel-files.md` — Find a Romanian artisan’s or apprentice’s file through the Chamber of Labour office, its credential series and its name index.
+- `recipes/bialystok-cholera-committee-record-recovery.md` — Find a named household in Białystok county's 1831 cholera reports, tally and orphan records, then reconcile the dated statements.
+- `recipes/cmolas-estate-inventory-recovery.md` — Find the Cmolas estate inventory and compare its numbered entries, kinship terms and child counts with dated parish records.
+- `recipes/czech-estate-corvee-record-recovery.md` — Use Bohemian and Moravian estate records to separate the labor a holding owed from the work its occupants performed.
+- `recipes/czech-historical-census-recovery.md` — Find a Czech census schedule by year, historical district and house number, then interpret residence, home municipality and language in their own columns.
+- `recipes/czech-newspaper-criminal-case-recovery.md` — Recover Czech press coverage of an incident, trial, verdict and prison transfer, then carry the reported dates and court into the archival search.
+- `recipes/czech-parish-death-entry-reading.md` — Separate death, discovery, burial, rites and informants in Czech parish entries and follow a reported cause to its supporting record.
+- `recipes/estonian-byname-and-surname-recovery.md` — Use Estonian revision lists, farm moves and surname assignments to distinguish a place-bound byname from a name a family carried.
+- `recipes/estonian-surname-and-household-recovery.md` — Connect an Estonian surname to its assignment record and trace the earlier household through manor revisions, parish books and farm bynames.
+- `recipes/ilfov-civil-register-recovery.md` — Find historical Ilfov civil registers by matching the old locality to its catalogue page and checking coverage for the exact event type and year.
+- `recipes/mehedinti-civil-register-recovery.md` — Use Genealogica’s Mehedinți inventory to locate the relevant civil register and check what the digitized volumes cover.
+- `recipes/moldavian-foreign-protection-register.md` — Find an entry in Moldavia’s 1824–1825 foreign-protection inquiry and distinguish claimed allegiance, birthplace and the commission’s decision.
+- `recipes/polish-district-commission-questionnaires.md` — Find postwar Polish district-commission questionnaires by locality and distinguish reported arrests, forced labour, returns and later fate.
+- `recipes/radom-peasant-land-record-recovery.md` — Find peasant land records for Russian-partition Radom Governorate by village division, office and file type.
+- `recipes/riga-swedish-finnish-parish-recovery.md` — Route a Swedish–Finnish parish event or clergy appointment in Riga through the St James’s register gaps, language changes and career sources.
+- `recipes/romanian-eanr-civil-register-recovery.md` — Find a historical Romanian civil or Transylvanian confessional act by locality, event type and year using Genealogica, eANR register images and county archival inventories.
+- `recipes/romanian-historical-census-household-recovery.md` — Locate Romanian census household records by census-year jurisdiction and distinguish original household schedules from surviving summaries and archive extracts.
+- `recipes/south-bohemian-farm-name-recovery.md` — Resolve a South Bohemian farm-name change by linking land transfers, estate population lists and parish entries.
 
 ### Russian Empire and Soviet Union
 
@@ -366,6 +399,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/soviet-personal-file-recovery.md` — Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost.
 - `recipes/russian-military-repression-record-episodes.md` — Read Russian WWI, Soviet WWII and repression records as separate dated episodes before merging them into one life.
 - `recipes/chechen-ingush-1944-deportation-records.md` — Trace a Chechen or Ingush family through the 1944 deportation and special settlement, under old and new place names.
+- `recipes/kohtalona-neuvostoliitto-record-recovery.md` — Find a deceased Finn’s Kohtalona Neuvostoliitto card by historical locality, then trace migration and repression details to their own underlying sources.
 
 ### Jewish records
 
@@ -379,11 +413,15 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/israel-immigration-list-research.md` — Search MyHeritage's Israel immigration lists and decide whether an arrival entry for Mandatory Palestine or Israel records an immigrant, a returning resident or a tourist.
 - `recipes/lithuanian-jewish-household-registers.md` — Use LitvakSIG and MyHeritage household registers to trace dated residence and distinguish missing records from unindexed coverage.
 - `recipes/holocaust-register-and-survivor-list-recovery.md` — Separate ghetto residence, imprisonment, death and postwar survivor registration while retrieving the underlying Holocaust-era record.
+- `recipes/arolsen-confiscated-effects-recovery.md` — Identify a Nazi persecution victim in the Arolsen personal effects collection and follow the archive’s return procedure.
+- `recipes/vienna-jewish-emigration-questionnaires.md` — Find a Vienna Jewish emigration questionnaire, recover dependents and overseas contacts, and test the household’s intended destination against evidence of departure.
 
 ### Ukrainian archives
 
 - `recipes/jewish-archival-list-triage.md` — Select Ukrainian archival cases that hold named Jewish lists, separating title, place and document evidence.
 - `recipes/elib-ukrainian-archive-reference-books.md` — Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
+- `recipes/nizhyn-greek-magistrate-records.md` — Find Nizhyn Greek community, passport, court and relief records in Fond 101 and replace missing files with the magistrate’s registers and decisions.
+- `recipes/north-azov-holodomor-household-evidence.md` — Find North Azov Greek village testimony and test reported deaths, confiscation and blacklisting against the surviving records.
 
 ### Germany
 
@@ -415,6 +453,15 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/piracy-and-privateering-records.md` — Use a commission, vessel history and surviving court papers to distinguish a commissioned capture from piracy and follow a sailor’s disposition.
 - `recipes/british-raf-air-force-list-recovery.md` — Reconstruct British RAF officer rank and seniority from dated Air Force Lists, then choose the personnel series that fits the person.
 - `recipes/jersey-occupation-registration-card-recovery.md` — Trace a Jersey resident or child through German Occupation registration cards and household entries.
+- `recipes/british-army-wwii-casualty-lists.md` — Trace a British Army casualty through successive wartime lists and reconcile changes in status by service number.
+- `recipes/durham-home-guard-record-recovery.md` — Trace a County Durham Home Guard candidate from the name index to the original WO 409 enrolment form and identify the unit.
+- `recipes/england-wales-historical-divorce-recovery.md` — Trace an England or Wales divorce from an index hit to the court papers and distinguish allegations, petitions and decrees.
+- `recipes/english-chancery-equity-suit-recovery.md` — Find an English Court of Chancery dispute by party, then retrieve its pleadings, depositions, orders and decrees as separate records.
+- `recipes/irish-famine-relief-record-recovery.md` — Use a known Irish locality to search Famine relief correspondence and workhouse registers for a household missing from ordinary records.
+- `recipes/irish-petty-sessions-and-dog-licences.md` — Find an Irish household locality in Petty Sessions Order Books and the separate registers of dog licences.
+- `recipes/scottish-railway-employment-record-recovery.md` — Trace a Scottish railway occupation to the company operating the line at the time and its surviving staff records.
+- `recipes/uk-ireland-passenger-list-recovery.md` — Choose Board of Trade passenger lists for a British or Irish port call, recover missing voyage entries and distinguish transit from settlement.
+- `recipes/ulster-freeholder-poll-records.md` — Use Ulster freeholder registers and poll books to distinguish voter eligibility, recorded votes and a property interest from land ownership.
 
 ### Western and Northern Europe
 
@@ -431,6 +478,61 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
 - `recipes/french-succession-and-absence-tables.md` — Use a French registration-office index to distinguish a recorded death from declared absence and retrieve the referenced succession declaration.
 - `recipes/swiss-place-of-origin-record-recovery.md` — Distinguish Swiss communal citizenship from birthplace and residence, then choose the municipal, cantonal or parish record for the question.
+- `recipes/danish-census-household-recovery.md` — Find Danish census households by name or historical address and read household position and occupation against the schedule for each census year.
+- `recipes/finnish-astia-archival-image-recovery.md` — Find a Finnish register image after an Astia miss by checking the series tree, contributor indexes and item access separately.
+- `recipes/finnish-court-book-recovery.md` — Find a Finnish district or appellate court entry through its historical jurisdiction, court-book copies, card indexes or publication registers.
+- `recipes/finnish-debt-imprisonment-records.md` — Follow a historical Finnish debt proceeding through enforcement, confinement and bankruptcy records to determine what happened to the debtor and the debt.
+- `recipes/finnish-diocesan-circulars-and-observances.md` — Use Turku and Porvoo circulars to test whether a Finnish thanksgiving or commemoration was diocesan and verify local observance in newspapers.
+- `recipes/finnish-factory-and-craft-listings.md` — Find a nineteenth-century Finnish establishment, owner or practitioner by choosing a named factory list, trade directory or craft register.
+- `recipes/finnish-farm-subdivision-record-recovery.md` — Find the survey map and minutes behind a named Finnish farm share and separate the recorded subdivision from any earlier inheritance division.
+- `recipes/finnish-crown-farm-purchase-recovery.md` — Use Finnish land-register annotations to find a Crown farm’s hereditary purchase in Swedish or Finnish records.
+- `recipes/finnish-fire-insurance-record-recovery.md` — Trace Finnish properties through Swedish-era and Finnish insurers’ notices, policies, appraisals, plans and payout reports to document buildings and fire damage.
+- `recipes/finnish-folk-poetry-informant-recovery.md` — Trace a historical folk-poetry informant through SKVR entries, collection notes and the collector’s published accounts.
+- `recipes/finnish-great-northern-war-refugee-recovery.md` — Trace a family displaced from Finland through wartime relief lists and Swedish parish evidence, then check for a documented return.
+- `recipes/finnish-henkikirja-record-recovery.md` — Find a Finnish henkikirja by historical parish, district, year and volume signum, and distinguish index gaps from missing roll entries.
+- `recipes/finnish-crown-prison-record-recovery.md` — Reconstruct nineteenth-century Finnish custody and transfer using Procurator returns, institution records, prison parish books and Siberian exile references.
+- `recipes/finnish-heraldica-estate-ownership.md` — Resolve a Finnish estate named in Europeana Heraldica to the individual holding before assigning an owner or dating a transfer.
+- `recipes/finnish-heritage-agency-archive-recovery.md` — Recover a Finnish Heritage Agency building study or ethnographic manuscript through its archival series and check access at item level.
+- `recipes/finnish-historical-passport-recovery.md` — Choose the passport records for a Finnish traveler or crew member by the period issuer, passport type and route.
+- `recipes/finnish-historical-population-table-recovery.md` — Recover Finnish parish or municipal population tables and read the observation date, geography and population categories before comparing figures.
+- `recipes/finnish-imperial-award-records.md` — Trace an imperial medal or other award in Finland through contemporary notices, presentation reports and the Governor-General’s Chancellery.
+- `recipes/finnish-imperial-observance-records.md` — Identify a Finnish imperial observance from a diary, memoir or newspaper and check its local date against official instructions.
+- `recipes/finnish-imperial-observance-recovery.md` — Match a Grand Duchy parish thanksgiving, bell ringing or public celebration to its dated order and evidence of local observance.
+- `recipes/finnish-parish-residence-and-moves.md` — Distinguish a Finnish parish transfer from physical relocation by comparing moving certificates, communion books, population rolls and dated address directories.
+- `recipes/finnish-royal-marriage-permission-recovery.md` — Follow a Finnish parish marriage clue to the Crown’s decision, its supporting papers and the actual wedding.
+- `recipes/finnish-sailors-house-record-recovery.md` — Use Finnish sailors’ house indexes and original house records to distinguish enrollment from service on a vessel and identify voyages.
+- `recipes/french-maritime-registration-and-crew.md` — Use an inscription maritime entry and a French crew roll to test where a nineteenth-century sailor went or stayed ashore.
+- `recipes/finnish-provincial-notice-recovery.md` — Recover a missing person's trail in historical Finnish provincial proclamations and use the notice to choose follow-up records.
+- `recipes/helsinki-household-record-recovery.md` — Find a Helsinki or Viapori household across parish books, poll-tax rolls, property records and police address cards, and use dated returns to bound moves.
+- `recipes/helsinki-property-record-recovery.md` — Identify a Helsinki parcel or villa and trace its owners, city leases and physical changes through property cards, minutes, plans and historical notices.
+- `recipes/historical-finnish-vocabulary-lookup.md` — Choose Finnish dictionaries and period attestations to resolve an unfamiliar word by date, dialect and context.
+- `recipes/italian-emigrant-proxy-marriage-recovery.md` — Trace an Italian emigrant marriage from a possible proxy ceremony to the mandate, banns papers, parish act and civil transcription.
+- `recipes/italian-historical-cadastre-recovery.md` — Trace an Italian house or parcel from a named cadastral account to its map, successive holders and notarial transfers.
+- `recipes/italian-military-internee-record-recovery.md` — Link Italian military internee records across Vatican inquiries, German camp and hospital papers, and local civil death registers.
+- `recipes/italian-second-world-war-captivity-records.md` — Follow an Italian prisoner’s wartime transfers from Vatican inquiry cards to the custodial file, camp roster or transport record.
+- `recipes/katiha-ceded-parish-record-recovery.md` — Find ceded Finnish parish entries in Katiha and recover the communion-book page behind a name hit.
+- `recipes/merida-badajoz-clergy-ordination-records.md` — Find Mérida–Badajoz ordination packets by candidate, box and grade and use baptismal attachments and benefice files to reconstruct the cleric’s family and appointments.
+- `recipes/merida-badajoz-ecclesiastical-fonds.md` — Route a Mérida-Badajoz inquiry to episcopal, cathedral, parish or military-order records and interpret gaps in descriptions and survival.
+- `recipes/merida-badajoz-parish-household-lists.md` — Use ecclesiastical censuses and Easter observance lists to reconstruct Mérida-Badajoz households without turning an age label or omission into a vital event.
+- `recipes/merida-badajoz-pastoral-visitation-records.md` — Find an ecclesiastical visitor or reconstruct parish conditions from the separate Mérida-Badajoz visitation and parish returns.
+- `recipes/norwegian-refugees-in-wartime-sweden.md` — Use the Norwegian reception card and refugee number to trace a border crossing, interview and possible camp placement in wartime Sweden.
+- `recipes/order-of-alcantara-file-recovery.md` — Find Order of Alcántara files for a family, cleric or institution in the former priories of Magacela and Zalamea.
+- `recipes/stockholm-historical-property-ownership.md` — Identify a Stockholm lot across its historical numbers and compare household residence with dated title and probate evidence.
+- `recipes/swedish-high-court-case-recovery.md` — Follow Swedish and Swedish-era Finnish high-court referrals and notices into the diaries, protocols and surviving case papers.
+- `recipes/swedish-noble-pedigree-record-recovery.md` — Trace a Swedish noble branch from the Minerva pedigree to letters of arms, family submissions and cited evidence.
+- `recipes/turku-dahlstrom-card-index-recovery.md` — Find Turku people, properties and proceedings in the Dahlström card index, then recover the municipal or court records named on the cards.
+- `recipes/turku-divorce-and-remarriage-records.md` — Trace a historical divorce or permission to remarry across Turku Cathedral Chapter records, royal correspondence and civil court proceedings.
+- `recipes/swedish-land-title-record-recovery.md` — Follow a Swedish parcel through land-title books, court protocols and earlier records when a name search fails.
+- `recipes/translocalis-newspaper-letter-recovery.md` — Recover attributed, unsigned and reprinted Finnish newspaper letters using Translocalis signature, author and sending-locality metadata.
+- `recipes/finnish-court-of-appeal-notice-recovery.md` — Use a published Finnish notice to identify the court and recover the corresponding court-of-appeal diary, ruling and case papers.
+- `recipes/finnish-city-census-household-recovery.md` — Check whether a Finnish city was enumerated, locate surviving household forms by city and block, and interpret gaps using the census report.
+- `recipes/finnish-farm-tenure-records.md` — Identify a Finnish holding and reconstruct title, cultivation and transfers using farm histories, tax rolls and district court minutes.
+- `recipes/finnish-prison-custody-records.md` — Trace a Finnish prisoner from a wanted notice or court sentence through custody, transfers and the receiving institution’s records.
+- `recipes/finnish-parish-circular-and-observance-recovery.md` — Find Finnish cathedral chapter circulars and use dated newspaper dispatches to establish when and how a parish observed a proclaimed occasion.
+- `recipes/helsinki-historical-population-counts.md` — Choose the correct Helsinki census or yearbook denominator before comparing historical districts, residents, subjecthood, birthplace or other population measures.
+- `recipes/helsinki-magistrate-and-court-record-recovery.md` — Find Helsinki trading permissions, municipal decisions and court proceedings from a person card, minute index, lease notice or published summons.
+- `recipes/sound-toll-captain-voyage-recovery.md` — Use Sound Toll passages and port notices to trace a merchant captain without treating a register miss as a missing Baltic voyage.
+- `recipes/swedish-realm-pulpit-notice-recovery.md` — Trace a Swedish or Finnish pulpit notice from the printed mandate or chapter circular to evidence of reading in a named parish.
 
 ### United States: people, vital and church records
 
@@ -452,6 +554,10 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/american-voter-register-eligibility.md` — Check voting and registration eligibility in the relevant year before using a U.S. voter-register entry or omission as residence evidence.
 - `recipes/us-social-security-application-recovery.md` — Choose between a Social Security death index, Numident extract and original SS-5 when researching a deceased person’s birth or parents.
 - `recipes/us-historical-passport-application-recovery.md` — Find U.S. passport applications through March 1925 and separate recorded identity, companions and planned travel from the journey itself.
+- `recipes/declaration-signer-descendant-records.md` — Find lineage leads for a named Declaration signer in the Leach manuscripts and the indexed society application files.
+- `recipes/great-miami-hurricane-family-records.md` — Test a reported death, injury or displacement after the 1926 Great Miami Hurricane through named casualty lists, vital records and later households.
+- `recipes/new-jersey-marriage-index-recovery.md` — Decode New Jersey marriage index numbers and place fields, then route the underlying certificate by marriage year.
+- `recipes/us-federal-civilian-personnel-record-recovery.md` — Use the Official Register to identify a federal civilian employer and route an Official Personnel Folder or service record card.
 
 ### United States: military, land, courts and law
 
@@ -483,6 +589,25 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-marine-corps-muster-and-wwi-unit-records.md` — Recover a U.S. Marine’s dated unit from muster rolls, then trace First World War assignments and death records.
 - `recipes/us-postmaster-appointments-and-office-sites.md` — Find a U.S. postmaster by office and date, distinguish appointment from confirmation, and locate the office in site reports.
 - `recipes/wyoming-valley-susquehanna-company-claims.md` — Distinguish Wyoming Valley company share ownership, settlement and Pennsylvania title by following the relevant lists and tract papers.
+- `recipes/civil-war-published-medical-case-recovery.md` — Search the Civil War Medical and Surgical History by patient and injury, then match case narratives and table rows to service evidence.
+- `recipes/colonial-tavern-license-recovery.md` — Use Maryland, Delaware and Virginia tavern compilations to identify a keeper, then recover the license and the applicable local rate schedule.
+- `recipes/dunmores-war-payroll-and-claims.md` — Trace a 1774 expedition participant or supplier through Virginia’s commissioners’ ledger and separate West Augusta records.
+- `recipes/florida-spanish-land-grant-claims.md` — Find the papers behind a Florida Spanish land claim and distinguish its supporting evidence from the decision on title.
+- `recipes/maryland-revolutionary-war-record-recovery.md` — Use Maryland’s period counties, wartime census, oath lists and state papers to distinguish Revolutionary residence, allegiance, military service and civilian aid.
+- `recipes/massachusetts-witchcraft-trial-evidence.md` — Trace a Salem-area witchcraft accusation through examinations, depositions and disposition, while distinguishing spectral claims, confessions and the evidence used in court.
+- `recipes/mecklenburg-declaration-source-recovery.md` — Use Draper manuscripts, printed versions and witness dates to trace a Mecklenburg Declaration signer claim and identify shared evidence.
+- `recipes/mexican-border-and-punitive-expedition-records.md` — Separate U.S. border duty, the Veracruz expedition and the Punitive Expedition by routing medal, unit and vessel clues to their own archival series.
+- `recipes/mexican-cession-jurisdiction-routing.md` — Use the event date and historical boundary to choose a Mexican, territorial, state or federal record series in the U.S. Southwest.
+- `recipes/union-civil-war-medical-record-recovery.md` — Recover a Union soldier’s hospitalization and disposition from carded medical records, hospital series and separate service papers.
+- `recipes/us-civil-war-prisoner-record-recovery.md` — Reconstruct Union or Confederate captivity through prison rolls, transfers, parole, exchanges, oaths, death records and later enlistment.
+- `recipes/us-historical-navy-medical-record-recovery.md` — Follow a nineteenth-century Navy treatment lead into ship or station medical journals, patient lists and a named naval hospital’s records.
+- `recipes/us-merchant-seamen-record-recovery.md` — Route a merchant seaman by port and period to protection papers, crew lists, shipping articles or records of impressment.
+- `recipes/us-postal-mail-contract-recovery.md` — Find a nineteenth-century U.S. mail contractor’s dated award and itinerary through route registers, bid notices and postal reports.
+- `recipes/us-wwi-va-master-index-benefits.md` — Decode claim, bonus, insurance and rehabilitation numbers on a World War I VA Master Index card, then route the surviving records by number and custodian.
+- `recipes/virginia-ordinary-license-and-site-recovery.md` — Use court orders, road records and fire insurance declarations to distinguish the licensee, owner and site of a historical Virginia tavern or ordinary.
+- `recipes/war-of-1812-american-prisoner-recovery.md` — Find a captured American in Admiralty registers and use dated transfer entries to follow that prisoner between depots, ships and parole locations.
+- `recipes/wpa-county-records-inventories.md` — Use a Historical Records Survey county inventory to establish which records were then observed and trace the series to its present holding office.
+- `recipes/world-war-one-us-navy-record-recovery.md` — Use World War I Navy muster rolls, vessel identifiers and casualty sources to establish a U.S. sailor’s assignment and trace a reported death.
 
 ### Canada, Latin America, Asia and Oceania
 
@@ -500,6 +625,16 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/canadian-arrival-record-routing.md` — Choose a Canadian ocean or land arrival series by port and date, and seek substitutes before interpreting a missing entry.
 - `recipes/canadian-great-war-project-cross-border-enlistment.md` — Search for a possibly U.S.-born Canadian Expeditionary Force volunteer and confirm the candidate in the original service file.
 - `recipes/india-great-famine-household-record-recovery.md` — Follow a household across famine-era district, relief, land and migration records without assigning a cause from disappearance alone.
+- `recipes/american-revolutionary-loyalist-record-recovery.md` — Trace wartime allegiance, evacuation and resettlement through British, Canadian and colonial records for American Revolutionary Loyalists.
+- `recipes/australian-first-world-war-embarkation-recovery.md` — Use an Australian Imperial Force embarkation roll to identify a land-service member and trace later units, casualty records and honours.
+- `recipes/australian-wartime-internment-record-recovery.md` — Distinguish a civilian internee from a captured serviceman and use Australian detention, registration and appeal series to reconstruct the person’s records.
+- `recipes/buenos-aires-passenger-arrival-recovery.md` — Trace a historical Buenos Aires sea arrival from the CEMLA index to Argentina’s passenger entry books or later migration records.
+- `recipes/haitian-historical-record-recovery.md` — Route searches for deceased people in Haiti to a locality’s civil registers or to the distinct Saint-Domingue compensation volumes.
+- `recipes/jamaican-parish-civil-record-recovery.md` — Route a Jamaican birth, marriage or death to the civil register, Anglican transcripts or separate Dissenter marriage books.
+- `recipes/queensland-victuallers-licence-recovery.md` — Find Queensland publicans in gazette notices and licensing files, and distinguish applications from granted licences and transfers.
+- `recipes/sao-paulo-immigration-and-foreigner-registration.md` — Distinguish São Paulo consular immigration cards, visa applications and foreigner registration files when reconstructing arrival, onward travel or residence.
+- `recipes/spanish-language-civil-act-reading.md` — Recover delayed births and marriage investigations behind Spanish-language civil acts and distinguish event dates, witnesses and the basis of each claim.
+- `recipes/vietnamese-gia-pha-recovery.md` — Locate a Vietnamese gia phả through its family custodian or a Hán-Nôm catalogue and identify the branch and generations the manuscript covers.
 
 ## Recipes: Record types in any country
 
@@ -509,6 +644,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/catholic-sacramental-cross-notations.md` — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish.
 - `recipes/immigrant-congregation-origin-records.md` — Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address.
 - `recipes/intercountry-adoption-record-discrepancies.md` — Compare birth and placement records, adoption papers and attributed family accounts when an intercountry adoption may have been irregular.
+- `recipes/catholic-vocation-and-clergy-records.md` — Choose the sources for a named Catholic priest, missionary or religious in Spanish-language archives and separate ordination, assignments, licences and profession.
 
 ### Burials, directories, land and probate
 
@@ -520,6 +656,9 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/tax-roll-observation-workflow.md` — Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type.
 - `recipes/marks-and-brands-record-recovery.md` — Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
 - `recipes/probate-case-document-inventory.md` — Recover every document behind a probate index, will or bond and list them as a case inventory with open leads.
+- `recipes/cemetery-survey-and-transcription.md` — Map and number a whole cemetery survey so another researcher can match each transcription, image or recording to its marker.
+- `recipes/coroner-death-investigation-record-recovery.md` — Use coroner and medical examiner indexes, case numbers and local access rules to recover a death investigation, with routes for Los Angeles, Humboldt and British Columbia.
+- `recipes/south-african-death-notices-and-estate-files.md` — Route a South African death notice through the estate index, archive depot and probate file number.
 
 ### Births outside marriage and institutions
 
@@ -537,8 +676,37 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/family-archives-material-storage.md` — Choose protective enclosures for fragile family originals while preserving the evidence that links loose items to their original homes.
 - `recipes/mylio-historical-photo-date-and-worklist.md` — Use Mylio Photos to keep uncertain original photo dates, review queues, event groups and a local backup for a scan project.
 - `recipes/vaud-foundling-baptism-and-naming-records.md` — Follow a Vaud foundling’s baptismal note into a dated naming or placement inquiry and identify which relationship each record establishes.
+- `recipes/heraldic-arms-bearer-attribution.md` — Trace a crest or coat of arms from an artifact to a recorded bearer and test whether that bearer belongs to the researched branch.
+- `recipes/historical-streetscape-photo-identification.md` — Identify a building in an old street view or panorama using sightlines, nearby landmarks, maps and dated descriptions of the site.
 
 <!-- recipe-catalog:end -->
+
+## Version and updates
+
+This copy is version 3.0.0, released 2026-11-26.
+
+Many installations do not update by themselves. If today's date is more than 7 days after
+that release date, end your first answer in the conversation with one short note: this copy
+of the recipes was released on that date, and a newer version may be available. Give the
+update step for the user's installation, or the applicable options if the host is unclear:
+
+- Copies installed from a plugin directory (Anthropic's Claude directory or the ChatGPT/Codex
+  plugin directory): updates arrive through that directory.
+- Claude Code: `claude plugin update genealogy-research-recipes@kinprove`. For automatic
+  updates, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
+  **Enable auto-update**.
+- Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
+  the `kinprove` marketplace, or turn on **Sync automatically**.
+- Hermes Agent: `hermes plugins update genealogy-research-recipes`.
+  If Hermes reports no update, check the
+  [Hermes Marketplace listing](https://hermes-agent.nousresearch.com/marketplace/genealogy-research-recipes)
+  for the version available through the catalog.
+- OpenClaw: `openclaw plugins update genealogy-research-recipes`.
+  ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
+  `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
+
+Give this note once per conversation, after the answer itself. Skip it when you do not know
+today's date. Do not check for a newer version over the network yourself.
 
 ## What a recipe is (and isn't)
 
@@ -553,5 +721,5 @@ shared with others. Refer to them by role, for example "a witness".
 ## Attribution
 
 These recipes are original Kinprove-authored distillations, licensed FSL-1.1-MIT (see `LICENSE`).
-Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/<slug>.md`; any
+Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/<slug>.md`; any
 reproduced third-party data is carved out in `NOTICE`.

@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "ancestry-record-search-recovery", "familys
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["familytreemaker", "ancestry", "familysearch"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "upload"], "contact": ["contact"]}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 11}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 13}
 ---
 
 # Family Tree Maker: Ancestry Sync, FamilySearch Branches, Places, Web Search, Undo and Guest Sharing

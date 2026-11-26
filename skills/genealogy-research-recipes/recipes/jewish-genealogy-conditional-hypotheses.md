@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "jewishgen-search-family-reconstruction", "
 checked: "2026-10-07"
 checked_basis: "Checked 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 81}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 126}
 ---
 
 # Jewish genealogy: conditional naming, town and DNA clues
@@ -53,6 +53,8 @@ Before using a name or town as a prediction, record the community, period, langu
 | An endogamous match shares substantial DNA | Use a separately documented branch as a research lead and compare rival ancestral paths | A named recent ancestor, a unique path or a relationship proved by the total alone |
 
 Ashkenazi deceased-relative naming is a custom with exceptions; Sephardi families can name children after living relatives. Determine the family's practice before asking the naming question. Americanized given names have no fixed reverse translation. Endogamy can make relationship predictions appear closer and permits more than one ancestral contribution. [S6, S7, S9, S10]
+
+Before using a recorded surname to link generations, check whether it functions as a patronymic or an inherited family name in that community, period and record series. If a patronymic is plausible, search by the person's given name and the patronymic formed from the proposed father's given name. Keep candidates with differing recorded surnames in play. Where a local surname-adoption period is documented, compare household members in censuses or tax lists on either side to test the kinship hypothesis (K1). Verify when the family used each form in the records, even when the date of a surname mandate is known. [S18, S19, S20]
 
 ## 2. Separate the propositions before combining clues
 

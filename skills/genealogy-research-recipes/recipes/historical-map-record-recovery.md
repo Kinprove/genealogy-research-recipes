@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-recor
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 56}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 82}
 ---
 
 # Recover and read historical maps as dated, copy-specific evidence
@@ -47,6 +47,14 @@ Use this recipe when you are about to use a Sanborn fire-insurance sheet, a land
 2. Search by area as well as by name. OldMapsOnline lists the historic maps that fall inside a rectangle you draw, and the list updates as you pan or zoom [S25]. The USGS Historical Topographic Map Collection viewer shows a timeline of every digitized map for the area. Tanner cited about 178,000 maps in 2016 [S25].
 3. A keyword hit is a hit on catalogue information. On David Rumsey, a keyword finds any term in a map's metadata [S7]. So check that the map image actually shows the target place before you count it as coverage. Start with a broad search without exact-phrase quotes, then narrow it [S7].
 4. Land-ownership maps are rarely indexed, so expect to browse. Narrow the search with the census township name or the land description [S11]. Not every county had an atlas published [S11]. Record which sites, holders and editions you checked. A site you did not check is a gap, not a negative result.
+
+**Search labels printed on Rumsey maps.** When the catalogue search above misses a feature, switch to **Text on Maps** and try a distinctive public place name or feature term. To constrain the results, use **Advanced Search** to combine map text with geographic catalogue fields and a date range. The text index covers a georeferenced subset, and automatic transcription can miss labels. Inspect the sheet at the candidate location, including angled lettering, before treating the feature as absent [S125 @2026-11-22], [S126 @2026-11-22], [S127 @2026-11-22], [S128 @2026-11-22].
+
+**Check physical Sanborn holdings.** If the digital collection misses the town or date, use the Library of Congress guide’s **Sanborn Fire Insurance Map Advanced Search** and choose the state and locality. A checklist entry with a generic map symbol identifies a held volume without a digitized image in that list. If the volume has no entry, record a gap in the checklist and check other holders before concluding anything about publication [S129 @2026-11-22], [S130 @2026-11-22].
+
+**Irish maps.** Search the National Library of Ireland’s catalogue for printed and manuscript maps, including estate maps. For historical Ordnance Survey sheets in Northern Ireland, check PRONI’s Historical Maps viewer as well. Record the map series and sheet shown before choosing a record jurisdiction [S133 @2026-11-22], [S134 @2026-11-22], [S135 @2026-11-22].
+
+**Finnish land consolidation maps.** In Astia, start with the municipality and *uudistusarkisto*. If the village name misses, browse the province’s *Uudistushakemisto* by the alphabetical ranges in unit titles and copy the shelfmark. Check whether an enclosing survey covers the village under another place name. In a February 2022 search the Haistila index entry pointed to Kaurula, A41:19/5-30. Test the shelfmark and municipality plus the filing locality in the catalogue you are using, and confirm coverage on the sheet before closing the search [S136 @2026-11-22], [S137 @2026-11-22], [S138 @2026-11-22].
 
 When an archival map has been detached into a map collection, search relevant finding aids
 for a possible originating dispute or court case, using the supported places, parties and
@@ -87,6 +95,8 @@ Match a dated advertisement or directory entry to the building’s occupancy lab
 
 When following a household across addresses, plot each residence on the Sanborn edition closest to its record date. Compare nearby factories, businesses or rail lines with the recorded occupation. Use those features to identify possible employers and verify a match or a reason for moving in dated records about the household [S98].
 
+**Scottish industrial addresses.** Find the locality by public place name in the National Library of Scotland’s **Map Images**, then place the recorded historical address on editions around the residence date. Use the nearest mapped pits, ironworks, canals or railway facilities to choose records to look for. Date the facility separately before treating it as an employment lead [S131 @2026-11-22], [S132 @2026-11-22].
+
 ## Place a recorded historical address
 
 1. Transcribe the dated address, list uncertain readings and test each against a period plan and records of institutions at the address. If AI suggested a reading, verify the handwriting, historical address, landmark and modern location independently [S22]. Test a slash as a possible corner-house number by reading numbers along both streets. For a 1928 Sverdlovsk envelope addressed to 218/25, the 1910 plan put 220 on the corner, but a participant read the 1931 plan as showing 27 across the junction, supporting 25 as a cross-street number [S26]. Record the interpretation as provisional until a contemporary record confirms it.
@@ -103,6 +113,14 @@ When following a household across addresses, plot each residence on the Sanborn 
 
 **Conflicting census addresses.** Plot both addresses on the plans nearest their respective census years. Compare the lots and cross streets, and check a dated conversion table for a street rename or house renumbering before recording a move. In Chicago, start with the 1909 conversion guide outside the Loop and the separate 1911 guide in the Loop [S101], [S102].
 
+**Stockholm plot numbers.** For an eighteenth-century address, search the Stockholm City Archives’ *1729 och 1810 års tomtnummer* by **Gatunamn** (street name) and **Tomtnr (1730 års ordn)** (old plot number). Record every matching **Kvarter** (block) before comparing dated plans [S165 @2026-11-23].
+
+For a 1779 Storgatan address in Ladugårdslandet, a published lookup lists Sjökalven and Terra Nova Större as competing blocks for plot 101 [S164], [S165].
+
+If several blocks match, find the known deceased resident’s probate inventory (*bouppteckning*) by name in the court’s probate index. Compare the block named for the relevant property with the candidates and record the inventory date and locator. Keep the candidates open if the inventory gives no unique match. If the inventory postdates the address, use a dated record to link the resident to that property at the address date before placing it on a map [S164], [S166], [S167].
+
+**Proposed streets on city maps.** When a period guide map draws a street through a site, check the municipal street-works record for the length completed and the segment graded by the date in question. In Helsinki, look in *Helsingin kaupungin tilastollinen vuosikirja*. Match the segment to a dated photograph at an identifiable intersection or to a report of the works before using the street as an address or travel route [S147], [S148].
+
 ## Trace a post office and its mail routes
 
 **Find the route map.** Start with the state's list in National Archives *Special List 29*, then check the Topographer's series in Record Group 28, section 28.6.2. Use Preliminary Inventory 168 entries 189 and 190 for printed post-route maps and entry 191 for manuscript maps. Carry over the full filing reference. For example, Special List 29, New Jersey entry 565, gives the filing reference *RG 28: State Maps, New Jersey, 1915* and an operating date of 1 April 1915 [S103 @2026-11-21], [S104 @2026-11-21], [S105 @2026-11-21], [S122 @2026-11-21], [S106 @2026-11-21].
@@ -110,6 +128,8 @@ When following a household across addresses, plot each residence on the Sanborn 
 **Date the postal evidence.** Identify the producer and record the date the sheet says its routes were in operation. The Post Office Department bought maps before it appointed its first Topographer in 1837. The public state and multistate map series ordered in 1862 was updated over time, so compare editions around the event [S103], [S105], [S107].
 
 **Place the post office.** Find the digitized rolls of microfilm M1126 in National Archives Catalog series 608210. Browse by state or territory, then county, parish or district, then office name. Check a former name or jurisdiction when the first search misses. Enlarge each dated report and look for the township, range and section where applicable, the mail-route number and distance to the route, and named waterways, roads or railroads. Plot the written distances and landmarks when the sketch is missing. Check whether the report concerns a proposed office, a move or a name change before marking its location [S103 @2026-11-21], [S107 @2026-11-21].
+
+**Sweden and Finland.** For eighteenth-century mail routes, search Postmuseum’s digitized maps in DigitaltMuseum under *postkarta* and the period locality name. Open both sides where scanned. Read the postal-farm list and the distance and timetable annotations alongside the drawn route to identify stops that the line alone leaves unclear [S156 @2026-11-22], [S157 @2026-11-22].
 
 ## Test a mapped migration route
 
@@ -169,6 +189,14 @@ To test an oral report of a farm burial ground, check dated county maps and atla
 
 **Rural school sites:** Search school-property sale and auction notices for the legal description or the distance and direction from named towns. Plot the clues on a dated map and seek the original advertisement or conveyance. Use records naming pupils to establish attendance [S67], [S68].
 
+**First Military Survey of the Czech lands.** Use the Chartae Antiquae index to open the individual sheet and any adjoining one the route crosses. Treat mismatched joins as a survey limitation and test the position against the more precisely surveyed Second Military Survey, allowing for intervening changes. Read the settlement list in the full sheet’s margin, including any inhabitant categories and horse counts. If a count or description is missing there, check the accompanying military-topographical description [S139 @2026-11-22], [S140 @2026-11-22].
+
+**Second Military Survey of the Czech lands.** Find the locality in Chartae Antiquae’s georeferenced set, then open the complete sheet from the series index. Check German and Germanized names in the marginal settlement list. Read *Pfarre* as parish status, and keep the recorded houses and stables separate from the men and horses the settlement could accommodate. Use the parish entry as a lead to the register search [S141 @2026-11-22], [S142 @2026-11-22], [S143 @2026-11-22].
+
+**Third Military Survey details.** In Chartae Antiquae, use the 1:75,000 special map to select the covering 1:25,000 topographic section, then look for a surviving colour original. Where the standard section lacks detail, check whether larger-scale coverage exists, such as the 1:12,500 survey of parts of southern Moravia. Record the edition year separately from the field-survey date before comparing features with the Second Military Survey [S152 @2026-11-22], [S153 @2026-11-22], [S154 @2026-11-22].
+
+**Relocated churches.** Before carrying a modern church pin onto a period cemetery map, compare dated aerial frames before and after the landscape changed: the church at Červená nad Vltavou was moved uphill, away from its original precinct [S159], [S160].
+
 ## Read landowner maps and overlays with limits
 
 Record the map’s title, publisher, purpose, date and holder. Check maps made for other purposes, including battle maps, for printed landholder labels [S14]. Use a labelled property and its neighbours as leads for the deeds or surveys that could identify the holder and date the ownership [S11].
@@ -188,6 +216,12 @@ To place a vanished hamlet, use Arcanum's Mapire, which overlays the georeferenc
 Check an overlay’s alignment against surviving roads, railways or other fixed features across the area of interest, and retain the georeferencing files with the image [S13]. A historical atlas may distort locally even where the roads align [S11], [S14]. For a hand-drawn Sanborn outline, check whether the line denotes a building or parcel before measuring from it [S8]. Establish a property boundary from the deed or survey; on PLSS land, plot the aliquot parts in the description [S2], [S11]. Use [land-index recovery](land-index-book-series-recovery.md) to retrieve the deed.
 
 **Custom overlays in Google Earth Pro.** If the available overlays miss the place or period, choose a public map image of the right edition and open it from the computer with **Add → Image Overlay → Browse**. Lower the opacity until both maps are visible. Move, rotate or resize the image to match several surviving landmarks across the area. Record the map edition, the landmarks used and where the fit breaks down [S83 @2026-06-08], [S84 @2026-06-08].
+
+**Czech Stable Cadastre.** In the Czech Land Survey Office archive, search by cadastral locality and choose **Indication sketches** (*indikační skici*) to match a recorded house number to its building parcel. An imperial imprint preserves the numbered parcels. If it lacks the house number or a holder’s name, take the parcel number back to the corresponding sketch and check the written parcel register. Where the sketch marks outlying parcels with the same house number, follow it across the whole cadastral unit and record the separate parcels and the date of the annotation [S144 @2026-11-22], [S145 @2026-11-22], [S146 @2026-11-22], [S155 @2026-11-22].
+
+**Prague fortifications.** For Jüttner’s plan completed in 1816, check the manuscript tradition, such as the 1817 manuscript copy shown in the Czech Land Survey Office exhibit. The public print simplifies, omits or misdraws some defences, so an omission there cannot establish that a fortification was absent [S149], [S150], [S151], [S158].
+
+**Historical Swedish fire-insurance plans.** In the Centrum för Näringslivshistoria digital reading room with access to the Brandförsäkringsverket collection, search by historical locality and insurance number. If a notice groups several policy numbers, try each separately. Check the valuation for an attached site plan and the separate maps and drawings series for plans filed on their own. An overview map locates the insured premises only when its labels or the accompanying valuation establish the link [S161 @2026-11-22], [S162 @2026-11-22], [S163 @2026-11-22].
 
 ## Return a map packet
 

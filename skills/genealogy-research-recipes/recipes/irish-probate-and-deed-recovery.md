@@ -4,14 +4,14 @@ title: "Recover an Irish will, grant or deed after the 1922 losses"
 summary: "Recover an Irish will, administration or deed after the 1922 losses through surviving calendars, will books and the Registry of Deeds."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "IRISH-PROBATE-AND-DEED-RECOVERY-01", "text": "**Do not read an entry as proof that the will survives.** The entry records the grant, not the document's survival; check the copy lanes in step 3."}]
 handoff: ["city-directory-observation-workflow", "deed-content-relationship-clues", "evidence-proof-judgment", "historical-place-name-resolution", "irish-emigrant-origin-locality", "irish-land-valuation-occupancy-series", "land-index-book-series-recovery", "probate-case-document-inventory"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 107}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 156}
 ---
 
 # Recover an Irish will, grant or deed after the 1922 losses
@@ -77,6 +77,10 @@ Add the Virtual Record Treasury of Ireland to a lost-record search. Its current 
 
 **Add NAI's own pre-1858 copies to the search.** NAI lists prerogative and diocesan copies of some wills, and indexes to others, for 1595–1858 among the collections that can be viewed in its Reading Room while its genealogy microsites are offline [S21 @2026-11-13]. Log them as searched before the stop rule calls a pre-1858 will lost.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> This query sends the deceased's name to MyHeritage. Apply the [privacy gate](../SKILL.md#privacy-gate) before submitting it and leave relatives' details out.
+
+**Treat the northern wills and administrations index as a lead.** MyHeritage's launch and expansion announcements describe entries for Armagh, Clogher, Connor, Derry, Down, Dromore and Kilmore [S27 @2026-11-22], [S25 @2026-11-22]. The expansion announcement puts most entries in 1621–1965 [S25 @2026-11-22]. The collection interface and individual images were unavailable for direct inspection. If the collection opens, search MyHeritage by the deceased's name. For any hit, distinguish the place and date of signing, probate or administration by letter or bond. Record residence and date of death separately if supplied [S27 @2026-11-22], [S25 @2026-11-22]. Follow any source reference to the archive and check the image when available.
+
 ## 4. Search the Registry of Deeds by grantor and by land
 
 - **Expect the Registry of Deeds from 1708.** The Registry was set up by an Irish Act of 1707, and the first memorial was registered on 29 March 1708 [S6]. It records deeds affecting unregistered property [S7]. Since 1 March 2023 it has been part of Tailte Éireann [S6], [S7].
@@ -94,6 +98,10 @@ Add the Virtual Record Treasury of Ireland to a lost-record search. Its current 
 - **Do not read "no memorial" as "no land" or "no transaction".** Registration was voluntary, so many transactions were never registered [S18], [S19].
 - **Search Catholic and smallholder families in full.** They appear less often; search every index for them, and record a nil with the indexes and years searched.
 - **Turn a nil into the next lane.** Go to the valuation and occupancy series for the townland, and to the probate lanes above.
+
+**Trace a missing historical lease through the landlord's estate papers.** Copy the occupier and immediate lessor for the holding from the Primary Valuation [S32]. Use period directories and available lease evidence to identify the superior landlord before choosing an estate collection [S30]. Read the rent rolls for the townland to identify tenants [S28], [S31]. Follow the tenant into the lease books if the rental omits the terms of the tenancy [S30].
+
+**Check how a Catholic owner's land could descend.** For a succession governed by the Popery Act (2 Anne c. 6), check whether the owner held the land in fee simple or fee tail and whether the owner disposed of it for genuine payment during their lifetime [S29]. If the equal-division rule applies, trace each eligible son's share in the deeds and estate papers, or the eligible daughters' shares if there was no male issue [S28], [S29]. Check for a qualifying Protestant eldest son or heir at law and a bishop's certificate enrolled in Chancery before inferring division [S29].
 
 ## 6. For an Ulster family, search PRONI's online applications separately
 

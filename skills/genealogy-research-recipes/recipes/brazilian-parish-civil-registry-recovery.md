@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery", "evidence-proof-judgment",
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 180}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 316}
 ---
 
 # Recover a Brazilian ancestor in parish books, registry-office records and their substitutes
@@ -115,6 +115,10 @@ Gather these before searching:
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting a search sends MyHeritage the names of the subject and any relatives you enter, along with identifying event dates and places. Answer the privacy gate in `SKILL.md` before submitting data about anyone who may be living.
 
 **Search the MyHeritage collections for Pernambuco.** If the FamilySearch search comes up short, use *Brazil, Pernambuco Births and Baptisms, 1800–1920* for births and baptisms [S53 @2026-11-20] and *Brazil, Pernambuco Marriages, 1800–1960* for marriages [S54 @2026-11-20], [S52 @2026-11-20]. The title ranges cover most entries [S53 @2026-11-20], [S54 @2026-11-20]. Check nearby years outside the range when the event could fall there.
+
+For a death, choose *Brazil, Pernambuco Deaths, 1820–2017* in the MyHeritage catalogue [S55 @2026-11-22], [S56 @2026-11-22].
+
+Search without a subscription [S57 @2026-11-22]. If a hit requires a subscription to view [S57 @2026-11-22], record it as view restricted and use any visible locator to continue the parish or registry search.
 
 - **Choose the certificate form.** Under the CNJ rules, a short-form certificate (*breve relato*) generally requires no written application or identification. For a full text, sign a written request giving your identity, purpose, relationship if any, and whether the registered person has died. Death certificates in any form require neither an application nor judicial authorisation (arts. 113–118) [S47 @2026-11-19].
 - **Check which birth fields can be disclosed.** Article 6 of Law 8.560/1992 excludes the parents’ civil status, the nature of filiation and the place and registry of their marriage. It expressly provides for a reasoned judicial authorisation or requisition for the full text. Order the full text for those fields only under the applicable access rules [S28 @2026-11-19], [S47 @2026-11-19].

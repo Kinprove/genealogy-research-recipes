@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 109}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 158}
 ---
 
 # Read Irish valuation, tithe and estate-rental lists as dated occupancy series
@@ -34,12 +34,17 @@ This recipe builds the holding register and the occupancy chain. Send every iden
 - Do not read entry order as adjacency; narrow the townland with tithe clusters
 - Follow the same lot through the revision books
 - Separate lease-era and sale-year layers in estate-court rentals
+- Find rent books and tenant lists by estate
 - Cross-check residence with dog licences
 - Close with a holding register
 
 ## Check coverage and acreage units
 
 **Check coverage before interpreting a missing name.** Tithe books list occupiers of titheable agricultural land; people without such holdings are outside that coverage [S15]. Search the civil parish and townland, separately from the Catholic parish [S16]. For Griffith’s, read the county volume’s actual date within 1847–1864 before testing someone who died or emigrated earlier [S15].
+
+If the rural church registers lack the years you need, browse the corresponding civil parish’s Tithe Applotment Book when its date fits. Record a hit as an occupancy lead with the townland, book date and page [S22], [S15]. For a town address or a nonfarm occupation, check whether the person occupied titheable land before treating a missing name as expected [S22], [S23].
+
+If the date you need predates the printed Griffith’s volume, use the Valuation Office manuscript list in the National Archives of Ireland’s Reading Room. Look for House Books or Tenure Books by county, barony and civil parish [S25 @2026-11-22]. Record any occupier, place, acreage and value in a separate row keyed to the manuscript’s reference, page and date [S24 @2026-11-22], [S25 @2026-11-22].
 
 Before comparing tithe and Griffith’s holdings, copy each volume’s acreage unit. An Irish or plantation acre is about 1.62 statute acres; Griffith’s uses statute measure [S16]. Keep the literal acres, roods and perches and any conversion in separate fields.
 
@@ -104,6 +109,12 @@ In the Republic, Tailte Éireann holds the original post-primary revisions and m
 1. Identify the issuing court on the rental. The 1849 Act authorised Commissioners for the Sale of Incumbered Estates [S20]. The 1858 Act created the permanent Landed Estates Court [S21]. Retrieve the rental image by estate or tenant name, then copy the statement date and proposed sale date separately. Findmypast’s archived *Landed Estates Court Rentals 1850-1885* description identifies transcripts and images [S13].
 2. Give each life in the lease a separate row. In the lease Lisson reads, dated 1 May 1800, William Kearney’s brother Joseph and William’s son Joseph are two named lives [S4]. Record each relationship to William and check the spelling, lease and lot on the rental image before identifying either Joseph elsewhere.
 3. Lisson reads William as the sole survivor [S4]. For each other life established as alive on 1 May 1800, the observation brackets death between the lease and the rental’s dated survival statement. When that statement’s date is missing, leave the upper bound unresolved. Neither the year the court opened nor an assumed sale year can supply it.
+
+## Find rent books and tenant lists by estate
+
+For an estate’s own rent books and tenant lists, start with the estate name. Use Griffith’s immediate lessor as a lead to the landlord if the estate is unknown [S27 @2026-11-22]. Search by landlord or estate in the National Library of Ireland catalogue and consult PRONI’s *Guide to Landed Estate Records*. Keep PRONI in the search for properties in the Republic, since it holds papers for some estates entirely in the Republic [S26 @2026-11-22], [S27 @2026-11-22]. If the finding aids lack the townland and dates you need, check local archive catalogues in the counties the estate covered [S24 @2026-11-22].
+
+Record the archive reference, estate, townland and date for each candidate entry. Keep those rows separate from the court’s sale-year rental.
 
 ## Cross-check residence with dog licences
 

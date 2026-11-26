@@ -11,7 +11,7 @@ handoff: ["usa-immigration-search-recovery", "family-photograph-attribution-and-
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 147}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 260}
 ---
 
 # Recover and interpret a historical U.S. passport application
@@ -36,4 +36,4 @@ Inspect the whole application photograph for other people and check their roles 
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/us-historical-passport-application-recovery.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/us-historical-passport-application-recovery.md).

@@ -11,7 +11,7 @@ handoff: ["dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 86}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 131}
 ---
 
 # Recipe: Interpret a Holocaust name record through its underlying source
@@ -223,4 +223,4 @@ Living people rule: use the consent, disclosure and log rules of
 
 ## Sources
 
-[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).
+[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).

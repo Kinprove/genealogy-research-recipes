@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "catholic-parish-diocesan-record-r
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 129}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 187}
 ---
 
 # Trace a Swiss family through its place of origin
@@ -30,6 +30,14 @@ For a Vaud family-register entry made from 1929 through the transition to digita
 
 For an uncertain origin lead, consult the Family Surname Book of Switzerland linked by the Swiss Federal Archives. Use each surname-and-commune pair as a candidate and compare it with the person’s own records. [S2 @2026-11-21]
 
+### Bern births and deaths
+
+For a Bern birth or death, check whether the event locality and year are covered by FamilySearch collection 1883390, *Switzerland, Bern, Civil Registration, 1792–1876*. Search the index, then browse any image groups for that locality and year if the index yields no match. [S6 @2026-11-23]
+
+Use the event locality and year to verify each hit in the underlying register image. Church authorities kept most records in this collection before federal civil registration began in 1876. If the collection lacks the image or the locality, use the State Archive of Bern’s *Kirchenbücher* inventory to find the parish volume covering the event year, where held. [S6 @2026-11-23] [S7 @2026-11-23] [S8 @2026-11-23]
+
+In a birth entry, record the birth date and place and the parents’ names as written. Keep birth and baptism dates separate. In a death entry, record the death date and place and any stated age, birth year, parents or spouse. Mark a birth year calculated from an age at death as an estimate. [S5] [S6]
+
 ## Handoffs
 
 - [Historical place name resolution](historical-place-name-resolution.md)
@@ -37,4 +45,4 @@ For an uncertain origin lead, consult the Family Surname Book of Switzerland lin
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/swiss-place-of-origin-record-recovery.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/swiss-place-of-origin-record-recovery.md).

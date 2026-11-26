@@ -10,8 +10,8 @@ guardrails: [{"id": "ITALIAN-STATO-CIVILE-PARISH-RECORD-RECOVERY-01", "text": "F
 handoff: ["archival-image-coverage-verification", "catholic-parish-diocesan-record-recovery", "catholic-sacramental-cross-notations", "evidence-proof-judgment", "familysearch-practical-record-workflows", "historical-place-name-resolution"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 121}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 179}
 ---
 
 # Recover an Italian ancestor in the Stato civile, parish books and conscription lists
@@ -100,6 +100,16 @@ Fix who registered the event before you choose a series. Use the event year and 
 - **Do not use an Antenati image as a certificate.** Antenati says the documents found on the portal have no legal value and cannot be used for legal or administrative purposes, in particular citizenship requests [S24 @2026-11-13]. For a certificate, ask the comune's Ufficio dello Stato Civile (step 6).
 - **Cite each layer separately:** the State Archive, the series, the comune, the register and year, the act number, and the Antenati image. Keep the act number even when the image number changes.
 
+### Recover a birth act
+
+**Separate the birth from its declaration.** Take the birth date from the sentence that says when the child was born and record the declaration date separately. For an act under the 1865 Civil Code, inspect the margin for a waiver of presenting the newborn. Record any stated reason and leave the method of verification open when the act is silent. [S43], [S42]
+
+**Follow a legible marriage annotation out of a damaged birth act.** Preserve the readable text and check the other register original. Use the annotation’s marriage comune, date, part and act number to locate the marriage act, then look for a pre-damage birth extract in its allegati. Match the extract to the birth comune, year, part and number and record its issuing office and date. [S32], [S37]
+
+The author reports that a surviving marriage annotation on a water-damaged Gonzaga birth act led to a certified extract made before the damage [S38†].
+
+**Check the parents’ comune of residence for a transcription.** If the birth was registered in a different comune, look in both registers and cite the birth entry and its transcription separately. Under the 1865 Civil Code, the office receiving the original declaration sent an authentic copy to the comune of domicile or residence. Under R.D. 1238/1939, look in Parte II, Serie A for the transcription of a birth that occurred and was registered during a temporary stay in another comune. [S43], [S32]
+
 ## 3. Read the marriage's supporting file before chasing the previous generation
 
 - **Look for a supporting file beside the civil marriage act.** If the holding archive catalogues one for that comune and year, open it before you search the spouses' parents.
@@ -110,12 +120,62 @@ Fix who registered the event before you choose a series. Use the event year and 
 
 When an Italian record places fu before a parent’s name, read that parent as deceased by the date of the act. In a Piedmont notarial abstract of 10 January 1645, Martra fu Gioanni identifies Martra as the daughter of the late Gioanni [S26]. Use it to set a death-before bound and search the parent’s death separately; fu does not provide the death date, and its absence alone does not establish that a parent was alive. [S25], [S26]
 
+### Find the ceremony and its transcriptions
+
+**Read the part and series in the register for that year.** For years before 1940, use the printed title page to establish what its parts and series cover. Browse all of Parte II for a First World War proxy marriage when the index does not identify the series. Under R.D. 1238/1939, effective 1 January 1940, look in Parte II, Serie A for a religious marriage first transcribed in the celebrating comune and Serie B for its further transcription from another comune. Read the act in Serie C before classifying it because that series includes civil proxy celebrations and other acts, including marriages celebrated abroad. For a religious wedding, establish who appeared from the ceremony act. [S32], [S33], [S40], [S34]
+
+**Follow a religious transcription back to the ceremony.** Record the parish act and the civil transcription with their own dates and numbers. For a late-December celebration, include the next year’s civil volume. Where the required publications and dispensation are both absent under Law 847/1929, check for the Article 12 impediment review and a ten-day Article 13 notice of the celebration before civil transcription. Keep this notice out of the pre-wedding banns chronology. [S35], [S32]
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for the second signed parish original sends the spouses’ names and marriage locator to the celebrating comune. Check access and clear the privacy gate in `SKILL.md` for anyone named who may be living before sending the request.
+
+**Ask the celebrating comune for the second signed parish original.** For a marriage under Law 847/1929, trace the original sent for civil transcription when the parish copy cannot be consulted. Use the date and number of the transcription to identify the papers. [S35]
+
+The author reports that in the Asiago case the registrar posted a notice after the religious wedding and before its civil transcription [S36†].
+
+### Trace the banns and the mandate
+
+**Search the civil pubblicazioni even when the wedding act is missing.** Record the request and posting dates separately, and keep parish banns separate from municipal postings. Use the marriage act or banns file to trace each place of publication, including a destination abroad named in a forwarding request. Distinguish the request from a certificate that posting took place. Check for a dispensation or opposition. Under R.D. 1238/1939, the banns papers moved to the marriage annexes once the marriage was celebrated. Use the celebration act to establish whether the wedding took place. [S32], [S35], [S34]
+
+**Follow the record of consent to the parent’s act.** If the banns or marriage papers name a parent giving assent, record the name and relationship. Use a death certificate cited for the other parent to locate that parent’s death entry. [S32], [S37], [S42]
+
+The author reports a surviving Asti banns act for a proposed wedding that the registrar stopped after learning of a prior marriage [S39†].
+
+**Read the mandate’s operative words and the ceremony signatures.** A mandate to request banns (*per richiedere le pubblicazioni di matrimonio*) leads to the receiving comune’s incoming protocol and banns entry. For a ceremony by proxy, look for authority to contract the marriage (*per contrarre matrimonio*), the intended spouse, and the act’s statement and signature showing who appeared in whose place. The case documented in Conselice in 1942 has a military mandate for banns and the groom’s own signature at the later ceremony. Follow the filing, publication, celebration and transcription as separate events. [S34], [S33], [S32]
+
+**Check a wartime mandate’s birth details against the municipal birth acts.** A parish marriage act can repeat the mandate’s incorrect birth date. Record each version and use the municipal birth entry to test the discrepancy. [S34], [S32]
+
+**Use a First World War military mandate to find the service sheet.** Under Decree 903/1915, look in the marriage annexes for the principal’s rank and corps and, for rank-and-file soldiers, the matriculation number. Use those identifiers with the district and class to locate the foglio matricolare (step 5). Use the marriage act to date the ceremony. [S40], [S41], [S37]
+
+**Search for a legitimation decree if a First World War mandate did not lead to a ceremony.** If the military principal’s death prevented the wedding, follow the mandate and any legitimation annotation on the child’s birth act to the royal decree and its case papers under Decree 1496/1915. The legitimation can be recorded even when the marriage was never celebrated. [S54], [S40], [S33]
+
+### Use the attachments to recover earlier records
+
+**Match the separately bound attachments to the act.** Use the year and act number to find the cover, then confirm the spouses and compare the papers with the cover list or count when present. When the birth predates local civil registration, look for a parish baptismal certificate in the processetti. For each parish or civil extract, record its issuance date separately from the events it records. Use the issuing comune or parish and the cited register, year, part, folio or act number to find the entry it copies. [S37], [S32]
+
+The author reports that an 1841 Piscopio marriage packet preserved a parish extract of a baptism from 1796, before local civil registration [S52†].
+
+**Search forward from a child’s birth when the parents’ marriage is missing.** Read any later recognition or legitimation annotation and follow it to the marriage entry. If the marriage act names children, use the recognition clause and the birth records in its annexes to find their original birth entries. Put their recorded birth dates and places in sequence to identify other comuni to search. [S32], [S37]
+
+The author reports tracing a family across comuni through children’s birth acts assembled for a later marriage in Prignano [S53†].
+
 ## 4. Route parish books by the historical diocese
 
 - **Before civil registration and in its gaps, search the parish books.** In the province of Alessandria, the State Archive's guide says parish archives, including birth, marriage and death registers and stati delle anime (status animarum, household-by-household parish censuses), generally remain at the parish, with some gathered into diocesan archives [S9 @2026-11-16]. The Barga inventory, partially read on pp. 6 and 73, says the Rituale Romanum of 1614 required systematic compilation of stati delle anime and warns that relationships and ages are not always recorded and actual regularity at Barga varied over time [S10 @2026-11-16].
 - **Find the holder through BeWeB** (beweb.chiesacattolica.it), the Italian bishops' conference (CEI) catalogue of ecclesiastical archives. It lists only archives registered with it and gives their contact details. It does not do research; you arrange access with the archive itself [S11 @2026-11-16].
 - **Check Antenati's local coverage of parish books.** The Alessandria State Archive reports that Antenati publishes the 1838–1865 parish registers of the Comune di Alessandria and its outlying villages (sobborghi); this coverage does not extend to the rest of the province [S9 @2026-11-16]. For another comune in the province, check the parish, diocesan and municipal historical archives [S9 @2026-11-16]. For years before 1804 in the province of Alessandria, the State Archive's guide directs researchers only to the territorial parish, or to the curia if the parish archive was deposited in the diocesan archive [S9 @2026-11-16].
 - **For the diocese responsible for the parish in the event year**, a priest's statement that books burned, diocesan copies, merged parishes and dispensations, follow the Catholic parish recipe.
+
+**Check the volume’s transfer and access dates.** Verify that the register has entered the historical archive before arranging direct consultation [S59 @2026-11-23]. Apply the local diocesan rule. In Udine, count 70 years from the last act or document entered in the volume [S60 @2026-11-23]. Log a closed volume as restricted access.
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for an individual marriage certificate or extract sends the spouses’ names, the marriage parish and date, and any known act number to the issuing parish or diocesan office. Clear the privacy gate in `SKILL.md` for anyone named who may be living before sending.
+
+**Check eligibility for an individual marriage certificate or extract.** When direct consultation is closed, an individual request is the next route to try according to the community guide [S61† @2026-11-23]. Check the issuing parish or diocesan office’s rules for your purpose before sending a request. Identify the act by the spouses’ names, the marriage parish and date, and the act number if known [S59 @2026-11-23], [S62 @2026-11-23].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A parish-index query sends names and any dates, places or relatives entered to MyHeritage. Clear the privacy gate in `SKILL.md` before entering data about anyone who may be living.
+
+**Search the relevant MyHeritage parish index.** For the Diocese of Trento, use Catholic Church Baptisms (1548–1937) for birth and baptism details and parents [S45 @2026-11-22]. Use Catholic Church Deaths (1567–1911) for death place and date and any parents or spouse recorded [S46 @2026-11-22]. Use the death collection’s own dates when the roundup table gives the baptism range [S44 @2026-11-22].
+
+**For Calabria, choose the index by event.** In Parish Births and Baptisms (1591–1963), note the baptism place and parents, and godparents where listed [S48 @2026-11-22], [S47 @2026-11-22]. In Parish Deaths and Burials (1593–1969), record death and burial separately and note parents or spouse where listed [S49 @2026-11-22], [S47 @2026-11-22]. For either region, use a hit to locate the parish book. After a miss, check the holder’s catalogue for the parish and year.
 
 ## 5. Search conscription lists and service rolls as two series
 
@@ -126,6 +186,10 @@ When an Italian record places fu before a parent’s name, read that parent as d
 - **Do not read a missing service roll as disproof.** Not every man in the liste has a ruolo or foglio matricolare (service sheet) [S13 @2026-11-13]. A man found in the liste and missing from the ruoli is still the man in the liste.
 - **Look for both series in a State Archive.** The Modena and Bergamo State Archives hold and describe them [S12 @2026-11-13], [S13 @2026-11-13]. Confirm which State Archive holds the man's district before you log a miss.
 - **Ask the Army's Centro documentale for a service sheet not yet transferred.** Army service sheets that have not reached the State Archive are with the Centri documentali (former Distretti Militari); the Navy, Air Force and Carabinieri keep theirs in other offices [S24 @2026-11-13].
+
+**Read the service roll for civilian occupation and residence changes.** Record the occupation with its entry date or service stage. Check later annotations for changes of residence, including a move abroad. Keep the first residence, the military district and the later residence as separate leads. [S50], [S51]
+
+**Check landholding separately from the recorded occupation.** In a civil act or service roll, read *agricoltore* as work in agriculture, which can include owners, tenants and hired workers [S50], [S55]. Read *bracciante* in an agricultural entry as a clue to manual wage work and leave landownership open [S56]. Use the locality and date to look for the person in the historical *catasto*’s holder index and for a farm lease or sharecropping contract. Record the role each document gives the person and leave ownership unresolved if the only evidence is an occupation or a missed index entry [S57], [S58].
 
 ## 6. Send each comune request to the right office
 

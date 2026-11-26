@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 200}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 347}
 ---
 
 # Recover a livestock mark or brand registration
@@ -26,6 +26,11 @@ for grants and conveyances and [evidence/proof judgment](evidence-proof-judgment
 Read the index headings before searching by the owner’s surname. In the Milam County example, the owner’s entry was filed under the initial of the brand design [S1]. Follow the index reference to the recorded drawing and owner.
 
 The Legal Genealogist recommends searching for town or county livestock mark registers with the terms brand, mark and earmark in the FamilySearch catalog, Google Books, HathiTrust and Internet Archive, and says such registers generally do not sit inside books of births, marriages and deaths, although the one discussed did. [S2] The Shaftsbury, Vermont register, with entries from 1766, included annotations such as “dead” or “moved away” [S2]. Use the dated registration to place the owner in town and an annotation as a lead to a death or move. Check the event in other records before giving it a date.
+
+Browse **Pets and Livestock → Livestock Brands and Marks** on Cyndi’s List [S6 @2026-11-22] for
+brand books and indexes (a tip from the available excerpt [S5 @2026-11-22]). Follow links for the
+locality and period to the underlying catalog or record. Continue with local catalogs if the
+directory has no matching link.
 
 Retain the index entry number, literal owner name, visible brand/earmark representation and
 referenced register volume/page separately. An index entry number is not a register page.
@@ -45,6 +50,10 @@ From the inspected entry, preserve the registration date, stated community, anim
 wording, drawing and any visible corrections or illegible parts actually present. Retain the
 literal reading beside a proposed correction. A brand drawing, registered name and census
 post office do not by themselves identify a person or establish ownership or kinship.
+
+For a deceased owner, transcribe any farm or ranch name and address given in the historical
+entry [S7] [S8]. Keep the date and any address label with the transcription. Use a mailing
+address as a clue and verify the farm’s location independently.
 
 ## Close with a registration packet
 

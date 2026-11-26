@@ -11,7 +11,7 @@ handoff: ["historical-place-name-resolution", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 189}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 325}
 ---
 
 # Trace an Indian household across the Great Famine of 1876–1878
@@ -39,4 +39,4 @@ When a household drops out of the village record, search outward from its last k
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/india-great-famine-household-record-recovery.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/india-great-famine-household-record-recovery.md).

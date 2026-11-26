@@ -11,7 +11,7 @@ handoff: ["unknown-parentage-wato", "xdna-phasing-judgment", "ydna-mtdna-interpr
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["dna-painter"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 30}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 38}
 ---
 
 # Recipe: Practical DNA Painter maps, matrices and tree worklists
@@ -40,7 +40,18 @@ The failure to prevent is treating everything DNA Painter draws or calculates as
 
 ## Inputs and routing
 
+If you are unsure which workflow fits, use DNA Painter's [Start here guide](https://dnapainter.com/help/new-to-dna-painter/showall).
+Select the testing provider and open the relevant feature card to check its required inputs
+[H17 @2026-11-22]. Choose by the result you need and the data you have, following the
+advice from the available excerpt of the interview [S42 @2026-11-22].
+
 Use a named focal tester, authorized segment tables, known relatives and a specific question. A segment table needs chromosome and start/end positions; retain reported cM and SNP counts when available. Raw genotype files and a match's total cM alone are not chromosome-painting inputs. [S1, S2]
+
+AncestryDNA match results lack the pairwise coordinates needed for painting [H16 @2026-11-22].
+Record those coordinates as unavailable. Check for an authorized segment comparison of
+the same pair at a provider that reports them, the alternative from the available excerpt
+of the interview [S42 @2026-11-22]. Log the provider and report date of that comparison.
+Leave the match off the map while the coordinates are unavailable.
 
 For the ancestral-tree workflow, use a named root and an authorized pedigree or GEDCOM; it does not require segment data.
 
@@ -74,6 +85,16 @@ This register is a recommended research artifact; it is not a DNA Painter import
 To find candidates for that investigation, click one of the match's segments, choose **View match** and turn on the overlay's switch that shows overlapping segments; the overlay also lists matches who appear to share DNA with this one [S35 @2026-11-12], [H10 @2026-11-12], [H12 @2026-11-12]. Both views are built only from the coordinates entered in this map, so a match never painted cannot appear. Treat every name there as a candidate for the provider's own shared-match or triangulation check, never as a triangulated match.
 
 **Artifact:** source segment table, saved match and assignment note. **Checkpoint:** every retained painted interval can be traced to the correct focal-tester/match comparison; hidden layers have been inspected.
+
+To investigate the possible ancestral source of a chromosome copy at a trait marker,
+open the map settings and enable **Show traits and medical SNPs** [H18 @2026-11-22].
+Using the method from the available excerpt of the interview, click the marker and
+compare its position with the supported assignments on both parental copies
+[S42 @2026-11-22], [S46 @2026-11-22]. Record the overlapping assignments as leads for
+the origin of those chromosome copies. Leave unassigned copies blank and preserve
+couple-level assignments [S46 @2026-11-22]. The overlay supplies a position.
+Leave the tester's marker value and any inference about an ancestor's trait unresolved
+from this view alone, especially for traits influenced by multiple loci [S46 @2026-11-22].
 
 **Privacy gate:** <!-- privacy-gate: export, third-party-tool --> A provider's segment file for the whole match list names every match and holds their segment data; answer the privacy gate in `SKILL.md` before downloading it or importing it into DNA Painter.
 
@@ -346,6 +367,38 @@ a measured amount or a new relationship conclusion.
 Use the available Shared cM Project view to inspect a reported amount against a named
 relationship's reference observations. Preserve the tester pair, provider, date, total
 definition and displayed project version. These totals do not supply painting coordinates.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The Shared cM Project lookup sends living testers' pairwise shared cM amounts to DNA Painter. Answer the privacy gate in `SKILL.md` before entry and keep names and kit identifiers local.
+
+If the privacy gate remains unresolved, use the chart to compare the sourced amounts locally.
+
+Enter one match's sourced total in the Shared cM Project's total-cM field and retain the
+highlighted candidate relationships [H5 @2026-11-22]. For branch work, screen each pair
+separately, following the one-match lookup from the available excerpt of each presentation
+[S42 @2026-11-22], [S43 @2026-11-22], [S44 @2026-11-22], [S45 @2026-11-22]. Keep each
+result with its own amount and pair. Keep a set of relationship hypotheses open for the
+pedigree checks below.
+
+Look up an already proposed relationship by name in the Shared cM Project chart, using
+the lookup from the available excerpt of each tutorial [S43 @2026-11-22], [S44 @2026-11-22].
+Read the single number in its box as the mean and the limits below it as the displayed
+99th-percentile range. Click the box to see the histogram of submissions [H5 @2026-11-22].
+Use the histogram check from the available excerpt of the interview to decide whether
+a total near either end warrants follow-up [S42 @2026-11-22]. If an amount is near or
+outside the displayed range, recheck the tester pair, the source total and both descent
+paths before ruling out the relationship. A reference range can omit genuine outliers.
+
+For a proposed second cousin, compare the total to the Shared cM Project 4.0 reference
+range of 41–592 cM and check the overlapping ranges for removed cousins [H5 @2026-11-22].
+Verify both descent paths to the proposed common ancestors before settling on the
+second-cousin label [S41 @2026-11-22].
+
+Keep a supported third-cousin path in the research worklist even when the provider reports
+no detectable match. A detection study found that some simulated third cousins fell below
+its threshold [S47]. Use the documented pedigree to order relationships by distance, as
+the comparison from the available excerpt of the interview illustrates [S42]. The published
+second- and third-cousin ranges in Shared cM Project 4.0 overlap, so a larger total can
+belong to the more distant path [H5].
 
 Where the view also shows relationship probabilities, record the basis it states for them;
 if none is stated, record the basis as unknown. A basis drawn from AncestryDNA simulations

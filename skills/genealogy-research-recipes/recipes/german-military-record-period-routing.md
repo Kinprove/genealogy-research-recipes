@@ -11,7 +11,7 @@ handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 95}
+router: {"section": "Records by country and region", "group": "Germany", "order": 144}
 ---
 
 # Route a German soldier to the military series that survive for his period, army and rank
@@ -39,6 +39,8 @@ Record three things, each with the document that supports it:
 - **Army or state:** Prussian, another German state, Austro-Hungarian and so on. Take the regiment's name and number exactly as the entry gives them, for example "Kürassier-Regiment Nr. 10 (Gensdarmes)" [S2].
 
 A further period is German auxiliary troops in British service in America (1776–1783).
+
+**Route a conscription clue by residence and year.** Establish which state governed the man's residence in the likely call-up year and check the conscription law that applied there [S38]. For a North German Confederation case under the 1867 law, § 17 uses residence at draft age and accounts for a move before the final decision on active service [S39]. For a Bavarian case in 1869, start with Bavaria's 1868 *Wehrverfassung*. The North German law took effect in Bavaria on 1 January 1872, with reservations [S40]. Use the applicable rule to select the draft district and cohort. Require a record of actual service before assigning a unit.
 
 A retired officer who died before or during the First World War belongs in the Imperial-officer route [S1]. If he could have been alive in August 1914, also open a casualty-list row until service evidence settles whether he was reactivated. If the period or rank class is uncertain, open one row for each possibility. Do not pick one.
 
@@ -159,6 +161,18 @@ survives before you record the route as destroyed.
 - **Compare loss and grave cards from the same company and date.** Search Ancestry’s *Deutschland, im Kampf gefallene Soldaten, 1939–1948*, and cite each card’s BArch B 563-2 KARTEI reference. Record the original place wording, grave number and cause of death separately. In one search several cards placed men in the same numbered comrades’ grave, while a civil certificate repeated a reported place across the border [S7], [S37]. Check the historical map before identifying the locality. The cards rarely include 1945 graves and omit postwar reburials [S37].
 - **Check the source of a postwar birthplace before choosing a parish.** A 1949 marriage extract gave *Josefsdorf* for the bride’s deceased father, while the grave index gave *Josefin* [S4]. Seek an independent mention. List each candidate, parish, year and register examined. The researcher reported misses in three West Prussian Josefsdorfs. Four Ukrainian candidates were proposed, but the reported check covered the 1902 Protestant baptism books of Roshischtsche and Luzk [S4]. Keep any unexamined jurisdiction or confession open.
 
+### When a DRK tracing letter still lists the soldier as missing
+
+Record the letter date and any last sighting or loss date it gives. Keep *missing* as an unresolved tracing status and leave the soldier's fate open [S49]. Compare the reported loss date or window with independent entries for the same man. Check hospital admission or discharge [S12], files for injured veterans (*Versorgungsakten*) [S50], civil registration [S51], and employment periods on social insurance records [S52]. Match the identity details and record each event date separately from its filing date. If an entry places him alive after the reported loss, record the event and its locator as evidence of survival to that date.
+
+In one published family account, a tracing reply still listed the soldier as missing despite his reported postwar registrations [S48].
+
+### A possible Stalingrad posting or loss
+
+Check the personnel and loss records above for the soldier's last documented unit and status [S41 @2026-11-22]. If his fate is unknown, browse the DRK-Suchdienst *Vermisstenbildlisten* by field-post number, unit address or unit location, or use the number or location of a known POW camp. Scan the resulting list for the soldier's name. The lists document tracing inquiries, so a miss leaves the soldier's fate open [S42 @2026-11-22].
+
+If the service evidence points to the 6th Army, use *Armeeoberkommando 6* and the relevant dates to find unit records in NARA's catalogue, RG 242, microfilm T312 [S36 @2026-11-22], [S43 @2026-11-22]. Compare the Bundesarchiv's RH 20-6, starting with RH 20-6/216 for the advance on Stalingrad through October 1942. Distinguish the army that fought at Stalingrad from the 6th Army re-formed in 1943 [S44 @2026-11-22]. Use each unit record for the dates it covers and require a named record to place the individual there.
+
 ## 6. German auxiliaries in the American Revolution (1776–1783): establish the contingent, then search HETRINA
 
 Use this route when a family account or a later record calls a man a “Hessian” who served with the British in America. Record the claimed regiment, capture and American place separately. The surviving monthly lists and the prisoner route can test a family’s Virginia connection once the man and his contingent are identified [S22], [S26].
@@ -175,6 +189,8 @@ Use this route when a family account or a later record calls a man a “Hessian�
   - Search surname forms attested in America alongside German forms supported by family records. The lecturer’s unsuccessful search under the American name left a possible name change unresolved [S22]. Record the forms and contingent searched before interpreting a miss.
 
 - **After a hit, open the monthly lists.** For each man whose status changed since the previous month's report, the monthly lists give the complete date where HETRINA gives month and year, and they hold detail HETRINA left out. The Johannes Schwalm Historical Association's scans of the Hesse-Cassel, Hesse-Hanau and Waldeck lists are PDFs on Kutztown University's "Schwalm Marburg Files" page, listed by unit and Marburg file number [S26 @2026-11-16]. Record the file number and each dated event as its own episode.
+
+**Follow up a Marburg miss.** Take the suggestion from the available excerpt of Just Genealogy [S45] and look up the man in Clifford Neal Smith's indexed *Muster Rolls and Prisoner-of-War Lists in American Archival Collections* (German-American Genealogical Research Monograph no. 3, FHL 973 W2smn no. 3) [S46]. Check which lists cover the man's regiment and dates, then follow any hit to the original roll or prisoner list named in the compilation [S47]. Limit a miss to the lists you checked.
 
 - **Treat the Schwalm collection and compiled lists as secondary.**
   - Franklin & Marshall College in Lancaster, Pennsylvania, holds the association's research collection. It no longer answers genealogical inquiries by email, phone or mail, and it does no research on specific soldiers; researchers use the collection in person by appointment. The college calls the collection secondary and limited on specific soldiers, often holding little beyond the association's online registry and journal profiles, and warns against a long trip just to use it. Check the inventory and the journal name index linked from its collection page before anyone plans a visit, and do not draft a research question to the college [S27 @2026-11-16].

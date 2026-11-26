@@ -11,7 +11,7 @@ handoff: ["us-military-pension-file-recovery", "evidence-proof-judgment"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 153}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 270}
 ---
 
 # Recover a Revolutionary Virginia public service claim across all its series
@@ -48,7 +48,9 @@ Search LVA's Revolutionary War Public Service Claims Index, not only the printed
 
 A 2022 Just Genealogy live stream pointed out that the printed claims cover only one series of the public claims records (cited from transcript quotations; the recording was not inspected). [S1†] Treat a hit in the printed abstracts as one series, then pull the same claimant from the certificates and the Commissioner's Books. Those two series are not part of the printed work. [S4]
 
-According to the supplied Just Genealogy transcript excerpts, start a print search with the individual county booklet if the county is known. [S14†], [S16†] Use that booklet's own index to find the abstract. [S17] To search across counties, use the combined index at the end of volume 3, or the separately published *Index to the Virginia Revolutionary "Publick" Claims County Booklets*. Browse the three volumes in alphabetical county order when you need the entries for a particular county. [S18], [S19] Take the abstract's county, session and page to the corresponding court record (§4). [S2]
+According to the supplied Just Genealogy transcript excerpts, start a print search with the individual county booklet if the county is known. [S14†], [S16†] Use that booklet's own index to find the abstract. [S17] Browse the three volumes in alphabetical county order when you need the entries for a particular county. [S18] Take the abstract's county, session and page to the corresponding court record (§4). [S2]
+
+For a cross-county name lookup in print, use the separately published *Index to the Virginia Revolutionary "Publick" Claims County Booklets* or the combined index at the end of volume 3. [S19], [S29] According to the advice in the supplied Just Genealogy transcript excerpt, start with the standalone index when both are at hand. [S28†]
 
 For a county in present-day Kentucky, treat a miss in the printed set as a coverage gap. Check the surviving records for the wartime county and leave the person's contribution unresolved on the strength of the print search alone. [S22]
 

@@ -10,8 +10,8 @@ guardrails: [{"id": "SCANDINAVIAN-PARISH-RECORD-RECOVERY-01", "text": "Follow th
 handoff: ["scandinavian-patronymic-farm-name-record-recovery", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images", "MyHeritage Swedish household and vital-record indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 124}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage Swedish household and vital-record indexes", "FamilySearch Swedish household and Stockholm church-record indexes", "Umeå University Familia parish extracts"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 182}
 ---
 
 # Reconstruct a Swedish household through parish examination and moving registers
@@ -61,6 +61,10 @@ On the examination page, record each of these items separately [S1], [S2]:
 
 Use the examination entry to locate the child’s birth and the parents’ marriage. Compare the names, dates and residence in both originals with the household page, and record any disagreement [S1].
 
+Inspect the full examination spread, including the outer remarks and departure columns. If annual marks stop, start the follow-up at the last mark you can date from the heading. Look for a dated move or death in the remarks and check the corresponding register before assigning an event. [S52] [S53]
+
+In the birth and baptism book, copy the witnesses or godparents and any residences shown beside them. Keep each person's role with the name. When the household gives two plausible identifications, compare those witness names and residences across the children's entries. [S52] [S53]
+
 The cross-references run both ways. Expect them and follow them [S5]:
 
 - Birth entries often give the family's page in the examination volume.
@@ -76,6 +80,20 @@ Record every page reference exactly as written, including ones you have not foll
 Start the banns search in the bride's parish. Record the announcement under *lysning* and establish the wedding date from the *vigsel* entry. If the banns entry gives no wedding date, follow any wedding-parish note and search for the wedding separately. The two entries can be in different parishes. [S32] [S33] [S34]
 
 When an index hit gives a banns number and a wedding number, copy each with its label, parish and year. Use each number in the corresponding register or column and confirm both spouses in the entries. Keep entry numbers separate from printed page numbers. [S32] [S35]
+
+Read the marriage remarks for sponsor names and the roles written beside them. Carry those names and any stated residence into the household comparison, and preserve the role the record gives each person. [S52] [S53]
+
+#### Follow a Finnish parish lead in Stockholm
+
+When the trail points to Stockholm and there is evidence of a Finnish congregation connection, include *Finska församlingen* alongside any parish identified by the address. The Finnish congregation was non-territorial. [S54] [S55]
+
+Read the Finnish parish banns application for each person's stated age, birthplace and occupation and for the names of any guarantors. Use the birth clues to choose the Finnish parish and years to check. If the particulars are blank, continue to the wedding entry. One 1763 application omitted both ages and birthplaces for a couple whose wedding was recorded in the same parish. [S54]
+
+If a Finnish home parish has no wedding entry and the couple has a Stockholm lead, browse the Finnish congregation's marriage book for either spouse's stated home parish. Follow any certificate back to the home parish's banns. A Stockholm entry for a Pori couple dates the wedding there to 5 June 1764 and refers to banns already read in Pori. [S75] [S76]
+
+Search the parish's baptism book on both sides of the banns and wedding dates. In one Stockholm Finnish parish case the baptism entry named the groom as father for a child born before the wedding. Keep the parent designation with the baptism record and establish marital status separately. When the mother's surname differs between baptism and banns, retain both forms and compare the couple's other details and associates before discarding the baptism. [S54]
+
+Compare banns guarantors with baptism sponsors across households. Record each person's date, role and stated occupation, including when they appear in another couple's entry. Use a recurring name to test a connection and keep the occupations attached to their separate dates. [S54]
 
 ### Decode an urban number before opening a page
 
@@ -140,15 +158,21 @@ When an entry gives *GB* or *GL* with a page, ArkivDigital explains these as *ga
 - Expect children who died young to be missing from the rolls [S3]. Search the birth and death registers for them and list them separately, marked as found outside the household lists.
 - Compare residence, age and other identifying details in the parent’s death entry with the household roll [S33]. If it gives surviving children, count only those alive at the parent’s death. Brady reports a death entry counting two sons and one daughter, matching the three children on the roll [S1]. Check birth and burial registers for children who died earlier. Reopen the identification if the discrepancy persists.
 
+If the death book gives dates of birth in place of ages, scan that column for the known birth date and confirm the other identifying details. [S52]
+
 ## Follow a missing birth to another parish
 
 If a person's birth, or a parent's birth, is not in the current parish, keep going. Search that parish's moving-in and moving-out registers. Record the previous or next parish and the date given, then continue in that parish's examination and vital registers [S2]. Tanner says a moving-out note usually records where the person went [S4].
+
+When a family Bible gives a locality, copy it verbatim and use a historical parish gazetteer to find which registers to open. Check the household page's birthplace column for the birth-register lead. A Bible entry for Hackvad led to a household page that gave Edsberg, the other parish in the pastorate, as the birthplace. [S47] [S48]
 
 If the receiving household book gives only a birth year, establish the arrival period and browse the parish’s surviving incoming moving certificates (*inflyttningsattester*). The sending priest may have supplied a full date and birthplace that the receiving priest abbreviated. Compare any detail found with the original birth entry [S20].
 
 For an immigrant from abroad, look for the incoming certificate in the church archive of the first Swedish parish of arrival, not a later one: the certificate stays with the parish that received it [S24]. Parish archive inventories file these certificates in series H II, the attachments to the moving registers, often titled *Bilagor till flyttningslängderna*; the wording varies by parish [S25]. Search NAD by that parish to see whether H II survives for the arrival years and whether it is digitized, then browse it for the arrival interval.
 
 Check the parish’s archive description and its National Archival Database (NAD) entry for the pastorate and mother or annex parish at the date of the event. A joint register may be catalogued under the other parish: ArkivDigital’s 2026 demonstration followed the linked Götlunda birth and baptism books for 1688–1706 and 1707–1723 into Flistad’s archive [S20]. Verify both the parish and the years in the volume. A note of loss explains a gap in the records.
+
+If the birth entry remains missing, check whether a Swedish confirmation book (*konfirmationslängd*) survives for the parish and likely confirmation years. Record the confirmation and any stated parents or residence as clues to the household and leave unverified birth details open. Check the communion columns of the examination book and any separate *kommunionlängd* for a dated appearance. Use a dated communion entry to place the person at that event and leave the intervening residence open. [S52] [S53]
 
 ## When the page trail breaks
 
@@ -180,6 +204,14 @@ For a wedding, use *Sweden, Marriages and Banns, 1850–1945*. Compare both spou
 For a death, use *Sweden, Deaths, 1850–1945*. Match the birth date or age, residence and any named relatives to the household. In the parish entry, record the death and burial dates separately when both are given. [S32 @2026-11-18] [S33 @2026-11-18] [S38 @2026-11-18]
 
 If the image is a church-book extract sent to Statistics Sweden (*SCB*), cite it as an extract and take its parish and year to the parish's own register. Check that register before treating an omitted detail as absent. [S32] [S39]
+
+### Check FamilySearch and Familia for a broken household chain
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the privacy gate to the names, dates and places sent to FamilySearch or Umeå University's Familia for each person the search terms describe. Send only the fields the search needs.
+
+Search FamilySearch's *Sweden, Household Examination Books, 1874–1931* for a missing household link in that period. Use any parish and year from the result to find the volume and resume the household chain. Check the particular parish and years before interpreting a miss. [S49 @2026-11-22] [S50 @2026-11-22]
+
+For an older household lead, check whether the parish and years are included in Umeå University's *Familia*, the POPUM search formerly called INDIKO. Search Familia for linked parish entries, then retrieve the underlying books using the stated parish and dates. Keep a miss bounded to the parishes and years represented. [S49 @2026-11-22] [S51 @2026-11-22]
 
 ### Follow a Norwegian or Danish lead through its separate bulletin index
 
@@ -223,6 +255,12 @@ For a Danish probate, use [Danish church books and probate](danish-church-book-p
 
 **Poll-tax scans and coverage.** Riksarkivet's database page gives 15–62 for everyone able to work, without naming a period. [S29 @2026-11-13] Before you read an adult's absence from a mantalslängd as a negative, check that year's age range. Riksarkivet has scanned the mantalslängder of the whole of Sweden for 1642–1820 and indexed them by parish. Some volumes were not scanned. The regional archives (landsarkiv) keep other copies, not scanned, which may hold years missing from the scans. [S29]
 
+### Take a Stockholm poll-tax locality to the parish death book
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the privacy gate to the names, dates and parish that the church-book index query sends to FamilySearch and to each person those terms identify.
+
+Use a dated Stockholm poll-tax locality to select a candidate parish. Check the parish-by-record coverage table for the Stockholm City Archives church-book index on FamilySearch, then search the index for the death date and register reference. Take the reference to the original death book and compare the age, residence and any stated office or affiliation with the tax entry. Browse the parish book directly when the index omits the series or years. [S56 @2026-11-22] [S57 @2026-11-22]
+
 ## Before 1869, look for emigrants in the moving-out registers
 
 Swedish emigration registration began in 1869. The lists were filed with the police in the ports of departure, Gothenburg being the largest. [S10 @2026-11-13] The Gothenburg series is in the archive of Göteborgs poliskammare at Riksarkivet. [S11 @2026-11-13] For earlier emigration, Riksarkivet's administrative history names only the parish moving-out registers (utflyttningslängder) and, possibly, military records. [S10] From 1861 a second source lists emigrants: the clergy's summary population reports to Statistics Sweden (summariska folkmängdsredogörelser). They give each parish's emigrants with name, occupation, year of birth and destination country, and Riksarkivet indexes them as *Emigranter 1861–1940*. They cover only legal emigration, that is, people who asked for a moving certificate. [S30 @2026-11-13] A port-list nil before 1869 is not a negative: search *Emigranter 1861–1940* (from 1861) and the moving-out register, then cross-check the household examination rolls.
@@ -238,6 +276,46 @@ Emiweb hosts the Swedish port passenger lists (*Passagerarlistor för svenska ha
 - Katiha (katiha.kansallisarkisto.fi) is a searchable database of data from the church archives of the Karelian areas ceded to the USSR, from the 1600s to the 1900s. [S16 @2026-11-16]
 
 **Orthodox names and church-book images.** Before the late 19th century Orthodox church books gave a patronymic instead of a surname, except in some North Karelian parishes such as Ilomantsi and Taipale, which recorded surnames. The Orthodox church kept the Julian calendar until 1920, so check which calendar an Orthodox date uses before you compare it with other records. [S31 @2026-11-16] Lutheran and Orthodox church books have been microfilmed, and many older books are digitized in the National Archives of Finland's Astia service; much of the material more than 100 years old is freely available online, while younger records have restrictions. Check the particular book's availability, and look for the image of each index hit there; if the book is not digitized, record the image as not seen. [S17 @2026-11-16], [S31 @2026-11-16]
+
+### Find the Finnish parish archive and series
+
+In Astia, search *Aineisto* by the parish archive name or filter the results by the parish creator (*Toimija*). Try both the Finnish and Swedish creator names. If the result list does not surface the book, open *Sarjat* (Series), choose the communion-book series and browse its tree by year. [S58 @2026-11-23] [S59 @2026-11-23] [S65 @2026-11-23]
+
+For 1760s Vaasa–Mustasaari research, check both catalogue branches and confirm the village or town quarter and years in the selected volume. In Digihakemisto look under *Vaasan seurakunnan arkisto* → *Rippikirjat* for IAa:1 (1761–1768), which includes Korsholma, and under *Korsholms församlings arkiv* → *Huvud- och kommunionböcker* for 1769–1776. Search the archive list for *Korsholm* if *Mustasaari* misses. [S58 @2026-11-23] [S60 @2026-11-23] [S61 @2026-11-23]
+
+When a Digihakemisto birth, marriage or burial series title seems to omit the needed event, read any catalogue comments before ruling it out. Follow a comment to the named volume or separate section and confirm the event type and years there. [S58 @2026-11-23] [S60 @2026-11-23]
+
+### Recover a missing Finnish household through the indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the privacy gate to the names, dates and places of each person whose search terms go to Digihakemisto or FamilySearch. Send only the terms needed for the search.
+
+Run a Digihakemisto text search for the missing person in the crowd-supplied page descriptions. Follow a result to the communion-book page and compare the farm, dates and household members with the last verified entry. With no hit, browse the relevant volumes and indexes by place. [S62 @2026-11-23] [S63 @2026-11-23]
+
+Search FamilySearch's *Finland, Church Census and Pre-Confirmation Books, 1600–1916* for the missing person. Use the hit's parish, volume and page to find the household on the linked image or in the parish archive. Check that the parish, years and book type are represented before interpreting a miss. [S63 @2026-11-23] [S64 @2026-11-23]
+
+### Trace registration and presence separately
+
+Record the issuing parish, issue date and named destination from the departure entry or *muuttokirja* (moving certificate). Use the certificate number and the sending parish to find where it was lodged in the incoming register and the *väestörekisteri-ilmoitukset* (population-register notifications). Record the filing date, receiving parish and rippikirja page separately. A certificate issued in Kiuruvesi for Helsinki in March 1859 was lodged in Tammela that June. [S59] [S66] [S67]
+
+Attribute a declared destination to the people actually named. Check each spouse's certificate and filing separately, and follow each child's own entries if the declaration omits the child. For example, a couple married in 1903 took out certificates for Helsinki on different dates in 1904 and 1905. [S66] [S68] [S71]
+
+Keep the official transfer date separate from the first dated evidence that places the person there. Compare communion marks and vital events with dated employment or an obituary's account of arrival. Keep each event with the person and place recorded, and leave an earlier arrival open if the evidence only suggests it. [S59] [S68] [S69]
+
+If the departing parish later notes a return with the same certificate, enter the departure and return separately. Test presence in the named destination with its records before assigning residence there for the interval. [S66] [S70]
+
+If an obituary skips years in a sailor's household chain, browse the intervening ports' communion books for enrolment and withdrawal dates for the *merimieshuone* (sailors' house). Use the port and years to choose the sailors' house rolls. Follow a return to the next port's receiving parish book. [S77] [S78]
+
+### Test Finnish household annotations against event records
+
+Transcribe a crossed-out residence remark with the cancellation marked. Use the named place to check dated entries for the person. If one household member's name is struck through, compare the marks on each child's line and follow their next page before carrying the parent's departure over to them. [S59] [S71] [S72]
+
+If a separation or divorce is noted, record the departure and the decision as separate events. Copy the date and authority of the decision as recorded and seek the decision among the parish's population-register notifications. Test a later widow label against that decision and the former spouse's remarriage entry. The Oulu communion book for 1834–1842, page 223, calls a woman a widow whose former husband had remarried in 1818 after seeking a divorce. [S59] [S73] [S79]
+
+When a remarried household includes children, trace the spouses back through the previous marriage and household entries. Check each child's baptism for named parents before assigning the child to the current couple. [S59] [S77]
+
+When a father's surname changes between Finnish parish books, compare the name written for him in his child's baptism with the home farm in the earlier communion book. Carry the baptismal spelling and the full farm name into the next parish lookup. Use the family and residence to test whether the shorter form is a variant. [S59] [S80]
+
+When an urban lot number changes across volumes, carry both the district and lot into the next book. Compare the district, neighbours and any dated town plan or property record before recording a move. In the second district of Oulu, compare lot 86 in the 1868–1880 communion book, page 65, with lot 20 in the 1881–1890 book, page 53, for a reported renumbering. [S59] [S73] [S74]
 
 ## Close with a household chain packet
 

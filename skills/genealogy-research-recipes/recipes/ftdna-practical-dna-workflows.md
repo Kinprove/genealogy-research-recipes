@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-matc
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familytreedna", "myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 27}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 35}
 ---
 
 # Recipe: Maintaining FamilyTreeDNA exports and tree links
@@ -114,6 +114,11 @@ rather than a filtered export. After correcting the export choice, re-export bot
 session. Resolve remaining name mismatches through the note-handle procedure below before joining. Record intentional filtered or
 selected exports as subsets with their criteria and actual export choice.
 
+On Family Finder Matches, record the full **Relationship Range**. When it lists first through
+third cousins, great or half aunts and uncles and their reciprocal relationships, and
+great-grandparents and great-grandchildren, test all listed paths against documented generations
+[S58 @2026-11-22]. Keep both parental sides open until you have evidence for a side [S57 @2026-11-22].
+
 When the match list is filtered by ancestral surname or haplogroup, treat the result as a search
 subset. A surname search may return similar spellings: check each returned row's surname fields for
 the target surname, and mark the others `similar-name hit` before following their shared matches. A
@@ -140,6 +145,16 @@ tree can open without a MyHeritage sign-in. A members-only tree requires sign-in
 kit` and use the supplied profile clues below.
 
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
+
+Read **Ancestral Surnames** on each unfamiliar match's profile card [S59 @2026-11-22]. Compare the
+available lists with one another and with your documented tree to find leads for a common branch
+[S57 @2026-11-22]. Record `ancestral surnames not shown` for an unavailable list. Use
+`no surname overlap` only when the lists compared are available and contain no names in common.
+
+To look for a kit described by the Ancient Autosomal DNA project, search the unfiltered Family
+Finder match list by name for `Ancient` and check any hit against the project's sample descriptions
+[S60 @2026-11-22]. If the search returns nothing, record `no Ancient name hit` with the kit and
+date [S57 @2026-11-22]. Limit that finding to the search you ran.
 
 Record the date displayed on the match row separately from test and chip dates. A Family Finder discussion reports a July 2021 recalculation that gave older matches 2021 dates. One kit’s order history and administrator lab-results view also showed a later chip procedure for an earlier order [S13]. Where authorized, record both dates from those views. Otherwise leave the test date unknown.
 
@@ -328,6 +343,13 @@ side's bucket and the unassigned matches together, and set aside only the opposi
 [S42 @2026-11-12]. Keep any match from that bucket that also has a documented or plausible path through the
 target grandparent: a match related through both parents sits in one side's bucket when only that
 side has a qualifying linked relative [S41 @2026-11-12].
+
+When testing an unassigned match against a branch, compare its intervals separately with those of
+each documented relative from that branch for whom you have usable segment data. Keep the branch
+open when one relative's comparison yields no shared interval [S61]. Check the direct pair in
+[workflow 6](#6-record-a-family-finder-matrix-comparison) before treating an overlap as
+triangulated. In one June 2023 Family Finder account, two known relatives from the same branch
+shared different DNA with the tester [S57].
 
 **Artifact:** before-link and later dated exports, bucket counts and a `links_as_of` note.
 **Stop when** each new anchor is confirmed on its match row, checked against H4's one-parent,

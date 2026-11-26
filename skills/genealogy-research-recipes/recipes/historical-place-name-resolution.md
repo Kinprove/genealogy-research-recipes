@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 55}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 81}
 ---
 
 # Resolve a historical place name to dated, same-named candidates
@@ -72,6 +72,10 @@ Not covered here:
 
 - **Swedish parish candidates by county.** Look for Finn A. Thomsen's *The Genealogical Guidebook & Atlas of Sweden* by author and title, using FamilySearch catalogue entry 75325 as a lead [S116], [S118]. Use the county clue to narrow the alphabetical parish list and compare the parish churches on the maps [S116], [S117]. Check which parish served each plausible locality on the event date (§6).
 
+- **Search the letters you can read.** If a handwritten name admits several readings, substitute the gazetteer's wildcard only for the uncertain span and keep the legible beginning or ending fixed. Run each plausible reading against the dated place list and keep all the fits [S139], [S140], [S103].
+
+- **Meyers search.** Use an asterisk for an unclear span of a place name [S140 @2026-11-22], [S103 @2026-11-22]. It can match multiple letters. For example, `*gheim` finds names with different beginnings [S103 @2026-11-22]. Use the historical state or province filter only when the record supplies that jurisdiction [S103 @2026-11-22].
+
 ## 3. Date the name before matching it
 
 - Every candidate row needs a gazetteer or map dated close to the record. A modern-only match is not a candidate yet. Place names change in three ways:
@@ -112,6 +116,8 @@ A place below the population threshold is outside the later list’s stated scop
 
 - **Civil and church jurisdictions in Meyers.** For a village in the German Empire covered by Meyers, take the Kreis (district) and Standesamt (civil registry office) from Entry. Read the named Catholic or Protestant parish at the top of Ecclesiastical when present [S97 @2026-11-20], [S103 @2026-11-20], [S104 @2026-11-20]. Treat the table of nearby congregations as a search list. If the parish assignment is missing, confirm which parish served the village using a dated parish directory or register.
 
+- **Historical and modern maps in Meyers.** Open Map for each plausible entry and use Toggle Historical Map to compare the *Karte des deutschen Reiches* with the modern map [S140 @2026-11-22], [S103 @2026-11-22]. Match the surroundings on both maps before borrowing a modern name or deciding that the old village has disappeared. A broad red circle gives a search area [S103 @2026-11-22].
+
 - **Scottish localities around 1881.** Check John Wilson's 1882 *The Gazetteer of Scotland*, a lead from the available excerpt [S113], [S115]. Use the population drawn from the 1881 census returns and any named churches or schools to distinguish same-named places [S114]. Verify the parish at the event date (§6).
 
 - **Swedish place names on dated maps.** Search only the place name in Lantmäteriet's *Sök ortnamn* to locate matching names [S116 @2026-11-21], [S119 @2026-11-21]. In *Historiska kartor*, search each plausible spelling of the parish (*socken*) or locality when looking for detailed maps [S120 @2026-11-21]. Use a map close to the event date to test the parish assignment before choosing registers.
@@ -120,6 +126,20 @@ A place below the population threshold is outside the later list’s stated scop
 
 - **US post-office spelling variants.** Consult National Archives Reference Information Paper No. 72 for the dated naming policies, a lead from the available excerpt [S131], [S132]. For a name that may reflect the U.S. Board on Geographic Names' 1933 recommendations, test *burgh/burg* and *centre/center*, with and without hyphens, the county-seat suffix *C.H.*, and *City* or *Town* [S132]. Check local or legal usage for *centre* [S132]. Keep the recorded form and verify each proposed match in dated sources.
 
+- **Swedish parish and pastorate.** In *Sveriges församlingar genom tiderna*, copy the parish heading, the event-date county (*län*) and the pastorate as distinct locators [S139], [S141]. Hackvad has its own birth-book listing, with Edsberg recorded as its pastorate [S141]. If the parish heading is missing, check for a rename, merger or county change before ruling it out [S142].
+
+- **Italian hamlets and former municipalities.** In Genealogiafamiliare's Luoghi, enter only the place name as written. Check hits for a hamlet, farmstead, district or former municipality under its old or other-language form [S157 @2026-11-22]. Treat the returned *comune* as the modern locator. Verify the municipality in force at the event date before choosing registers, using the period gazetteer and the Italian Revenue Agency's municipality archive as leads for former municipalities [S157 @2026-11-22], [S158 @2026-11-22].
+
+- **A later alias in a land book.** Record a different-hand addition as a separate attestation with its own date or an unknown date. Use the earlier entry's parish and directions to place the settlement, then look for both names in that parish's dated registers [S159], [S160]. For Nová Ves near the Vltava, start with the Chřešťovice estate land book, inv. 51, and check the Chřešťovice register under Nová Ves and Themeswar, including the entry of 28 September 1721. Check the Chýnov parish catalogue separately for its Temešvár [S159], [S160], [S161].
+
+- **Moved names on Stockholm maps.** Open Stockholmskällan's *Jämför kartor* and put a map close to the event beside a later one. Follow the label and its position independently using nearby streets and the shoreline [S162 @2026-11-22], [S163 @2026-11-22]. A later map can put the familiar name at a different site [S162 @2026-11-22].
+
+- **A Helsinki street missing from the map.** List the properties that the period address calendar puts on the street. Search the dated *henkikirjat* (tax rolls) by each property's alternate name or lot identifier. Look for an entry that pairs the property label with a numbered street address, and use the shared boundaries of dated blocks or lots to bound the earlier street [S164], [S165]. Keep the position approximate if the records only fix part of its course.
+
+- **Historical names in Romanian civil-register lists.** In Genealogica's Buzău, Gorj and Dâmbovița lists, match the commune, recorded place and modern name after *azi*. Follow the historical row's locality link and carry that row's years, including gaps, into the archive search. Two names can share a link and have different years [S168 @2026-11-22], [S169 @2026-11-22], [S170 @2026-11-22]. Check the series and year in the archive's own inventory [S171 @2026-11-22].
+
+- **Historical names in Transylvanian church-register lists.** Use the Genealogica list for the known confession. Match the historical label and the linked modern name after *azi* under the relevant locality or commune, then keep the years of that row [S172 @2026-11-22], [S173 @2026-11-22], [S174 @2026-11-22]. Verify the serving parish and its register in the event-date jurisdiction (§6).
+
 ## 4. Convert phonetic and translated forms back to the source language
 
 - Map each syllable and regional term into the source language, for example Middle→Mittel and Lower Franconia→Unterfranken. Check the national gazetteer first (Meyers), then the alphabetical list in the regional (state-level) gazetteer, in this case Bavaria's [S12].
@@ -127,6 +147,12 @@ A place below the population threshold is outside the later list’s stated scop
 - If only the end of a name is legible, use a reverse-alphabetical place index such as Minert's German place-name indexes [S23].
 - For Irish names, use logainm.ie, the bilingual Placenames Database of Ireland, which gives county, barony, civil parish and townland. Check the candidate at every level [S2].
 - **Name the mechanism behind a distorted Russian-Empire form.** Explain each difference between the written form and a candidate by a named change: a hearing error (a voiced for a voiceless consonant, a dropped or added vowel), a cursive look-alike, an abbreviation closed with a dot, or a Russified Romanian or Polish stem or suffix. Russified Bessarabian suffixes include -ешты for Romanian -ești (Fălești, Фалешты) and -ауцы for -ăuți (Mărcăuți, Маркауцы; an archival catalogue writes Grimăncăuți as Grimankautsy) [S33], [S34], [S35], [S36]. Treat these as examples, not conversion rules. State which changes support the candidate, and never chain arbitrary substitutions to reach a sound-alike.
+
+- **Estonian, German and Russian name forms.** Open the entry in *Eesti kohanimeraamat* to collect dated earlier spellings and any German name [S151 @2026-11-22], [S152 @2026-11-22], [S153 @2026-11-22], [S154 @2026-11-22]. For a name in a Russian-language record, test the German form as a search lead and verify the link against the event-date locality and feature type [S152 @2026-11-22], [S154 @2026-11-22].
+
+- **Finnish and Swedish forms in Helsinki directories.** Find the unfamiliar place in the period address calendar. Open the Finnish and Swedish editions for that year and match entries within the directories by the name of a resident recorded at the place. Where a census gives the two forms side by side, check the pairing there. Use the recovered place name by itself in searches of dated newspapers and maps [S166], [S167].
+
+- **Place names substituted in a translation.** Check the original and the translator's notes before treating a translated place label as an alias. In Gottlund's Bellman translation, the note identifies Kaisaniemi as a Helsinki substitute for Stockholm's Haga [S177], [S178]. Preserve both as written and use the original locality to search the original setting.
 
 ## 5. Look below the settlement level, and resolve nicknames
 
@@ -141,6 +167,10 @@ A place below the population threshold is outside the later list’s stated scop
 - **A large city in an immigrant's death record.** When the record gives the city as the place of origin, keep the city as written and test both the city itself and nearby towns or villages, as the advice from the available excerpt suggests [S91], [S92]. Use independent evidence to establish the exact locality (§7).
 
 - **An “upper” river valley.** In a Virginia or West Virginia river-valley description, test an upstream reading of “upper”, a suggestion from the available excerpt [S111]. For the upper Kanawha, start near Gauley Bridge where the New and Gauley rivers join [S112]. Use dated evidence to narrow the reach and identify the locality.
+
+- **Finnish holdings and named features.** Search the place name in Nimisampo. Use its area search when the record fixes the region. Keep a row for each plausible locality and feature type [S145 @2026-11-22], [S146 @2026-11-22], [S147 @2026-11-22], [S148 @2026-11-22], [S149 @2026-11-22], [S150 @2026-11-22]. Open the underlying Nimiarkisto card when available. Compare its description with the recorded terrain, check whether a named share belongs to a larger holding, and search for both names in the dated registers or maps [S145 @2026-11-22], [S149 @2026-11-22], [S150 @2026-11-22].
+
+- **Same-named Finnish farms.** For each plausible Nimiarkisto entry, record the collection year, the holding type as described and any lakes or waterways named on the card [S148], [S179], [S180]. Find those water names together on a dated map and compare their positions with the candidate holdings. Keep the collection year separate from the event date and verify the holding type in a record from the event period.
 
 ## 6. Plot candidates against dated jurisdictions
 
@@ -172,6 +202,12 @@ For a residence in or near former Cherokee lands, also plot it on Charles C. Roy
 - **A settlement name introduced by a post office.** Check whether the office took an existing locality name or introduced a name that the settlement later used, a possibility from the available excerpt [S131]. The Town of Hyde Park traces the change from Stoutenburgh to Hyde Park in 1812 to the name of its post office [S133]. Compare the office's establishment and name with the settlement names on dated maps or in local records, then search both names.
 
 - **A birthplace jurisdiction in a pension.** Compare the boundaries at birth with those when the statement was made. For a reported 1771 North Carolina birth in an 1815 statement (from the available excerpt of the transcript) [S93], include both the later state and its former western lands. Tennessee entered the Union in 1796 from land North Carolina had ceded [S94], [S95]. Narrow the search with dated evidence.
+
+- **Irish baronies in land records.** Carry a named barony with the county and civil parish when separating same-named townlands [S143], [S144]. For Griffith's Valuation, use the barony or poor law union heading of the printed book and check the townland within it [S144].
+
+- **Estonian parish and manor jurisdictions.** For a *kihelkond*, establish the church parish (*kirikukihelkond*) and the manor-based administrative parish (*halduskihelkond*) separately. Use the church-parish markings and manor boundaries on the *Eesti kohanimeraamat* map as leads [S152 @2026-11-22], [S153 @2026-11-22]. Follow the National Archives' guide to the historical map layers for a village's nineteenth-century manor and parish, and to the historical municipalities register for its rural municipality (*vald*) [S152 @2026-11-22], [S155 @2026-11-22], [S156 @2026-11-22].
+
+- **A village split across parishes.** When a dated account divides one village between two jurisdictions, check the event-date registers for both until a dated source places the household on one side. For an 1865 reference to Jalaslahti, check Sortavala and Impilahti, and test Janaslahti as an alternate search form [S175], [S176].
 
 ## 7. Narrow candidates only with independent, dated evidence
 

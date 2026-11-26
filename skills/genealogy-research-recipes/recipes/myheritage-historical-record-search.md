@@ -10,8 +10,8 @@ guardrails: [{"id": "MYHERITAGE-HISTORICAL-RECORD-SEARCH-01", "text": "Preserve 
 handoff: ["ai-for-documentary-records", "beider-given-name-variants", "evidence-proof-judgment"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 38}
+capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "export"], "contact": []}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 47}
 ---
 
 # Recipe: Recovering historical records with MyHeritage
@@ -108,12 +108,35 @@ In **Latvia, Jewish Birth Records from JewishGen**, check the town and year befo
 a miss. The index spans 1838–1921, with most entries from 1854–1909
 [S29 @2026-11-20] [S30 @2026-11-20]. Check coverage of the town's registers outside that concentration.
 
-**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes. Keep those terms local until the gate is answered.
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names, event dates and places that identify anyone who may be living go to MyHeritage when you rerun a query or search the India indexes. Apply the same check to the other collections below and keep identifying terms local until the gate is answered.
+
+For **Germany, North Rhine Westphalia, Deaths 1874–1938**, identify the specific registry office
+(*Standesamt*) and year. The 2022 district list and later Aachen-to-Rheydt office range describe
+individual releases [S98 @2026-11-22] [S99 @2026-11-22]. The collection description includes parts of Düsseldorf and
+Köln [S100 @2026-11-22]. After a miss, use the office and year to check the Landesarchiv Nordrhein-Westfalen’s
+finding aid for the duplicate death register [S101 @2026-11-22].
+
+For a Cheshire baptism, compare **Cheshire Parish Births and Baptisms** with **Cheshire Bishop’s
+Transcripts Baptisms**. For a marriage, use **Cheshire Bishop’s Transcripts Marriages** alongside
+the parish register [S105 @2026-11-22]. The bishop’s transcript is an abbreviated copy. If the register is
+missing or illegible, check the transcript for the same parish and year. Record which version
+you examined and check the parish holdings through Cheshire Archives [S106 @2026-11-22].
+
+In **France, Church Marriages and Civil Marriages**, open the image and identify whether it
+shows banns, a church marriage or a civil act [S110 @2026-11-22] [S108 @2026-11-22] [S109 @2026-11-22]. Use a banns entry to look for
+the marriage act. Check departmental coverage and turn to the local registers after a miss [S109 @2026-11-22].
 
 When revisiting an earlier search, set the Collection Catalog sort to **Last Updated**. Compare
 the dates on relevant collections with the date of your earlier search and rerun the query in sets added
 or revised since then [S54 @2026-11-21] [S55 @2026-11-21]. A recent update by itself establishes
 nothing about the town or years added.
+
+For a suspected death in Finnish military service, search **Finland, Second World War Casualties**
+within MyHeritage’s stated 1938–1944 scope. Record unit, rank, death date and place, and burial
+place separately. If the entry mentions a disappearance, capture or wound, record it as a
+separate event [S137 @2026-11-23]. When the death is uncertain or falls outside
+the stated span, check the National Archives of Finland’s guide for the service card
+(*kantakortti*) and the series for the incident [S138 @2026-11-23].
 
 For an 1851 Scottish household, check the **1851 Scotland Census Extract** for a lead and
 confirm access in the user's account [S52 @2026-11-21]. Use the locality and household details
@@ -136,6 +159,24 @@ Start sparsely, select a suitable collection, then add one supported event or re
 If candidates disappear, remove the weakest condition first. [S1, S6, H1]
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> A scoped query may send names, dates or places identifying people who may be living to MyHeritage. Hold those terms locally until the gate is answered.
+
+When tree profiles crowd out documentary results, select **Historical records** on desktop
+or **All Collections → Records** on mobile web if the filter is available [S95 @2026-11-22]. Log that
+scope. Search Connect lists other users’ queries under **Family Trees** [S97 @2026-11-22]. Switch
+back to **All Collections** for a separate pass if you need tree leads [S95 @2026-11-22].
+
+Before running a sensitive query, check **My Privacy → My member preferences → Enable Search
+Connect**. Have the user clear that option if they want to keep their search terms out of Search
+Connect and disable recent searches [S95 @2026-11-22] [S96 @2026-11-22]. Search Connect can expose query details to
+other members [S97 @2026-11-22]. Keep the research log local if the query must stay private.
+
+If **Recent searches** is available, identify the card by the query’s name, birth year and place,
+then reopen the query from that card. Log the filters you actually see before comparing the
+results. Use the card’s **X** to remove it from the list. Check **Search Connect** separately
+when the goal is to stop future searches from appearing there [S95 @2026-11-22].
+
+Use the historical-record search form when an older guide directs you to the original
+**AI Record Finder** Chat tab [S118 @2026-11-22]. MyHeritage retired that beta on 2024-08-09 [S117 @2026-11-22].
 
 Run the target query from the category or subcategory form when you know the record type. For a
 single set, open its own form from the Collection Catalog or the category's collection list. Log
@@ -247,6 +288,11 @@ citizenship, property or business sanctions. Keep former German residents and pe
 Czechoslovakia in scope. Read the type of action and last residence before interpreting the entry
 [S29 @2026-11-20] [S32 @2026-11-20].
 
+Include the **Lithuanian-Jewish Revision Lists from LitvakSIG** for a relevant locality now in
+Poland or Belarus. Check the historical district and nearby places of registration, even if the
+family lived elsewhere. Check which years survive before interpreting a gap in the results
+[S102 @2026-11-22] [S103 @2026-11-22] [S104 @2026-11-22].
+
 For Spanish Civil War exile research, try **Spain, Migration to the Americas, 1880–1930** without
 requiring the title's date range or a Spanish birthplace [S35 @2026-11-20] [S36 @2026-11-20].
 MyHeritage illustrates that exception with a 1942 Mexican immigration entry for an exile born in
@@ -267,6 +313,14 @@ If an arrival search fails for a traveler who may have sailed from Gothenburg, t
 **Sweden, Gothenburg, Passenger Lists 1869–1951**. Use the departure date, transit port and
 destination, where shown, to choose the next passenger list. Keep the Swedish departure
 and the eventual arrival as distinct events [S71 @2026-11-21] [S72 @2026-11-21].
+
+For a deceased traveler who may have booked with the Holland America Line, search MyHeritage
+collection **20275, Netherlands, Holland-America Line, Passenger Lists**, for 1900–1969. Keep the
+booking place, departure port and date, ship, and recorded arrival place in separate fields
+[S134 @2026-11-23] [S135 @2026-11-23]. Check the Rotterdam City Archives scan and its passenger
+count. A group booking can carry only the booker’s name. If a suspected companion is missing
+from the list, try the booker in MyHeritage and check an arrival manifest for the voyage
+[S136 @2026-11-23].
 
 ### 8. Find the target through a better-documented relative
 
@@ -302,6 +356,13 @@ with the advertisement's literal business name, address and any pictured premise
 corroborating records. An advertisement alone does not establish ownership, school attendance
 or patronage. Keep an unavailable edition or uninspected section as a gap. [S10, S11]
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A relative’s name used as a cemetery keyword goes to MyHeritage. Keep the name local if the relative may be living until the gate is answered.
+
+In **Canada, Gravestones and Memorials**, run a documented relative’s name in **Keywords**.
+That searches the inscription transcription, where a person can be mentioned without being the
+principal name in the entry. Check the inscription before assigning the principal’s dates or
+burial place to the relative [S111 @2026-11-22] [S112 @2026-11-22].
+
 ### 10. Move from a person-name index to full text when available
 
 Check whether the same material has a structured name index and a full-text counterpart.
@@ -322,6 +383,10 @@ Try another documented name form, drop an exact-name restriction, or replace the
 distinctive contextual keyword. Adapt to a misreading actually observed on the page rather than
 generating endless arbitrary typos. If text recovery fails, browse the likely issue or section.
 Do not assume wildcard, Boolean or quoted-phrase syntax works without current documentation.
+
+In the OldNews page viewer, open the full-page OCR to compare a difficult hit with the scan.
+If the print is faint, adjust the viewer’s contrast or brightness before marking the passage
+unreadable. Transcribe from the page image [H6 @2026-11-23] [S125 @2026-11-23].
 
 ### 12. Search newspaper images and extracted records as complementary routes
 
@@ -345,7 +410,62 @@ warns of mistakes such as incorrect relationships and advises reading the scanne
 [H12 @2026-11-12]. Use the summary only to find the article, and quote and cite only the printed
 article.
 
-**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names, relationships and event dates that identify anyone who may be living go to MyHeritage in the newspaper query. Keep those query terms local until the gate is answered.
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names, relationships and event dates that identify anyone who may be living go to MyHeritage in the newspaper query. Those details go to OldNews when the standalone search runs. Keep those query terms local until the gate is answered.
+
+In a standalone OldNews search, use **More options** under **Publication year**. Select
+**Match year exactly** for a known year or **Year range** for explicit bounds. For a known issue,
+choose **Exact date** and enter its publication day, month and year. Broaden the bounds when the
+publication date is uncertain [S124 @2026-11-23]. The results also offer **Publication date**
+and **Publication name** filters. Use the latter to select the verified newspaper title and
+check the publication locality if titles are similar [H6 @2026-11-23] [S123 @2026-11-23] [S125 @2026-11-23].
+
+Set **Publication place** to the newspaper’s locality or country. Use **Place must match**
+when the search requires that publication place. Clear it and widen the place for possible
+coverage from other cities or countries. Put the event place in the terms if it helps identify
+the story [H6 @2026-11-23] [S125 @2026-11-23] [S126 @2026-11-23].
+
+In the Collection Catalog, look up **OldNews** and the publication’s state or country. Open a
+grouped **Names & Stories** collection when that state appears among several in its title.
+For example, Ohio shares a collection with Indiana and Michigan. Check the newspaper’s city
+and years before treating a search in the group as coverage of that title [S86 @2026-11-22] [S87 @2026-11-22] [S88 @2026-11-22].
+
+Alongside OldNews, try **Newspaper Name Index, USA, Canada, and Australia** for a U.S. or
+Canadian paper. This structured index has a **Spouse** field and applies synonym matching
+differently to given names and surnames. Use a known spouse as a separate pass, and try
+documented surname forms explicitly. Keep the publication title, place and date from a hit to
+retrieve the page [S86 @2026-11-22] [S89 @2026-11-22] [S90 @2026-11-22].
+
+After a name-index miss, use **Browse by location** on OldNews. Drill down to the newspaper’s
+publication locality and check the listed titles and date spans [S86 @2026-11-22] [S91 @2026-11-22] [S92 @2026-11-22]. If the town’s
+paper is missing or the story might have been reported elsewhere, check nearby publications and
+titles from towns where relatives lived at the time [S86 @2026-11-22]. Seek any uncovered title or year in
+another holding.
+
+For a Nordic title, compare the title and year listed on OldNews with the coverage of
+MyHeritage’s **Nordic Newspapers from OldNews.com** before repeating a query. Record any issue
+found through both routes once [S126 @2026-11-23] [S127 @2026-11-23]. For a Fraktur title in the
+covered material, retry an earlier OCR miss on OldNews. Browse the likely issue if the text query still
+misses [S126 @2026-11-23] [S128 @2026-11-23].
+
+For a death notice, try the separate **Obituary Index from OldNews.com** for Australia, Canada
+or the United States. Choose the index by the newspaper’s publication country. Keep the death
+or burial details separate from the obituary’s publication place and date [S86 @2026-11-22] [S119 @2026-11-22] [S120 @2026-11-22] [S121 @2026-11-22].
+
+For newspaper wedding leads, check the country’s **Marriages from Newspapers on OldNews.com**
+collection for the United States, Australia, Canada or New Zealand [S86 @2026-11-22] [S87 @2026-11-22] [S93 @2026-11-22] [S94 @2026-11-22].
+Read the actual notice and classify it as a marriage report, engagement, license, divorce
+or advance announcement. Record a planned wedding date separately from publication and look
+for evidence of the ceremony. If a couple-name query misses, try the known officiant or
+attendant as a separate text or **Keywords** query where available [S93 @2026-11-22] [S94 @2026-11-22].
+
+For a known Australian title, check **Australia Newspapers** alongside the OldNews indexes.
+The scans for that OCR collection come from the National Library of Australia’s Trove. Use the
+paper, issue date and page from the hit to identify the same issue in Trove [S105 @2026-11-22] [S107 @2026-11-22].
+
+Match the publication locality to the stated scope of the OCR collection. **Poland Newspapers
+from OldNews.com** uses modern Polish borders [S113 @2026-11-22] [S122 @2026-11-22]. **Baltic Newspapers from OldNews.com**
+lists coverage in Latvia and Estonia [S113 @2026-11-22]. For a historical locality outside those bounds,
+look for the paper under the country that now contains the town or in another holding.
 
 For a **Names & Stories** wedding search, try the documented marriage date in the event field.
 The index can resolve relative wording using the issue date. For a wife named by given name only,
@@ -382,6 +502,17 @@ For a death or unusual incident, search later issues and other local papers: the
 precede a fuller obituary or correction. Preserve newspaper title, publication date, page and a
 full-page copy when available, alongside any clipping. Copied reports are not independent witnesses.
 
+In the OldNews viewer, use the arrows or page selector to check other pages of the same issue
+for a continuation or related material. Record the page number for each part
+[H6 @2026-11-23] [S129 @2026-11-23].
+
+**Privacy gate:** <!-- privacy-gate: export --> The full newspaper page can include names, photos and details about anyone who may be living. Export it from OldNews to the user’s own device or local printer after clearing the gate.
+
+When keeping an OldNews copy, check the controls available in the user’s account. Use **Download**
+for the full-page JPEG and the **Print** control for a paper copy. Keep the issue and page citation
+with the copy. Mark the passage separately if needed. The downloaded image omits the search
+highlights [H6 @2026-11-23] [S130 @2026-11-23] [S131 @2026-11-23].
+
 For an obituary index hit, inspect the card image before moving on to the newspaper. In
 MyHeritage's **San Joaquin County Public Library Obituary Index, 1850–1991**, the card can carry
 the newspaper clipping itself [S25 @2026-11-18] [S26 @2026-11-18] [S27 @2026-11-18]. Read the
@@ -414,6 +545,19 @@ use the newspaper title and its publication place and date. Keep those separate 
 deceased's residence and death date [S58 @2026-11-21].
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Names and historical places identifying people who may be living go to MyHeritage when you run the census query. Keep those terms local until the gate is answered.
+
+Use **United States Consolidated Federal Censuses, 1790–1950** to find candidate appearances
+across census years. An entry can represent one census or several [S114 @2026-11-22] [S115 @2026-11-22]. Open **See
+variations from sources** to compare each recorded name and birth detail. Follow the linked
+returns and check the named household and locality for each year [S114 @2026-11-22]. Follow a relative’s
+linked consolidated entry when offered and verify that person against the returns too [S114 @2026-11-22].
+Treat each cross-year link as a candidate identification until the returns support it.
+
+For an omitted census year, search the corresponding single-year collection in MyHeritage or
+browse the schedules for the likely locality through the National Archives’ links by year.
+Leave the reason for the gap open [S114 @2026-11-23] [S144 @2026-11-23]. Check each year’s
+reported age before using an estimated birth year. For residence and occupation, record the
+value and return locator separately for each census year [S114 @2026-11-23].
 
 For the **1950 United States Federal Census**, include Canton (Kanton), Johnston, Midway
 or Wake when the research points to one of those islands. Open the corresponding schedule
@@ -454,6 +598,18 @@ If no image is supplied, save the collection citation, originating institution, 
 volume/page and original-source link that are actually provided. Use that locator to seek the image
 or request the record from its custodian. State explicitly when the original remains unavailable.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Name and date terms that identify anyone who may be living go to MyHeritage in the biography or patent query. Keep them local until the gate is answered.
+
+Use **Indiana Biographies** (collection 20489) as a publication index. If the result supplies a
+card image, use it to verify the publication title, date and any page reference. Locate that
+edition or issue before citing a biographical detail. For a difficult title, check the Indiana
+State Library’s biography index source list [S139 @2026-11-23] [S140 @2026-11-23].
+
+Search **Inventors of Historical Patents** (collection 10834) by the candidate’s name. Use the
+index’s publication country and date to find the patent. Open the patent’s first page and
+record the invention, patent number and application filing date separately from the publication
+date [S141 @2026-11-23] [S142 @2026-11-23] [S143 @2026-11-23].
+
 Treat record matches, related-record suggestions and tree matches as new searches to evaluate.
 Compare names, roles, dates, places and relationships against the source; retain competing candidates.
 End with the coverage ledger and next discriminating search, not “MyHeritage has no such record.”
@@ -479,6 +635,20 @@ detail as a lead. Use it to choose a register or newspaper issue to check elsewh
 If a historical-record search returns a profile from a MyHeritage family tree, look at the bottom
 of its record page for the link to the originating tree. Inspect the profile and follow any
 record citations as leads [S65 @2026-11-21] [S84 @2026-11-21].
+
+In an existing tree, open **Photo Discoveries** and preview the offered photos with **View
+Discovery** before using any of them. Note the source family site and any supplied title,
+description or tags. Open **View original photo** to inspect the uncropped image. Verify
+the matched profile against documented dates and relationships. Record a person’s recognition
+as their attributed claim and leave identity unresolved if the only clue is resemblance
+[S132 @2026-11-23] [S133 @2026-11-23].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Prefilled names, dates and places from a tree profile go to MyHeritage when the search runs. If anyone identified may be living, clear the gate before starting the profile search.
+
+When an existing tree profile has no useful Record Match, use **Research this person** from the
+profile page to open a historical-record search. Inspect the prefilled details, remove
+unsupported tree values and compare the result with a sparse search. Keep the automated
+match list open as a separate source of leads [S116 @2026-11-22] [S84 @2026-11-22].
 
 ## Prompt-craft
 

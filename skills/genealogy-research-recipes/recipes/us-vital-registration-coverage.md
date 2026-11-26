@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 132}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 245}
 ---
 
 # Build a U.S. vital-registration coverage register before calling a birth or death record missing
@@ -46,6 +46,8 @@ For the event date and every candidate place, make one row for each body that ma
 - **Utah deaths.** Search county-clerk death registers from 1898 separately from statewide certificates from 1905. Some Utah cities registered deaths before 1898 [S23], [S24].
 
 For New York City before 1898, the Municipal Archives' list of holdings adds two points to the New York City item above. For a Bronx area annexed before 1898, search the Manhattan records only for events from the date of annexation through 1897. The Archives also holds separate marriage and death records for Kings County towns: Flatbush, 1847–1851 and 1880–1894; Flatlands, 1880–1895; Gravesend, 1880–1894; New Lots, 1881–1886; and New Utrecht, 1880–1894 [S11 @2026-11-13]. Give each town's series its own row.
+
+For a birth near the Arizona statehood transition, start the territorial registration row in 1909 and check county coverage for the event year. For an early New Mexico death, give FamilySearch’s *New Mexico, Deaths, 1889–1945* its own index row and identify the county, church or other source behind any entry from before statewide registration. In western New Mexico or eastern Arizona, check the New Mexico State Records Center & Archives’ guide to the Diocese of Gallup’s sacramental microfilm for the locality and year [S80 @2026-11-22], [S81 @2026-11-22], [S82 @2026-11-22], [S83 @2026-11-22].
 
 Mark each start date as either `verified` (and name the authority you checked) or `presenter-reported`. Re-check any presenter-reported date with the state archives or the vital-records office before you rely on it. Do not extend one state's arrangement to another state.
 
@@ -92,7 +94,17 @@ For each holder, record:
 - **Access limits:** check the current rule with the vital-records office. Utah's Office of Vital Records page, checked 2026-11-07, makes birth records public after 100 years and death records after 50 years. [S19] Those are the correcting source's limits; do not repeat the presenter's 75-year figure [S1] for births or deaths. For Cook County delayed births, the only report of a restriction comes from the presenter [S3].
 - **Whether the online copy matches the custodian's originals.** The Philadelphia City Archives holds births and deaths from July 1860 to June 1915, marriages only from July 1860 to December 1885, and cemetery returns from 1803 to June 1860. Marriages after 1885 are with the Orphans' Court / Register of Wills. The presenter and the Archives representative gave marriages through 1915 and "deaths" from 1803 [S8], [S10]. Correct both before you build the rows. The representative also said she could not confirm which of these holdings appear on FamilySearch or Ancestry [S8]. In Utah, most county registers have been transferred to the Utah State Archives and some remain with the counties [S1]. For example, Salt Lake County's hard copy went back to its county archives.
 
+If the ordering office is unclear, use the National Center for Health Statistics’ *Where to Write for Vital Records*. Select the jurisdiction where the event occurred, then check the office’s own guidance for the record type, year and copy you need [S84 @2026-11-22], [S85 @2026-11-22].
+
 A search of a filmed copy is not a search of the original holding. Record which one you searched.
+
+### Arkansas and Orleans Parish indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before entering names in the Arkansas or Orleans Parish indexes, clear the [privacy gate](../SKILL.md#privacy-gate) for names, event details and any parents’ names about people who may be living before sending them to MyHeritage or an archive index. Use collection descriptions and non-identifying filters while the gate is pending.
+
+For an early Arkansas death, search *Arkansas Deaths* on MyHeritage as a compiled index. Record the death date and any notice publication date separately. Use the index’s named source to locate the underlying item in the Arkansas State Archives’ holdings. Keep the index row separate from the state death-certificate series, which began in 1914 and has gaps in early reporting [S86 @2026-11-22], [S87 @2026-11-22], [S88 @2026-11-22].
+
+For an Orleans Parish birth, give MyHeritage’s *Louisiana, Orleans Parish Births, 1800–1921* index its own row. After a miss near the beginning of that range, check the separate Orleans Parish birth index beginning in 1790 at the New Orleans City Archives. Log a hit before 1819 as an index entry and check original availability separately. The Louisiana State Archives explains that early index hits can lack an individual certificate in its holdings [S89 @2026-11-22], [S90 @2026-11-22], [S91 @2026-11-22], [S92 @2026-11-22], [S93 @2026-11-22].
 
 ### California
 
@@ -107,6 +119,20 @@ For county deaths, give MyHeritage's *California, County Death Registers, 1873�
 **Privacy gate:** <!-- privacy-gate: request --> Before sending the subject's name and event details, any living parents' details, and the applicant's information to CDPH or the county office, clear the Record requests gate for anyone who may be living. Keep the application as an unsent draft until the gate is cleared.
 
 Request a California informational birth or death copy by mail using the California Department of Public Health form when using the state route. If the county is known, compare the county recorder's copy and turnaround with the state route [S39 @2026-11-20], [S40 @2026-11-20], [S45 @2026-11-20], [S46 @2026-11-20].
+
+### New York and Massachusetts access
+
+For a New York State birth in the state office’s jurisdiction, check eligibility for an uncertified genealogy copy. The person named must be deceased and the record must have been on file for at least 75 years. A direct-line descendant who documents the relationship can qualify for a waiver of the filing-age requirement and still needs proof of death. Record eligibility and whether the series covers the event as separate findings [S94 @2026-11-22], [S95 @2026-11-22].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before entering a New York death-index query at Reclaim The Records, clear the [privacy gate](../SKILL.md#privacy-gate) for names or event details about anyone who may be living that would go to the public search service. Use the coverage description while the gate is pending.
+
+For a New York State death outside New York City, also check Reclaim The Records’ public *New York State Death Index, 1880–2017*. Give the public search its own coverage row and check the fields for the period searched before treating a missing field as evidence about the original certificate [S96 @2026-11-22], [S97 @2026-11-22].
+
+For a 1950 New York City death, check the Municipal Archives’ 1950 holdings and which formats it offers for the borough. NYC Health stopped taking new orders for that year on 1 December 2025. Record the archive transfer and the availability of an image as separate findings [S96 @2026-11-22], [S98 @2026-11-22], [S99 @2026-11-22].
+
+If a New York City death copy lacks cause of death, check which part of the record was supplied. NYC Health issues a standard certificate and separately controls eligibility for the confidential medical report. Record the field as absent from the copy you examined and leave its presence in the underlying record unresolved [S96 @2026-11-22], [S98 @2026-11-22].
+
+For a Massachusetts birth or death from 1930 through 1935, check the Massachusetts Archives’ transferred vital records. Log the archive’s holdings separately from the years available as digital images. If the relevant volume is missing online, check the Archives’ individual scan route [S96 @2026-11-22], [S100 @2026-11-22].
 
 ### Ohio
 
@@ -125,6 +151,12 @@ Check the access rule for the specific Ohio record and fields. Section 3705.23 g
 For Ohio state deaths from 20 December 1908 through 1953, search FamilySearch's *Ohio, Deaths, 1908–1953* and open the certificate image where available. The Ohio History Connection holds the 1908–1970 state death certificates. Its online index has separate ranges for the main state death series, 1913–1944 and 1954–1970. For the archive copy, use its microfilm through 1953 or its on-site digital access for 1954–1970. For a certified 1954–1970 copy, use the health department for the county of death [S47 @2026-11-20], [S49 @2026-11-20], [S52 @2026-11-20], [S53 @2026-11-20].
 
 Log the Ohio History Connection's holdings separately from the transfer thresholds. Ohio may transfer a record after 125 years for births or 50 years for deaths. Check the archive's county birth holdings and state death holdings before routing a request there. Use the state office's death series from 1971 [S47 @2026-11-20], [S48 @2026-11-20], [S49 @2026-11-20], [S54 @2026-11-20], [S56 @2026-11-20].
+
+### Maryland death records
+
+For a Baltimore City death from 1875 through 1972, use the Maryland State Archives’ city death index CE42. Browse the vowel index where applicable and switch to the surname Soundex sequence from 1950. Give Baltimore City and Maryland county registration their own rows, with systematic recording beginning in 1875 and 1898 respectively [S101 @2026-11-22], [S102 @2026-11-22], [S103 @2026-11-22].
+
+For a Maryland death entry, record web index and certificate-image availability separately. Check the Maryland State Archives’ series entry and Reclaim The Records’ *Maryland Motherlode* for an off-site image before marking an index hit as requiring a visit to Annapolis [S96 @2026-11-22], [S102 @2026-11-22], [S104 @2026-11-22].
 
 ### Rock Island County, Idaho and Harris County indexes
 
@@ -164,6 +196,14 @@ For Philadelphia City Archives death records filed by cemetery, follow the Archi
 
 For a New York City birth, marriage or death listed in an index on FamilySearch, Ancestry or elsewhere, copy the certificate number, year and borough. Search the Municipal Archives image site by certificate number, limited to that borough and year, not by name: numbering restarts every year in each borough, and name spellings differ between indexes [S15], [S14]. The year on a certificate is the year it was filed, so if nothing comes up, check the number and borough, then try the following year [S15]. If there is still no image, record `searched – no hit` for the online lookup and order the certificate from the Municipal Archives; orders for records not yet digitized are typically filled within six weeks [S16]. Record `unavailable (not online)` only when the archive confirms the certificate is not digitized. Many indexed certificates are not yet digitized, including most corrected "S" birth certificates, and some images are mis-indexed [S17], [S18], [S15].
 
+### Missouri birth and death indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before using either Missouri index with identifying data, clear the [privacy gate](../SKILL.md#privacy-gate) for names, birth details and any parents’ names about someone who may be living before sending them to MyHeritage or Reclaim The Records. Inspect the catalogue coverage while the gate is pending.
+
+For a Missouri birth, use the *Missouri Births* index on MyHeritage as a locator for the underlying certificate. MyHeritage’s catalogue starts at 1910 and Reclaim The Records describes its release as starting around 1920. Check the copy’s event-year coverage and give the Missouri Bureau of Vital Records’ certificate series a separate row [S105 @2026-11-22], [S106 @2026-11-22], [S113 @2026-11-22], [S107 @2026-11-22].
+
+For a Missouri death beyond the last year of archive certificate scans, check Reclaim The Records’ *Missouri Death Index*. Its expanded search covers 1954–2024. Give the index a separate row and check the Missouri Bureau of Vital Records’ certificate access rule for any follow-up [S105 @2026-11-22], [S108 @2026-11-22], [S107 @2026-11-22].
+
 ## Widen the places searched before recording a miss
 
 - **A nearby city where the person worked but did not live.** People living just outside a city could register a birth or death with the city's board [S7], [S6].
@@ -172,6 +212,8 @@ For a New York City birth, marriage or death listed in an index on FamilySearch,
 When a death is missing from the reported home county, test the death place rather than merely changing the name query. Read the burial permit, removal or transfer record for the actual death place, including a hospital or institution in another county or state. A burial permit can supply a death location that conflicts with an obituary's claim that the death occurred at home [S25], [S26].
 
 For a death indexed as filed in Collier County, Florida, read the place-of-death field separately and use it to choose the vital-registration authority. The Collier County Clerk records certificates issued elsewhere, so a Collier filing alone leaves the death place undetermined [S27 @2026-11-18], [S28 @2026-11-18].
+
+For a possible death from the Great Miami Hurricane, search the relevant death series for dates around and after the 18 September 1926 landfall. Test separately for a later death and for a filing after the death. Preserve both dates when the record gives them [S109], [S110].
 
 Each added place gets its own set of authority and series rows. It does not just widen one query.
 
@@ -182,6 +224,8 @@ Each added place gets its own set of authority and series rows. It does not just
 After a birth-record request under an expected given name comes back empty, ask the local registrar to check the known birth date and parents' names without requiring that given name [S68], [S69]. That search located a birth filed under a different given name, according to the presenter [S67†]. Keep the entry as a candidate while you resolve the name conflict.
 
 ## Treat a delayed certificate as a set of leads
+
+Search the delayed series for an adult who needed formal proof of birth, following the advice reported in the episode to check even when the birth date is already known [S111†]. For a Utah defense-industry worker during World War II, include delayed filings from 1941 onward [S112].
 
 Read the delayed certificate's evidence section and record each item, its date and its likely holder. It may cite a family Bible, a parent's affidavit or a child's birth certificate [S2], [S9]. One researcher reported a school record as supporting evidence [S2]. If a school is named, trace that school's records for the child's years. For a family Bible, identify the collateral branch that kept it [S9], [S5].
 

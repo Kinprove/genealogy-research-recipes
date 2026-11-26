@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "australia-nz-record-routing", "court-ca
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["newspapers.com"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 39}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 48}
 ---
 
 # Newspapers.com: Recover Notices That Name Searches Miss
@@ -77,6 +77,12 @@ promising title without accessible pages. Keep three dates separate: the newspap
 span, a repository's held span and the issues you actually inspected. A title directory or a
 finding-aid collection link supplies a locator, not proof that the target issue is digitized.
 (S12–S14)
+
+After a miss in an Ancestry Newspapers.com index, read the collection's coverage notes and
+compare them with the titles and issues available in Newspapers.com Browse [S103 @2026-11-22],
+[S104 @2026-11-22]. For a U.S. locality, use the Directory of U.S. Newspapers in American
+Libraries to identify additional titles and their holders [S105 @2026-11-22]. Inspect any
+accessible likely issue directly and log that inspection separately from the index search.
 
 1. **Resolve the historical title.** Begin with the event interval, likely publication locality
    and relevant language/community. For U.S. titles, search the
@@ -193,6 +199,18 @@ and replace the uncertain letters with `*`, as in `Ev*ns`. Run the surname probe
 and date limits [S98]. Read the name on the image and record the printed spelling, OCR text and
 query separately. If the probe fails, search an intact event term or browse the likely issues.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased family members' surname and the locality terms in the query go to Newspapers.com.\
+When Irish graves share a surname, search that surname with the townland on each headstone,
+using the approach from the available excerpt [S106]. Run separate passes for the
+inscribed form and any attested modern form. For a Northern Ireland townland, compare the
+forms in the Northern Ireland Place-Name Project's historical locality entries [S107]. Read the
+notices for explicit relationships before linking the people buried there.
+
+For a branch that moved to Canada or the United States, search its destination papers with
+the same surname and the Irish townland or county as keywords, following the search
+from the available excerpt [S106]. Set the publication filter to the destination.
+Use an origin named in a destination notice to choose which Irish papers to search next [S108].
+
 When a notice dates an event relative to another date, such as ‘issued yesterday’ or ‘last
 Wednesday’, retain the literal wording and its anchor before deriving a date. For `ult.` (the preceding month), identify the date of the item, letter or original report that supplied the expression [S33], [S47]. Save `wording |
 anchor and basis | derived event date | uncertainty` separately from the publication date. If a
@@ -275,6 +293,18 @@ printed decades later can carry earlier births, marriages, service or obituaries
 when the original years are not digitized. Read the heading to learn what compiled list or column
 it is. Record the later issue's date, any original date it cites and the stated event date
 separately. Search the original issue or underlying record. A Civil War roster shown in one presentation was printed in 1905 [S34]. Treat late rosters, reprinted obituaries and retrospective church features as later accounts, recording any abridgment [S29], [S35], [S36].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased ancestor's or veteran's name and any identifying search terms go to Newspapers.com.\
+After the ancestor's death, search the family surname with `"family reunion"` in papers
+serving the descendants. Read the report for earlier generations, as in the case
+from the available excerpt [S109]. Use its named relationships as leads to records from the
+lifetimes of the people it describes [S110].
+
+For Revolutionary War service leads, search the veteran's name in issues around documented
+local commemorations, using the video's suggestion from the available excerpt [S111].
+Test the July 1826 Independence Jubilee and the 1876 Centennial where their coverage
+fits the veteran's community [S112], [S113]. Record any stated unit, rank or service as a lead
+to check against service or pension records.
 
 For probate, court, tax or land matters, and especially when deeds or court files are missing,
 browse the legal-notice matter as well as running name searches. Notices may lack a heading and sit

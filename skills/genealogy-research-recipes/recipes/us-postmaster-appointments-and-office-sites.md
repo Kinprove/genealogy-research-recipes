@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "city-directory-observation-workflow
 checked: null
 checked_basis: null
 capabilities: {"browse": ["source guides, catalogues and the relevant record or session"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 174}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 291}
 ---
 
 # Trace a U.S. postmaster appointment and post office location
@@ -43,4 +43,4 @@ For the office’s location, browse M1126 site reports, 1837–1950, by state or
 
 ## Sources
 
-[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/83bf32be39090a277a11bc7390d293d97a24e4c8/skills/genealogy-research-recipes/sources/us-postmaster-appointments-and-office-sites.md).
+[Source bibliography and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/2b4157d8449d36b2a0e62fb1f75fe9f581deb15a/skills/genealogy-research-recipes/sources/us-postmaster-appointments-and-office-sites.md).

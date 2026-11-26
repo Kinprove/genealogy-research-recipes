@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observatio
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 122}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 180}
 ---
 
 # Route a Spanish or Andorran record to the archive that holds it on the event date
@@ -73,6 +73,12 @@ Decode a numbered section in a historical civil-register locator before choosing
 
 Inspect the margins of the marriage entry as well as its main text. The SSA’s Spain procedure identifies divorce as a marginal note on the marriage it terminated. Record the annotation’s own wording and date; do not turn that one supported annotation type into a promise that every later event or identity document will appear in every margin. Only a transcript excerpt of the cited community video was inspected. [S46], [S49]
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting a municipal vital-record search sends the names and any event details you enter about the subject or relatives to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting the search.
+
+**Search MyHeritage's municipal birth and death indexes by province and event.** Start with Córdoba births or deaths (1509–1947) [S55 @2026-11-22], [S56 @2026-11-22], [S58 @2026-11-22], Málaga births or deaths (1760–1956) [S59 @2026-11-22], [S60 @2026-11-22], Sevilla births (1293–1966) [S61 @2026-11-22], or Asturias births (1470–1897) or deaths [S62 @2026-11-22], [S63 @2026-11-22], [S64 @2026-11-22]. In births, look for the date and place and the parents. In deaths, log the place and the date precision supplied, then look for birth year, age at death, parents and spouse. Use the catalogue spans to pick an index, and check the municipality, record type and year in the underlying series. Open the Asturias register image when the result includes one. For a Córdoba index miss, browse the municipality and series in FamilySearch's broader *Spain, Córdoba, Municipal Records* collection [S57 @2026-11-22].
+
+**Use a historical wet-nurse advertisement to narrow a birth-register search.** If it gives the duration of nursing, count back from the issue date to estimate a birth window. Search the advertised locality and estimated month. Use the named contact to identify candidate families and prioritize entries naming a documented daughter of that contact as the mother. Keep the date window and family connection as leads until the records establish them [S69].
+
 ## 2. Find the diocese that held the parish on the event date
 
 **Privacy gate:** <!-- privacy-gate: request --> A letter to a diocesan archive with names, parish and date (the last step in this list) can concern people who may be living; answer the privacy gate in `SKILL.md` before you send it.
@@ -88,6 +94,20 @@ Inspect the margins of the marriage entry as well as its main text. The SSA’s 
 
 **Search MyHeritage's Spain, Barcelona Marriages, 1847-1904 index** for a Catholic marriage in Barcelona in that period [S50 @2026-11-20], [S51 @2026-11-20]. Search by the spouses' names and record the indexed date, place and parents' names when present [S51 @2026-11-20]. Treat a hit as a lead to the marriage book. If the search misses, check the parish and year in the Arxiu Diocesà de Barcelona's *Arxius Parroquials* catalogue before drawing a conclusion [S52 @2026-11-20].
 
+**At the Archivos Eclesiásticos de Mérida-Badajoz, choose the fonds by record creator.** The archive distinguishes the cathedral chapter, diocesan, deposited parish, Order of Alcántara and Order of Santiago fonds [S72 @2026-11-22], [S73 @2026-11-22]. Within the parish deposits, identify the *arciprestazgo* and then the individual parish [S74 @2026-11-22]. Look under *Registros sacramentales* for sacramental books and under *Varios* for material such as *libros de fábrica*, *libros becerro* and chaplaincies [S72 @2026-11-22]. Check the current deposit before ruling out the parish series, because transfers recur [S74 @2026-11-22], [S76 @2026-11-22].
+
+**Before an on-site lookup, check the archive's current address.** Its contact page lists C/ Obispo San Juan de Rivera, 13, Badajoz [S87 @2026-11-23].
+
+**For early Badajoz diocesan papers missing from the diocesan series, check the cathedral's *Fondo Capitular*.** Use it as a second route for papers from before separate diocesan filing took shape in the sixteenth century [S73 @2026-11-23], [S76 @2026-11-23]. For episcopal visitations, decrees or correspondence, look under *1.2.3. Episcopal* in the chapter's classification [S90 @2026-11-23].
+
+**If the historical district is uncertain, search the diocesan *Expedientes de demarcaciones y límites arciprestales*.** Find the file that added or removed the locality, read the effective date and use the district then in force to choose the parish series. The Mérida–Badajoz classification study identifies this series in the diocesan fonds [S70].
+
+**For a record from a military order's ecclesiastical jurisdiction, use its own inventory.** Search the Santiago inventory for the Priorato de San Marcos de León and its Mérida and Llerena provisoratos [S88 @2026-11-23], or the Alcántara inventory for the prioratos of Magacela and Zalamea [S89 @2026-11-23]. Use the dates printed for the series even when they extend past the nineteenth-century end of the order's jurisdiction [S76 @2026-11-23], [S89 @2026-11-23].
+
+**For a parish represented in the Order of Alcántara fonds, check that fonds as well as the ordinary parish inventory.** The Ibersid abstract describes the order's holdings [S77 @2026-11-22]. In the archive's classification, follow *2. Administración → 2.2. Parroquias → 2.2.1. Registros sacramentales* for baptism, communion, marriage, ordination and death files [S78 @2026-11-22].
+
+**When a Mérida–Badajoz marriage is the lead to a kinship question, read the marriage entry for affinity or consanguinity.** Record the impediment and its stated degree when present, then use those details to look for the dispensation with the Catholic parish and diocesan recovery recipe [S72].
+
 ## 3. Check survival and duplicates before calling a book lost
 
 - **Read the diocesan survival list for the parish before you request a book or call it lost.** Urgell, for example, publishes a per-parish spreadsheet with the first and last years of each surviving sacramental book [S6].
@@ -95,6 +115,12 @@ Inspect the margins of the marriage entry as well as its main text. The SSA’s 
 - **Record originals and duplicates as separate holdings,** with the rules in [Catholic parish and diocesan record recovery](catholic-parish-diocesan-record-recovery.md), step 3.
 
 **Check the diocesan inventory by parish and sacrament for Castilian events before 1550.** The claimed 1550 start for Castilian church records [S53] would miss the 1494 Nofuentes baptism entry documented by the Archdiocese of Burgos [S54].
+
+**For an Alburquerque death in 1833–1855, check both parish inventories.** The Archivos Eclesiásticos de Mérida-Badajoz lists San Mateo and Santa María separately [S75 @2026-11-22]. For Santa María del Mercado, use books 14 (1827–1841), 15 (1841–1851) and 16 (1851–1856). For San Mateo Apóstol, use books 15 (1832–1848), 16 (1848–1851) and 17 (1851–1856) [S72 @2026-11-22]. Check both adjoining books when the year appears in both spans.
+
+**For a gap in the Badajoz ecclesiastical holdings, distinguish an unlisted book, a documented loss and an unreadable survivor.** The archive history records losses after an early nineteenth-century assault and deterioration while protecting documents around the Civil War [S72], [S73]. Assign either cause to a particular book only if the inventory or a record of the damage identifies it.
+
+**For a missing Badajoz episcopal tribunal file, check the 22 December 1729 report in *Fondo Diocesano*, legajo 16, no. 400, fols. 38v–39v.** Test whether the file could have been among the papers affected by the 1705 explosion or, for lawsuits that went to the new archive, by damp after the move [S73], [S76]. Record these as possible losses unless a source identifies the file itself.
 
 ## 4. For Andorra, ask the holders and widen to the Catalan valleys
 
@@ -108,6 +134,12 @@ Inspect the margins of the marriage entry as well as its main text. The SSA’s 
 - **Find the address first for a padrón without a name index.** If the padrón is arranged by street or district with no name index, take the address from a directory, an electoral roll, a civil act or an obituary, then read the padrón. Never report someone "not in the padrón" on the strength of a name search the source cannot support.
 - **Use printed electoral rolls (censos electorales) between padrones and as address finders.** Read the column headings of the edition in hand before relying on any field. Expect women on the 1924 and 1928 rolls, none on those of 1923, 1930 and 1931, and women again from the 1932 renewal [S11]. Online examples: Palencia, 1890–1955, on the Diputación de Palencia website [S10]; Burgos (1890–1955) and Valladolid (1898) in the Biblioteca Digital de Castilla y León [S12]; Bizkaia (1895) in the Diputación Foral's Liburutegi Biltegi [S13].
 - **In Catalonia, use the provincial Treasury delegation fonds (Delegació d'Hisenda) for residence and property.** They are catalogued in Arxius en Línia. The Arxiu Històric de Girona, for example, holds the padrons and llistes cobratòries (yearly tax lists) of the urban property tax for almost every Girona municipality, 1909–1994, and the rural amillaraments (assessment books) of 1941–1958 [S14]. Expect to consult the volumes at the archive or ask by email; the catalogue is online, the volumes may not be [S14].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting a municipal census search sends the household members' names and any residence or year details entered to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting it.
+
+**Search MyHeritage's municipal census collections by province and year.** The catalogue lists Girona (1836–1950) [S65 @2026-11-22], [S68 @2026-11-22], Alicante (1846–1920) and Almería (1831–1898) [S66 @2026-11-22], [S68 @2026-11-22], and Huelva (1889–1920), Jaén (1857–1920), La Coruña (1871–1950), Lugo (1901–1920), Murcia (1889–1924), Segovia (1881–1920) and Valencia (1857–1935) [S67 @2026-11-22], [S68 @2026-11-22]. Open the household image to read the address, names, ages or birth years, and each stated relationship to the head. Record the relationship as unstated if the column is missing or blank. For a miss, check the municipality and year in the archive's padrón inventory.
+
+**Use ecclesiastical household lists alongside the municipal padrón.** At Mérida–Badajoz, look in the diocesan and parish fonds for *padrones parroquiales* and *registros de censos* [S70 @2026-11-22], [S71 @2026-11-22], [S74 @2026-11-22]. Browse by street and compare the same households across dated lists. Transcribe names, ages and stated relationships from the padrón. In the church census, record the age band, marital status and any occupation stated. Compare entries with the municipal list to test the household's parish affiliation [S76 @2026-11-22].
 
 ## 6. Search the Catastro de Ensenada only where it was taken
 
@@ -154,6 +186,16 @@ Inspect the margins of the marriage entry as well as its main text. The SSA’s 
 - **For Catalonia, use the Arxiu Nacional de Catalunya's open list.** It is a dataset of people tried by military courts sitting in Catalonia, April 1938 to December 1978, with case numbers and archive references; the original files come from the archive of the Third Territorial Military Court in Barcelona [S35]. Take the case number to the file's holder.
 - **For a teacher or other public employee, also search the purge files.** The Archivo General de la Administración (AGA) holds files on the purge (depuración) of officials and publishes purge-file series in PARES [S36]. Also try the PARES portal for Civil War victims and people repressed under Franco, which covers depuraciones and lists the AGA among its archives [S37].
 - **Run every surname lane in each repression source,** as set out in [Hispanic Catholic register recovery](hispanic-catholic-register-recovery.md), step 3.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting a commercial military-index search sends the subject's name and any service, court, place or date filters you enter to MyHeritage. A subject may be living and the query may reveal suspected repression. Answer the privacy gate in `SKILL.md` before submitting it.
+
+**Search MyHeritage's Catalonia Third Territorial Military Courts and Tribunals index** as a second name-search route for 1936–1970 [S66 @2026-11-22], [S79 @2026-11-22]. Use the birth and residence details to distinguish people, then record the procedure type and start date. Record sentence approval and penalty only when stated. Log requests for pardon separately. Check the Generalitat's *Procediments judicials militars* entry or the file for a grant or commutation [S80 @2026-11-22].
+
+**Search MyHeritage's First Territorial Military Courts and Tribunals index** for First Territorial Court cases from 1936. Record the trial year and place, the case number (*sumario*) and the archive storage reference when supplied [S67 @2026-11-22], [S81 @2026-11-22]. Check Defence's *Expedientes de justicia militar* nominal list for the archive locator. Use both references to request the complete proceeding from the holding archive and check the evidence, statements and any final decision in the file [S82 @2026-11-22].
+
+**Search MyHeritage's Disciplinary Labour Battalions, 1937–1942 index** for a name and capture both the registration and case numbers [S67 @2026-11-22], [S83 @2026-11-22]. Look up the corresponding personal file in the Archivo General Militar de Guadalajara's alphabetical BDST indexes [S84 @2026-11-22]. BDST expands to *Batallones Disciplinarios de Soldados Trabajadores*. Workers classified as politically disaffected and guards can appear in the same index. Establish the person's role from the file before attributing a political classification [S83 @2026-11-22], [S84 @2026-11-22].
+
+**Search MyHeritage's Republican Army Casualties, 1936–1939 index** for a Republican Army member. Record any listed occupation and copy the casualty type. Treat death, injury and disappearance as separate outcomes. Use a casualty hit as a lead to a death record only when the entry indicates death [S85 @2026-11-22], [S86 @2026-11-22].
 
 ## 11. Search the Spanish departure side for an emigrant
 

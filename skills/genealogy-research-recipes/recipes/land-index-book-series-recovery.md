@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 197}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 344}
 ---
 
 # Recipe: Recover land instruments through indexes, book series and entry files
@@ -61,6 +61,8 @@ historical holdings descriptions to select the relevant grant/entry series or co
 records; verify present custody and index/image date coverage separately. Leave an
 uncertain record class unresolved. [Historical demonstration](https://www.youtube.com/watch?v=0fFPtZb5TQw).
 
+If a surviving sale deed has no matching acquisition in the grantee index and the tract may have come from a government grant, search the granting authority's patent or grant index by name, then verify the tract against the deed, following the advice from the available excerpt of each presentation [S154 @2026-11-22], [S155 @2026-11-22]. Use the issuing colony or state's land office series for its grants [S156 @2026-11-22]. For federal public-domain land, start with General Land Office patents and follow section 5 for entries that did not reach patent [S157 @2026-11-22].
+
 For a miner or a mining-claim lead, start with the county recorder's mining-claim records for the
 place the ancestor mined, then their filmed or archived copies, rather than relying on federal
 land-patent searches [S46]. Carry each claim's location into maps and land records, and read any
@@ -100,6 +102,8 @@ actually present. Keep a missing field or an unavailable translation unresolved 
 
 When column 8 of the 1850, 1860 or 1870 U.S. population schedule gives a real-estate value, use the presenter's advice from the available excerpt and search for deeds under that person's name [S115]. The column could include property outside the enumeration locality [S116], [S117], [S118]. Search both deed-index directions in the census locality if it fits the other evidence, and follow tax rolls, probate files or deed references to other supported jurisdictions. Keep the parcel unresolved until a record locates it.
 
+If the census places the household in the locality but the ancestor's deed is missing, use nearby census households as leads, following the presenter's advice from the available excerpt [S155]. Search their deeds for adjoining owners or descriptions that locate a candidate tract [S158]. For the 1850 U.S. census, dwelling numbers follow visitation order [S159]. Verify actual adjacency from land records before using the neighborhood to narrow the deed search.
+
 ### Tax rolls used for a land lead
 
 Use the [tax roll observation](tax-roll-observation-workflow.md) workflow for the annual series
@@ -112,6 +116,10 @@ Inventory the volumes and tax classes for each year, including any separately de
 If the taxpayer is missing, check whether the roll uses the payer’s or estate administrator’s surname. In a reported 1849 Arkansas search, John Cline was filed under W for his administrator Wiseman [S15]. Record both names and their stated roles, the sections searched and any parcel reference. Seek independent records for a death date, sale or family relationship.
 
 ### Colony, state and province routes
+
+**Arkansas state dispositions.** Search the Arkansas State Archives' State Land Records by applicant when the tract points to a state donation, swamp-land grant or forfeiture [S163 @2026-11-22]. Carry the applicant, document type, issue date and tract from a lead in MyHeritage's *Arkansas, State Land Registries* into the archive search [S162 @2026-11-22]. Look for the application, patent, proof, forfeited deed or relinquishment separately, and keep the action each document records distinct [S163 @2026-11-22].
+
+**Indiana land-office purchases.** Start with the Indiana Archives' *Indiana Public Lands* index and use the purchaser and tract to find the underlying tract-book or register-of-receipts entry [S165 @2026-11-22]. If starting with a *Land Office Purchases* result from MyHeritage, preserve the stated residence and date as separate fields from the purchased tract [S164 @2026-11-22].
 
 **Connecticut conveyances.** Search the town where the tract lay when the deed was recorded, following the town-level route from the available excerpt [S119 @2026-11-20]. Use that town's deed indexes and books. The town holds the original land records, and the FamilySearch Catalog lists filmed copies by town [S120 @2026-11-20]. A county-only search leaves the town's series unsearched.
 
@@ -223,6 +231,14 @@ result, verified document extent and any conflict between the supplied and retri
 
 **Highland County, Virginia.** Follow the presenter's advice from the available excerpt to find both the general deed indexes and the deed books [S121 @2026-11-20]. Look up FamilySearch Catalog entry 533216 for deed books dated 1847–1885 and general deed indexes dated 1847–1981 [S122 @2026-11-20]. In your own account, open the access notice for the index film and the deed film separately. Use a FamilySearch center or affiliate library if the notice allows that location [S123 @2026-11-20]. Affiliate libraries have access to only some restricted films [S124 @2026-11-20]. If the needed film is inaccessible or the index points beyond the listed deed-book years, match the index or book to a reel in the Library of Virginia's Highland County microfilm inventory [S125 @2026-11-20].
 
+**Casey County, Kentucky.** Search party names in both index directions and carry the recording date, tract description and book/page into the deed lookup [S166 @2026-11-22]. For historical deeds, check your eligibility and date coverage in the clerk's CCLIX route before using it [S167 @2026-11-22]. If the online route does not cover the search, use the Casey County deed books listed by the Kentucky Department for Libraries and Archives [S168 @2026-11-22].
+
+**Richmond County, Virginia.** Use the *1714–1715* abstracts identified from the available excerpt as a locator for entries from Deed Book 6 [S169 @2026-11-22]. The publisher describes the volume's deed extracts as pages 194–274 through 1 September 1714 [S170 @2026-11-22]. Use reel 2 for Book 6 and check Book 7 on reel 3 for later recordings, including 1715 [S171 @2026-11-22].
+
+**Richmond City, Virginia.** Use the *1790–1794* Hustings Court abstracts identified from the available excerpt and listed in the local bibliography [S172 @2026-11-22], [S173 @2026-11-22]. Carry the recorded book and page to the city's Hustings Deeds series at the Library of Virginia. For 1792, consult both No. 1 on reel 1 and No. 2 on reel 2 if the abstract gives no definite book reference [S174 @2026-11-22].
+
+**Westmoreland County, Virginia.** Use Michael R. Marshall's abstracts identified from the available excerpt [S175 @2026-11-22]. Select the volume for Deed Book 12 part 3 and Book 13 [S176 @2026-11-22], Book 14 [S177 @2026-11-22] or Book 15 [S178 @2026-11-22]. Carry the book and page of the underlying entry into the Library of Virginia's Deeds & Wills series. The inventory lists all of Book 12 on reel 11, Books 13 and 14 on reel 12, and Book 15 on reel 13 [S179 @2026-11-22].
+
 Search the recorder’s miscellaneous books by family name. In Hamilton County, Ohio, miscellaneous instruments went into deed books until 1859 and then into Miscellaneous Books, with powers of attorney and partnerships among the types given separate books. The county guide lists decrees, marriage certificates, name changes, depositions, dower, wills and patents, and places Army discharges to 1865 in Miscellaneous Book 1 [S83]. An out-of-state divorce decree or medical licence may also have been recorded locally [S84]. Check the book’s own index and the county’s coverage dates.
 
 After you find a deed, read the deeds recorded the same day and several pages before and after it, for other transactions by the same people or for nearby land [S85]. Deeds that one grantor brought in together can be recorded one after another, and Genealogy Tip of the Day warns that some of them may not have been indexed [S86].
@@ -230,6 +246,8 @@ After you find a deed, read the deeds recorded the same day and several pages be
 If a source identifies a loose or unrecorded deed, record its parties, date and parcel clues. Check the custodian’s finding aid for loose papers separately from the recorded books [S25]. Record which item was requested and which was retrieved. Leave the reason for nonrecording open.
 
 When other records show a transaction for which no deed was recorded, look for collections of unrecorded deeds: published compilations and manuscript collections at historical societies [S87 @2026-11-14], and county archives. The Lancaster County, Pennsylvania, Archives Division keeps a grantor and grantee index of unrecorded deeds; it explains that the hardship of reaching the courthouse left some deeds never recorded and others recorded more than a century after they were drawn up [S88 @2026-11-14]. Some deeds in that collection were recorded later, so check the regular deed index for each hit too [S88 @2026-11-14].
+
+**Loudoun County, Virginia.** If the regular deed books miss a supported transfer, check for a separate series, following the advice from the available excerpt [S155 @2026-11-22]. Search Loudoun's *Partially Proven Wills and Deeds Index*, which includes documents never entered in the regular court records [S160 @2026-11-22]. Check *Deeds Partly Proved* on Library of Virginia reel 161 [S161 @2026-11-22].
 
 When a record-loss report covers the period, do not treat it as absence. Ask the custodian, or
 check the holdings description, whether deeds were re-recorded from returned originals, and
@@ -244,6 +262,32 @@ came back, or that a plant survives, covers the period, is accessible or reaches
 original grant. [S5, S6]
 
 Before accepting that "the courthouse burned", find out what was lost: some courthouses lost all their records and others only some, so establish the record types and years destroyed, office by office [S89], [S90], [S91]. Ask the county genealogical society, the public library and the courthouse; search the state archives and state library, which may hold copies of county records, and the National Archives for federal records about the same people [S89], [S90]. Then look for the records made to replace the lost ones. Texas acts of 1874 and 1876 required the re-registration of original deeds whose records had been destroyed [S92]. A North Carolina private act of 1873 provided for restoring Watauga County's burned records, and an owner could instead prove a burned deed in court by their own affidavit and other secondary evidence [S93]. Search the later recording books, the court records of such proofs, and any affidavits or depositions about ownership [S90], [S93]. Record each as a later statement about the earlier instrument, as for a re-recorded deed above.
+
+### Danish property registers: follow the parcel and the earlier folio
+
+For a known historical property, open **Fast ejendom** on [Tinglysning.dk](https://www.tinglysning.dk/) and use its supplied historical address or *ejerlav* and *matrikelnummer* [S142 @2026-11-22], [S180 @2026-11-22]. For pre-digital deed and encumbrance copies, look for the scanned *akt* under **Øvrige oplysninger** [S180 @2026-11-22]. For an older deed or cancelled right, look in the historical *tingbøger* [S144 @2026-11-22]. The digital register shows some historical title entries, and the scanned file can retain some cancelled documents. Other cancelled rights were withdrawn before scanning [S144 @2026-11-22], [S145 @2026-11-22].
+
+In Rigsarkivet's Arkivalieronline, open **Ejendomme → Digitaliserede tingbøger** for 1927–2000. Choose the property's judicial district, then its cadastral district and parcel number [S142 @2026-11-22], [S143 @2026-11-22], [S146 @2026-11-22]. If the leaf is a replacement and the entry predates it, look for the earlier leaf in *omskrevne tingbogsblade*. Look separately under *skøde servitut* for historical deed or easement copies [S143 @2026-11-22]. Use the archive's separate regional guide for South Jutland [S143 @2026-11-22].
+
+Read the opening entries in a *realregister* or *tingbog* as the registrations carried forward at that volume's opening. Read later additions, corrections and cancellations in sequence. If a *tingbog* gives a *gammel folio*, copy it and open that folio in the older *realregister* for the same parcel [S142].
+
+For an earlier parcel search, open **Ejendomme → Realregistre, skøde- og panteprotokoller** in Arkivalieronline [S142 @2026-11-22], [S147 @2026-11-22]. Select the historical authority for the place. For 1805–1919, identify the relevant *herredsfoged*, *birkedommer* or *byfoged*. From 1919 to 1927, identify the judicial district and check which predecessor series it continued for the parcel [S143 @2026-11-22]. Within the authority, use the parish and *ejerlav* to locate the *matrikelnummer* in the *realregister*. If the parcel number is absent there, check a separate *matrikelregister* for the volume and page [S142 @2026-11-22], [S143 @2026-11-22].
+
+Carry a register's volume and page or registration date into the *skøde- og panteprotokol* for its period. For the seller's prior title, read the later deed's recital. Use any prior registration date to search the chronological protocol, and retain the earlier instrument date separately when given. If the registration date is missing but a party name is known, search the authority's *navneregister* where available and follow it into the *realregister* or directly into the protocol [S142], [S143].
+
+If the party's name in the deed index is uncertain, find the historical property in *Historiske Kort*. Read any named cadastral map and look up the parish protocol (*sogneprotokol*) and *hartkornsekstrakt* by parish or *herred*. Compare the names written there with the church-book name, then search each supported form in the *navneregister* [S142 @2026-11-22], [S148 @2026-11-22], [S149 @2026-11-22].
+
+For a historical transfer, read nearby protocol folios for separately entered mortgages, declarations, parcel sales or probate extracts. Follow the *realregister's* separate references as well, including entries for leases, marital or lifetime-support agreements and any other indexed document. In the Ulfborg example the *realregister* points to a baptismal certificate at volume 45, page 115 [S142].
+
+If a register or protocol marks an entry *udslettet*, record the cancellation against the specific registration and copy its date. Follow any separate volume and page to the cancellation entry [S142].
+
+### Turku plot cards: follow the historical source reference
+
+For a known nineteenth-century Turku plot, look up its historical plot number in the topographic section of Dahlström's card index in the National Archives of Finland's Astia service [S151 @2026-11-22]. Follow the plot-number approach from the available excerpt [S150 @2026-11-22]. Keep the stated share, transaction and source citation for each card so a sale of part of a share does not become a sale of the whole plot.
+
+If the cards leave the seller's acquisition unexplained, keep it open. Follow the card's reference into the full *kiinnekirja* (historical title certificate) or the cited court proceedings, following the author's suggestion from the available excerpt [S150]. Read any prior title recital as a lead [S152].
+
+Match the card's record creator and date to the correct holdings. The City of Turku archives hold historical magistrate and town court records [S151 @2026-11-22], [S153 @2026-11-22]. The National Archives of Finland's *Lainhuudot* guide gives separate routes into court series that contain *kiinnekirjat* [S152 @2026-11-22].
 
 ### Swedish property books: follow rooms and changed parcel identifiers
 
@@ -514,6 +558,8 @@ local transfer records decide [S55].
 Do not fill an absent date from an index column whose meaning remains unknown.
 
 Sort sales by instrument date and record the filing date separately. Deeds entered the books as delivered to the recorder [S94], [S95]. If an instrument is missing near its date, search again around a resale, estate settlement, court case, child coming of age or surviving parent’s remarriage [S85], [S94], [S95]. For a power of attorney, also check the date the resulting deed was filed. A relinquishment could surface when the land became the subject of litigation in another state [S96].
+
+When several deeds concern the same landowner and the expected instrument is missing, use an acquisitions-and-disposals table, following the presenter's advice from the available excerpt [S155]. Match rows by legal description first [S158]. For each side record acreage or fractional interest, date, other party, means of transfer and locator. Use an unmatched tract or share to target the next search. Check splits and conflicting descriptions before treating an acreage imbalance as evidence of a missing transfer.
 
 Check how, where and when a deed had to be acknowledged. When acknowledgment took place in open court, the grantor had to wait for a session [S97]. In Burke County, North Carolina, the January 1807 minutes preserve an acknowledgment of a July 1805 deed even though the deed books were destroyed [S98]. Search the later sessions before interpreting a delay as absence or dispute.
 
