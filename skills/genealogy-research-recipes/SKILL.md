@@ -683,7 +683,7 @@ shared with others. Refer to them by role, for example "a witness".
 
 ## Version and updates
 
-This copy is version 2.2.0, released 2026-11-22.
+This copy is version 3.0.0, released 2026-11-26.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
