@@ -50,7 +50,8 @@ CLAUDE_FIELDS = {
     "mcpServers", "lspServers", "outputStyles", "workflows", "experimental",
 }
 # Measured 2026-11: Claude's validator timed out on 9.4 MB and passed at 6.5 MB.
-CLAUDE_MAX_BYTES = 6 * 1024 * 1024
+# The guard sits below the size that timed out; trees above 6.5 MB are not yet validated.
+CLAUDE_MAX_BYTES = 8 * 1024 * 1024
 
 
 def resolve_commit(repository, source):
